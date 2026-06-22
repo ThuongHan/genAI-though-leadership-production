@@ -25,7 +25,7 @@ ROOT = Path(__file__).parent
 os.chdir(str(ROOT))          # ensure relative paths in submodules resolve from backend/
 sys.path.insert(0, str(ROOT))
 
-# Pre-load interpreter .env so pipeline.py finds UVA_API_TOKEN at import time
+# Pre-load secrets so all submodules (Interpreter, Generator, etc.) find keys at import time
 load_dotenv(ROOT / "secrets" / ".env", override=True)
 
 SCANNER_DIR = ROOT / "Scanner"
