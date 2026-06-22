@@ -131,7 +131,7 @@ from openai import OpenAI
 
 from extractors.base_extractor import BaseExtractor
 
-load_dotenv()
+load_dotenv(Path(__file__).resolve().parent.parent.parent / "secrets" / ".env")
 
 # ── CLIENT ────────────────────────────────────────────────────────────────────
 

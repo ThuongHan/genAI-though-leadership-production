@@ -19,10 +19,10 @@ from openai import OpenAI
 # ╚══════════════════════════════════════════════════════════════╝
 
 def _get_client() -> OpenAI:
-    token = os.getenv("UVA_API_TOKEN")
-    if not token:
-        raise RuntimeError("UVA_API_TOKEN not set")
-    return OpenAI(api_key=token, base_url="https://llmproxy.uva.nl/v1/")
+    api_key = os.getenv("OPENAI_API_KEY")
+    if not api_key:
+        raise RuntimeError("OPENAI_API_KEY not set")
+    return OpenAI(api_key=api_key)
 
 
 # ╔══════════════════════════════════════════════════════════════╗

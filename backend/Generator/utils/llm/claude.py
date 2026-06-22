@@ -9,7 +9,7 @@ from pydantic import SecretStr
 class ClaudeLLM(BaseLLM):
 
     def __init__(self, model: str = "claude-sonnet-4-6"):
-        load_dotenv("Generator/secrets/claude_api_key.env", override=True)
+        load_dotenv("secrets/.env")
 
         api_key = os.getenv("ANTHROPIC_API_KEY")
         if not api_key:

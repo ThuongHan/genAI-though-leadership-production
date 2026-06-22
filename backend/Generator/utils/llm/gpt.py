@@ -10,7 +10,7 @@ from Generator.utils.llm.base import BaseLLM
 class GPTLLM(BaseLLM):
 
     def __init__(self, model: str = "gpt-5.1"):
-        load_dotenv("Generator/secrets/uva_api_key.env", override=True)
+        load_dotenv("secrets/.env")
 
         api_key = os.getenv("OPENAI_API_KEY")
         if not api_key:

@@ -28,7 +28,7 @@ import os
 try:
     from pathlib import Path as _Path
     from dotenv import load_dotenv
-    load_dotenv(_Path(__file__).resolve().parent / ".env")
+    load_dotenv(_Path(__file__).resolve().parent.parent.parent / "secrets" / ".env")
 except ImportError:
     pass
 

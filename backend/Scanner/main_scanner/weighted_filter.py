@@ -47,7 +47,7 @@ from typing import Any
 # Auto-load API keys from main_scanner/.env (sibling of this file).
 try:
     from dotenv import load_dotenv
-    load_dotenv(Path(__file__).resolve().parent / ".env")
+    load_dotenv(Path(__file__).resolve().parent.parent.parent / "secrets" / ".env")
 except ImportError:
     pass
 

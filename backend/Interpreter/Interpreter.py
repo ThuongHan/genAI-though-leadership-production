@@ -74,10 +74,10 @@ class RAGResult:
 # ═══════════════════════════════════════════════════════════
 
 def create_client() -> OpenAI:
-    token = os.getenv("UVA_API_TOKEN")
-    if not token:
-        raise RuntimeError("UVA_API_TOKEN not set. Run: $env:UVA_API_TOKEN='your-key'")
-    return OpenAI(api_key=token, base_url="https://llmproxy.uva.nl/v1/")
+    api_key = os.getenv("OPENAI_API_KEY")
+    if not api_key:
+        raise RuntimeError("OPENAI_API_KEY not set")
+    return OpenAI(api_key=api_key)
 
 client = create_client()
 
@@ -189,8 +189,7 @@ class EmbeddingRetriever(BaseRetriever):
     @property
     def emb_client(self):
         if self._client is None:
-            token = os.getenv("UVA_API_TOKEN")
-            self._client = OpenAI(api_key=token, base_url="https://llmproxy.uva.nl/v1/")
+            self._client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
         return self._client
 
     def _embed(self, texts):
