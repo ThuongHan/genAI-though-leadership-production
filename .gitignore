@@ -1,0 +1,6 @@
+# env files
+Generator/secrets
+.env
+
+# virtual env files
+venv
