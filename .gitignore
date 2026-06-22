@@ -1,6 +1,71 @@
-# env files
-Generator/secrets
-.env
+# ── API keys & secrets ──────────────────────────────────────────
+# Global secrets folder (created to centralise all keys)
+backend/secrets/
 
-# virtual env files
-venv
+# Legacy per-component secret locations (kept until migration is done)
+backend/Generator/secrets/
+backend/Interpreter/.env
+backend/Scanner/main_scanner/.env
+
+# Any stray .env files anywhere in the tree
+.env
+.env.local
+.env.*.local
+**/*.env
+
+# ── Python ──────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# ── Virtual environment ─────────────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ── Logs ────────────────────────────────────────────────────────
+logs/
+*.log
+
+# ── Scanner data (large scraped article dumps) ──────────────────
+backend/Scanner/data/scans/
+backend/Scanner/data/filter/
+
+# ── Frontend (Svelte / Vite / Node) ─────────────────────────────
+frontend/node_modules/
+frontend/dist/
+frontend/.svelte-kit/
+frontend/.vite/
+frontend/.env*
+
+# ── IDE & editor ────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# ── OS noise ────────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+
+# ── Misc ────────────────────────────────────────────────────────
+*.bak
+*.tmp
