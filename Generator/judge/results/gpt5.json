@@ -1,0 +1,153 @@
+[
+  {
+    "post_idx": 1,
+    "angle": "AI adoption as an organizational transformation challenge",
+    "content": "AI adoption succeeds when organizations treat it as transformation, not as a side project in the lab.\n\nAt our recent KickstartAI community session, ING COO Risk Leon Dusée shared how large organizations can move from AI pilots to real, scaled impact. His message was clear: organizations reach value when they redesign how they work, lead, and learn.\n\n🏁 Start with ownership\nMany pilots stall because nobody owns the path to scale. Clear accountability and a product mindset give promising use cases a real future.\n\n🎯 Focus on fewer, bigger bets\nOrganizations gain momentum when they commit to a limited number of high-impact AI use cases, instead of spreading energy across many experiments.\n\n🧠 Invest in people\nCritical thinking, adaptability, and data literacy are core skills for employees and leaders. AI systems only deliver value when teams understand, challenge, and improve them.\n\n🏗️ Redesign end-to-end processes\nThe biggest gains come when organizations rethink entire processes, not just automate single tasks. That is where AI changes customer journeys and risk decisions at scale.\n\nAt KickstartAI, we bring Dutch organizations together to share these lessons across banking, aviation, retail, education, and healthcare. The Netherlands moves faster when we learn in the open.\n\n🔗 Watch the talk by Leon Dusée: https://lnkd.in/eU8jqvT9\n\n#AIadoption #DigitalTransformation #Netherlands #KickstartAI #ResponsibleAI",
+    "evaluation": {
+      "dimensions": [
+        {
+          "name": "tone_of_voice",
+          "justification": "The post is knowledgeable and grounded in a community moment: \"At our recent KickstartAI community session, ING COO Risk Leon Dusée shared...\" It’s purpose-driven and collaborative: \"At KickstartAI, we bring Dutch organizations together... The Netherlands moves faster when we learn in the open.\" The voice is clear, upbeat, and humble by attributing insights to Leon rather than claiming them as KickstartAI’s.",
+          "score": 5
+        },
+        {
+          "name": "language_and_style",
+          "justification": "American English is used (\"organizations\"); sentences are active and concise; paragraphs are short; the Oxford comma appears (\"work, lead, and learn\"); there are no em dashes or bold text; capitalization is correct; and the length is within ~150–250 words. No violations found.",
+          "score": 5
+        },
+        {
+          "name": "coherence_readability",
+          "justification": "The post opens with a clear thesis, then provides context (the community session), followed by four well-structured takeaway sections with headers and supporting lines, and concludes with a community-oriented statement and a CTA link. The ideas connect smoothly without jumps.",
+          "score": 5
+        },
+        {
+          "name": "discourse_structure",
+          "justification": "There are multiple contrastive constructions, a from–to formulation, and a sentence opening with a vague \"That.\" These patterns make several claims indirectly rather than as direct affirmative statements.",
+          "score": 1,
+          "violations": [
+            {
+              "type": "contrastive",
+              "quote": "AI adoption succeeds when organizations treat it as transformation, not as a side project in the lab."
+            },
+            {
+              "type": "from_to",
+              "quote": "…shared how large organizations can move from AI pilots to real, scaled impact."
+            },
+            {
+              "type": "contrastive",
+              "quote": "The biggest gains come when organizations rethink entire processes, not just automate single tasks."
+            },
+            {
+              "type": "vague_reference",
+              "quote": "That is where AI changes customer journeys and risk decisions at scale."
+            }
+          ]
+        },
+        {
+          "name": "specificity",
+          "justification": "The post anchors insights in a specific event and speaker: \"KickstartAI community session\" and \"ING COO Risk Leon Dusée,\" and names Dutch sectors (\"banking, aviation, retail, education, and healthcare\"). However, the four takeaways remain relatively general without concrete examples or metrics.",
+          "score": 4
+        },
+        {
+          "name": "historical_similarity",
+          "justification": "It mirrors the historical template: a high-level opener, reference to a partner and leader, distilled lessons in a bulleted/sectioned format, a clear CTA with a link, and relevant hashtags. Tone and structure align closely with the references while introducing new content.",
+          "score": 5
+        }
+      ]
+    }
+  },
+  {
+    "post_idx": 2,
+    "angle": "From pilots to impact: focusing AI on societal value",
+    "content": "Many organizations can run an AI pilot. Far fewer can turn AI into better financial health, education, or healthcare.\n\nDuring a KickstartAI session, ING COO Risk Leon Dusée shared why so many pilots stall and how leaders can change that.\n\nLeaders who unlock AI impact tend to do three things:\n\n🚀 Tie AI to real outcomes\nSuccessful AI initiatives connect directly to business and societal goals, such as financial resilience for customers or safer operations in aviation.\n\n📌 Protect capacity for scaling\nTeams reserve time and budget to harden, integrate, and govern promising pilots. The scaling work is planned from day one, not added at the end.\n\n🤝 Build cross-organizational collaboration\nOrganizations move faster when they share patterns, failures, and reusable building blocks across sectors. The Dutch ecosystem gains when banks, hospitals, schools, and retailers learn together.\n\nAt KickstartAI, we help organizations focus their AI efforts on a small number of high-impact use cases, and we connect leaders who want AI to deliver more than just productivity gains.\n\nAI adoption in the Netherlands reaches the next level when impact on society becomes the guiding metric.\n\n🔗 Full session with Leon Dusée: https://lnkd.in/eU8jqvT9\n\n#AIforGood #SocietalImpact #AIadoption #KickstartAI #Netherlands",
+    "evaluation": {
+      "dimensions": [
+        {
+          "name": "tone_of_voice",
+          "justification": "The post is knowledgeable and purpose-driven, grounding advice in a KickstartAI session with \"ING COO Risk Leon Dusée\" and focusing on societal outcomes. It feels approachable and community-centric with lines like \"The Dutch ecosystem gains when banks, hospitals, schools, and retailers learn together.\" Slightly hype-adjacent phrasing like \"reaches the next level\" is present but not dominant.",
+          "score": 4
+        },
+        {
+          "name": "language_and_style",
+          "justification": "American English is used consistently (\"organizations,\" \"healthcare\"); sentences and paragraphs are short; no em dashes; correct capitalization; Oxford comma appears (\"banks, hospitals, schools, and retailers\"); length ~190 words is within 150–250; no bold text. One clear violation of active voice: \"The scaling work is planned from day one, not added at the end.\" (passive).",
+          "score": 4
+        },
+        {
+          "name": "coherence_readability",
+          "justification": "The post flows logically: problem framing, a credible source (Dusée), three clearly labeled practices with explanatory lines, then KickstartAI’s role, a societal-impact takeaway, and a link. Transitions are smooth and there are no abrupt jumps.",
+          "score": 5
+        },
+        {
+          "name": "discourse_structure",
+          "justification": "Nearly all claims are direct and affirmative. There is one contrastive construction that frames by negation.",
+          "score": 4,
+          "violations": [
+            {
+              "type": "contrastive",
+              "quote": "The scaling work is planned from day one, not added at the end."
+            }
+          ]
+        },
+        {
+          "name": "specificity",
+          "justification": "The content is grounded in KickstartAI activity and the Dutch context, naming \"ING COO Risk Leon Dusée,\" referencing a specific session, and citing concrete domains (\"financial resilience for customers,\" \"safer operations in aviation,\" \"banks, hospitals, schools, and retailers\"). The link to the session adds specificity.",
+          "score": 5
+        },
+        {
+          "name": "historical_similarity",
+          "justification": "The structure mirrors the historical template: broad challenge, credible leader insight, bullet-point lessons with emojis, community/societal angle, and a link/hashtags. Tone and style align closely without copying prior post wording or claims.",
+          "score": 5
+        }
+      ]
+    }
+  },
+  {
+    "post_idx": 3,
+    "angle": "Leaders and teams as the real AI scaling engine",
+    "content": "AI technology keeps getting better. AI adoption still depends on people.\n\nIn our session with ING COO Risk Leon Dusée, one theme kept coming back: organizations scale AI when leaders and teams grow with the technology.\n\n👩‍💼 Leadership sets the pace\nLeaders who treat AI as a core capability make clear choices on focus, governance, and risk. They encourage experimentation while still setting firm boundaries.\n\n🧩 Teams own the change\nMultidisciplinary teams that include domain experts, data scientists, engineers, and risk specialists bridge the gap between models and real operations.\n\n🧠 Skills go beyond coding\nCritical thinking, understanding uncertainty, and working with data-driven decisions are just as important as model-building skills.\n\nWhen organizations redesign processes around these capabilities, AI starts to reshape entire workflows, not only optimize individual tasks. That is where real value emerges for customers and for society.\n\nKickstartAI exists to support this shift in the Dutch ecosystem. We create spaces where practitioners share how they handle ownership, education, and collaboration, so that every new use case scales faster and safer than the last.\n\n🔗 Learn from Leon Dusée's experience: https://lnkd.in/eU8jqvT9\n\n#Leadership #AIinPractice #AIadoption #KickstartAI #Netherlands",
+    "evaluation": {
+      "dimensions": [
+        {
+          "name": "tone_of_voice",
+          "justification": "The post is knowledgeable and human, grounded in a session with “ING COO Risk Leon Dusée.” It is purpose-driven and community-centric: “We create spaces where practitioners share how they handle ownership, education, and collaboration,” and it highlights impact “for customers and for society.” The tone is clear, humble, and upbeat without hype.",
+          "score": 5
+        },
+        {
+          "name": "language_and_style",
+          "justification": "It uses American English, active voice, and short sentences/paragraphs. It includes the Oxford comma (“focus, governance, and risk”), avoids em dashes, uses correct capitalization, and stays within 150–250 words (~200). There are no quotation marks needed and none are used, and there is no bold text.",
+          "score": 5
+        },
+        {
+          "name": "coherence_readability",
+          "justification": "The ideas flow logically: a broad premise, a named session and theme, three clear sub-points (leadership, teams, skills), the consequence for workflows, then KickstartAI’s role and a call to action. Headings and concise sentences support readability without abrupt jumps.",
+          "score": 5
+        },
+        {
+          "name": "discourse_structure",
+          "justification": "There are a couple of negated-style constructions. One uses a contrastive form, and another starts with a vague referent.",
+          "score": 3,
+          "violations": [
+            {
+              "type": "contrastive",
+              "quote": "AI starts to reshape entire workflows, not only optimize individual tasks."
+            },
+            {
+              "type": "vague_reference",
+              "quote": "That is where real value emerges for customers and for society."
+            }
+          ]
+        },
+        {
+          "name": "specificity",
+          "justification": "It cites a concrete session with “ING COO Risk Leon Dusée,” specifies team roles (“domain experts, data scientists, engineers, and risk specialists”), and anchors KickstartAI’s mission in “the Dutch ecosystem.” It links to the interview for further detail.",
+          "score": 5
+        },
+        {
+          "name": "historical_similarity",
+          "justification": "It mirrors the historical template: broad setup, named executive and partner, concise lessons formatted with emoji headers, societal angle, organizational learning, and a link with hashtags. The tone and structure closely match prior posts while covering new content.",
+          "score": 5
+        }
+      ]
+    }
+  }
+]

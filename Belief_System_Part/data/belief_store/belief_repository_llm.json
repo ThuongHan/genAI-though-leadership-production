@@ -1,0 +1,1250 @@
+[
+  {
+    "id": "LLM-B001",
+    "belief": "People who are shaping the future of AI in the Netherlands should be celebrated, including their work, challenges, and lessons learned.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "we celebrate the people shaping the future of AI in the Netherlands: their work, their challenges, and the lessons they’re learning along the way",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B002",
+    "belief": "For an early-stage company, the biggest challenge is finding the right product–market fit.",
+    "category": "domain_knowledge",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "“The biggest challenge for a company in our stage is finding the right product-market fit,”",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B003",
+    "belief": "A startup cannot remain indefinitely between sales-led and product-led growth motions because this defocuses a small company; early-stage startups must eventually commit to a clear go-to-market model rather than sustaining a hybrid approach for long.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "“We can’t maintain this position for a long time, because it defocuses a small company like us.”",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B004",
+    "belief": "Prospective founders should avoid romanticising startups, be sure they really want it, seek advice from experienced founders, and then decisively commit rather than staying on the fence; they should treat competition as background noise and prioritise focused perseverance over constant competitive monitoring.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "source_quote": "“Make sure you actually want it and talk to people who have done it before or are doing it now.”",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B005",
+    "belief": "Creating a strong operational foundation is essential to enabling technical teams to focus on high-impact coding and problem-solving; non-technical operational work is valued primarily insofar as it enables this focus.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "source_quote": "a passion for creating strong foundations, Aneela plays a crucial role in empowering KickstartAI’s technical team so they can focus on impact.",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B006",
+    "belief": "Communities and well-designed events that bring people together can significantly boost the AI ecosystem by enabling knowledge exchange, collaboration, a sense of belonging, and collective growth.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B007",
+    "belief": "KickstartAI values an open, transparent, fun, and socially warm culture where people can be themselves, come from diverse backgrounds, and are passionate about tech and AI; careful hiring for interpersonal fit and complementarity is seen as key to a thriving team.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "secondary",
+    "confidence": "high",
+    "source_quote": "making sure we hire the right people who get along and complement each other.",
+    "inference_reasoning": "The text links team thriving and culture to hiring people who get along and complement each other, implying an underlying belief that selecting for relational and complementary qualities is a primary lever for building an effective AI team.",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B008",
+    "belief": "KickstartAI believes that meaningful progress in AI starts with individuals—engineers, researchers, founders, and practitioners—who apply AI in bold, practical ways, and assumes such individuals are the primary drivers of AI progress.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "we believe that meaningful progress starts with individuals — engineers, researchers, founders, and practitioners — who are applying AI in bold, practical ways.",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B009",
+    "belief": "Computers using vision AI should adapt to the human world and existing environments rather than requiring humans or cities to adjust to computers or technology.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B010",
+    "belief": "Pushing the boundaries of what is possible with AI is an important personal and organisational motivation, but innovation is considered insufficient unless it leads to practical adoption and real-world use.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "source_quote": "“I wanted to understand how it works, build my own models, and push the boundaries of what’s possible.”",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B011",
+    "belief": "Traffic analysis and mobility systems should provide a complete picture of all road users while preserving individual privacy and complying with regulations like GDPR to increase public and customer trust.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B012",
+    "belief": "AI-based vision sensors should be used to obtain human-level information for smarter, optimised traffic management in multimodal environments.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "source_quote": "“Vision AI can,” he emphasizes.",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B013",
+    "belief": "Cities and municipalities using AI-based traffic systems need to be actively involved and informed about processes and privacy safeguards to build trust; technical privacy measures alone are insufficient.",
+    "category": "stance",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "“But we also need to involve the cities or municipalities we’re working with in our processes, so they understand our privacy safeguards.”",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B014",
+    "belief": "Defenders of digital systems must constantly monitor, test, and improve their security measures; AI security is an important goal that developers, owners, and users of models need to acknowledge.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "“We, as defenders, constantly need to monitor, test, and improve.”",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B015",
+    "belief": "Machine learning was designed primarily for accuracy rather than for safety and security, so implementing safety by design requires accepting tradeoffs in accuracy, resources, and human expertise.",
+    "category": "domain_knowledge",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "“Machine learning was never designed a priori to be safe and secure. It was designed to be accurate,”",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B016",
+    "belief": "Safety and security should be high priorities when deploying AI systems, especially in security contexts, and responsible use is constrained more by human choices, governance, and intent than by the technology itself.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "“Everyone wants to deploy AI — but safety and security still aren’t high on the list of priorities.”",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B017",
+    "belief": "Manukai’s goal is to provide fully automated, real-time threat prediction and direct safety advice to users without human analysts in the loop, while positioning its system as decision-support that augments rather than replaces human judgment.",
+    "category": "mission",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "The goal is full automation, providing users with direct advice — from postponing a trip to navigating to a safe area — without human analysts in the loop.",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B018",
+    "belief": "In highly regulated domains like banking, explainability and compliance constraints are more important than adopting the most advanced AI technology; Rabobank will not use cutting-edge AI unless the models are explainable.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "secondary",
+    "confidence": "high",
+    "source_quote": "“We don’t use cutting-edge technology, unless we’re able to explain it.”",
+    "inference_reasoning": "By presenting regulation and oversight as shaping algorithm choices and explicitly conditioning the use of cutting-edge AI on explainability, the text implies a strategic priority hierarchy where regulatory compliance and interpretability outweigh the pursuit of state-of-the-art models.",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B019",
+    "belief": "Robots and AI can assist with data and many tasks, but the use of lethal force must always remain a human decision; there is no place in the Dutch armed forces for self-learning weapons that decide in real time who or what to target, and autonomous systems must remain capable but predictable and under human command.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "there is no place for self-learning weapons that decide in real-time who or what to target",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B020",
+    "belief": "Ethical and safe AI begins with human intent rather than mere regulatory compliance; ethical considerations must be integrated into design and development from the start, not added as an afterthought.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "ethical and safe AI begins with intent, not just compliance with regulations",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B021",
+    "belief": "Responsible AI is about intent, process, transparency, explainability, human oversight, and a commitment to ethics from design through deployment; transparency, auditability, accountability, and explainability are core requirements that must underpin AI development.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "responsible AI is about intent, process, transparency, explainability, human oversight, and a commitment to ethics from design through deployment.",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B022",
+    "belief": "Preventive efforts against emerging, interconnected threats should focus on central nodes likely to trigger other important threats; understanding interconnectedness is essential for effective national risk management and resilience.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B023",
+    "belief": "When searching for rare signals, even small model error rates compound into significant noise and become highly problematic, so model selection should prioritise capability and reliability over marginal cost savings in such contexts.",
+    "category": "domain_knowledge",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "when searching for rare signals, even small error rates compound into significant noise.",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B024",
+    "belief": "Clever engineering usually loses to approaches that better leverage computational resources; one should start with the best available model on a data subset to establish what is possible, then optimise for cost, rather than starting cheap and trying to engineer upward.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "clever engineering usually loses to approaches that better leverage computational resources.",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B025",
+    "belief": "Algemi aims to help businesses adopt AI solutions and harness the technology’s full potential by deeply understanding clients’ businesses from the inside through close collaboration, focusing on end-customer value, workflow fit, and high accuracy where “almost right” is still wrong.",
+    "category": "mission",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "aiming to help businesses adopt AI solutions and harness the technology’s full potential.",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B026",
+    "belief": "Founders should start with a niche they understand well and avoid going big on general AI where competition and capital requirements are high; it is better to build products that benefit from increasingly advanced AI models than to compete with those models directly.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "“I’d say, don’t go big on general AI because you’ll need a lot of money and you’re up against fierce competition from Silicon Valley.”",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B027",
+    "belief": "KickstartAI is a tech-centric non-profit whose mission is to make a positive change using technology and AI for the greater good, accelerating responsible AI adoption in the Netherlands and helping solve concrete challenges in businesses and social organisations.",
+    "category": "mission",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "source_quote": "The mission! What stood out to me was that KickstartAI is a tech-centric non-profit... working together with people committed to achieving a goal for the greater good.",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B028",
+    "belief": "KickstartAI values bringing together energetic people from different backgrounds who are intrinsically motivated by positive social impact and are good at whatever they set their minds to; diversity of backgrounds and perspectives is seen as strengthening effectiveness and culture.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "source_quote": "Everyone is energetic and comes from different backgrounds... KickstartAI finds people who are good at whatever they set their minds to.",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B029",
+    "belief": "There is a need for the EU AI Act to establish a minimum set of safety standards for AI development; its core is to enable innovation while putting precautionary measures in place and adhering to values and human rights when AI use cases carry risks.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "we need the AI Act. To establish a minimum set of safety standards for AI development",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B030",
+    "belief": "Companies should identify their position within the AI Act’s categories, create an AI roadmap, and invest in constant monitoring, governance, AI skills, risk management, and legal support to remain within their intended role and detect unintended shifts in their business model.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "Gorzala advises companies to identify their position within the Act’s categories and start creating an AI roadmap.",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B031",
+    "belief": "The goal should be safe innovation: regulation, innovation, and action must go hand in hand, with minimum safety standards and agile, harm-focused, innovation-friendly rules rather than rigid processes that hamper competitiveness, especially for smaller European startups.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B032",
+    "belief": "A temporary pause in the implementation of the EU AI Act can be beneficial to assess opportunities, simplify requirements, and better align the law with the novel character of AI technology and recent advancements in AI governance.",
+    "category": "stance",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B033",
+    "belief": "It is impossible to imagine a future in which artificial intelligence, as a major driver of societal change, will not be regulated; we are no longer regulating an emerging technology but setting rules for systems our economy and society already depend on.",
+    "category": "domain_knowledge",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "it's impossible to imagine a reality where it won't be regulated",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B034",
+    "belief": "AI is a fundamental part of life and, when changing the rules around it, society must ensure those changes actually make things better; AI regulation should strengthen systems rather than unnecessarily slow them down.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "“...if we change the rules around it, we need to make sure that we’re actually making things better.”",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B035",
+    "belief": "The Dutch government should prepare for the AI Act by establishing oversight mechanisms and investing in awareness and education initiatives; professionals working with AI need to be informed and prepared for upcoming regulatory changes.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "source_quote": "From the Dutch government's perspective, preparations for the AI Act are already underway",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B036",
+    "belief": "Events are essential to KickstartAI’s mission because they create spaces where the community can come together to exchange knowledge, share ideas, connect, and grow, thereby strengthening the Dutch AI ecosystem.",
+    "category": "mission",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B037",
+    "belief": "AI needs different voices and perspectives, including people with humanities backgrounds such as psychology or sociology, because AI has great impact on society and such diversity is necessary for developing responsible, human-centric AI.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B038",
+    "belief": "Labeling large language models as “reasoning” models is misleading because their capabilities are largely inductive and easily misinterpreted as true or novel; marketing them this way risks distorting understanding of current AI and AGI.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "she finds the labeling of LLMs as “reasoning” models misleading.",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B039",
+    "belief": "Abductive reasoning, especially innovative abduction that generates genuinely novel hypotheses, is necessary to achieve general artificial intelligence and deliver on promises like creating new drugs and inventions; novel insight generation is a central benchmark for AGI-level reasoning.",
+    "category": "domain_knowledge",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B040",
+    "belief": "Organizations must surround LLMs with proper guardrails, education, redesigned workflows, and systems, because value will come from the socio-technical systems built around the models rather than from the models alone; deploying LLMs without such redesign exposes organisations to avoidable risks.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "“It’s not enough to just give people access to Copilot or ChatGPT. You need education and you need to rethink a lot of parameters on how your organization operates.\"",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B041",
+    "belief": "For ING, the integration of AI in wholesale banking is a fundamental shift in how operations are managed and how clients are served, not just a technological upgrade; AI is seen as a critical enabler for leveraging large amounts of data quickly and at scale.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "“For a global bank like ING, the integration of AI is not just a technological upgrade; it's a fundamental shift in how operations are managed and how clients are served.”",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B042",
+    "belief": "The primary goal of using LLMs to centralise knowledge at ING is to provide back-office experts with a single, up-to-date, accurate source of information that embeds tacit expertise and supports scalable, trustworthy operations.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B043",
+    "belief": "ING’s philosophy is to democratise the inclusion of challenges from across wholesale banking by allowing any employee to submit issues, while prioritising AI use cases where healthy, clean, unbiased data is available.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B044",
+    "belief": "As ING expands GenAI, its ambition is to broaden reach, embrace agentic AI for front-office productivity, and continue building responsibly with strong governance, auditable systems, and a relentless focus on customer value.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B045",
+    "belief": "Innovation is easy but adoption is the hard and strategically important part of AI work; AI solutions only create value when people actually use them consistently within their daily workflows.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B046",
+    "belief": "Projects should start from clearly defined, real problems where AI can make a difference and be developed collaboratively with the people who will use them, investing time upfront in defining the business problem through use-case phases, stakeholder interviews, and workflow observation.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "Lesson 1: Invest time in defining the business problem",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B047",
+    "belief": "Participation in communities and meetups is essential for data scientists and AI professionals to discover useful tools, stay current with methods, and expand their toolbox; hands-on experimentation and learning by doing are preferred over aiming for perfection from the start.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B048",
+    "belief": "AI in education should support self-regulated learning and metacognition without undermining necessary cognitive effort; projects can use trace data, student models, and clustering to support writing skills, grading, and knowledge gap detection while preserving teacher autonomy and transparency.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B049",
+    "belief": "Natural language processing is preferred over generative AI for automated scoring in education when transparency about why a score was given is required; assessment technologies should be explainable even if generative models might offer performance gains.",
+    "category": "stance",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "“We can precisely tell to users why we gave the score we did,” she says, adding that isn’t the case with generative AI.",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B050",
+    "belief": "The key opportunity of AI in education is its ability to collect student knowledge and provide teachers with insights into student needs, but we must always be aware of data unfairness and bias and decide which learning goals should remain independent of AI.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "the key opportunity of AI in education is its ability to collect student knowledge and use this information to provide teachers with insights into student needs for further progress",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B051",
+    "belief": "Many AI projects stall when they start with technology first; feasibility is about whether a solution works in the real world, not just whether you can build an algorithm. Ignoring data quality, uncertainty, integration, and ownership leads to lab-only solutions that never reach practice.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "many AI projects stall when they start with technology first. A clever model alone rarely delivers lasting impact.",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B052",
+    "belief": "Transparency about an AI system’s prediction ranges, confidence levels, uncertainties, and limitations is essential for its use and trustworthiness, especially in high-stakes domains like healthcare and aviation.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "Transparency is key, especially around prediction ranges and confidence levels.",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B053",
+    "belief": "Involving end-users from the start is necessary to build trust, enthusiasm, and sustained adoption of AI tools; user trust and long-term adoption depend more on social and organisational practices than on technical performance alone.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "A major benefit of involving end-users early is the feeling of inclusion.",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B054",
+    "belief": "Successfully implementing AI in large organisations requires a holistic approach that integrates AI with existing strategy, processes, and people from day one, with clear ownership, governance, and cross-departmental collaboration.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B055",
+    "belief": "Open-source is considered the best form of sharing for AI development in Europe because putting everything in the open enables learning, new ideas, collaboration, pan-European initiatives, and broad societal inclusion; open, transparent, multilingual models are seen as especially aligned with European values.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B056",
+    "belief": "The Zero Hunger Game should expose students to hard choices and emotions around food security without telling them what to think; digitising such a board game can widen access and handle rules while keeping students in the same physical room for better face-to-face conversation.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "it exposes students to hard choices without telling them what to think",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B057",
+    "belief": "AI agents are most useful as exploratory tools to boost creativity—cheap agents can be sent to explore options, with humans keeping only what helps—rather than as autonomous producers of final polished solutions.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B058",
+    "belief": "The KickstartAI community’s mission is to accelerate AI adoption in the Netherlands by helping organisations tackle concrete AI challenges, sharing what works openly, and strengthening the Dutch AI ecosystem through shared learning and action.",
+    "category": "mission",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "our mission to accelerate AI adoption in the Netherlands",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B059",
+    "belief": "Ditto’s mission is to bridge the healthcare communication gap by helping people better understand their health and diagnosis regardless of condition, language, or age, using AI summaries that are safe, conservative about hallucinations, and privacy-preserving.",
+    "category": "mission",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "They're on a mission to bridge the healthcare communication gap",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B060",
+    "belief": "In healthcare AI, it is safer to share no information than information known to be wrong; avoiding potentially harmful errors is more important than maximising convenience or completeness, and rigorous multi-layered evaluation is required to earn user trust.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B061",
+    "belief": "Gaining user trust in sensitive AI applications depends heavily on clarity of usage instructions, transparency about privacy and data protection, and design choices like on-device processing that minimise central storage of sensitive data.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B062",
+    "belief": "Sharing knowledge, insights, and important lessons openly is essential for the AI ecosystem; organisations should not work through new developments in isolation but build on each other’s experiences via shared knowledge bases and cross-organisational collaboration.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B063",
+    "belief": "Benchmark-driven AI research that focuses on incremental accuracy gains and high scores is misleading and unhealthy; the most revealing evaluation of a model is found in analysis of its errors and in understanding hard cases, with future progress needing to benchmark on meaning and human interpretations, not just scores.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "“I think that the sometimes unhealthy benchmarking culture, the hunting for incremental results, only focuses on how much you're doing right.",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B064",
+    "belief": "The innovation of BioAnalyst lies in engineering an open, multimodal system and dataset for biodiversity forecasting that others can build upon, rather than in the model alone; establishing open baselines and minimising manual preprocessing are seen as key to advancing biodiversity applications.",
+    "category": "mission",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B065",
+    "belief": "Individual identification through skin pattern formation is a key method for population monitoring; for this, AI models must focus on biologically meaningful patterns alone, often by integrating mechanistic models like Turing reaction–diffusion rather than relying solely on standard CNNs, and require much larger datasets for validation.",
+    "category": "domain_knowledge",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "“Individual identification through skin pattern formation is a key method for population monitoring,”",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B066",
+    "belief": "The Netherlands must move from talking about AI to doing AI: from pilots to implementation, from small experiments to scaling proven solutions, and from high-level reflections to day-to-day operational deployment in business and government.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B067",
+    "belief": "Organisations and policymakers in the Netherlands focus too much on AI risks and too little on value; wisely used AI can help solve major societal challenges, so national policy should accelerate responsible use with clear rules, fewer grey areas, and more guidance rather than delay adoption.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B068",
+    "belief": "With AI, society should adopt the same approach as with sharp knives: not hiding the technology because it is dangerous, but teaching people to use it responsibly through education and guidance rather than prohibition.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "With AI, we must do exactly the same.",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B069",
+    "belief": "KickstartAI believes that AI holds great potential to improve contingency fuel planning in aviation and aims to build scalable, reliable, socially responsible AI models that other countries will want to copy, judged ultimately by impact on real operational KPIs like cost and efficiency.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "we believe that AI holds great potential to improve this process",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B070",
+    "belief": "Understanding machine learning models and being able to communicate their rationale clearly to operational staff (e.g., pilots, dispatchers, clinicians) is key to increasing trust and encouraging adoption in regulated, safety-critical environments.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B071",
+    "belief": "Otermans Institute’s mission is to make education accessible to everyone and upskill hundreds of millions of learners by 2030 using content-agnostic AI teachers that complement, not replace, human teachers, especially in underserved and low-connectivity contexts.",
+    "category": "mission",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B072",
+    "belief": "AI teachers should serve as a first point of learning and support when human teachers are unavailable, extending access and personalisation while preserving teacher jobs and learner privacy through hybrid, on-device architectures.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B073",
+    "belief": "The organisation’s mission is to use AI technology to tackle problems with positive social impact; work should not be just about maximising revenue or improving usual KPIs but also about helping people and driving measurable social impact.",
+    "category": "mission",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "our mission for societal impact",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B074",
+    "belief": "People considering a career in AI should focus on understanding fundamentals and how models are made and trained, rather than getting attached to specific tools or techniques; durable analytical skills and conceptual understanding are more valuable than any particular framework.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "“Don’t get too attached to specific tools or techniques. Focus on understanding the fundamentals – they’ll always stay relevant.”",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B075",
+    "belief": "Using on-board AI and edge computing to pre-process satellite data and send only what is relevant is strategically important because it saves significant storage and bandwidth and helps bridge temporal gaps in Earth observation data.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "send only what’s relevant, which saves a significant amount of storage and bandwidth",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B076",
+    "belief": "Allowing non-expert users to interact with spatial and Earth observation data in a conversational way using LLMs is important for opening more doors for uptake and for informing better, continuously updated, spatiotemporal policy decisions compared to static or point-based reports.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B077",
+    "belief": "There is strong growth potential in the space data and applications market, but the Netherlands currently functions more as a broker and reseller of innovative ideas than as a breeding ground of innovation, making continuous investment and cross-sector collaboration essential.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "“That’s a strong indication of the growth potential in the space data and applications market.”",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B078",
+    "belief": "Agentic AI can help bridge the gap between data and business by enabling interactive, question-driven use of data beyond static dashboards, but if an application requires 100% correctness on every question, organisations should not use an AI agent for that use case.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "source_quote": "he believes agentic AI can help: shifting us from an era of seeing data to an era of talking with it",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B079",
+    "belief": "Transparency about how an AI agent arrives at its answers is central to making outputs trustworthy; maintaining simplicity, control, and modular multi-agent architectures is preferred over complex, monolithic prompts for reliable behaviour.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "That’s why transparency is central",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B080",
+    "belief": "Support for financial health should be accessible, low-threshold, anonymous, and available when people need it most; a generative AI chatbot can and should serve as such a channel if it understands context, sentiment, and personalises responses while preserving anonymity.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "Support that is accessible, low-threshold, and available when people need it most",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B081",
+    "belief": "In sensitive domains like personal finance, generative AI work should focus on end-to-end usability, trust, evaluation, safety, and integration with trusted information sources rather than narrowly on model performance; any ML/AI system needs an evaluation system to assess how well it is performing.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B082",
+    "belief": "A financial health chatbot’s answers must be factual, grounded in approved websites and calculators, and restricted to financial health topics; it should inform and educate but never provide specific financial advice, with guardrail policies and judge agents enforcing safety constraints.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B083",
+    "belief": "Evaluation metrics for chatbots should be derived from system requirements and reflect usefulness for different stakeholders; evaluation should combine LLM-based judges and non-LLM metrics that are fast, reproducible, and deterministic, and be built alongside the system to drive development and prevent regressions.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B084",
+    "belief": "Guardrails are necessary to contain a financial-services chatbot’s unpredictable generative capacity and secure it against regulatory, privacy, ethical, brand, reliability, and scope risks, balancing empathy and personalisation with compliance and user privacy.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "Guardrails, defined as rigid safety mechanisms, are necessary to contain the chatbot's unpredictable generative capacity and ensure it remains helpful without becoming illegal, unethical, or starting to hallucinate.",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B085",
+    "belief": "Building reliable AI systems requires more than prompt engineering alone; it must incorporate evaluation-driven development, synthetic data pipelines, classical software testing (unit tests, monitoring), robust tool integration, and multi-agent decomposition of tasks.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "building reliable AI systems requires more than prompt engineering alone",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B086",
+    "belief": "Data diversity and composition are crucial but under-understood factors in language model behaviour; improving systematic measurement of data diversity and understanding its link to model behaviour is necessary for creating fairer, more robust models and better datasets from the outset.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B087",
+    "belief": "Environmental safety and environmental crime are urgent security issues, not mere activism; complexity in law and procedure can shield powerful polluters, so AI tools should help investigators navigate legislation and case law to hold polluters accountable more effectively.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B088",
+    "belief": "The police and other public institutions must always put serving the values of the democratic rule of law first when using AI, ensuring explainability, proportionality, human judgment, and the ability to switch off or replace AI systems without collapsing core functions.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B089",
+    "belief": "AI should never become a strategy in itself but must remain a means to an end; AI initiatives should be treated as strategic questions about where to apply, how to scale, and how to avoid getting stuck in pilot phase, rather than as gadgets or pure tech rollouts.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B090",
+    "belief": "AI should actually serve the people who end up using it and genuinely help make their lives easier; AI applications should be built for users, not for the technology itself, and should not be forced on people but made to work for them.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "making sure AI actually serves the people who end up using it",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B091",
+    "belief": "AI requires employees to work more critically, learning both how to use it and how to question it rather than trusting it blindly; organisations should invest as much in people as in technology, training employees to adapt, spot opportunities, and help steer AI adoption.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B092",
+    "belief": "Leaders must focus sharply on a limited set of AI initiatives, with central direction and portfolio oversight, and consciously leave other possibilities aside to avoid fragmentation and duplicated efforts; successful AI adoption requires focus, clear choices, and early thinking about scaling.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "“Leaders must dare to say: this is where we will focus, and not there for now. Without focus, AI remains fragmented.”",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B093",
+    "belief": "The time for experimentation alone with AI is over; organisations like KLM should now focus on truly implementing AI at the core of their business, deciding where to deploy AI to the fullest, which processes to redesign from an AI-first perspective, and where to deliberately not apply it.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B094",
+    "belief": "Safety must always come first in aviation fuel planning and other safety-critical domains, even as organisations seek to avoid unsustainable and costly excess; end users and executives must deeply understand AI’s capabilities and limitations for initiatives to create real change in practice.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "“If you have to make decisions about investments, risks, and applications, you cannot follow this from a distance. You really have to immerse yourself in what AI can and cannot do.”",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B095",
+    "belief": "AI should be treated as a board-level, strategic issue rather than confined to a specialist silo; company leadership must personally understand what the technology can and cannot do, and organisations should bridge the gap between AI theory and practical application so employees can understand, embrace, and trust it.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B096",
+    "belief": "AI can and should contribute to broader societal impact, helping safeguard welfare states, boost economies, strengthen societies, and solve pressing challenges in healthcare, public services, environment, and food security when applied responsibly.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts",
+      "blog"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B097",
+    "belief": "The Netherlands has many prerequisites for AI—talent, infrastructure, strong business climate—but is losing momentum due to low implementation capacity and outdated structures; to optimise AI opportunities, the country must shift from talk to action with concrete steps, experimentation space, strong public–private collaboration, and a national transformation programme.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts",
+      "blog"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B098",
+    "belief": "AI is becoming a system technology comparable to electricity or the internet, foundational rather than hypothetical; national competitiveness, earning capacity, and technological sovereignty increasingly depend on rapid, large-scale AI adoption and leadership in applied AI.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_posts",
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "AI becomes a “system technology”– much like electricity or the internet",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B099",
+    "belief": "Large companies play a crucial role as the flywheel for Dutch AI innovation and practical adoption at scale; cross-sector, cross-organisation collaboration and knowledge sharing are necessary to unlock AI’s full potential and create broad societal benefits.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts",
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "source_quote": "We believe large companies play a crucial role as the flywheel for Dutch AI innovation and practical adoption at scale.",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B100",
+    "belief": "AI strategies often fail not because of technology but because of mindset, organisational silos, misaligned incentives, superficial KPIs, and fragmented pilots; organisations must move from counting pilots to making real impact, aligning solutions with processes, strategy, and people, and empowering internal change-makers.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts",
+      "blog"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B101",
+    "belief": "AI should be used as a force for social good, driving measurable social impact in areas like healthcare, environmental accountability, public safety, financial wellbeing, and education, rather than only for efficiency or profit.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts",
+      "blog"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B102",
+    "belief": "Scaling advanced AI and GenAI requires a cloud-first architectural shift built on governance, security, privacy, and explainability; AI models used in regulated domains like finance must be transparent, fair, and explainable to be effective and trustworthy.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_posts",
+      "blog"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B103",
+    "belief": "Data composition, diversity, and quality are just as crucial to progress in language models as bigger architectures and larger datasets, yet are far less understood; improving these aspects is necessary for fairer, more robust, and data-efficient models.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts",
+      "blog"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B104",
+    "belief": "AI is emerging as a key driver in the energy transition and in managing increasingly complex, volatile energy systems; AI can deliver financial benefits through smart energy scheduling and real-time asset management, but must be made part of a sustainable energy future rather than an energy drain.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_posts",
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "source_quote": "applications delivering financial benefits through smart energy scheduling",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B105",
+    "belief": "Small language models, when fine-tuned and combined with good retrieval and tooling, can deliver powerful, cost-effective RAG systems and semantic extraction, often being a more practical choice than large models for many enterprise applications.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts",
+      "blog"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B106",
+    "belief": "AI in education is moving from futuristic concept to practical integration; effective use requires combining methods like NLP, Bayesian knowledge tracing, and clustering with guardrails and curated data to mitigate hallucinations, while supporting hybrid futures of human teachers and AI support.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_posts",
+      "blog"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B107",
+    "belief": "Media and AI literacy are increasingly important prerequisites for finding, consuming, and trusting news; generative AI is reshaping journalism workflows and business models, making ethical questions about authorship, disclosure, and platform impacts central concerns.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "belief_type": "secondary",
+    "confidence": "high",
+    "source_quote": "the role of media and AI literacy in they way we find, consume, and trust news",
+    "inference_reasoning": "By centering the podcast around the \"role\" of media and AI literacy in core news behaviors, the text presupposes that such literacy is now a crucial enabling factor for effective and trustworthy news consumption, not a marginal skill.",
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B108",
+    "belief": "Europe currently lags behind the US and China in LLM development and deployment; to achieve digital sovereignty and competitiveness, Europe needs coordinated pan-European infrastructure, open, value-aligned models, and to avoid over-reliance on American big tech.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts",
+      "blog"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B109",
+    "belief": "AI safety and AGI are topics that warrant serious, structured public discussion; both underestimation and overhyping of AGI are plausible errors, and unexamined assumptions—such as anthropomorphising models or brain–computer analogies—need critical scrutiny.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  },
+  {
+    "id": "LLM-B110",
+    "belief": "Synthetic data and virtual simulations are powerful tools for testing AI systems at scale in domains like autonomous driving and smart cities, enabling safer, more capable AI without requiring equivalent real-world mileage, though they must be designed to be physically plausible and diverse.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "llm"
+  }
+]

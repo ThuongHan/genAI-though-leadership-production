@@ -1,0 +1,3841 @@
+{
+  "filter": "weighted_filter.py — 4-rubric mission-weighted top-5",
+  "provider": "claude",
+  "model": "claude-haiku-4-5-20251001",
+  "strategy": "zero_shot",
+  "excerpt_strategy": "smart",
+  "excerpt_max_chars": 2000,
+  "input_article_count": 248,
+  "top_n": 5,
+  "score_scale": "0-10",
+  "weights": {
+    "relevance": 0.35,
+    "audience_fit": 0.29,
+    "trustworthiness": 0.18,
+    "specificity": 0.18
+  },
+  "articles": [
+    {
+      "id": "402803ae8da90ab8",
+      "name": "Commission publishes Code of Practice on marking and labelling AI-generated content",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-publishes-code-practice-marking-and-labelling-ai-generated-content",
+      "tag": "policy_regulation",
+      "source": "European Commission Digital Strategy",
+      "author": "marsrgi",
+      "published_at": "Wed, 10 Jun 2026 11:13:20 +0000",
+      "full_text": "The European Commission published the final Code of Practice on marking and labelling of AI-generated content.\nThe Code is voluntary and sets out practical steps to help providers and deployers of generative artificial intelligence (AI) systems meet the AI Act transparency obligations that will apply from 2 August 2026.\nFrom that date, the AI Act will require clear labelling in key cases. Deepfakes and AI-generated or AI-manipulated text published on matters of public interest must be clearly labelled. Users must also be informed when they are interacting with an interactive AI system, such as a chatbot. These transparency requirements help people recognise when content has been generated or altered by AI, reducing the risk of deception and manipulation.\nRead the press release and find more information:\n- Code of Practice on marking and labelling of AI-generated content\n- EU Icons for labelling AI-generated content\n- How to sign the Code of Practice on transparency of AI-generated content\n- Questions & answer about the code\n- Questions & answer about signing the code\n- Info session on the code of practice & signature process",
+      "paywalled": false,
+      "full_text_character_count": 1142,
+      "language": "en",
+      "_scores": {
+        "relevance": 8,
+        "trustworthiness": 10,
+        "specificity": 7,
+        "audience_fit": 8
+      },
+      "_weighted": 8.18
+    },
+    {
+      "id": "4803679b2466c2b8",
+      "name": "Proposal for the Cloud and AI Development Act (CADA)",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/proposal-cloud-and-ai-development-act-cada",
+      "tag": "policy_regulation",
+      "source": "European Commission Digital Strategy",
+      "author": "dumimar",
+      "published_at": "Wed, 03 Jun 2026 09:02:00 +0000",
+      "full_text": "The ongoing deployment of AI factories and AI gigafactories aims to provide broad access to high-capacity, next-generation computational resources for European businesses and researchers requiring AI capabilities. To complement this, the EU needs to expand its cloud and data centre capacity to support the wider deployment and diffusion of AI.\nThe CADA will reinforce energy-efficient data centre capacity, while complementing the Apply AI strategy to boost the adoption of artificial intelligence and cloud across Europe.\nIt will focus on three objectives:\n- Research, development and innovation: supporting efforts to deploy the next generation of cutting-edge and sustainable cloud and AI technologies\n- Capacity: accelerating the conditions for deploying data centres across the EU, focusing on facilities that enhance essential public sector functions\n- Autonomy: introducing a single EU-wide assessment framework for cloud and AI sovereignty, accompanied by a public sector adoption mechanism\nThe CADA complements other new initiatives, including the Chips Act 2.0 and the EU Open Source Strategy, in contributing to a more competitive, secure and resilient European digital economy.\nYou can download the full regulation proposal, the annexes, the impact assessment and a summary of this impact assessment below.\nRead more information:\nDownloads\n \n \n 1. COM(2026) 502 - Proposal Regulation Cloud and AI Development Act (CADA)\n \n \n Download \n \n \n \n \n \n 2. COM(2026) 502 - Proposal Regulation Cloud and AI Development Act (CADA) Annexes\n \n \n Download \n \n \n \n \n \n 3. SWD(2026) 502 - Impact Assessment (Part 1)\n \n \n Download \n \n \n \n \n \n 4. SWD(2026) 502 - Impact Assessment (Part 2)\n \n \n Download \n \n \n \n \n \n 5. SWD(2026) 502 - Summary of the Impact Assessment\n \n \n Download",
+      "paywalled": false,
+      "full_text_character_count": 1777,
+      "language": "en",
+      "_scores": {
+        "relevance": 8,
+        "trustworthiness": 9,
+        "specificity": 6,
+        "audience_fit": 8
+      },
+      "_weighted": 7.82
+    },
+    {
+      "id": "e492e2f9c193b6ad",
+      "name": "Commission proposes tech sovereignty package to strengthen Europe's digital autonomy and resilience",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-proposes-tech-sovereignty-package-strengthen-europes-digital-autonomy-and-resilience",
+      "tag": "policy_regulation",
+      "source": "European Commission Digital Strategy",
+      "author": "Anonymous",
+      "published_at": "Wed, 03 Jun 2026 09:01:00 +0000",
+      "full_text": "The European Commission has presented the European Technological Sovereignty Package, a set of measures to strengthen Europe's capacity in semiconductors, artificial intelligence (AI), cloud and open source.\nThe package includes two legislative proposals - the Chips Act 2.0 and the Cloud and AI Development Act - as well as the Open Source Strategy and a Strategic Roadmap for Digitalisation and AI in Energy.\nTogether, these measures support Europe's ambition to become an AI continent, strengthen its digital autonomy and help build a more sustainable digital future. They will help widen choice in core technologies for EU businesses, citizens and public administrations.\nThe move comes as Europe remains heavily dependent on suppliers outside the European Union for core digital technologies and as demand for computing capacity rises sharply with the spread of AI. It is designed to reduce structural dependencies and make sure Europe can develop, deploy and secure the technologies Europeans rely on. It signals a major shift in the EU's approach to technology.\nCommission President, Ursula von der Leyen said:\n“We cannot afford to depend on others for the technologies that keep our hospitals running, our energy grids stable and our services secure. This is about protecting our citizens, defending our interests and making our own choices. Europe has the talent, the research excellence, the industrial base and the Single Market. Together, we must turn these strengths into technological sovereignty.”\nRead the full press release.\nRead more information",
+      "paywalled": false,
+      "full_text_character_count": 1563,
+      "language": "en",
+      "_scores": {
+        "relevance": 8,
+        "trustworthiness": 9,
+        "specificity": 6,
+        "audience_fit": 8
+      },
+      "_weighted": 7.82
+    },
+    {
+      "id": "30af999a7644cc3d",
+      "name": "Techbedrijven deelden namen Nederlandse ambtenaren met VS: 'Ontzettend zorgelijk'",
+      "url": "https://nos.nl/l/2615391",
+      "tag": "dutch_news",
+      "source": "NOS Tech",
+      "author": null,
+      "published_at": "Fri, 22 May 2026 11:27:06 +0200",
+      "full_text": "Techbedrijven deelden namen Nederlandse ambtenaren met VS: 'Ontzettend zorgelijk'\nTechbedrijven als Microsoft en Meta hebben namen van ambtenaren en wetenschappers gedeeld met een Amerikaanse senaatscommissie die onderzoek doet naar \"techcensuur\". Het kabinet noemt dat \"ontzettend zorgelijk\".\nHet gaat om ambtenaren die betrokken zijn bij de handhaving van Europese regels om techplatforms te reguleren. De Amerikaanse overheid ziet die regels als censuur. De vrees is dat de ambtenaren onder druk kunnen worden gezet, bijvoorbeeld met inreisverboden of zelfs sancties, schrijft Vrij Nederland.\nEerder gebeurde dat met een oud-Eurocommissaris die betrokken was bij de techwetgeving, maar ook met medewerkers van het Internationaal Strafhof.\n\"Als er discussies zijn over beleid dan voer je die met ons en nooit over de rug van ambtenaren\", zegt staatssecretaris Aerdts van Digitale Economie en Soevereiniteit. \"Dat is wel gebeurd en daar zullen we onze contacten op aanspreken, ook in de Verenigde Staten.\"\nOok heeft het kabinet er al contact over gehad met de Amerikaanse ambassadeur, zegt Aerdts. \"We hebben aangegeven hoe ontzettend onwenselijk wij dit vinden. Hij heeft dat aangehoord en zal het ook mee terugnemen.\"\n'Verslaafd aan Amerikaanse apps'\nStaatssecretaris Eric van der Burg (Slagvaardige Overheid) spreekt van \"meer dan zorgelijke\" ontwikkelingen. Hij zegt dat nog moet worden uitgezocht hoe de documenten zijn gedeeld en of het om openbare documenten ging. \"Het is nog niet duidelijk uit welke documenten de gegevens komen, maar natuurlijk baart het zorgen als dit soort gegevens gedeeld worden.\"\nOp korte termijn de samenwerking stoppen met Microsoft en andere Amerikaanse techbedrijven is niet mogelijk, zegt de staatssecretaris. Het kabinet kijkt volgens hem wel hoe de digitale soevereiniteit van de Rijksoverheid kan worden vergroot. \"Wij zijn in Nederland en Europa verslaafd aan Amerikaanse programma's, apps en apparatuur.\"\nStrijdbaarder\nVolgens Vrij Nederland gaat het bijvoorbeeld om medewerkers van toezichthouders Autoriteit Consument en Markt en Autoriteit Persoonsgegevens. Ook de naam van wetenschapper Claes de Vreese, die onderzoek doet naar desinformatie, is overhandigd. \"Het is vervelend omdat het een chilling effect heeft op mensen\", zegt De Vreese. \"Ik word er eerder strijdbaarder van.\"\nHet gaat onder meer om uitnodigingen voor bijeenkomsten waar ook de techbedrijven voor waren uitgenodigd. Daarvan overhandigden de techbedrijven de namen van andere genodigden, onder wie ACM-medewerkers, aan de Amerikaanse overheid. Daartoe waren ze verplicht onder de Amerikaanse wet. Ook andere techbedrijven hebben dat gedaan, al is nog niet duidelijk of daar ook Nederlandse namen bij betrokken zijn.\nVolgens Vrij Nederland communiceren de overheidsinstanties nu meer vanuit algemene mailadressen, zonder namen van ambtenaren te noemen. Het delen van de namen zou binnen de ACM en de Autoriteit Persoonsgegevens voor veel consternatie hebben gezorgd, bijvoorbeeld bij mensen met familie in de VS die vrezen dat ze het land niet meer in mogen.\nMeer keuze\nDe vrees is al langer dat Amerikaanse techbedrijven kunnen worden gedwongen om informatie van overheidsklanten te overhandigen als de Amerikaanse overheid daar om vraagt. Voor zover bekend komt de nu gedeelde informatie niet uit systemen die bijvoorbeeld Microsoft namens de overheid beheert, maar uit Microsofts eigen zakelijke ict-systemen.\nIntussen neemt de afhankelijkheid van Amerikaanse clouddiensten eerder toe dan af. Het ict-bedrijf dat verantwoordelijk is voor het hosten van DigiD, Solvinity, staat op het punt door een Amerikaans bedrijf te worden overgenomen. Daarmee valt het bedrijf ook onder de Cloud Act, een Amerikaanse wet die voorschrijft dat informatie die door een Amerikaans bedrijf wordt beheerd in bepaalde gevallen moet worden overhandigd, ook als de data buiten de VS zijn opgeslagen.\nOok is de Belastingdienst juist nu bezig met een overstap op Microsoft-systemen, ondanks zorgen in de Tweede Kamer. Staatssecretaris Aerdts vindt het belangrijk \"dat we in Nederland en in Europa meer keuze hebben, zodat we niet meer afhankelijk zijn van een paar bedrijven uit een of twee landen.\"",
+      "paywalled": false,
+      "full_text_character_count": 4194,
+      "language": "nl",
+      "_scores": {
+        "relevance": 8,
+        "trustworthiness": 8,
+        "specificity": 7,
+        "audience_fit": 8
+      },
+      "_weighted": 7.82
+    },
+    {
+      "id": "4a6d6b2e03373f50",
+      "name": "Copy, paste, govern: Microsoft ghostwrote EU policy that keeps data centers’ energy use secret",
+      "url": "https://algorithmwatch.org/en/copy-paste-govern-microsoft-ghostwrote-eu-policy/",
+      "tag": "policy_regulation",
+      "source": "Algorithm Watch",
+      "author": null,
+      "published_at": "Fri, 17 Apr 2026 06:26:53 +0000",
+      "full_text": "Copy, paste, govern: Microsoft ghostwrote EU policy that keeps data centers’ energy use secret\nThe EU Commission’s policy on data centers keeps information on the energy and water use of individual centers under wraps. Research by Corporate and Europe Observatory and AlgorithmWatch, published by Investigate Europe, reveals the Commission copied and pasted an amendment suggested by Microsoft and the lobby group Digital Europe. The aim: To prevent NGOs from obtaining information on energy-hungry data centers in the face of growing resistance.\nThis text is a joint research by Corporate Europe Observatory and AlgorithmWatch. The research results were also published by Investigate Europe.\nSince the AI Action Summit in Paris in February 2025, attended by dozens of government leaders and business executives, the European Commission is increasingly focused on ‘winning the global AI race’. Soon after the summit, it launched its AI Continent Action Plan, which aims to triple Europe’s data center capacity by 2030.\nFueled by the AI boom, the Commission plans to relax permitting rules to make it easier for tech companies to build data centers. But their rapid expansion is already putting immense pressure on energy and water supplies and electricity grids, and threatens the EU’s climate goals.\nIn the Dublin area for example, data centers already consume an extraordinary 50 per cent of the electricity supply, putting immense pressure on prices and grids for the rest of society. The energy demands are so high that there are now long waiting times for connection to the grid. Therefore, big tech data centers are increasingly being powered by on-site fossil gas generators. With Big Tech companies pouring hundreds of billions of euros into AI data centers, the International Energy Agency (IEA) projects that data center electricity consumption will grow by 15 per cent per year — more than four times faster than consumption from other sectors.\nThe EU is trying to address this rising energy demand through the Energy Efficiency Directive (EED), which obliges tech companies to transparency on the power demand of data centers. However, new research by Corporate Europe Observatory and AlgorithmWatch shows that Microsoft played a key role in drafting a crucial article that largely makes this obligation an empty shell.\nData centers’ energy use? None of your business\nThe Energy Efficiency Directive (EED), passed in 2023 as part of the Green Deal, aims to improve energy efficiency across the EU. While the directive covers energy use across policy areas, Article 12 relates specifically to data centers. It aims to create minimum transparency requirements regarding energy consumption, water usage, and the use of renewable energy. In the face of greenwashing from the tech industry, increased transparency could help dispelling baseless claims made by companies and documenting the local impact of the global AI boom.\nBut while the Energy Efficiency Directive makes it clear that transparency is the standard, it leaves a crucial loophole by exempting information that is covered by trade and business secrets. A loophole that Big Tech was able to exploit.\nIn 2024 the EU Commission began drafting a 'Delegated Act on the rating scheme for data centers’ to implement Article 12 of the Energy Efficiency Directive. Microsoft and the lobby organization DigitalEurope submitted position papers to the Commission. In doing so, they closely coordinated with each other to lobby for the transparency requirements set out in the EED to be significantly weakened, and for the scope of trade and business secrets to be broadened to cover all data on individual data centers. Information was only to be made available at an aggregate level. In effect, this makes it impossible to know how much energy a specific data center would use, making it significantly harder to document the real-world consequences of building more data centers and their environmental impact.\nIt is important to note that the vast energy requirements of data centers are creating political backlash. Resistance campaigns are increasing, from locals objecting to skyrocketing electricity bills in Ireland to communities facing water scarcity in Spain. In the United States, grassroots groups have substantially slowed down the data center rush. According to one estimate, at least $156 billion across 48 projects were blocked or stalled in 2025. While Europe is still in the early stages of the data center build out, Big Tech firms – who have staked billions on AI – have a key interest in creating roadblocks for this kind of growing opposition.\nWith this in mind, the reasons stated by Microsoft and DigitalEurope for blocking information on data center energy usage are deeply troubling. Microsoft warned the Commission in its submission that raw data on individual data centers could be released in response to access-to-information requests from NGOs, including those relating to the energy use of data centers.\nFor instance, DigitalEurope writes that “storing this data within the Commission’s database raises concerns about potential reactive data publication in response to access requests from competitors and NGOs under existing transparency frameworks”.\nMicrosoft pushed the Commission to go even further by restricting access not just to EU-level information, but by also making it impossible to access this data at member state level. In its submission, DigitalEurope adds that confidentiality requirements in the Energy Efficiency Directive are left unclear, and that the Delegated Act should ensure that information about specific metrics is “protected” from potential disclosure.\nWhile it is unsurprising that Big Tech companies are uneasy with the prospect of having to reveal data centers’ staggering water usage and energy consumption, the extent to which the Commission subsequently bought into these arguments is shocking.\nMicrosoft, the EU Commission’s ghostwriter\nBoth Microsoft and DigitalEurope proposed identical amendments to the Commission regarding changes to the Delegated Act, with the aim of classifying all information on individual data centers as confidential and preventing its disclosure – even when requested under the EU’s Access to Documents Regulation or the Aarhus Convention, which guarantees access to environmental data.\nAlarmingly, the Commission simply copied and pasted these amendments into the Delegated Act. Recital 12 and Article 5.5 are essentially plagiarized from Big Tech lobbying documents – a particularly egregious and shocking example of corporate influence.\nAlthough a Delegated Act is not supposed to contradict the legislation it implements, it appears to be the case in this situation. While the Energy Efficiency Directive aims to make all information on data centers publicly available if their consumption is larger than 500 kW, unless specific information falls under trade, business secrets, or confidentiality, the Delegated Act keeps all information on the key performance indicators of individual data centers under wraps.\nIn April 2026, the Commission drafted a new Delegated Act to further implement rules on data centers and asks for feedback. However, the Microsoft amendment is largely retained, further entrenching secrecy in the EU’s legal framework on data centers.\nProblematically, Big Tech firms are also capitalizing on their win at the EU level to call for diminished transparency within member states, too. In Germany, research from LobbyControl and Campact shows that Microsoft, Google, Amazon and the German digital lobby organization Bitkom (whose EU lobby office is located in the same building as DigitalEurope) have been lobbying to classify information on individual data centers as a business secret by making explicit reference to “harmonization” with the EU legislative framework.\nAs Big Tech companies increase their spending on lobbying and marketing in the face of mounting anger and resistance in opposition to the social and environmental costs of the AI boom, demands for transparency are multiplying. In the US for instance, Democratic senators are demanding electricity disclosures of data centers. More recently, dozens of investors have called for site-level data on water and energy use.\nThe EU Commission, however, has granted Big Tech an early win: crucial information on individual data centers’ energy use and their environmental and climate impact will be kept secret – despite the underlying directive explicitly calling for their publication. As the Commission is set to put the new Delegated Act in force, the conclusion should be clear: the Commission has to redo its homework and delete the copy-pasted Microsoft amendment.",
+      "paywalled": false,
+      "full_text_character_count": 8719,
+      "language": "en",
+      "_scores": {
+        "relevance": 8,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 8
+      },
+      "_weighted": 7.82
+    }
+  ],
+  "all_ranked": [
+    {
+      "rank": 1,
+      "weighted": 8.18,
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 10,
+        "specificity": 7,
+        "audience_fit": 8
+      },
+      "name": "Commission publishes Code of Practice on marking and labelling AI-generated content",
+      "source": "European Commission Digital Strategy",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-publishes-code-practice-marking-and-labelling-ai-generated-content"
+    },
+    {
+      "rank": 2,
+      "weighted": 7.82,
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 9,
+        "specificity": 6,
+        "audience_fit": 8
+      },
+      "name": "Proposal for the Cloud and AI Development Act (CADA)",
+      "source": "European Commission Digital Strategy",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/proposal-cloud-and-ai-development-act-cada"
+    },
+    {
+      "rank": 3,
+      "weighted": 7.82,
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 9,
+        "specificity": 6,
+        "audience_fit": 8
+      },
+      "name": "Commission proposes tech sovereignty package to strengthen Europe's digital autonomy and resilience",
+      "source": "European Commission Digital Strategy",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-proposes-tech-sovereignty-package-strengthen-europes-digital-autonomy-and-resilience"
+    },
+    {
+      "rank": 4,
+      "weighted": 7.82,
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 8,
+        "specificity": 7,
+        "audience_fit": 8
+      },
+      "name": "Techbedrijven deelden namen Nederlandse ambtenaren met VS: 'Ontzettend zorgelijk'",
+      "source": "NOS Tech",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2615391"
+    },
+    {
+      "rank": 5,
+      "weighted": 7.82,
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 8
+      },
+      "name": "Copy, paste, govern: Microsoft ghostwrote EU policy that keeps data centers’ energy use secret",
+      "source": "Algorithm Watch",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://algorithmwatch.org/en/copy-paste-govern-microsoft-ghostwrote-eu-policy/"
+    },
+    {
+      "rank": 6,
+      "weighted": 7.64,
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 8,
+        "specificity": 6,
+        "audience_fit": 8
+      },
+      "name": "Het normenkader voor profileringsalgoritmen beschermt onvoldoende tegen discriminatie",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/2026/04/09/het-normenkader-voor-profileringsalgoritmen-beschermd-onvoldoende-tegen-discriminatie/"
+    },
+    {
+      "rank": 7,
+      "weighted": 7.47,
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 8,
+        "specificity": 7,
+        "audience_fit": 8
+      },
+      "name": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "source": "TechCrunch AI",
+      "tag": "news",
+      "language": "en",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/"
+    },
+    {
+      "rank": 8,
+      "weighted": 7.35,
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 8,
+        "specificity": 6,
+        "audience_fit": 7
+      },
+      "name": "De overheid moet stoppen met profileringsalgoritmen",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/2026/06/03/de-overheid-moet-stoppen-met-profileringsalgoritmen/"
+    },
+    {
+      "rank": 9,
+      "weighted": 7.18,
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 9,
+        "specificity": 6,
+        "audience_fit": 7
+      },
+      "name": "Targeted consultation: draft guidelines on trusted flaggers under the Digital Services Act (DSA)",
+      "source": "European Commission Digital Strategy",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-draft-guidelines-trusted-flaggers-under-digital-services-act-dsa"
+    },
+    {
+      "rank": 10,
+      "weighted": 7.18,
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 8,
+        "specificity": 7,
+        "audience_fit": 7
+      },
+      "name": "Odido ontdekte pas na bericht van hackers dat klantgegevens waren gestolen",
+      "source": "NOS Tech",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2614128"
+    },
+    {
+      "rank": 11,
+      "weighted": 7.0,
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 8,
+        "specificity": 6,
+        "audience_fit": 7
+      },
+      "name": "Zijn we straks minder afhankelijk van Amerikaanse tech? Als het aan de EU ligt wel",
+      "source": "NOS Tech",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2616985"
+    },
+    {
+      "rank": 12,
+      "weighted": 7.0,
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 8,
+        "specificity": 6,
+        "audience_fit": 7
+      },
+      "name": "Dringende oproep door hacken met AI: 'We moeten supersnel kunnen reageren'",
+      "source": "NOS Tech",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2615399"
+    },
+    {
+      "rank": 13,
+      "weighted": 7.0,
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 8,
+        "specificity": 6,
+        "audience_fit": 7
+      },
+      "name": "Vier vragen over rapport gevaren sociale media: 'We staan op een keerpunt'",
+      "source": "NOS Tech",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2615038"
+    },
+    {
+      "rank": 14,
+      "weighted": 7.0,
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 8,
+        "specificity": 6,
+        "audience_fit": 7
+      },
+      "name": "Waarom zijn er zoveel grote datalekken?",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/2026/06/04/waarom-zijn-er-zoveel-grote-datalekken/"
+    },
+    {
+      "rank": 15,
+      "weighted": 7.0,
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 7,
+        "specificity": 7,
+        "audience_fit": 7
+      },
+      "name": "AI en robotlabs bieden kans voor duurzame chemie in Nederland: ‘Qua innovatiekracht doen we het helemaal niet slecht’",
+      "source": "MTsprout",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://mtsprout.nl/impact/big-chemistry-wilhelm-huck-stan-gielen-ai-robotlabs"
+    },
+    {
+      "rank": 16,
+      "weighted": 6.89,
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 8,
+        "specificity": 7,
+        "audience_fit": 6
+      },
+      "name": "De term sleepwet blijkt wel degelijk accuraat, en de bevoegdheid weinig effectief.",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/2026/05/01/de-term-sleepwet-blijkt-wel-degelijk-accuraat-en-de-bevoegdheid-weinig-effectief/"
+    },
+    {
+      "rank": 17,
+      "weighted": 6.89,
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 6
+      },
+      "name": "Flinke impuls voor Deep Tech Fonds",
+      "source": "Computable",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://www.computable.nl/2026/06/12/flinke-impuls-voor-deep-tech-fonds/"
+    },
+    {
+      "rank": 18,
+      "weighted": 6.82,
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 9,
+        "specificity": 4,
+        "audience_fit": 7
+      },
+      "name": "Communication on European Tech Sovereignty, accompanied by an EU Open Source Strategy",
+      "source": "European Commission Digital Strategy",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy"
+    },
+    {
+      "rank": 19,
+      "weighted": 6.82,
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 8,
+        "specificity": 5,
+        "audience_fit": 7
+      },
+      "name": "US’s Anthropic order exposes EU’s AI dependency",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.eu/article/us-anthropic-order-exposes-eu-ai-dependency/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 20,
+      "weighted": 6.82,
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 7
+      },
+      "name": "How “existential risk” became the AI industry’s most successful strategy",
+      "source": "Algorithm Watch",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://algorithmwatch.org/en/how-existential-risk-became-the-ai-industrys-most-successful-strategy/"
+    },
+    {
+      "rank": 21,
+      "weighted": 6.82,
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 7
+      },
+      "name": "Laat chatbot-ontwikkelaars niet langer hun verantwoordelijkheid ontlopen",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/2026/05/22/laat-chatbotontwikkelaars-niet-langer-hun-verantwoordelijkheid-ontlopen/"
+    },
+    {
+      "rank": 22,
+      "weighted": 6.82,
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 6,
+        "specificity": 7,
+        "audience_fit": 7
+      },
+      "name": "‘Brief staatssecretaris over Fast Enterprises is half werk’",
+      "source": "Computable",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://www.computable.nl/2026/06/12/brief-staatssecretaris-over-fast-enterprises-is-half-werk/"
+    },
+    {
+      "rank": 23,
+      "weighted": 6.72,
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 9,
+        "specificity": 7,
+        "audience_fit": 6
+      },
+      "name": "AI Hiring Tools Can Yield Racial Bias and Systemic Rejection",
+      "source": "Stanford HAI",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection"
+    },
+    {
+      "rank": 24,
+      "weighted": 6.71,
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 7,
+        "specificity": 7,
+        "audience_fit": 6
+      },
+      "name": "The murky mechanics of data centers’ green electricity",
+      "source": "Algorithm Watch",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://algorithmwatch.org/en/the-murky-mechanics-of-data-centers-green-electricity/"
+    },
+    {
+      "rank": 25,
+      "weighted": 6.64,
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 7,
+        "specificity": 5,
+        "audience_fit": 7
+      },
+      "name": "De tech-lobby wint bij het afzwakken van de AI-verordening",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/2026/05/08/de-tech-lobby-wint-bij-het-afzwakken-van-de-ai-verordening/"
+    },
+    {
+      "rank": 26,
+      "weighted": 6.64,
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 6,
+        "specificity": 6,
+        "audience_fit": 7
+      },
+      "name": "Washington grijpt in: exportstop op Anthropic’s krachtigste ai‑modellen na vrees voor ‘jailbreak’",
+      "source": "Computable",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://www.computable.nl/2026/06/14/washington-grijpt-in-exportstop-op-anthropics-krachtigste-ai-modellen-na-vrees-voor-jailbreak/"
+    },
+    {
+      "rank": 27,
+      "weighted": 6.64,
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 6,
+        "specificity": 6,
+        "audience_fit": 7
+      },
+      "name": "7 tips om ai-agents beter te beveiligen",
+      "source": "Computable",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://www.computable.nl/2026/06/12/7-tips-om-ai-agents-beter-te-beveiligen/"
+    },
+    {
+      "rank": 28,
+      "weighted": 6.53,
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 9,
+        "specificity": 4,
+        "audience_fit": 6
+      },
+      "name": "Info session - Code of practice for transparency of AI-generated content & signature process",
+      "source": "European Commission Digital Strategy",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://digital-strategy.ec.europa.eu/en/events/info-session-code-practice-transparency-ai-generated-content-signature-process"
+    },
+    {
+      "rank": 29,
+      "weighted": 6.53,
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 9,
+        "specificity": 4,
+        "audience_fit": 6
+      },
+      "name": "European Commission survey: AI in healthcare and pharmaceuticals",
+      "source": "European Commission Digital Strategy",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://digital-strategy.ec.europa.eu/en/consultations/european-commission-survey-ai-healthcare-and-pharmaceuticals"
+    },
+    {
+      "rank": 30,
+      "weighted": 6.53,
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 8,
+        "specificity": 5,
+        "audience_fit": 6
+      },
+      "name": "New privacy frontier: Europe eyes crackdown on smart glasses",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.eu/article/new-privacy-frontier-europe-eyes-crackdown-smart-glasses/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 31,
+      "weighted": 6.36,
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 7,
+        "specificity": 7,
+        "audience_fit": 6
+      },
+      "name": "Turbocharging Automotive Operations with GenAI",
+      "source": "BCG AI",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://www.bcg.com/publications/2026/turbocharging-automotive-operations-with-genai"
+    },
+    {
+      "rank": 32,
+      "weighted": 6.35,
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 7,
+        "specificity": 5,
+        "audience_fit": 6
+      },
+      "name": "Meer bevoegdheden burgemeester en politie: Wet gegevensvergaring openbare orde.",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/podcast/meer-bevoegdheden-burgemeester-en-politie-wet-gegevensvergaring-openbare-orde/"
+    },
+    {
+      "rank": 33,
+      "weighted": 6.29,
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 6,
+        "specificity": 6,
+        "audience_fit": 7
+      },
+      "name": "AI Amplifies the Benefits of a Cost Transformation",
+      "source": "BCG AI",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://www.bcg.com/publications/2025/amplifying-benefits-of-cost-optimization"
+    },
+    {
+      "rank": 34,
+      "weighted": 6.25,
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 8,
+        "specificity": 7,
+        "audience_fit": 5
+      },
+      "name": "Dat de AIVD haar eigen toezichthouders keurt kan niet langer",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/2026/03/27/dat-de-aivd-haar-eigen-toezichthouders-keurt-kan-niet-langer/"
+    },
+    {
+      "rank": 35,
+      "weighted": 6.18,
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 9,
+        "specificity": 4,
+        "audience_fit": 6
+      },
+      "name": "Proposal for the Chips Act 2.0",
+      "source": "European Commission Digital Strategy",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/proposal-chips-act-20"
+    },
+    {
+      "rank": 36,
+      "weighted": 6.18,
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 6
+      },
+      "name": "OpenAI stelt zijn systemen open voor Europese bedrijven",
+      "source": "NOS Tech",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2614079"
+    },
+    {
+      "rank": 37,
+      "weighted": 6.18,
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 6
+      },
+      "name": "How the Factory of the Future Is Reshaping the Economics of Manufacturing Competitiveness",
+      "source": "BCG AI",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://www.bcg.com/publications/2026/how-the-factory-of-the-future-reshapes-manufacturing"
+    },
+    {
+      "rank": 38,
+      "weighted": 6.07,
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 7,
+        "specificity": 7,
+        "audience_fit": 5
+      },
+      "name": "The AI Climate Hoax: Behind the Curtain of How Big Tech Greenwashes Impacts",
+      "source": "Algorithm Watch",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://algorithmwatch.org/en/ai-climate-hoax/"
+    },
+    {
+      "rank": 39,
+      "weighted": 6.07,
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 7,
+        "specificity": 7,
+        "audience_fit": 5
+      },
+      "name": "Weerstand bieden tegen objectificatie",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/2026/05/18/weerstand-bieden-tegen-objectificatie/"
+    },
+    {
+      "rank": 40,
+      "weighted": 6.0,
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 7,
+        "specificity": 5,
+        "audience_fit": 6
+      },
+      "name": "Leading in the Age of AI Agents: Managing the Machines That Manage Themselves",
+      "source": "BCG AI",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://www.bcg.com/publications/2025/machines-that-manage-themselves"
+    },
+    {
+      "rank": 41,
+      "weighted": 6.0,
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 7,
+        "specificity": 5,
+        "audience_fit": 6
+      },
+      "name": "BCG AI Radar 2026: As AI Investments Surge, CEOs Take the Lead",
+      "source": "BCG AI",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://www.bcg.com/publications/2026/as-ai-investments-surge-ceos-take-the-lead"
+    },
+    {
+      "rank": 42,
+      "weighted": 6.0,
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 7,
+        "specificity": 5,
+        "audience_fit": 6
+      },
+      "name": "How AI Is Paying Off in the Tech Function",
+      "source": "BCG AI",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://www.bcg.com/publications/2026/how-ai-is-paying-off-in-the-tech-function"
+    },
+    {
+      "rank": 43,
+      "weighted": 5.89,
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 8,
+        "specificity": 5,
+        "audience_fit": 5
+      },
+      "name": "Lawmakers pile pressure on Commission over AI envoy appointment",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.eu/article/lawmakers-pile-pressure-on-commission-over-ai-envoy-appointment/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 44,
+      "weighted": 5.89,
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 5
+      },
+      "name": "Anthropic schakelt geavanceerde AI-modellen uit op last van regering-Trump",
+      "source": "NOS Tech",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2618372"
+    },
+    {
+      "rank": 45,
+      "weighted": 5.89,
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 5
+      },
+      "name": "How to actually protect against digital sexualized violence",
+      "source": "Algorithm Watch",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://algorithmwatch.org/en/how-to-actually-protect-against-digital-sexualized-violence/"
+    },
+    {
+      "rank": 46,
+      "weighted": 5.82,
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 7,
+        "specificity": 4,
+        "audience_fit": 6
+      },
+      "name": "The lawsuits that could give AI its ‘Big Tobacco’ moment",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.com/news/2026/06/06/the-lawsuits-that-could-give-ai-its-big-tobacco-moment-00951764?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 47,
+      "weighted": 5.71,
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 7,
+        "specificity": 5,
+        "audience_fit": 5
+      },
+      "name": "Summary: Could AI Chatbots influence a Government’s Decisions?",
+      "source": "Algorithm Watch",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://algorithmwatch.org/en/summary-ai-chatbots-influence-governments-decisions/"
+    },
+    {
+      "rank": 48,
+      "weighted": 5.71,
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 7,
+        "specificity": 5,
+        "audience_fit": 5
+      },
+      "name": "Nederland moet de Europese Commissie herinneren aan wiens kant ze moet staan",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/2026/04/09/nederland-moet-de-europese-commissie-herinneren-aan-wiens-kant-ze-moet-staan/"
+    },
+    {
+      "rank": 49,
+      "weighted": 5.53,
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 7,
+        "specificity": 4,
+        "audience_fit": 5
+      },
+      "name": "Anthropic backs mandatory testing for frontier AI models",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.com/news/2026/06/10/anthropic-backs-mandatory-vetting-for-frontier-ai-models-00957632?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 50,
+      "weighted": 5.53,
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 7,
+        "specificity": 4,
+        "audience_fit": 5
+      },
+      "name": "Maybe there is no AI bubble",
+      "source": "Algorithm Watch",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://algorithmwatch.org/en/maybe-there-is-no-ai-bubble/"
+    },
+    {
+      "rank": 51,
+      "weighted": 5.46,
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 5,
+        "specificity": 4,
+        "audience_fit": 6
+      },
+      "name": "Het mkb runt  HR nog via WhatsApp en Excel",
+      "source": "MTsprout",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://mtsprout.nl/partners/het-mkb-runt-hr-nog-via-whatsapp-en-excel"
+    },
+    {
+      "rank": 52,
+      "weighted": 4.61,
+      "scores": {
+        "relevance": 4,
+        "trustworthiness": 8,
+        "specificity": 5,
+        "audience_fit": 3
+      },
+      "name": "Researchers Worldwide Compete to Shape the Future of AI in Organizations",
+      "source": "Stanford HAI",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://hai.stanford.edu/news/researchers-worldwide-compete-to-shape-the-future-of-ai-in-organizations"
+    },
+    {
+      "rank": 53,
+      "weighted": 4.54,
+      "scores": {
+        "relevance": 4,
+        "trustworthiness": 8,
+        "specificity": 3,
+        "audience_fit": 4
+      },
+      "name": "Stanford HAI Launches AI and Organizations Lab to Study Science of AI in the Workplace",
+      "source": "Stanford HAI",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://hai.stanford.edu/news/stanford-hai-launches-ai-and-organizations-lab-to-study-science-of-ai-in-the-workplace"
+    },
+    {
+      "rank": 54,
+      "weighted": 4.43,
+      "scores": {
+        "relevance": 4,
+        "trustworthiness": 7,
+        "specificity": 5,
+        "audience_fit": 3
+      },
+      "name": "Could AI Chatbots influence a Government’s Decisions?",
+      "source": "Algorithm Watch",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://algorithmwatch.org/en/could-ai-chatbots-influence-governments/"
+    },
+    {
+      "rank": 55,
+      "weighted": 4.33,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 9,
+        "specificity": 6,
+        "audience_fit": 2
+      },
+      "name": "Reading Today’s Headlines Through AI: A Real-Time Audit of Six Commercial Chatbots",
+      "source": "Stanford HAI",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://hai.stanford.edu/news/reading-todays-headlines-through-ai-a-real-time-audit-of-six-commercial-chatbots"
+    },
+    {
+      "rank": 56,
+      "weighted": 4.33,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 8,
+        "specificity": 7,
+        "audience_fit": 2
+      },
+      "name": "Studenten gewaarschuwd voor phishing na hack softwarebedrijf",
+      "source": "NOS Tech",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2613377"
+    },
+    {
+      "rank": 57,
+      "weighted": 4.25,
+      "scores": {
+        "relevance": 4,
+        "trustworthiness": 8,
+        "specificity": 3,
+        "audience_fit": 3
+      },
+      "name": "Apply AI Webinar on AI for Cultural, Creative and Media Sectors",
+      "source": "European Commission Digital Strategy",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-webinar-ai-cultural-creative-and-media-sectors"
+    },
+    {
+      "rank": 58,
+      "weighted": 4.15,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 8,
+        "specificity": 6,
+        "audience_fit": 2
+      },
+      "name": "EU orders Meta to reopen WhatsApp to AI rivals for free",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.eu/article/eu-orders-meta-to-reopen-whatsapp-to-ai-rivals-for-free/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 59,
+      "weighted": 4.07,
+      "scores": {
+        "relevance": 4,
+        "trustworthiness": 7,
+        "specificity": 3,
+        "audience_fit": 3
+      },
+      "name": "Google DeepMind chose these startups for its first robotics accelerator",
+      "source": "Sifted",
+      "tag": "news",
+      "language": "en",
+      "url": "https://sifted.eu/articles/google-deepmind-chose-these-startups-for-its-first-robotics-accelerator/"
+    },
+    {
+      "rank": 60,
+      "weighted": 4.07,
+      "scores": {
+        "relevance": 4,
+        "trustworthiness": 7,
+        "specificity": 3,
+        "audience_fit": 3
+      },
+      "name": "EU turns to Brazil, South Korea to counter US tech dominance",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.eu/article/eu-counter-us-tech-reliance-henna-virkkunen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 61,
+      "weighted": 3.97,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 8,
+        "specificity": 5,
+        "audience_fit": 2
+      },
+      "name": "New Approach to Scaling Laws Could Change How AI Models Are Trained",
+      "source": "Stanford HAI",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://hai.stanford.edu/news/new-approach-to-scaling-laws-could-change-how-ai-models-are-trained"
+    },
+    {
+      "rank": 62,
+      "weighted": 3.97,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 2
+      },
+      "name": "AI Coding Agents Fail at Teamwork",
+      "source": "Stanford HAI",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://hai.stanford.edu/news/ai-coding-agents-fail-at-teamwork"
+    },
+    {
+      "rank": 63,
+      "weighted": 3.89,
+      "scores": {
+        "relevance": 4,
+        "trustworthiness": 6,
+        "specificity": 3,
+        "audience_fit": 3
+      },
+      "name": "AI probably does lead to more computer security disasters",
+      "source": "Algorithm Watch",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://algorithmwatch.org/en/ai-probably-does-lead-to-more-computer-security-disasters/"
+    },
+    {
+      "rank": 64,
+      "weighted": 3.79,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 8,
+        "specificity": 4,
+        "audience_fit": 2
+      },
+      "name": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "source": "MIT Technology Review",
+      "tag": "news",
+      "language": "en",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
+    },
+    {
+      "rank": 65,
+      "weighted": 3.79,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 8,
+        "specificity": 4,
+        "audience_fit": 2
+      },
+      "name": "https://hai.stanford.edu/news/state-policymakers-divided-over-how-to-address-ai-job-loss-fears",
+      "source": "Stanford HAI",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://hai.stanford.edu/news/state-policymakers-divided-over-how-to-address-ai-job-loss-fears"
+    },
+    {
+      "rank": 66,
+      "weighted": 3.79,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 7,
+        "specificity": 5,
+        "audience_fit": 2
+      },
+      "name": "Brief aan Meta: stop met willekeurige accountblokkades",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/2026/05/20/brief-aan-meta-stop-met-willekeurige-accountblokkades/"
+    },
+    {
+      "rank": 67,
+      "weighted": 3.71,
+      "scores": {
+        "relevance": 4,
+        "trustworthiness": 5,
+        "specificity": 3,
+        "audience_fit": 3
+      },
+      "name": "AI upskilling can transform Spain’s economy",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.eu/sponsored-content/ai-upskilling-can-transform-spains-economy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 68,
+      "weighted": 3.69,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 1
+      },
+      "name": "Listening with Attention: Entropy-Guided Explainability for Transformer-Based Audio Models",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14647v1"
+    },
+    {
+      "rank": 69,
+      "weighted": 3.69,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 1
+      },
+      "name": "Characterizing Cultural Localization in AI-Generated Stories",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14626v1"
+    },
+    {
+      "rank": 70,
+      "weighted": 3.62,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 2
+      },
+      "name": "Florida sleept ChatGPT-ontwikkelaar OpenAI voor de rechter",
+      "source": "NOS Tech",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2616818"
+    },
+    {
+      "rank": 71,
+      "weighted": 3.61,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 7,
+        "specificity": 4,
+        "audience_fit": 2
+      },
+      "name": "Von der Leyen’s AI pick triggers conflict-of-interest criticism",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.eu/article/ursula-von-der-leyen-european-commission-ai-pick-criticism-conflict-of-interest-jim-hagemann-snabe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 72,
+      "weighted": 3.61,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 6,
+        "specificity": 5,
+        "audience_fit": 2
+      },
+      "name": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+      "source": "TechCrunch AI",
+      "tag": "news",
+      "language": "en",
+      "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/"
+    },
+    {
+      "rank": 73,
+      "weighted": 3.61,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 6,
+        "specificity": 5,
+        "audience_fit": 2
+      },
+      "name": "Teaching Machine Learning to Software Engineers",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14618v1"
+    },
+    {
+      "rank": 74,
+      "weighted": 3.61,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 6,
+        "specificity": 5,
+        "audience_fit": 2
+      },
+      "name": "How AI Can Reshape Distributed Sales Channels in Emerging Markets",
+      "source": "BCG AI",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://www.bcg.com/publications/2026/how-ai-can-reshape-sales-channels-in-emerging-markets"
+    },
+    {
+      "rank": 75,
+      "weighted": 3.61,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 5,
+        "specificity": 6,
+        "audience_fit": 2
+      },
+      "name": "Hoe overleef je de Valley of Death? ‘Een week van tevoren hoorden we dat de deal niet doorging’",
+      "source": "MTsprout",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://mtsprout.nl/groei/financiering/doorgroeien-als-deeptech-scaleup-valley-of-death"
+    },
+    {
+      "rank": 76,
+      "weighted": 3.6,
+      "scores": {
+        "relevance": 0,
+        "trustworthiness": 10,
+        "specificity": 10,
+        "audience_fit": 0
+      },
+      "name": "Pleegvaders krijgen celstraf voor ontucht met kinderen en hond",
+      "source": "NOS Nieuws",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2618712"
+    },
+    {
+      "rank": 77,
+      "weighted": 3.6,
+      "scores": {
+        "relevance": 0,
+        "trustworthiness": 10,
+        "specificity": 10,
+        "audience_fit": 0
+      },
+      "name": "Taty Almeida (95) overleden, gezicht van Argentijnse actiegroep Dwaze Moeders",
+      "source": "NOS Nieuws",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2618640"
+    },
+    {
+      "rank": 78,
+      "weighted": 3.52,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 9,
+        "audience_fit": 1
+      },
+      "name": "Gaze Heads: How VLMs Look at What They Describe",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14703v1"
+    },
+    {
+      "rank": 79,
+      "weighted": 3.52,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 9,
+        "audience_fit": 1
+      },
+      "name": "Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14699v1"
+    },
+    {
+      "rank": 80,
+      "weighted": 3.51,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 8,
+        "specificity": 6,
+        "audience_fit": 1
+      },
+      "name": "Apple blames EU rules as it withholds new Siri AI from European devices",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.eu/article/apple-blames-eu-rules-as-it-withholds-new-siri-ai-from-european-devices/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 81,
+      "weighted": 3.51,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 7,
+        "specificity": 7,
+        "audience_fit": 1
+      },
+      "name": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "source": "TechCrunch AI",
+      "tag": "news",
+      "language": "en",
+      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/"
+    },
+    {
+      "rank": 82,
+      "weighted": 3.51,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 8,
+        "audience_fit": 1
+      },
+      "name": "ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14697v1"
+    },
+    {
+      "rank": 83,
+      "weighted": 3.43,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 6,
+        "specificity": 4,
+        "audience_fit": 2
+      },
+      "name": "Podcast De Dag: Googelen gaat fundamenteel veranderen",
+      "source": "NOS Tech",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2616181"
+    },
+    {
+      "rank": 84,
+      "weighted": 3.43,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 6,
+        "specificity": 4,
+        "audience_fit": 2
+      },
+      "name": "Protest tegen AI groeit: 'Bizarre implicaties als het slimmer wordt dan wij'",
+      "source": "NOS Tech",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2613730"
+    },
+    {
+      "rank": 85,
+      "weighted": 3.43,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 6,
+        "specificity": 4,
+        "audience_fit": 2
+      },
+      "name": "Kort: Europese netwerktech-alliantie ziet licht, Futureproof Group lijft WSB Solutions in (en meer)",
+      "source": "Computable",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://www.computable.nl/2026/06/15/kort-europese-netwerktech-alliantie-ziet-licht-futureproof-group-lijft-wsb-solutions-in-en-meer/"
+    },
+    {
+      "rank": 86,
+      "weighted": 3.43,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 6,
+        "specificity": 4,
+        "audience_fit": 2
+      },
+      "name": "Samsung backs industrial robotics startup Theker in €85m round",
+      "source": "Sifted",
+      "tag": "news",
+      "language": "en",
+      "url": "https://sifted.eu/articles/theker-industrial-robotics-85m-series-a/"
+    },
+    {
+      "rank": 87,
+      "weighted": 3.43,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 6,
+        "specificity": 4,
+        "audience_fit": 2
+      },
+      "name": "Neura Robotics raises $1.4bn backed by Amazon, Nvidia and Qualcomm",
+      "source": "Sifted",
+      "tag": "news",
+      "language": "en",
+      "url": "https://sifted.eu/articles/neura-robotics-1-4bn-series-c/"
+    },
+    {
+      "rank": 88,
+      "weighted": 3.43,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 6,
+        "specificity": 4,
+        "audience_fit": 2
+      },
+      "name": "Where the army does not use AI",
+      "source": "Algorithm Watch",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://algorithmwatch.org/en/where-the-army-does-not-use-ai/"
+    },
+    {
+      "rank": 89,
+      "weighted": 3.43,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 6,
+        "specificity": 4,
+        "audience_fit": 2
+      },
+      "name": "Rechter stelt Google en Meta aansprakelijk voor socialemediaverslaving",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/podcast/rechter-stelt-google-en-meta-aansprakelijk-voor-socialemediaverslaving/"
+    },
+    {
+      "rank": 90,
+      "weighted": 3.43,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 6,
+        "specificity": 4,
+        "audience_fit": 2
+      },
+      "name": "Plaats winst niet boven het welzijn van TikTok- en Instagram-gebruikers",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/2026/03/30/plaats-winst-niet-boven-het-welzijn-van-tiktok-en-instagram-gebruikers/"
+    },
+    {
+      "rank": 91,
+      "weighted": 3.43,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 6,
+        "specificity": 4,
+        "audience_fit": 2
+      },
+      "name": "Will AI Become the Best Car Sales Advisor?",
+      "source": "BCG AI",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://www.bcg.com/publications/2025/will-ai-become-best-car-sales-advisor"
+    },
+    {
+      "rank": 92,
+      "weighted": 3.34,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 1
+      },
+      "name": "Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14672v1"
+    },
+    {
+      "rank": 93,
+      "weighted": 3.34,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 1
+      },
+      "name": "A Complexity Measure for Active Learning in Multi-group Mean Estimation",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14690v1"
+    },
+    {
+      "rank": 94,
+      "weighted": 3.33,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 1
+      },
+      "name": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+      "source": "TechCrunch AI",
+      "tag": "news",
+      "language": "en",
+      "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/"
+    },
+    {
+      "rank": 95,
+      "weighted": 3.33,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 1
+      },
+      "name": "Group calls for ban on barn floors above manure pits after animal deaths",
+      "source": "NL Times",
+      "tag": "dutch_news",
+      "language": "en",
+      "url": "https://nltimes.nl/2026/06/15/group-calls-ban-barn-floors-manure-pits-animal-deaths"
+    },
+    {
+      "rank": 96,
+      "weighted": 3.33,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 7,
+        "audience_fit": 1
+      },
+      "name": "Giving AI a Headache: Acoustic Adversarial Attacks to Computer Vision Applications",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14658v1"
+    },
+    {
+      "rank": 97,
+      "weighted": 3.33,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 7,
+        "audience_fit": 1
+      },
+      "name": "Abstracting Cross-Domain Action Sequences into Interpretable Workflows",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14654v1"
+    },
+    {
+      "rank": 98,
+      "weighted": 3.33,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 7,
+        "audience_fit": 1
+      },
+      "name": "From Self-Supervised Speech Models to Mixture-of-Experts for Robust Anti-Spoofing",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14639v1"
+    },
+    {
+      "rank": 99,
+      "weighted": 3.33,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 7,
+        "audience_fit": 1
+      },
+      "name": "The Self-Aware Body: A User-Centered Framework for Designing Therapeutic Sonic Interactions",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14664v1"
+    },
+    {
+      "rank": 100,
+      "weighted": 3.33,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 5,
+        "specificity": 8,
+        "audience_fit": 1
+      },
+      "name": "HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillation Framework for Efficient Fire Classification",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14684v1"
+    },
+    {
+      "rank": 101,
+      "weighted": 3.26,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 7,
+        "specificity": 4,
+        "audience_fit": 2
+      },
+      "name": "Anthropic suspends access to latest AI models following US order",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.eu/article/anthropic-suspends-access-to-latest-ai-models-following-us-order/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 102,
+      "weighted": 3.26,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 7,
+        "specificity": 4,
+        "audience_fit": 2
+      },
+      "name": "Why Stanford Is Restructuring For AI’s Next Era",
+      "source": "Stanford HAI",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://hai.stanford.edu/news/why-stanford-is-restructuring-for-ais-next-era"
+    },
+    {
+      "rank": 103,
+      "weighted": 3.25,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 5,
+        "specificity": 4,
+        "audience_fit": 2
+      },
+      "name": "Mistral in talks to raise at €20bn valuation, reports say",
+      "source": "Sifted",
+      "tag": "news",
+      "language": "en",
+      "url": "https://sifted.eu/articles/report-mistral-raise-20bn-valuation/"
+    },
+    {
+      "rank": 104,
+      "weighted": 3.25,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 4,
+        "specificity": 5,
+        "audience_fit": 2
+      },
+      "name": "Mistral is rumored to be raising €3B at €20B valuation",
+      "source": "TechCrunch AI",
+      "tag": "news",
+      "language": "en",
+      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/"
+    },
+    {
+      "rank": 105,
+      "weighted": 3.23,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 9,
+        "audience_fit": 0
+      },
+      "name": "Interfacial mass transfer resistance at fluid-fluid interfaces",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14678v1"
+    },
+    {
+      "rank": 106,
+      "weighted": 3.16,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 8,
+        "audience_fit": 1
+      },
+      "name": "Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14688v1"
+    },
+    {
+      "rank": 107,
+      "weighted": 3.16,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 8,
+        "audience_fit": 1
+      },
+      "name": "When Good Verifiers Go Bad: Self-Improving VLMs Can Regress on New Tasks",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14629v1"
+    },
+    {
+      "rank": 108,
+      "weighted": 3.16,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 8,
+        "audience_fit": 1
+      },
+      "name": "OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14702v1"
+    },
+    {
+      "rank": 109,
+      "weighted": 3.16,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 8,
+        "audience_fit": 1
+      },
+      "name": "RATS! Patches Talk Through Registers: Emergent Parts in Register Attention Transformers",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14701v1"
+    },
+    {
+      "rank": 110,
+      "weighted": 3.16,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 8,
+        "audience_fit": 1
+      },
+      "name": "Optimal Hidden-Target Learning for Online Inventory Optimization on General Convex Sets",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14679v1"
+    },
+    {
+      "rank": 111,
+      "weighted": 3.16,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 8,
+        "audience_fit": 1
+      },
+      "name": "AgentSpec: Understanding Embodied Agent Scaffolds Through Controlled Composition",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14674v1"
+    },
+    {
+      "rank": 112,
+      "weighted": 3.16,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 8,
+        "audience_fit": 1
+      },
+      "name": "Decoding Semantic Categories from Picture-Naming EEG",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14614v1"
+    },
+    {
+      "rank": 113,
+      "weighted": 3.15,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 7,
+        "specificity": 5,
+        "audience_fit": 1
+      },
+      "name": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+      "source": "TechCrunch AI",
+      "tag": "news",
+      "language": "en",
+      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/"
+    },
+    {
+      "rank": 114,
+      "weighted": 3.15,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 7,
+        "specificity": 5,
+        "audience_fit": 1
+      },
+      "name": "Inside soccer’s data renaissance",
+      "source": "MIT Technology Review",
+      "tag": "news",
+      "language": "en",
+      "url": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/"
+    },
+    {
+      "rank": 115,
+      "weighted": 3.15,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 7,
+        "specificity": 5,
+        "audience_fit": 1
+      },
+      "name": "Today's AI Talks Like “Nobody.” New Research Gives It Real Personality.",
+      "source": "Stanford HAI",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://hai.stanford.edu/news/todays-ai-talks-like-nobody-new-research-gives-it-real-personality"
+    },
+    {
+      "rank": 116,
+      "weighted": 3.15,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 6,
+        "audience_fit": 1
+      },
+      "name": "A satellite just learned to find things on its own — here’s what that means",
+      "source": "TechCrunch AI",
+      "tag": "news",
+      "language": "en",
+      "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/"
+    },
+    {
+      "rank": 117,
+      "weighted": 3.15,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 6,
+        "audience_fit": 1
+      },
+      "name": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+      "source": "TechCrunch AI",
+      "tag": "news",
+      "language": "en",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/"
+    },
+    {
+      "rank": 118,
+      "weighted": 3.15,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 6,
+        "audience_fit": 1
+      },
+      "name": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "source": "TechCrunch AI",
+      "tag": "news",
+      "language": "en",
+      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/"
+    },
+    {
+      "rank": 119,
+      "weighted": 3.15,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 6,
+        "audience_fit": 1
+      },
+      "name": "NS €49 summer pass launch overwhelms site as some struggle to order it, sales top 20,000",
+      "source": "NL Times",
+      "tag": "dutch_news",
+      "language": "en",
+      "url": "https://nltimes.nl/2026/06/15/ns-eu49-summer-pass-launch-overwhelms-site-struggle-order-sales-top-20000"
+    },
+    {
+      "rank": 120,
+      "weighted": 3.15,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 5,
+        "specificity": 7,
+        "audience_fit": 1
+      },
+      "name": "CottonLeafVision: An Explainable and Robust Deep Learning Framework for Cotton Leaf Disease Classification",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14686v1"
+    },
+    {
+      "rank": 121,
+      "weighted": 3.08,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 7,
+        "specificity": 3,
+        "audience_fit": 2
+      },
+      "name": "EU trade chief calls for new tool to diversify supply away from China",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.eu/article/eu-trade-chief-maros-sefcovic-calls-for-new-tool-to-diversify-sources-of-supply/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 122,
+      "weighted": 3.05,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 8,
+        "specificity": 7,
+        "audience_fit": 0
+      },
+      "name": "Europa spreekt schande van Russische aanval op historisch klooster in Kyiv",
+      "source": "NOS Nieuws",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2618687"
+    },
+    {
+      "rank": 123,
+      "weighted": 3.05,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 8,
+        "specificity": 7,
+        "audience_fit": 0
+      },
+      "name": "Openbaar Ministerie haalt site met stiekem gefilmde misbruikbeelden Motherless offline",
+      "source": "NOS Tech",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2613560"
+    },
+    {
+      "rank": 124,
+      "weighted": 3.05,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 0
+      },
+      "name": "Projectontwikkelaar moet tonnen betalen aan bewoners om jarenlange lekkage",
+      "source": "NOS Nieuws",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2618681"
+    },
+    {
+      "rank": 125,
+      "weighted": 3.05,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 0
+      },
+      "name": "Hague court gives ex-Syrian interrogator to 26 years for crimes including rape, torture",
+      "source": "NL Times",
+      "tag": "dutch_news",
+      "language": "en",
+      "url": "https://nltimes.nl/2026/06/15/hague-court-gives-ex-syrian-interrogator-26-years-crimes-including-rape-torture"
+    },
+    {
+      "rank": 126,
+      "weighted": 3.05,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 0
+      },
+      "name": "Some 20,000 parents wrongly compensated as victims of benefits scandal, sources say",
+      "source": "NL Times",
+      "tag": "dutch_news",
+      "language": "en",
+      "url": "https://nltimes.nl/2026/06/15/20000-parents-wrongly-compensated-victims-benefits-scandal-sources-say"
+    },
+    {
+      "rank": 127,
+      "weighted": 3.05,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 0
+      },
+      "name": "Leptonic flavour transfer: a new window on flavour gauge symmetries",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14689v1"
+    },
+    {
+      "rank": 128,
+      "weighted": 3.05,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 0
+      },
+      "name": "Lehner's operator norm formulas, semidefinite programming, and spiked matrix models",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14687v1"
+    },
+    {
+      "rank": 129,
+      "weighted": 3.05,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 0
+      },
+      "name": "Forcing with Invariant Measures",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14675v1"
+    },
+    {
+      "rank": 130,
+      "weighted": 3.05,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 0
+      },
+      "name": "Online Convex Optimization with Sublinear Noisy Probes",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14640v1"
+    },
+    {
+      "rank": 131,
+      "weighted": 2.98,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 7,
+        "audience_fit": 1
+      },
+      "name": "Persona-Pruner: Sculpting Lightweight Models for Role-Playing",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14695v1"
+    },
+    {
+      "rank": 132,
+      "weighted": 2.98,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 7,
+        "audience_fit": 1
+      },
+      "name": "AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14694v1"
+    },
+    {
+      "rank": 133,
+      "weighted": 2.98,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 7,
+        "audience_fit": 1
+      },
+      "name": "CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14691v1"
+    },
+    {
+      "rank": 134,
+      "weighted": 2.98,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 7,
+        "audience_fit": 1
+      },
+      "name": "Compressed Computation is (probably) not Computation in Superposition",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14673v1"
+    },
+    {
+      "rank": 135,
+      "weighted": 2.98,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 5,
+        "specificity": 8,
+        "audience_fit": 1
+      },
+      "name": "Moonlight in Latent Space: Chirality and Structural Correspondence Between Beethoven's Op. 27 No. 2 and Machine Learning Mechanisms",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14612v1"
+    },
+    {
+      "rank": 136,
+      "weighted": 2.97,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 7,
+        "specificity": 4,
+        "audience_fit": 1
+      },
+      "name": "Wat kun je doen om datadiefstal te voorkomen?",
+      "source": "NOS Tech",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2614162"
+    },
+    {
+      "rank": 137,
+      "weighted": 2.97,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 7,
+        "specificity": 4,
+        "audience_fit": 1
+      },
+      "name": "Canada bids to lead middle powers in AI sovereignty race",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.com/news/2026/06/04/mark-carney-canada-ai-strategy-pope-00949974?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 138,
+      "weighted": 2.97,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 5,
+        "audience_fit": 1
+      },
+      "name": "The AI layoff wave is becoming a powder keg",
+      "source": "TechCrunch AI",
+      "tag": "news",
+      "language": "en",
+      "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/"
+    },
+    {
+      "rank": 139,
+      "weighted": 2.97,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 5,
+        "audience_fit": 1
+      },
+      "name": "As Anthropic suspends access to new models, India debates its AI future",
+      "source": "TechCrunch AI",
+      "tag": "news",
+      "language": "en",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/"
+    },
+    {
+      "rank": 140,
+      "weighted": 2.97,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 5,
+        "audience_fit": 1
+      },
+      "name": "Explosion, violence among drunk service members at military bases prompt Ministry review",
+      "source": "NL Times",
+      "tag": "dutch_news",
+      "language": "en",
+      "url": "https://nltimes.nl/2026/06/15/explosion-violence-among-drunk-service-members-military-bases-prompt-ministry-review"
+    },
+    {
+      "rank": 141,
+      "weighted": 2.97,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 5,
+        "audience_fit": 1
+      },
+      "name": "Expert-Driven Survival Machines: Improving Stratification and Interpretability in Multiple Clinical Cohorts",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14608v1"
+    },
+    {
+      "rank": 142,
+      "weighted": 2.97,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 5,
+        "audience_fit": 1
+      },
+      "name": "A Faster Path to Value from AI in the Commercial Vehicle Aftermarket",
+      "source": "BCG AI",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://www.bcg.com/publications/2026/faster-ai-value-in-the-commercial-vehicle-aftermarket"
+    },
+    {
+      "rank": 143,
+      "weighted": 2.97,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 5,
+        "specificity": 6,
+        "audience_fit": 1
+      },
+      "name": "TikTok Shop landt in Nederland: nu eens geen concurrentie uit China, maar een verkoopkans",
+      "source": "MTsprout",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://mtsprout.nl/groei/groeistrategie/tiktok-shop-china-nederland-e-commerce-verkoopkans"
+    },
+    {
+      "rank": 144,
+      "weighted": 2.97,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 5,
+        "specificity": 6,
+        "audience_fit": 1
+      },
+      "name": "Chinese koffieprijsvechter die Starbucks hoofdpijn bezorgt, komt nu ook naar Nederland",
+      "source": "MTsprout",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://mtsprout.nl/groei/cotti-coffee-nederland"
+    },
+    {
+      "rank": 145,
+      "weighted": 2.9,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 3,
+        "audience_fit": 2
+      },
+      "name": "EDIH Summit 2026: Strengthening the AI Innovation Ecosystem",
+      "source": "European Commission Digital Strategy",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://digital-strategy.ec.europa.eu/en/events/edih-summit-2026-strengthening-ai-innovation-ecosystem"
+    },
+    {
+      "rank": 146,
+      "weighted": 2.9,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 5,
+        "specificity": 4,
+        "audience_fit": 2
+      },
+      "name": "Must reads week 24: Fifa-baas Gianni Infantino, Johan van Mil verlaat Peak en hoe overleef je de Valley of Death?",
+      "source": "MTsprout",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://mtsprout.nl/leiderschap/must-reads-week-24-fifa-baas-gianni-infantino-johan-van-mil-peak-valley-of-death"
+    },
+    {
+      "rank": 147,
+      "weighted": 2.89,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 5,
+        "specificity": 2,
+        "audience_fit": 2
+      },
+      "name": "Can France’s Stargate-style buildout succeed?",
+      "source": "Sifted",
+      "tag": "news",
+      "language": "en",
+      "url": "https://sifted.eu/articles/france-stargate-ai-data-centres/"
+    },
+    {
+      "rank": 148,
+      "weighted": 2.87,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 8,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "name": "Bestellen goedkoop zomerticket gaat moeilijk door drukte op website NS",
+      "source": "NOS Nieuws",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2618689"
+    },
+    {
+      "rank": 149,
+      "weighted": 2.87,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 8,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "name": "Tweede Kamer wil 'passend gebaar' voor erkenning leed Molukkers",
+      "source": "NOS Nieuws",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2618686"
+    },
+    {
+      "rank": 150,
+      "weighted": 2.87,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 8,
+        "audience_fit": 0
+      },
+      "name": "Spin disorder competing with positional symmetry breaking governs the metal-insulator behavior in oxide paramagnets",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14624v1"
+    },
+    {
+      "rank": 151,
+      "weighted": 2.79,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 7,
+        "specificity": 3,
+        "audience_fit": 1
+      },
+      "name": "The Download: soccer’s data renaissance and China’s big nuclear plans",
+      "source": "MIT Technology Review",
+      "tag": "news",
+      "language": "en",
+      "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/"
+    },
+    {
+      "rank": 152,
+      "weighted": 2.79,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 7,
+        "specificity": 3,
+        "audience_fit": 1
+      },
+      "name": "NATO conscripts industry to fight Russia’s hybrid aggression",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.eu/article/nato-new-strategy-against-russian-hybrid-attacks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 153,
+      "weighted": 2.79,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 7,
+        "specificity": 3,
+        "audience_fit": 1
+      },
+      "name": "In gesprek met Karin Spaink",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/podcast/in-gesprek-met-karin-spaink/"
+    },
+    {
+      "rank": 154,
+      "weighted": 2.79,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 7,
+        "specificity": 3,
+        "audience_fit": 1
+      },
+      "name": "How AI is Transforming Scientific Discovery While Keeping Humans at the Center",
+      "source": "Stanford HAI",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://hai.stanford.edu/news/how-ai-is-transforming-scientific-discovery-while-keeping-humans-at-the-center"
+    },
+    {
+      "rank": 155,
+      "weighted": 2.79,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 4,
+        "audience_fit": 1
+      },
+      "name": "OpenAI faces investigation from state attorneys general",
+      "source": "TechCrunch AI",
+      "tag": "news",
+      "language": "en",
+      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/"
+    },
+    {
+      "rank": 156,
+      "weighted": 2.79,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 4,
+        "audience_fit": 1
+      },
+      "name": "Kort: Wantrouwen in niet‑Europese routers, cybercrimineel dol op remote access-tools (en meer)",
+      "source": "Computable",
+      "tag": "dutch_news",
+      "language": "en",
+      "url": "https://www.computable.nl/2026/06/12/kort-wantrouwen-in-niet-europese-routers-cybercrimineel-dol-op-remote-access-tools-en-meer/"
+    },
+    {
+      "rank": 157,
+      "weighted": 2.79,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 4,
+        "audience_fit": 1
+      },
+      "name": "Amazon is looking for the next generation of climate tech startups",
+      "source": "Sifted",
+      "tag": "news",
+      "language": "en",
+      "url": "https://sifted.eu/articles/amazon-next-generation-climate-tech-startups-brnd/"
+    },
+    {
+      "rank": 158,
+      "weighted": 2.79,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 4,
+        "audience_fit": 1
+      },
+      "name": "Inside the whirlwind 24 hours that led the White House to slap export controls on Anthropic",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.com/news/2026/06/13/inside-the-whirlwind-24-hours-that-led-the-white-house-to-slap-export-controls-on-anthropic-00961519?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 159,
+      "weighted": 2.79,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 4,
+        "audience_fit": 1
+      },
+      "name": "Bits of Freedom stand van zaken: ons jaarverslag staat online!",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/podcast/bits-of-freedom-stand-van-zaken-ons-jaarverslag-staat-online/"
+    },
+    {
+      "rank": 160,
+      "weighted": 2.79,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 4,
+        "audience_fit": 1
+      },
+      "name": "You weary giants of flesh and steel",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/2026/04/15/you-weary-giants-of-flesh-and-steel/"
+    },
+    {
+      "rank": 161,
+      "weighted": 2.71,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 4,
+        "specificity": 2,
+        "audience_fit": 2
+      },
+      "name": "’Tesla misleidt Europese instanties met veiligheidsclaims Full Self-Driving’",
+      "source": "Telegraaf",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://www.telegraaf.nl/lifestyle/onderweg/tesla-misleidt-europese-instanties-met-veiligheidsclaims-full-self-driving/157227551.html"
+    },
+    {
+      "rank": 162,
+      "weighted": 2.71,
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 4,
+        "specificity": 2,
+        "audience_fit": 2
+      },
+      "name": "Advanced AI models can ‘destroy the financial system,’ IMF boss warns",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.eu/article/advanced-ai-models-can-destroy-the-financial-system-imf-boss-warns/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 163,
+      "weighted": 2.7,
+      "scores": {
+        "relevance": 0,
+        "trustworthiness": 8,
+        "specificity": 7,
+        "audience_fit": 0
+      },
+      "name": "Zware verwoesting na nacht vol Russische aanvallen op Kyiv, beroemd klooster in brand",
+      "source": "NOS Nieuws",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2618634"
+    },
+    {
+      "rank": 164,
+      "weighted": 2.7,
+      "scores": {
+        "relevance": 0,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 0
+      },
+      "name": "In search for signals of the $D\\bar{D}$ bound state $X(3700)$ from study of the $B^+ \\to D^+ D^- K^+$, $B^0 \\to D^+ D^- K^0$ and $Λ_b \\to D^+ D^- Λ$ reactions",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14644v1"
+    },
+    {
+      "rank": 165,
+      "weighted": 2.69,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "name": "Schuldenlast failliete zakenman Hennie van der Most opgelopen naar 50 miljoen",
+      "source": "NOS Nieuws",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2618696"
+    },
+    {
+      "rank": 166,
+      "weighted": 2.69,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "name": "Musk verliest rechtszaak over koers van OpenAI",
+      "source": "NOS Tech",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2614904"
+    },
+    {
+      "rank": 167,
+      "weighted": 2.69,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "name": "Politie waarschuwt voor valse advertenties met hoge kortingen op Facebook en Instagram",
+      "source": "NOS Tech",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2614775"
+    },
+    {
+      "rank": 168,
+      "weighted": 2.69,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "name": "We want bigger cuts to EU budget than planned, richer countries say",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.eu/article/cuts-eu-budget-richer-countries/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 169,
+      "weighted": 2.69,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "name": "How Germany turned a fighter jet failure into an opportunity",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.eu/article/germany-defense-confidence-aerospace/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 170,
+      "weighted": 2.69,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "name": "Europe’s next fighter jet problem has no easy answer",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.eu/article/europe-future-combat-air-system-fighter-jet-problem/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 171,
+      "weighted": 2.69,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "name": "Vacature: Organizer (GESLOTEN)",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/2026/05/10/vacature-organizer/"
+    },
+    {
+      "rank": 172,
+      "weighted": 2.69,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "name": "Karin Spaink, mede-oprichter van Bits of Freedom, overleden",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/2026/05/08/karin-spaink-mede-oprichter-van-bits-of-freedom-overleden/"
+    },
+    {
+      "rank": 173,
+      "weighted": 2.69,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "name": "Wil je deelnemen aan onze focusgroep voor cyclusapp-gebruikers?",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/2026/04/01/wil-je-deelnemen-aan-onze-focusgroep-voor-cyclusapp-gebruikers/"
+    },
+    {
+      "rank": 174,
+      "weighted": 2.69,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 7,
+        "audience_fit": 0
+      },
+      "name": "Maasstad hospital technician accused of €21,000 fraud tied to Curaçao building project",
+      "source": "NL Times",
+      "tag": "dutch_news",
+      "language": "en",
+      "url": "https://nltimes.nl/2026/06/15/maasstad-hospital-technician-accused-eu21000-fraud-tied-curacao-building-project"
+    },
+    {
+      "rank": 175,
+      "weighted": 2.69,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 7,
+        "audience_fit": 0
+      },
+      "name": "Empowering Student Debugging in Parallel Programming with Execution Traces and Large Language Models",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14607v1"
+    },
+    {
+      "rank": 176,
+      "weighted": 2.69,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 7,
+        "audience_fit": 0
+      },
+      "name": "RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14700v1"
+    },
+    {
+      "rank": 177,
+      "weighted": 2.69,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 7,
+        "audience_fit": 0
+      },
+      "name": "Memento: Reconstruct to Remember for Consistent Long Video Generation",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14667v1"
+    },
+    {
+      "rank": 178,
+      "weighted": 2.69,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 5,
+        "specificity": 8,
+        "audience_fit": 0
+      },
+      "name": "Whole-Body Impedance Model Predictive Control for Safe Physical Human--Robot Interaction on Floating-Base Platforms",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14617v1"
+    },
+    {
+      "rank": 179,
+      "weighted": 2.69,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 5,
+        "specificity": 8,
+        "audience_fit": 0
+      },
+      "name": "Enigmatic Line Broadening During Solar Flares: Magnetic Field Broadening?",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14681v1"
+    },
+    {
+      "rank": 180,
+      "weighted": 2.62,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 4,
+        "audience_fit": 1
+      },
+      "name": "UK confirms social media ban for under-16s",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.eu/article/uk-announces-social-media-ban-for-under-16s/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 181,
+      "weighted": 2.62,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 5,
+        "audience_fit": 1
+      },
+      "name": "UK set to ban under-16s from social media, livestreaming, disappearing messages",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.eu/article/ministers-to-ban-under-16s-from-social-media-livestreaming-disappearing-messages/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 182,
+      "weighted": 2.61,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 3,
+        "audience_fit": 1
+      },
+      "name": "Can the UK roll out military AI at startup speed?",
+      "source": "Sifted",
+      "tag": "news",
+      "language": "en",
+      "url": "https://sifted.eu/articles/uk-defence-raid-rapid-ai-in-defence-taskforce/"
+    },
+    {
+      "rank": 183,
+      "weighted": 2.61,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 3,
+        "audience_fit": 1
+      },
+      "name": "OpenAI says China launched influence campaign to shape US attitudes on AI data centers",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.com/news/2026/06/10/openai-china-ai-data-centers-report-00957612?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 184,
+      "weighted": 2.61,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 3,
+        "audience_fit": 1
+      },
+      "name": "Meta shrugs off Trump’s idea for government ownership of AI",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.com/news/2026/06/10/meta-trump-government-ai-ownership-00956159?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 185,
+      "weighted": 2.61,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 3,
+        "audience_fit": 1
+      },
+      "name": "Anthropic releases a less-powerful version of its most advanced model",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.com/news/2026/06/09/anthropic-makes-mythos-level-ai-model-available-to-the-public-00954829?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 186,
+      "weighted": 2.61,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 3,
+        "audience_fit": 1
+      },
+      "name": "Opinie: Rechtszaken en wetgeving zijn hard nodig in de strijd tegen verslavende apps",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/2026/05/21/opinie-rechtszaken-wetgeving-nodig-in-strijd-tegen-verslavende-apps/"
+    },
+    {
+      "rank": 187,
+      "weighted": 2.61,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 5,
+        "specificity": 4,
+        "audience_fit": 1
+      },
+      "name": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "source": "TechCrunch AI",
+      "tag": "news",
+      "language": "en",
+      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/"
+    },
+    {
+      "rank": 188,
+      "weighted": 2.61,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 5,
+        "specificity": 4,
+        "audience_fit": 1
+      },
+      "name": "€360 miljoen extra voor deeptech – Tennet: stroomtekort neemt snel toe",
+      "source": "MTsprout",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://mtsprout.nl/nieuws/360-miljoen-extra-voor-deeptech-tennet-stroomtekort-neemt-snel-toe"
+    },
+    {
+      "rank": 189,
+      "weighted": 2.61,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 5,
+        "specificity": 4,
+        "audience_fit": 1
+      },
+      "name": "Beursgang SpaceX verandert ai‑­land­schap",
+      "source": "Computable",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://www.computable.nl/2026/06/15/beursgang-spacex-verandert-ai-landschap/"
+    },
+    {
+      "rank": 190,
+      "weighted": 2.61,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 5,
+        "specificity": 4,
+        "audience_fit": 1
+      },
+      "name": "Consumers Trust AI to Buy Better. Brands Need to Move Quickly.",
+      "source": "BCG AI",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://www.bcg.com/publications/2026/consumers-trust-ai-to-buy-better-brands-must-adapt"
+    },
+    {
+      "rank": 191,
+      "weighted": 2.51,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 8,
+        "specificity": 4,
+        "audience_fit": 0
+      },
+      "name": "Job titles of the future: Nature’s drug designer",
+      "source": "MIT Technology Review",
+      "tag": "news",
+      "language": "en",
+      "url": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/"
+    },
+    {
+      "rank": 192,
+      "weighted": 2.51,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 5,
+        "audience_fit": 0
+      },
+      "name": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
+      "source": "MIT Technology Review",
+      "tag": "news",
+      "language": "en",
+      "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/"
+    },
+    {
+      "rank": 193,
+      "weighted": 2.51,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 5,
+        "audience_fit": 0
+      },
+      "name": "Inside interoception: The hidden sense of how you feel inside",
+      "source": "MIT Technology Review",
+      "tag": "news",
+      "language": "en",
+      "url": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/"
+    },
+    {
+      "rank": 194,
+      "weighted": 2.51,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "name": "We zoeken jongeren voor ons jongerenteam",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/podcast/we-zoeken-jongeren-voor-ons-jongerenteam/"
+    },
+    {
+      "rank": 195,
+      "weighted": 2.44,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 4,
+        "audience_fit": 1
+      },
+      "name": "Gamification op Snapchat",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/podcast/gamification-op-snapchat/"
+    },
+    {
+      "rank": 196,
+      "weighted": 2.43,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 7,
+        "specificity": 1,
+        "audience_fit": 1
+      },
+      "name": "The Download: cutting AC emissions, and nature’s drug designer",
+      "source": "MIT Technology Review",
+      "tag": "news",
+      "language": "en",
+      "url": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/"
+    },
+    {
+      "rank": 197,
+      "weighted": 2.43,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 2,
+        "audience_fit": 1
+      },
+      "name": "Neura CEO on raising Europe’s biggest ever robotics round: ‘It’s not science fiction’",
+      "source": "Sifted",
+      "tag": "news",
+      "language": "en",
+      "url": "https://sifted.eu/articles/neura-robotics-ceo-interview-funding-round-tether/"
+    },
+    {
+      "rank": 198,
+      "weighted": 2.43,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 2,
+        "audience_fit": 1
+      },
+      "name": "‘It’s a hurricane warning’: Guardrails around powerful AI models may be too late",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.com/news/2026/06/07/frontier-ai-cybersecurity-china-race-00952786?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 199,
+      "weighted": 2.43,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 5,
+        "specificity": 3,
+        "audience_fit": 1
+      },
+      "name": "Paul Murphy leaves Lightspeed — but plans to keep investing",
+      "source": "Sifted",
+      "tag": "news",
+      "language": "en",
+      "url": "https://sifted.eu/articles/paul-murphy-lightspeed/"
+    },
+    {
+      "rank": 200,
+      "weighted": 2.43,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 5,
+        "specificity": 3,
+        "audience_fit": 1
+      },
+      "name": "London's AI talent war heats up as Cursor, Legora and Lovable expand",
+      "source": "Sifted",
+      "tag": "news",
+      "language": "en",
+      "url": "https://sifted.eu/articles/londons-ai-talent-war-heats-up-as-cursor-legora-and-lovable-expand/"
+    },
+    {
+      "rank": 201,
+      "weighted": 2.34,
+      "scores": {
+        "relevance": 0,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "name": "Two men suspected in Amsterdam explosion remain jailed; Third person released",
+      "source": "NL Times",
+      "tag": "dutch_news",
+      "language": "en",
+      "url": "https://nltimes.nl/2026/06/15/two-men-suspected-amsterdam-explosion-remain-jailed-third-person-released"
+    },
+    {
+      "rank": 202,
+      "weighted": 2.34,
+      "scores": {
+        "relevance": 0,
+        "trustworthiness": 5,
+        "specificity": 8,
+        "audience_fit": 0
+      },
+      "name": "PSV sells Ismael Saibari to Bayern Munich for record €55 million",
+      "source": "NL Times",
+      "tag": "dutch_news",
+      "language": "en",
+      "url": "https://nltimes.nl/2026/06/15/psv-sells-ismael-saibari-bayern-munich-record-eu55-million"
+    },
+    {
+      "rank": 203,
+      "weighted": 2.34,
+      "scores": {
+        "relevance": 0,
+        "trustworthiness": 5,
+        "specificity": 8,
+        "audience_fit": 0
+      },
+      "name": "Percolation of a rod-like particle in a static bed of spheres: trapping and passing",
+      "source": "arXiv",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "http://arxiv.org/abs/2606.14661v1"
+    },
+    {
+      "rank": 204,
+      "weighted": 2.33,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 4,
+        "audience_fit": 0
+      },
+      "name": "Why “reprogramming” is the buzziest approach to reversing aging right now",
+      "source": "MIT Technology Review",
+      "tag": "news",
+      "language": "en",
+      "url": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/"
+    },
+    {
+      "rank": 205,
+      "weighted": 2.33,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 4,
+        "audience_fit": 0
+      },
+      "name": "Gommers: gebrek aan personeel ook bij nieuwe pandemie probleem",
+      "source": "NOS Nieuws",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2618704"
+    },
+    {
+      "rank": 206,
+      "weighted": 2.33,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 4,
+        "audience_fit": 0
+      },
+      "name": "‘Pure stupidity’: Belgian PM slams Franco-German fighter jet failure",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.eu/article/pure-stupidity-belgian-pm-slams-franco-german-fighter-jet-failure/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 207,
+      "weighted": 2.33,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 5,
+        "audience_fit": 0
+      },
+      "name": "Klap voor KLM: stoelen businessclass moeten leeg blijven in nieuwe Airbus A350",
+      "source": "Telegraaf",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://www.telegraaf.nl/financieel/klap-voor-klm-stoelen-businessclass-moeten-leeg-blijven-in-nieuwe-airbus-a350/157232063.html"
+    },
+    {
+      "rank": 208,
+      "weighted": 2.33,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 5,
+        "audience_fit": 0
+      },
+      "name": "Netherlands open to helping secure Strait of Hormuz after possible US-Iran peace deal",
+      "source": "NL Times",
+      "tag": "dutch_news",
+      "language": "en",
+      "url": "https://nltimes.nl/2026/06/15/netherlands-open-helping-secure-strait-hormuz-possible-us-iran-peace-deal"
+    },
+    {
+      "rank": 209,
+      "weighted": 2.33,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 5,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "name": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "source": "TechCrunch AI",
+      "tag": "news",
+      "language": "en",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/"
+    },
+    {
+      "rank": 210,
+      "weighted": 2.33,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 5,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "name": "SpaceX IPO: Live updates on everything you need to know",
+      "source": "TechCrunch AI",
+      "tag": "news",
+      "language": "en",
+      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/"
+    },
+    {
+      "rank": 211,
+      "weighted": 2.33,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 5,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "name": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "source": "TechCrunch AI",
+      "tag": "news",
+      "language": "en",
+      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/"
+    },
+    {
+      "rank": 212,
+      "weighted": 2.33,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 5,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "name": "Vacature: Jongerenteam Bits of Freedom",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/2026/05/18/jongerenteam/"
+    },
+    {
+      "rank": 213,
+      "weighted": 2.25,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 4,
+        "specificity": 3,
+        "audience_fit": 1
+      },
+      "name": "Dear Microsoft, enough is enough",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.eu/sponsored-content/dear-microsoft-enough-is-enough/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 214,
+      "weighted": 2.16,
+      "scores": {
+        "relevance": 0,
+        "trustworthiness": 7,
+        "specificity": 5,
+        "audience_fit": 0
+      },
+      "name": "Afspraken tussen de VS en Iran zijn vooral het begin van nieuwe gesprekken",
+      "source": "NOS Nieuws",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2618684"
+    },
+    {
+      "rank": 215,
+      "weighted": 2.16,
+      "scores": {
+        "relevance": 0,
+        "trustworthiness": 5,
+        "specificity": 7,
+        "audience_fit": 0
+      },
+      "name": "Bloed, zweet en 'Iran-truths': wereldpolitiek in de marge kooigevecht Witte Huis",
+      "source": "NOS Nieuws",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2618669"
+    },
+    {
+      "rank": 216,
+      "weighted": 2.16,
+      "scores": {
+        "relevance": 0,
+        "trustworthiness": 5,
+        "specificity": 7,
+        "audience_fit": 0
+      },
+      "name": "Het turbulente leven van ex-international Jerry de Jong: de held van Heerenveen haalde als wissel bij PSV toch drie keer Oranje",
+      "source": "Telegraaf",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://www.telegraaf.nl/sport/voetbal/het-turbulente-leven-van-ex-international-jerry-de-jong-de-held-van-heerenveen-haalde-als-wissel-bij-psv-toch-drie-keer-oranje/157214458.html"
+    },
+    {
+      "rank": 217,
+      "weighted": 2.15,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 3,
+        "audience_fit": 0
+      },
+      "name": "Podcast De Dag: halen we met dit land meer Rusland naar de EU?",
+      "source": "NOS Nieuws",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2618700"
+    },
+    {
+      "rank": 218,
+      "weighted": 1.98,
+      "scores": {
+        "relevance": 0,
+        "trustworthiness": 5,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "name": "Feyenoord wil Giovanni van Bronckhorst aanstellen als nieuwe hoofdtrainer",
+      "source": "Telegraaf",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://www.telegraaf.nl/sport/voetbal/feyenoord-wil-giovanni-van-bronckhorst-aanstellen-als-nieuwe-hoofdtrainer/157217893.html"
+    },
+    {
+      "rank": 219,
+      "weighted": 1.98,
+      "scores": {
+        "relevance": 0,
+        "trustworthiness": 5,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "name": "Media: Oranje's chances dwindling after Japan draw, Sweden's 5-1 win over Tunisia",
+      "source": "NL Times",
+      "tag": "dutch_news",
+      "language": "en",
+      "url": "https://nltimes.nl/2026/06/15/media-oranjes-chances-dwindling-japan-draw-swedens-5-1-win-tunisia"
+    },
+    {
+      "rank": 220,
+      "weighted": 1.98,
+      "scores": {
+        "relevance": 0,
+        "trustworthiness": 5,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "name": "Vacature: Fondsenwerver donateurs & bedrijven (GESLOTEN)",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/2026/05/10/vacature-fondsenwerver-donateurs-bedrijven/"
+    },
+    {
+      "rank": 221,
+      "weighted": 1.97,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 2,
+        "audience_fit": 0
+      },
+      "name": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+      "source": "MIT Technology Review",
+      "tag": "news",
+      "language": "en",
+      "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/"
+    },
+    {
+      "rank": 222,
+      "weighted": 1.97,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 7,
+        "specificity": 2,
+        "audience_fit": 0
+      },
+      "name": "Tanks, guns and rocket launchers: The ties that bind the EU and South Korea",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.eu/article/tanks-guns-rocket-launchers-eu-south-korea/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 223,
+      "weighted": 1.97,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 5,
+        "specificity": 4,
+        "audience_fit": 0
+      },
+      "name": "Pleo lays off 50 employees in latest round of cuts",
+      "source": "Sifted",
+      "tag": "news",
+      "language": "en",
+      "url": "https://sifted.eu/articles/pleo-lays-off-50-employees/"
+    },
+    {
+      "rank": 224,
+      "weighted": 1.9,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 5,
+        "specificity": 2,
+        "audience_fit": 1
+      },
+      "name": "Newton Venture Program CEO Anu Adebajo on Europe’s ‘zombie funds’",
+      "source": "Sifted",
+      "tag": "news",
+      "language": "en",
+      "url": "https://sifted.eu/articles/anu-adebajo-podcast/"
+    },
+    {
+      "rank": 225,
+      "weighted": 1.89,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 5,
+        "specificity": 0,
+        "audience_fit": 1
+      },
+      "name": "Deel de Blijf Uit Mijn Digitale Onderbroek! campagne",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/2026/05/30/deel-de-blijf-uit-mijn-digitale-onderbroek-online/"
+    },
+    {
+      "rank": 226,
+      "weighted": 1.89,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 5,
+        "specificity": 0,
+        "audience_fit": 1
+      },
+      "name": "Campagne: Blijf Uit Mijn Digitale Onderbroek",
+      "source": "Bits of Freedom",
+      "tag": "policy_regulation",
+      "language": "nl",
+      "url": "https://www.bitsoffreedom.nl/2026/05/28/campagne-blijf-uit-mijn-digitale-onderbroek/"
+    },
+    {
+      "rank": 227,
+      "weighted": 1.89,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 5,
+        "specificity": 0,
+        "audience_fit": 1
+      },
+      "name": "From complexity to clarity: How CMOs can reclaim marketing to build competitive edge",
+      "source": "Capgemini Research",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://www.capgemini.com/insights/research-library/cmo-playbook-2025/"
+    },
+    {
+      "rank": 228,
+      "weighted": 1.89,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 5,
+        "specificity": 0,
+        "audience_fit": 1
+      },
+      "name": "Engineering and R&D Pulse 2026",
+      "source": "Capgemini Research",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://www.capgemini.com/insights/research-library/engineering-research-development-pulse-2026/"
+    },
+    {
+      "rank": 229,
+      "weighted": 1.8,
+      "scores": {
+        "relevance": 0,
+        "trustworthiness": 5,
+        "specificity": 5,
+        "audience_fit": 0
+      },
+      "name": "DJ Wef ontkent affaire met radiocollega Nordin Blessing: ’Nooit een andere band dan vriendschap’",
+      "source": "Telegraaf",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://www.telegraaf.nl/entertainment/sterren/dj-wef-ontkent-affaire-met-radiocollega-nordin-blessing-nooit-een-andere-band-dan-vriendschap/157228524.html"
+    },
+    {
+      "rank": 230,
+      "weighted": 1.79,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 2,
+        "audience_fit": 0
+      },
+      "name": "How to watch the G7 summit like a pro",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.eu/article/g7summit-france-volodymyr-zelenskyy-emmanuel-macron-donald-trump-eu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 231,
+      "weighted": 1.79,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 2,
+        "audience_fit": 0
+      },
+      "name": "Trump to meet with AI firms on government profit-share plan as soon as next week",
+      "source": "Politico EU - Technology",
+      "tag": "policy_regulation",
+      "language": "en",
+      "url": "https://www.politico.com/news/2026/06/05/ai-companies-white-house-profit-sharing-00952167?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+      "rank": 232,
+      "weighted": 1.79,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 5,
+        "specificity": 3,
+        "audience_fit": 0
+      },
+      "name": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "source": "TechCrunch AI",
+      "tag": "news",
+      "language": "en",
+      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/"
+    },
+    {
+      "rank": 233,
+      "weighted": 1.71,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 3,
+        "specificity": 1,
+        "audience_fit": 1
+      },
+      "name": "10 legaltechs to watch in Europe, according to VCs",
+      "source": "Sifted",
+      "tag": "news",
+      "language": "en",
+      "url": "https://sifted.eu/articles/10-legaltechs-to-watch-in-europe-according-to-vcs/"
+    },
+    {
+      "rank": 234,
+      "weighted": 1.61,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 5,
+        "specificity": 2,
+        "audience_fit": 0
+      },
+      "name": "It’s hot IPO summer, and the MANGOS are ripe",
+      "source": "TechCrunch AI",
+      "tag": "news",
+      "language": "en",
+      "url": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/"
+    },
+    {
+      "rank": 235,
+      "weighted": 1.61,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 3,
+        "specificity": 4,
+        "audience_fit": 0
+      },
+      "name": "SpaceX officieel naar de beurs voor $75 miljard – Staat onderhandelt met Damen over nauwere samenwerking",
+      "source": "MTsprout",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://mtsprout.nl/nieuws/spacex-officieel-naar-beurs-voor-recordbedrag-75-miljard-dollar"
+    },
+    {
+      "rank": 236,
+      "weighted": 1.53,
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 3,
+        "specificity": 0,
+        "audience_fit": 1
+      },
+      "name": "World Cloud Report - Financial Services 2026",
+      "source": "Capgemini Research",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://www.capgemini.com/insights/research-library/world-cloud-report/"
+    },
+    {
+      "rank": 237,
+      "weighted": 1.43,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 5,
+        "specificity": 1,
+        "audience_fit": 0
+      },
+      "name": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "source": "TechCrunch AI",
+      "tag": "news",
+      "language": "en",
+      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/"
+    },
+    {
+      "rank": 238,
+      "weighted": 1.43,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 4,
+        "specificity": 2,
+        "audience_fit": 0
+      },
+      "name": "As AI companies race to go public, who else is along for the ride?",
+      "source": "TechCrunch AI",
+      "tag": "news",
+      "language": "en",
+      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/"
+    },
+    {
+      "rank": 239,
+      "weighted": 1.36,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 3,
+        "specificity": 1,
+        "audience_fit": 1
+      },
+      "name": "European tech has discovered some swagger",
+      "source": "Sifted",
+      "tag": "news",
+      "language": "en",
+      "url": "https://sifted.eu/articles/europe-tech-swagger-2031/"
+    },
+    {
+      "rank": 240,
+      "weighted": 1.36,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 2,
+        "specificity": 2,
+        "audience_fit": 1
+      },
+      "name": "Inside Ineffable Intelligence: the team behind David Silver's $5.1bn superintelligence push",
+      "source": "Sifted",
+      "tag": "news",
+      "language": "en",
+      "url": "https://sifted.eu/articles/ineffable-intelligence-team/"
+    },
+    {
+      "rank": 241,
+      "weighted": 1.26,
+      "scores": {
+        "relevance": 0,
+        "trustworthiness": 5,
+        "specificity": 2,
+        "audience_fit": 0
+      },
+      "name": "Wekdienst 15/6: Uitspraak Noorse Marius Høiby • België speelt op het WK",
+      "source": "NOS Nieuws",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://nos.nl/l/2618645"
+    },
+    {
+      "rank": 242,
+      "weighted": 1.25,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 5,
+        "specificity": 0,
+        "audience_fit": 0
+      },
+      "name": "You do your own time",
+      "source": "MIT Technology Review",
+      "tag": "news",
+      "language": "en",
+      "url": "https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/"
+    },
+    {
+      "rank": 243,
+      "weighted": 1.25,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 5,
+        "specificity": 0,
+        "audience_fit": 0
+      },
+      "name": "Research library",
+      "source": "Capgemini Research",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://www.capgemini.com/us-en/insights/research-library/"
+    },
+    {
+      "rank": 244,
+      "weighted": 1.25,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 5,
+        "specificity": 0,
+        "audience_fit": 0
+      },
+      "name": "Research library",
+      "source": "Capgemini Research",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://www.capgemini.com/gb-en/insights/research-library/"
+    },
+    {
+      "rank": 245,
+      "weighted": 1.25,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 5,
+        "specificity": 0,
+        "audience_fit": 0
+      },
+      "name": "Research library",
+      "source": "Capgemini Research",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://www.capgemini.com/in-en/insights/research-library/"
+    },
+    {
+      "rank": 246,
+      "weighted": 0.89,
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 2,
+        "specificity": 1,
+        "audience_fit": 0
+      },
+      "name": "Straat van Hormuz gaat vrijdag open – €25 miljoen funding voor Nederlandse Xiver",
+      "source": "MTsprout",
+      "tag": "dutch_news",
+      "language": "nl",
+      "url": "https://mtsprout.nl/nieuws/straat-van-hormuz-gaat-vrijdag-open-25-miljoen-euro-funding-voor-nederlandse-xiver"
+    },
+    {
+      "rank": 247,
+      "weighted": 0.0,
+      "scores": {
+        "relevance": 0,
+        "trustworthiness": 0,
+        "specificity": 0,
+        "audience_fit": 0
+      },
+      "name": "European doomerism creeps into tech conferences: 'We have challenges'",
+      "source": "Sifted",
+      "tag": "news",
+      "language": "en",
+      "url": "https://sifted.eu/articles/european-doomerism-challenges-market/"
+    },
+    {
+      "rank": 248,
+      "weighted": 0.0,
+      "scores": {
+        "relevance": 0,
+        "trustworthiness": 0,
+        "specificity": 0,
+        "audience_fit": 0
+      },
+      "name": "LinkedIn Login, Sign in | LinkedIn",
+      "source": "Capgemini Research",
+      "tag": "research_reports",
+      "language": "en",
+      "url": "https://www.linkedin.com/shareArticle?url=https://www.capgemini.com/insights/research-library/"
+    }
+  ]
+}

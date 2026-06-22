@@ -1,0 +1,3711 @@
+[
+  {
+    "id": "SNS-B001",
+    "belief": "Real‑world case studies of scaling custom AI applications are important learning tools for enterprises.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_01"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "prescriptive",
+    "source_quote": "Real‑world case studies of scaling custom AI applications are important learning tools for enterprises.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B002",
+    "belief": "Meaningful AI progress starts with individuals applying AI in bold, practical ways.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_batch_08"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Meaningful AI progress starts with individuals applying AI in bold, practical ways.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B003",
+    "belief": "AI must be taken out of the ivory tower and applied in practical, real‑world contexts.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_01"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "AI must be taken out of the ivory tower and applied in practical contexts.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B004",
+    "belief": "Progress in AI adoption depends not only on technical capability but also on deliberate organisational choices.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_02"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Progress in AI adoption depends not only on technical capability but on deliberate organisational choices along the way.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B005",
+    "belief": "Applying AI in practice to support adoption is a core source of organisational value and recognition for KickstartAI.",
+    "category": "mission",
+    "sources": [
+      "linkedin_batch_02"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Applying AI in practice to support adoption is a core source of organisational value and recognition for KickstartAI.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B006",
+    "belief": "Re‑examining the assumptions and incentives that shaped today’s AI is necessary to guide future AI research and entrepreneurship.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B007",
+    "belief": "The Netherlands risks losing its digital lead unless it moves from talking to concrete action on tech and AI.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "The Netherlands risks losing its digital lead unless it moves from talking to concrete action on tech and AI.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B008",
+    "belief": "Technical AI capability is currently outpacing its practical use in many organizations.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_07"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "Technical AI capability is currently outpacing its practical use in many organizations.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B009",
+    "belief": "AI is qualitatively different from previous technologies and too significant to be treated as a routine IT upgrade.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_07"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "AI is qualitatively different from previous technologies and too big to be treated as a routine upgrade.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B010",
+    "belief": "Real‑world challenges are the appropriate starting point for AI initiatives, even without a finished plan.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_08"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B011",
+    "belief": "Organisations should shift focus from counting AI pilots to achieving real, measurable impact.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_08"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Organisations should shift focus from counting AI pilots to achieving real, measurable impact.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B012",
+    "belief": "Organisations with real‑world challenges and a desire to make a difference are suitable candidates for AI projects even without detailed solutions.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_08"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B013",
+    "belief": "Leadership in AI will come from actors who take concrete action and responsibility, not just those who debate.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_08"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Leadership in AI will come from actors who take concrete action and responsibility, not just those who debate.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B014",
+    "belief": "AI is becoming an integral component of modern energy systems and grid resilience.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "AI is becoming an integral component of modern energy systems and grid resilience.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B015",
+    "belief": "AI is a key driver of the energy transition across multiple operational domains.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "AI is a key driver of the energy transition across multiple operational domains.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B016",
+    "belief": "Prioritizing AI deployment in sectors like manufacturing and logistics will yield the greatest national benefit for the Netherlands.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Prioritizing AI deployment in sectors like manufacturing and logistics will yield the greatest national benefit for the ",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B017",
+    "belief": "Managing Europe’s increasingly complex energy grid requires data‑ and AI‑driven solutions.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "Managing Europe’s increasingly complex energy grid requires data and AI-driven solutions.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B018",
+    "belief": "Relatively small generative models can produce realistic simulations that significantly improve AI testing and safety.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Relatively small generative models can produce realistic simulations that significantly improve AI testing and safety.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B019",
+    "belief": "The urgency and relevance of a problem are critical criteria for selecting AI projects.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_10"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "The urgency and relevance of a problem are critical criteria for selecting AI projects.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B020",
+    "belief": "Impact and scalability should be core goals for AI solutions rather than one‑off, limited pilots.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_10"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B021",
+    "belief": "Concrete business and social challenges are the appropriate focus for AI applications.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_10"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Concrete business and social challenges are the appropriate focus for AI applications.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B022",
+    "belief": "Large companies are essential flywheels for scaling Dutch AI innovation and practical adoption.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_02"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Large companies are essential flywheels for scaling Dutch AI innovation and practical adoption.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B023",
+    "belief": "A healthy AI ecosystem requires diversity, cross‑pollination, and long‑term thinking among its participants.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_02"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B024",
+    "belief": "Bringing together people who build on each other’s knowledge and aim for positive social impact is foundational to KickstartAI’s identity.",
+    "category": "mission",
+    "sources": [
+      "linkedin_batch_02"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "Bringing together people who build on each other’s knowledge and aim for positive social impact is foundational to Kicks",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B025",
+    "belief": "Stable fiscal arrangements for international talent are crucial for maintaining the Netherlands’ competitive position in the EU.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Stable fiscal arrangements for international talent are crucial for maintaining the Netherlands’ competitive position in",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B026",
+    "belief": "Building a curated, expert AI community is strategically important for advancing AI in the Netherlands.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "prescriptive",
+    "source_quote": "Building a curated, expert AI community is strategically important for advancing AI in the Netherlands.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B027",
+    "belief": "KickstartAI positions itself as a coalition focused on doing and implementation rather than just discussion.",
+    "category": "mission",
+    "sources": [
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "KickstartAI positions itself as a coalition focused on doing and implementation rather than just discussion.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B028",
+    "belief": "Community spaces for exchanging knowledge and ideas are essential to shaping the future of AI in the Netherlands.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Community spaces for exchanging knowledge and ideas are essential to shaping the future of AI in the Netherlands.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B029",
+    "belief": "Being an AI pioneer and part of a collaborative ecosystem is a desirable identity for organisations.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_10"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Being an AI pioneer and part of a collaborative ecosystem is a desirable identity for organisations.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B030",
+    "belief": "Open, transparent organisational cultures are important enablers for AI learning and experimentation.",
+    "category": "domain_knowledge",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "causal_attribution",
+    "source_quote": "Open, transparent organisational cultures are important enablers for AI learning and experimentation.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B031",
+    "belief": "Hands‑on experimentation with AI tools is necessary for leaders and practitioners to understand the technology and steer it responsibly.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Hands‑on experimentation with AI tools is necessary for leaders and practitioners to understand the technology and steer",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B032",
+    "belief": "AI builders should think like investors when crafting their pitches.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_01"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "AI builders should think like investors when crafting their pitches.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B033",
+    "belief": "AI professionals should prioritise understanding fundamentals over attachment to specific tools or techniques.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_01"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "AI professionals should prioritise understanding fundamentals over attachment to specific tools or techniques.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B034",
+    "belief": "Agentic coding and no‑/low‑code platforms are reshaping who can build software and thereby altering the AI industry.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_02"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B035",
+    "belief": "Engineering LLMs for sovereign models and privacy‑first deployments is a priority topic for the AI community.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_02"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B036",
+    "belief": "Understanding how AI models are made and trained is a crucial foundation for anyone wanting to build with or on top of AI.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_02"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Understanding how AI models are made and trained is a crucial foundation for anyone wanting to build with or on top of A",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B037",
+    "belief": "Edge intelligence and multi‑agent systems are important frontiers for AI in challenging environments like space.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_03"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B038",
+    "belief": "Examining what models get wrong is more informative than focusing solely on performance numbers.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_03"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Examining what models get wrong is more informative than focusing solely on performance numbers.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B039",
+    "belief": "Focusing on concrete problems, user needs, and scalable practices is more effective than technology‑first or fragmented AI efforts.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_03"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Focusing on concrete problems, user needs, and scalable practices is more effective than technology-first or fragmented ",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B040",
+    "belief": "Good data quality is more important than model complexity for achieving impact in AI‑for‑planet projects.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Good data quality is more important than model complexity for achieving impact in AI-for-planet projects.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B041",
+    "belief": "A future‑proof Dutch tech ecosystem depends on getting talent, capital, and regulation right for entrepreneurs.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B042",
+    "belief": "AI implementation failures are typically caused by organisational and human barriers rather than technical limitations.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_06",
+      "linkedin_batch_07",
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI implementation failures are typically caused by organisational and human barriers rather than technical limitations.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B043",
+    "belief": "Smaller, efficient LLMs can be highly capable for specific tasks and should not be underestimated.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_07",
+      "linkedin_batch_08",
+      "linkedin_batch_09"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B044",
+    "belief": "AI represents a fundamental rethinking of work, not just automation or standard digital transformation.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_08"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "AI represents a fundamental rethinking of work, not just automation or standard digital transformation.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B045",
+    "belief": "Engineers play an increasingly central role in driving technology‑enabled transformation in industries like food retail.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_08"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Engineers play an increasingly central role in driving technology-enabled transformation in industries like food retail.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B046",
+    "belief": "KickstartAI values and promotes career paths where curiosity leads people into AI to solve real‑world challenges.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "causal_attribution",
+    "source_quote": "KickstartAI values and promotes career paths where curiosity leads people into AI to solve real-world challenges.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B047",
+    "belief": "KickstartAI’s core identity is to turn bold AI ideas into solutions with real‑world impact.",
+    "category": "mission",
+    "sources": [
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "problem_framing",
+    "source_quote": "KickstartAI’s core identity is to turn bold AI ideas into solutions with real-world impact.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B048",
+    "belief": "Ethical and safe AI begins with human intent and values, not just regulatory compliance.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Ethical and safe AI begins with human intent and values, not just regulatory compliance.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B049",
+    "belief": "AI should serve people, processes, and society rather than being pursued for its own sake.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_03"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI should serve people, processes, and society rather than being pursued for its own sake.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B050",
+    "belief": "AI is fundamentally a force for good when applied to real problems in care, patients, and professionals.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_03"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI is fundamentally a force for good when applied to real problems in care, patients, and professionals.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B051",
+    "belief": "AI solutions for financial health should be empathetic, accessible, and educational.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "AI solutions for financial health should be empathetic, accessible, and educational.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B052",
+    "belief": "Europe’s open LLMs should be transparent, multilingual, and aligned with shared European values.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Europe’s open LLMs should be transparent, multilingual, and aligned with shared European values.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B053",
+    "belief": "Responsible AI deployment in high‑stakes settings depends more on trust and collaboration than on technology itself.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Responsible AI deployment in high‑stakes settings depends more on trust and collaboration than on technology itself.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B054",
+    "belief": "AI should be developed and used as a tool for societal good, not just for commercial gain.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "AI should be developed and used as a tool for societal good, not just for commercial gain.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B055",
+    "belief": "The EU’s current digital regulatory stack risks putting European AI companies at a competitive disadvantage versus US and Chinese firms.",
+    "category": "stance",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "The EU’s current digital regulatory stack risks putting European AI companies at a competitive disadvantage versus US an",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B056",
+    "belief": "AI’s societal benefits in areas like healthcare, efficiency, and sustainability are substantial and must be weighed against its risks.",
+    "category": "stance",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI’s societal benefits in areas like healthcare, efficiency, and sustainability are substantial and must be weighed agai",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B057",
+    "belief": "Open‑source and transparent AI models are strategically important for European digital sovereignty and broad access.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Open‑source and transparent AI models are strategically important for European digital sovereignty and broad access.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B058",
+    "belief": "AI should be applied in ways that contribute to broader societal impact, not just business efficiency.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_01",
+      "linkedin_batch_04",
+      "linkedin_batch_06",
+      "linkedin_batch_07",
+      "linkedin_batch_08",
+      "linkedin_batch_10",
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "AI should be applied in ways that contribute to broader societal impact, not just business efficiency.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B059",
+    "belief": "AI should genuinely serve end users, especially when projects have a broader societal purpose.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_01"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "AI should genuinely serve end users, especially when projects have a broader societal purpose.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B060",
+    "belief": "AI should be treated as a societal advantage rather than merely a technological upgrade.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_01"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "AI should be treated as a societal advantage rather than merely a technological upgrade.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B061",
+    "belief": "Accelerating responsible AI adoption and creating real societal impact is a central goal of KickstartAI and its community.",
+    "category": "mission",
+    "sources": [
+      "linkedin_batch_01",
+      "linkedin_batch_07",
+      "linkedin_batch_08"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Accelerating responsible AI adoption and creating real societal impact is a central goal of KickstartAI and its communit",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B062",
+    "belief": "Building sovereign, transparent, locally aligned foundation models is strategically important but demands substantial engineering effort.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_02"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "Building sovereign, transparent, locally aligned foundation models demands substantial engineering effort but is strateg",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B063",
+    "belief": "AI can meaningfully support education, including in underserved and low‑connectivity contexts.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_03"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI can meaningfully support education, including in underserved and low-connectivity contexts.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B064",
+    "belief": "Openly available satellite imagery is a promising data source for addressing humanitarian and environmental challenges.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_03",
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Openly available satellite imagery is a promising data source for addressing humanitarian and environmental challenges.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B065",
+    "belief": "Multimodal AI is a key enabler for advancing biodiversity research.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_03"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "causal_attribution",
+    "source_quote": "Multimodal AI is a key enabler for advancing biodiversity research.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B066",
+    "belief": "AI can increase financial literacy and resilience at a societal level.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI can increase financial literacy and resilience at a societal level.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B067",
+    "belief": "GenAI is reshaping newsroom workflows and challenging the sustainability of media business models.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "GenAI is reshaping newsroom workflows and challenging the sustainability of media business models.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B068",
+    "belief": "There is always a way to achieve tangible social impact with AI, even in complex domains.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "causal_attribution",
+    "source_quote": "There is always a way to achieve tangible social impact with AI, even in complex domains.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B069",
+    "belief": "AI can be effectively applied to support law enforcement in complex areas like environmental crime.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_04",
+      "linkedin_batch_01",
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI can be effectively applied to support law enforcement in complex areas like environmental crime.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B070",
+    "belief": "AI’s societal impact is a core criterion for selecting and celebrating projects.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI’s societal impact is a core criterion for selecting and celebrating projects.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B071",
+    "belief": "AI can help people understand complex medical information by translating it into plain language.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI can help people understand complex medical information by translating it into plain language.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B072",
+    "belief": "Google’s AI Overviews pose a significant threat to news publishers’ traffic and business models.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "Google’s AI Overviews pose a significant threat to news publishers’ traffic and business models.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B073",
+    "belief": "AI can improve healthcare by enhancing wound care and reducing nurses’ administrative burden.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI can improve healthcare by enhancing wound care and reducing nurses’ administrative burden.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B074",
+    "belief": "AI can help safeguard the welfare state, boost the economy, and strengthen society in the Netherlands.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI can help safeguard the welfare state, boost the economy, and strengthen society in the Netherlands.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B075",
+    "belief": "AI tutors can support students who do not fit traditional school systems by enabling self‑paced, question‑driven learning.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI tutors can support students who do not fit traditional school systems by enabling self-paced, question-driven learnin",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B076",
+    "belief": "AI and data science are powerful tools for tackling major environmental challenges and protecting the planet.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI and data science are powerful tools for tackling major environmental challenges and protecting the planet.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B077",
+    "belief": "Education and knowledge development are foundational to the future economy and thus central to digital strategy.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Education and knowledge development are foundational to the future economy and thus central to digital strategy.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B078",
+    "belief": "Reducing dependence on American big tech is important for Europe’s digital sovereignty.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Reducing dependence on American big tech is important for Europe’s digital sovereignty.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B079",
+    "belief": "Data‑for‑good volunteering can broaden data scientists’ perspectives and improve how they weigh impact, tools, and resources.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B080",
+    "belief": "AI‑driven personalized learning experiences that adapt to each student are a desirable direction for education.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_06",
+      "linkedin_batch_05"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "prescriptive",
+    "source_quote": "AI‑driven personalized learning experiences that adapt to each student are a desirable direction for education.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B081",
+    "belief": "A positive and actionable narrative about AI is necessary to advance AI adoption in the Netherlands.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_08"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "A positive and actionable narrative about AI is necessary to advance AI adoption in the Netherlands.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B082",
+    "belief": "AI has a critical role to play in improving safety, security, and privacy.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "AI has a critical role to play in improving safety, security, and privacy.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B083",
+    "belief": "Optimizing energy use in infrastructure projects like dike construction is an important AI application area.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "Optimizing energy use in infrastructure projects like dike construction is an important AI application area.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B084",
+    "belief": "AI must be integrated into a sustainable energy future rather than becoming an additional energy burden.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "AI must be integrated into a sustainable energy future rather than becoming an additional energy burden.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B085",
+    "belief": "Real‑world AI solutions should be designed to drive positive impact at national and international levels.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_10"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B086",
+    "belief": "AI is a central driver of an emerging national movement in the Netherlands.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_10"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI is a central driver of an emerging national movement in the Netherlands.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B087",
+    "belief": "Scaling proven AI solutions is the critical next step for the Dutch AI ecosystem.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_01"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Scaling proven AI solutions is the critical next step for the Dutch AI ecosystem.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B088",
+    "belief": "The Netherlands must shift from AI discussion to concrete execution because the urgency is already clear.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_01",
+      "linkedin_batch_03",
+      "linkedin_batch_04",
+      "linkedin_batch_05",
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "The Netherlands must shift from AI discussion to concrete execution because urgency is already clear.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B089",
+    "belief": "Applying AI in the Netherlands requires concrete steps, room to experiment, and strong public‑private collaboration.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_01",
+      "linkedin_batch_03",
+      "linkedin_batch_04",
+      "linkedin_batch_10"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Applying AI in the Netherlands requires concrete steps, room to experiment, and strong public‑private collaboration.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B090",
+    "belief": "A large national AI transformation program is required to harness AI for both society and the economy.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_03"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "A large national AI transformation program is required to harness AI for both society and the economy.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B091",
+    "belief": "Embedding AI into the core of organisations, rather than treating it as side projects, is necessary to drive impact.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_03",
+      "linkedin_batch_02"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Embedding AI into the core of organisations, rather than treating it as side projects, is necessary to drive impact.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B092",
+    "belief": "Government action to lower barriers is needed to accelerate AI transition in the wider ecosystem.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_03",
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Government action to lower barriers is needed to accelerate AI transition in the wider ecosystem.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B093",
+    "belief": "A comprehensive national AI plan with investments in adoption, infrastructure, talent, startups, institutions, and regulation is essential for leadership.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_03"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "A comprehensive national AI plan with investments in adoption, infrastructure, talent, startups, institutions, and regul",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B094",
+    "belief": "Operational deployment and adoption, not just prototyping, should be the ultimate goals of AI projects such as in healthcare.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_03",
+      "linkedin_batch_01"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B095",
+    "belief": "Public investment should prioritize frontrunners in business and the tech ecosystem to accelerate AI adoption.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Public investment should prioritize frontrunners in business and the tech ecosystem to accelerate AI adoption.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B096",
+    "belief": "A coalition focused on concrete action is needed to drive AI adoption in the Netherlands.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_04",
+      "linkedin_batch_06",
+      "linkedin_batch_10"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "A coalition focused on concrete action is needed to drive AI adoption in the Netherlands.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B097",
+    "belief": "Building a pan‑European AI infrastructure is necessary for Europe’s open AI ecosystem to compete globally.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B098",
+    "belief": "Organizations can approach AI challenges without a finished plan if they have real problems and ambition, with partners helping to explore and prototype solutions.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_07"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Organizations can approach AI challenges without a finished plan if they have real problems and ambition, with partners ",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B099",
+    "belief": "Scaling the National AI Challenge to multiple use cases is a desirable way to expand AI impact.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_10"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "prescriptive",
+    "source_quote": "Scaling the National AI Challenge to multiple use cases is a desirable way to expand AI impact.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B100",
+    "belief": "Hands‑on, mixed‑team hackathons are an effective way to explore feasible AI and data solutions for social challenges.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_04",
+      "blog"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B101",
+    "belief": "Community meetups that mix technical talks and networking are important for the AI professional ecosystem.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "prescriptive",
+    "source_quote": "Community meetups that mix technical talks and networking are important for the AI professional ecosystem.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B102",
+    "belief": "Cross‑community meetups between AI practitioners and environmental scientists are valuable for advancing AI‑for‑planet work.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B103",
+    "belief": "Building a strong Dutch AI ecosystem depends on convening and connecting the entire AI community.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_05",
+      "blog",
+      "linkedin_batch_08",
+      "linkedin_batch_10"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Building a strong Dutch AI ecosystem depends on convening and connecting the entire AI community.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B104",
+    "belief": "Bringing together a large, driven group of AI engineers and data scientists accelerates practical AI building and learning.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Bringing together a large, driven group of AI engineers and data scientists accelerates practical AI building and learni",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B105",
+    "belief": "Engaging stakeholders from the very beginning is essential for successful AI adoption and digital transformation.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Engaging stakeholders from the very beginning is essential for successful AI adoption and digital transformation.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B106",
+    "belief": "KickstartAI sees its role as turning promising AI ideas from partners into fully working, end‑to‑end custom AI solutions.",
+    "category": "mission",
+    "sources": [
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "KickstartAI sees its role as turning promising AI ideas from partners into fully working solutions.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B107",
+    "belief": "Building a large, connected AI expert community is a key mechanism for creating real AI impact.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_08"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Building a large, connected AI expert community is a key mechanism for creating real AI impact.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B108",
+    "belief": "Building an ecosystem of corporates, public institutions, and purpose‑driven organisations is necessary to shape the future of AI in the Netherlands.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_08"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Building an ecosystem of corporates, public institutions, and purpose-driven organisations is necessary to shape the fut",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B109",
+    "belief": "Sharing project setup, lessons learned, and engaging in dialogue with public servants is an important way to advance AI use in government.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_02"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "prescriptive",
+    "source_quote": "Sharing project setup, lessons learned, and engaging in dialogue with public servants is an important way to advance AI ",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B110",
+    "belief": "Storytelling and content strategy are important levers for disseminating AI knowledge across an ecosystem.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_04",
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Storytelling and content strategy are important levers for disseminating AI knowledge across an ecosystem.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B111",
+    "belief": "KickstartAI’s community is a key vehicle for turning AI ideas into impact through events, content, and shared channels.",
+    "category": "mission",
+    "sources": [
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "KickstartAI’s community is a key vehicle for turning AI ideas into impact through events, content, and shared channels.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B112",
+    "belief": "Celebrating and sharing community members’ AI work, challenges, and lessons helps shape the future of AI in the Netherlands.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_08"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Celebrating and sharing community members’ AI work, challenges, and lessons helps shape the future of AI in the Netherla",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B113",
+    "belief": "AI governance must be socio‑technical, addressing people, processes, and organisational structures as much as models and data.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "AI governance must be socio‑technical, addressing people, processes, and organisational structures as much as models and",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B114",
+    "belief": "Existing organisational structures must be bypassed or reshaped to prioritise AI performance and scale.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_01",
+      "linkedin_batch_08"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B115",
+    "belief": "Hands‑on workshops and practical labs are necessary to translate AI ideas into real collaborations and results.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B116",
+    "belief": "Hands‑on experimentation with multi‑agent systems is important for understanding and building complex AI applications.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B117",
+    "belief": "Organizations need structured support to identify AI use cases and turn them into products.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_07"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "prescriptive",
+    "source_quote": "Organizations need structured support to identify AI use cases and turn them into products.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B118",
+    "belief": "Step‑by‑step exploration, prototyping, and application are the right process for developing AI solutions.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_08"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B119",
+    "belief": "Fine‑tuning small language models and building RAG systems is a practical, hands‑on route to effective AI deployment.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_08"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B120",
+    "belief": "Building a coalition of practitioners and enabling policies is necessary to accelerate AI adoption.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Building a coalition of practitioners and enabling policies is necessary to accelerate AI adoption.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B121",
+    "belief": "Developers without deep ML expertise should still be empowered to build effective AI systems.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Developers without deep ML expertise should still be empowered to build effective AI systems.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B122",
+    "belief": "Scalable AI platforms should be architected with containerization to support growth in demand.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Scalable AI platforms should be architected with containerization to support growth in demand.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B123",
+    "belief": "Access to technical expertise, project support, and networks is a key enabler of successful AI adoption.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_10"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Access to technical expertise, project support, and networks is a key enabler of successful AI adoption.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B124",
+    "belief": "Successful AI adoption depends on aligning IT infrastructure, user interface, and practical usage processes.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_10"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Successful AI adoption depends on aligning IT infrastructure, user interface, and practical usage processes.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B125",
+    "belief": "Co‑organising national AI challenges and working with winners on concrete solutions is an effective way to drive socially beneficial AI innovation.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_02"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B126",
+    "belief": "Targeted AI solutions are preferable to rigid one‑size‑fits‑all products when scaling AI.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_01"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Targeted AI solutions are preferable to rigid one‑size‑fits‑all products when scaling AI.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B127",
+    "belief": "Focusing on real‑world AI applications with diverse partners is central to KickstartAI’s mission and impact.",
+    "category": "mission",
+    "sources": [
+      "linkedin_batch_02"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B128",
+    "belief": "AI solutions should be co‑created with end users so that their impact extends beyond model performance.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_06",
+      "blog",
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "AI solutions should be co‑created with end users so that their impact extends beyond model performance.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B129",
+    "belief": "Making AI work in government requires understanding real practical needs, not just high‑level ambition.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_07"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B130",
+    "belief": "Successful AI implementation requires deep upfront work to understand real operational problems, workflows, and stakeholders before building models.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Successful AI implementation requires deep upfront work to understand real operational problems, workflows, and stakehol",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B131",
+    "belief": "AI projects should start from clearly defined business problems and user pain points rather than from technology opportunities.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_batch_01",
+      "linkedin_batch_10"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "AI projects should start from clearly defined business problems and user pain points rather than from technology opportu",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B132",
+    "belief": "Investing in people is as important as investing in technology for AI implementation.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_01",
+      "linkedin_batch_05",
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Investing in people is as important as investing in technology for AI implementation.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B133",
+    "belief": "Scaling AI products requires attention to human psychology, workflows, and trust before technology.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_01",
+      "linkedin_batch_07"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Scaling AI products requires attention to human psychology, workflows, and trust before technology.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B134",
+    "belief": "Strategic, cloud‑based data and analytics platforms are foundational for next‑generation AI in finance.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_07"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B135",
+    "belief": "Organizations must stop treating AI as an IT upgrade and instead rethink how they work and operate.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_07"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Organizations must stop treating AI as an IT upgrade and instead rethink how they work and operate.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B136",
+    "belief": "Approaching AI as a technology rollout and relying on traditional metrics blocks organizations from turning potential into impact.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_07",
+      "linkedin_batch_08"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Approaching AI as a technology rollout and relying on traditional metrics blocks organizations from turning potential in",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B137",
+    "belief": "Organizations should shift from traditional OKRs and KPIs toward people‑focused approaches to drive AI adoption.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_07"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Organizations should shift from traditional OKRs and KPIs toward people-focused approaches to drive AI adoption.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B138",
+    "belief": "AI should be used to reduce administrative burden and improve quality of care for healthcare professionals.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_06",
+      "linkedin_batch_01",
+      "linkedin_batch_03",
+      "linkedin_batch_04",
+      "linkedin_batch_10"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "AI should be used to reduce administrative burden and improve quality of care for healthcare professionals.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B139",
+    "belief": "AI can and should strengthen law enforcement’s ability to hold environmental polluters accountable.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "AI can and should strengthen law enforcement’s ability to hold environmental polluters accountable.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B140",
+    "belief": "AI should be used to reduce manual work and free professionals for higher‑value tasks in public and healthcare services.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "AI should be used to reduce manual work and free professionals for higher‑value tasks in public and healthcare services.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B141",
+    "belief": "AI projects should prioritise low‑hanging fruit and short‑term value to build trust and momentum before tackling harder problems.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "AI projects should prioritise low‑hanging fruit and short‑term value to build trust and momentum before tackling harder ",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B142",
+    "belief": "Anonymous, non‑advisory AI tools can lower barriers for people seeking financial support.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B143",
+    "belief": "Searching across broader legal domains can uncover more provable offences than focusing narrowly on environmental law.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Searching across broader legal domains can uncover more provable offences than focusing narrowly on environmental law.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B144",
+    "belief": "Investment, talent attraction, and AI adoption are key enablers of a strong digital future for the Netherlands.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Investment, talent attraction, and AI adoption are key enablers of a strong digital future for the Netherlands.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B145",
+    "belief": "AI has strong potential to add value in aviation by improving contingency fuel prediction.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI has strong potential to add value in aviation by improving contingency fuel prediction.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B146",
+    "belief": "Broader AI adoption in the public domain requires a foundation of trust and collaboration.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Broader AI adoption in the public domain requires a foundation of trust and collaboration.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B147",
+    "belief": "KickstartAI’s people‑centric approach to AI projects leads to measurable operational improvements for partners.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_07"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B148",
+    "belief": "Now is the moment for organizations to move from AI exploration to execution.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_07"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Now is the moment for organizations to move from AI exploration to execution.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B149",
+    "belief": "End‑to‑end AI solutions should deliver tangible organizational value such as time and cost savings.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_07"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B150",
+    "belief": "Organisations must actively implement AI in both business and government operations rather than just discussing it.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_08"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Organisations must actively implement AI in both business and government operations rather than just discussing it.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B151",
+    "belief": "True AI adoption in the Netherlands depends on practical, immediate implementation rather than abstract discussion.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_09",
+      "linkedin_batch_06",
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "True AI adoption in the Netherlands depends on practical, immediate implementation rather than abstract discussion.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B152",
+    "belief": "Feasibility must be explicitly assessed before committing to AI projects.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_10",
+      "linkedin_batch_03"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Feasibility must be explicitly assessed before committing to AI projects.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B153",
+    "belief": "Developing and implementing AI in healthcare requires first thoroughly understanding and defining the problem.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_10"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Developing and implementing AI in healthcare requires first thoroughly understanding and defining the problem.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B154",
+    "belief": "AI‑driven insights must be integrated into day‑to‑day practice to create value in healthcare operations.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_10"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B155",
+    "belief": "Cross‑organisational challenges, sprints, and hackathons are effective mechanisms to accelerate AI learning and adoption across the Netherlands.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_batch_01",
+      "linkedin_batch_03"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B156",
+    "belief": "Strong public‑private collaboration is needed to take bold AI action in the Netherlands.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_01",
+      "linkedin_batch_05"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Strong public‑private collaboration is needed to take bold AI action in the Netherlands.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B157",
+    "belief": "AI can help society thrive and strengthen both economy and society if embedded in collaborative ecosystems.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_01"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI can help society thrive and strengthen both economy and society if embedded in collaborative ecosystems.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B158",
+    "belief": "Collaboration between academia and societal partners is essential for AI methods to have real impact.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_03"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Collaboration between academia and societal partners is essential for AI methods to have real impact.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B159",
+    "belief": "Cross‑industry collaboration and knowledge sharing accelerate AI adoption in the Netherlands and help accelerate the Dutch economy through AI.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_03"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B160",
+    "belief": "Sharing knowledge and building collectively with partners is essential to accelerate AI adoption.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Sharing knowledge and building collectively with partners is essential to accelerate AI adoption.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B161",
+    "belief": "Creating space for practitioners (“doers”) and enabling them to share learnings is crucial for AI adoption.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Creating space for practitioners (“doers”) and enabling them to share learnings is crucial for AI adoption.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B162",
+    "belief": "Collaboration among major Dutch companies and AI teams is a key mechanism to boost the national AI ecosystem.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Collaboration among major Dutch companies and AI teams is a key mechanism to boost the national AI ecosystem.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B163",
+    "belief": "Community events that foster sharing, learning, and doing together are key to putting AI into action.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Community events that foster sharing, learning, and doing together are key to putting AI into action.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B164",
+    "belief": "Curated gatherings of top AI practitioners under a focused theme are critical for those building with AI.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Curated gatherings of top AI practitioners under a focused theme are critical for those building with AI.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B165",
+    "belief": "Open, community‑focused AI conferences with free access for professionals are important to strengthen the national AI community.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B166",
+    "belief": "Bridging the gap between AI ideas and real‑world impact requires community exchange and collaboration.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_09"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B167",
+    "belief": "Developing AI solutions should be done collaboratively with experts rather than in isolation.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_10"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Developing AI solutions should be done collaboratively with experts rather than in isolation.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B168",
+    "belief": "Unlocking the full potential of AI depends on bold ambition and cross‑sector collaboration.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_10"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Unlocking the full potential of AI depends on bold ambition and cross-sector collaboration.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B169",
+    "belief": "Accelerating AI adoption in the Netherlands requires joint efforts with national coalitions and partners.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_10"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Accelerating AI adoption in the Netherlands requires joint efforts with national coalitions and partners.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B170",
+    "belief": "Applying AI in practice and sharing learnings to enable replication is KickstartAI’s core contribution.",
+    "category": "mission",
+    "sources": [
+      "linkedin_batch_01"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Applying AI in practice and sharing learnings to enable replication is KickstartAI’s core contribution.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B171",
+    "belief": "Organisations should not work through AI developments in isolation but share experiences to accelerate progress.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_01"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Organisations should not work through AI developments in isolation but share experiences to accelerate progress.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B172",
+    "belief": "Creating a shared knowledge base from AI experiments helps all participants move faster.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_01"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Creating a shared knowledge base from AI experiments helps all participants move faster.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B173",
+    "belief": "Accelerating AI adoption in the Netherlands requires growing a professional community and strengthening knowledge sharing through practical formats.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_02"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Accelerating AI adoption in the Netherlands requires growing a professional community and strengthening knowledge sharin",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B174",
+    "belief": "Sharing what works openly with the community and among partner companies strengthens the Dutch AI ecosystem.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_03"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B175",
+    "belief": "Distilling and sharing lessons from AI projects helps others bridge the gap from pilots to adoption and unlock real value.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Distilling and sharing lessons from AI projects helps others bridge the gap from pilots to adoption and unlock real valu",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B176",
+    "belief": "Successful AI adoption depends on early strategic focus, clear choices, and planning for organisational scale.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_01"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Successful AI adoption depends on early strategic focus, clear choices, and planning for organisational scale.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B177",
+    "belief": "AI startups should build with an international market in mind from day one.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_01"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "AI startups should build with an international market in mind from day one.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B178",
+    "belief": "Agentic AI that enables natural language interaction with data can close the gap between data and business better than dashboards alone.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_02"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Agentic AI that enables natural language interaction with data can close the gap between data and business better than d",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B179",
+    "belief": "Organisations strengthen AI adoption by learning through doing and treating AI as organisational change, not just technology.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_03"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Organisations strengthen AI adoption by learning through doing and treating AI as organisational change, not just techno",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B180",
+    "belief": "Responsible AI adoption, talent development, and ecosystem collaboration are core contributions KickstartAI must make to the national AI mission.",
+    "category": "mission",
+    "sources": [
+      "linkedin_batch_03"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Responsible AI adoption, talent development, and ecosystem collaboration are core contributions KickstartAI must make to",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B181",
+    "belief": "AI tools must prioritize usability, not just accuracy, to create real‑world impact.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "AI tools must prioritize usability, not just accuracy, to create real-world impact.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B182",
+    "belief": "AI initiatives should be judged by measurable impact rather than by running pilots for their own sake.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_04",
+      "linkedin_batch_10"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "AI initiatives should be judged by measurable impact rather than by running pilots for their own sake.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B183",
+    "belief": "Political ambitions for AI and tech must be concretely embedded in the coalition agreement to matter.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Political ambitions for AI and tech must be concretely embedded in the coalition agreement to matter.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B184",
+    "belief": "Innovation in the Dutch tech ecosystem requires long‑term thinking, investment certainty, and stronger public–private collaboration.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B185",
+    "belief": "Digital transformation success in the Netherlands depends more on people, governance, and collaboration than on technology alone.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Digital transformation success in the Netherlands depends more on people, governance, and collaboration than on technolo",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B186",
+    "belief": "Focusing on people, not just algorithms, is essential for AI initiatives to succeed.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Focusing on people, not just algorithms, is essential for AI initiatives to succeed.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B187",
+    "belief": "Effective AI leaders must bridge cutting‑edge technology and business strategy and thrive in complexity.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_07"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B188",
+    "belief": "Unlocking AI impact depends on empowering people who are ready to reimagine what’s possible and act on it.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_07",
+      "linkedin_batch_08"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Unlocking AI impact depends on empowering people who are ready to reimagine what’s possible and act on it.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B189",
+    "belief": "Companies need to change their current approach to AI strategy to succeed.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_08"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Companies need to change their current approach to AI strategy to succeed.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B190",
+    "belief": "Retaining top ML and software engineering talent in the Netherlands is essential for accelerating AI adoption.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_08"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Retaining top ML and software engineering talent in the Netherlands is essential for accelerating AI adoption.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B191",
+    "belief": "Empowering entrepreneurial change‑makers inside organisations is key to unlocking AI’s value.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_08"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B192",
+    "belief": "AI delivers the most value in complex environments when combined with strong domain expertise.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI delivers the most value in complex environments when combined with strong domain expertise.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B193",
+    "belief": "Organisational support is a necessary condition for successful AI initiatives.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_10"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Organisational support is a necessary condition for successful AI initiatives.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B194",
+    "belief": "Transparency, responsibility, and stepping outside one’s comfort zone in data work are transferable lessons that enhance professional practice.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Transparency, responsibility, and stepping outside one’s comfort zone in data work are transferable lessons that enhance",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B195",
+    "belief": "AI regulation, innovation, and concrete action must be pursued simultaneously to realize AI’s societal benefits.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_07"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "AI regulation, innovation, and concrete action must be pursued simultaneously to realize AI’s societal benefits.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B196",
+    "belief": "Responsible AI requires explicit attention to security, safety, and regulation in how systems are built and deployed.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_09",
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "Responsible AI requires explicit attention to security, safety, and regulation in how systems are built and deployed.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B197",
+    "belief": "Educating users to prompt more efficiently is an important lever for reducing AI energy consumption.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Educating users to prompt more efficiently is an important lever for reducing AI energy consumption.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B198",
+    "belief": "AI systems should be designed to optimize energy use while minimizing their own environmental impact.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "AI systems should be designed to optimize energy use while minimizing their own environmental impact.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B199",
+    "belief": "Bridging the AI impact gap requires tackling today’s most complex challenges directly.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_01"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Bridging the AI impact gap requires tackling today’s most complex challenges directly.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B200",
+    "belief": "Using AI to analyse political discourse can reveal alignment patterns and potential coalitions for faster strategic initiatives.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_02"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Using AI to analyse political discourse can reveal alignment patterns and potential coalitions for faster strategic init",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B201",
+    "belief": "Understanding interdependencies and cascading shocks is essential for designing economic resilience, and AI can help map these relationships.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_02",
+      "linkedin_batch_08"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Understanding interdependencies and cascading shocks is essential for designing economic resilience, and AI can help map",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B202",
+    "belief": "Making policy‑relevant information easier to access and use with NLP can enable more coordinated and evidence‑based decisions.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_03"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B203",
+    "belief": "NLP can practically support global food security by enabling early warning, discourse analysis, and policy integration assessment.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_03"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "NLP can practically support global food security by enabling early warning, discourse analysis, and policy integration a",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B204",
+    "belief": "AI tools that reduce administrative burden and improve data quality can significantly enhance healthcare delivery.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_03"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI tools that reduce administrative burden and improve data quality can significantly enhance healthcare delivery.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B205",
+    "belief": "Choosing growth over stagnation in tech requires deliberate policy and ecosystem choices now.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Choosing growth over stagnation in tech requires deliberate policy and ecosystem choices now.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B206",
+    "belief": "AI‑supported triage tools are desirable because they enable more objective and faster assessments while freeing nurses for other critical tasks.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI‑supported triage tools are desirable because they enable more objective and faster assessments while freeing nurses f",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B207",
+    "belief": "Effective AI in healthcare requires deep collaboration, empathy, and on‑the‑ground learning with medical staff, not just technical development.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Effective AI in healthcare requires deep collaboration, empathy, and on‑the‑ground learning with medical staff, not just",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B208",
+    "belief": "Predictive AI dashboards that shift staff from reactive crisis management to proactive resource management are valuable in healthcare operations.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Predictive AI dashboards that shift staff from reactive crisis management to proactive resource management are valuable ",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B209",
+    "belief": "AI‑driven forecasting and decision engines can manage energy assets in real time at very high speed.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_08"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B210",
+    "belief": "Waiting for political processes alone is insufficient; AI progress must be driven by societal and organisational action.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_08"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "Waiting for political processes alone is insufficient; AI progress must be driven by societal and organisational action.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B211",
+    "belief": "Machine learning is increasingly essential for managing the complexity of Europe’s interconnected electricity grid.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_08"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Machine learning is increasingly essential for managing the complexity of Europe’s interconnected electricity grid.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B212",
+    "belief": "Non‑technical professionals are essential to shaping human‑centric AI and should be actively encouraged into the field.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Non‑technical professionals are essential to shaping human‑centric AI and should be actively encouraged into the field.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B213",
+    "belief": "Starting AI initiatives from the technology rather than the problem is a common and harmful trap, and projects that begin with 'we want to do something with AI' and no clear problem tend to stall.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_01"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "Starting AI initiatives from the technology rather than the problem is a common and harmful trap.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B214",
+    "belief": "The Netherlands must urgently scale up AI adoption in day‑to‑day operations to remain competitive and safeguard labour productivity and national earning capacity.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_02",
+      "linkedin_batch_03",
+      "linkedin_batch_04",
+      "linkedin_batch_05",
+      "linkedin_batch_07",
+      "blog"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B215",
+    "belief": "Becoming a digital frontrunner in the future economy requires organisations to actively take concrete steps in AI.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_02"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Becoming a digital frontrunner in the future economy requires organisations to actively take concrete steps in AI.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B216",
+    "belief": "Gradual progress in AI is currently more realistic than the emergence of general agents.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_03"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "causal_attribution",
+    "source_quote": "Gradual progress in AI is currently more realistic than the emergence of general agents.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B217",
+    "belief": "There is a substantial implementation gap between AI research and real‑world deployment in domains like food security.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_03"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "There is a substantial implementation gap between AI research and real-world deployment in food security applications.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B218",
+    "belief": "If the Netherlands hesitates on AI, it risks losing competitiveness and sovereignty.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "If the Netherlands hesitates on AI, it risks losing competitiveness and sovereignty.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B219",
+    "belief": "AI is an essential component of a future‑proof Dutch economy and tech ecosystem.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B220",
+    "belief": "AI tutors can positively reshape education by enabling personalization and flipped‑classroom models, especially in hybrid futures where teachers are supported by AI tutors.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI tutors can positively reshape education by enabling personalization and flipped-classroom models.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B221",
+    "belief": "The main barrier to AI adoption in large organizations is alignment with processes, strategy, and people rather than technology itself.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_05",
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "The main barrier to AI adoption in large organizations is alignment with processes, strategy, and people rather than tec",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B222",
+    "belief": "AI is already changing everyday school practice, but important questions about its role remain open.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "AI is already changing everyday school practice, but important questions about its role remain open.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B223",
+    "belief": "Moving from traditional recommendation systems to conversational AI tutors can overcome performance ceilings in personalized learning.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Moving from traditional recommendation systems to conversational AI tutors can overcome performance ceilings in personal",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B224",
+    "belief": "The AI field is shifting from hype toward practical and responsible implementation.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "The AI field is shifting from hype toward practical and responsible implementation.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B225",
+    "belief": "AI adoption is mandatory for competitiveness and cannot be treated as optional.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_08"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "AI adoption is mandatory for competitiveness and cannot be treated as optional.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B226",
+    "belief": "AI’s economic potential in the Netherlands is large, but adoption is lagging because AI is too complex for organisations to fully grasp.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_08",
+      "linkedin_batch_07"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "AI’s economic potential in the Netherlands is large, but adoption is lagging behind that potential.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B227",
+    "belief": "Universal forecasting models like Large Time Series Models may change the traditional one‑model‑per‑dataset approach but must be critically evaluated.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "problem_framing",
+    "source_quote": "Universal forecasting models like Large Time Series Models may change the traditional one-model-per-dataset approach but",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B228",
+    "belief": "AI can improve efficiency, capacity management, and staffing in hospital emergency departments.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_10"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI can improve efficiency, capacity management, and staffing in hospital emergency departments.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B229",
+    "belief": "Incremental model releases can cumulatively saturate benchmarks, raising questions about how we measure AI progress.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_02"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Incremental model releases can cumulatively saturate benchmarks, raising questions about how we measure AI progress.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B230",
+    "belief": "Understanding diverse expert views on AI is important for making sense of the field’s direction, including expectations about AGI.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_03",
+      "linkedin_batch_02"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "causal_attribution",
+    "source_quote": "Understanding diverse expert views on AI is important for making sense of the field’s direction.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B231",
+    "belief": "AI literacy is central to how people find, consume, and trust news in a GenAI era.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "AI literacy is central to how people find, consume, and trust news in a GenAI era.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B232",
+    "belief": "AI evaluation must go beyond aggregate accuracy to examine the nature and quality of model errors, and benchmark‑driven evaluation alone narrows our understanding of progress.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_batch_03"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "AI evaluation must go beyond aggregate accuracy to examine the nature and quality of model errors.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B233",
+    "belief": "AI literacy and continuous education are necessary for professionals working with AI, especially in safety and security domains.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "AI literacy and continuous education are necessary for professionals working with AI, especially in safety and security ",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B234",
+    "belief": "Coding agents still require human input to drive originality in software creation.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "causal_attribution",
+    "source_quote": "Coding agents still require human input to drive originality in software creation.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B235",
+    "belief": "LLMs can silently fail or collapse, so their behavior must be critically examined.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "LLMs can silently fail or collapse, so their behavior must be critically examined.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B236",
+    "belief": "The main reasons AI strategies fail are non‑technical and lie in how organisations approach AI, including mindset, silos, and misaligned incentives.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_08",
+      "linkedin_batch_06",
+      "linkedin_batch_07"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B237",
+    "belief": "Responsible AI requires embedding ethics, transparency, explainability, and human oversight from design through deployment.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Responsible AI requires embedding ethics, transparency, explainability, and human oversight from design through deployme",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B238",
+    "belief": "Guardrails and regulation for AI are necessary but must be balanced so they do not stifle innovation or Europe’s competitiveness.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_batch_07"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Guardrails and regulation for AI are necessary but must be balanced so they do not stifle innovation or Europe’s competi",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B239",
+    "belief": "Making AI agents safer is a prerequisite for running them in enterprise environments.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_01"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "Making AI agents safer is a prerequisite for running them in enterprise environments.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B240",
+    "belief": "Data composition, quality, and diversity are as crucial as model size for language model progress, fairness, and robustness, yet are under‑understood and must be measured.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_01",
+      "blog"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B241",
+    "belief": "Understanding how not to train LLMs, including legal and data risks, is as important as knowing how to train them.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "Understanding how not to train LLMs, including legal and data risks, is as important as knowing how to train them.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B242",
+    "belief": "The AI Act is reshaping AI development practices and must inform how models are trained.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_05",
+      "linkedin_batch_07"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "The AI Act is reshaping AI development practices and must inform how models are trained in 2025.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B243",
+    "belief": "Balancing AI innovation with risk and regulation is a central concern in financial applications of AI.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "Balancing AI innovation with risk and regulation is a central concern in financial applications of AI.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B244",
+    "belief": "AI for legal and regulatory compliance is already practically viable and important in financial markets.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "AI for legal and regulatory compliance is already practically viable and important in financial markets.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B245",
+    "belief": "Understanding the limits of LLM reasoning is crucial for anyone researching, building, or applying AI.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "prescriptive",
+    "source_quote": "Understanding the limits of LLM reasoning is crucial for anyone researching, building, or applying AI.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B246",
+    "belief": "Because AI is foundational, the EU AI Act must get the regulatory moment right to avoid harming critical systems.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Because AI is foundational, the EU AI Act must get the regulatory moment right to avoid harming critical systems.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B247",
+    "belief": "AI introduces legal and compliance risks in finance that must be actively managed.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_07"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "AI introduces legal and compliance risks in finance that must be actively managed.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B248",
+    "belief": "There is a real risk that the EU AI Act could unintentionally slow down innovation.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_07"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "There is a real risk that the EU AI Act could unintentionally slow down innovation.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B249",
+    "belief": "Regulation, while necessary, can unintentionally hinder transformative AI advancements in public services and the economy.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_07"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Regulation, while necessary, can unintentionally hinder transformative AI advancements in public services and the econom",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B250",
+    "belief": "AI’s growing energy consumption is a problem that must be actively managed and reduced.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "AI’s growing energy consumption is a problem that must be actively managed and reduced.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B251",
+    "belief": "The current push for efficiency in AI infrastructure may be counterproductive and needs rethinking, with alternative models prioritizing effectiveness and sustainability.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "causal_attribution",
+    "source_quote": "The current push for efficiency in AI infrastructure may be counterproductive and needs rethinking.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B252",
+    "belief": "AI is already a critical, largely invisible infrastructure underpinning modern society and must be treated as such in policy debates.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI is already a critical, largely invisible infrastructure underpinning modern society and must be treated as such in po",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B253",
+    "belief": "AI systems in education should augment, not replace, core human learning processes and must avoid inducing 'metacognitive laziness'.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI systems in education should augment, not replace, core human learning processes and must avoid inducing 'metacognitiv",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B254",
+    "belief": "AI should be framed and governed as a socio‑technical infrastructure whose misuse or absence has systemic societal consequences.",
+    "category": "stance",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI should be framed and governed as a socio‑technical infrastructure whose misuse or absence has systemic societal conse",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B255",
+    "belief": "Advances in AI and Earth observation data are materially changing how ground‑level decisions are made.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_02"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "problem_framing",
+    "source_quote": "Advances in AI and Earth observation data are materially changing how ground-level decisions are made.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B256",
+    "belief": "A profound data divide undermines the ethical and practical potential of AI for global food security.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_03"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "A profound data divide undermines the ethical and practical potential of AI for global food security.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B257",
+    "belief": "AI systems currently lack key human cognitive traits such as intent, self‑awareness, and autobiographical memory, and we risk anthropomorphizing them because they use human language.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_07"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "AI systems currently lack key human cognitive traits such as intent, self-awareness, and autobiographical memory.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B258",
+    "belief": "AI plays a dual role as both a protective shield and a potential weapon, requiring responsible design.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_07"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "AI plays a dual role as both a protective shield and a potential weapon, requiring responsible design.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B259",
+    "belief": "There is significant uncertainty about whether AGI and superintelligence are inevitable or overhyped, requiring critical examination, and some extreme safety concerns may be overstated.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_07"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "problem_framing",
+    "source_quote": "There is significant uncertainty about whether AGI and superintelligence are inevitable or overhyped, requiring critical",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B260",
+    "belief": "The Netherlands faces distinctive grid challenges that make AI‑based energy solutions particularly urgent.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "The Netherlands faces distinctive grid challenges that make AI-based energy solutions particularly urgent.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B261",
+    "belief": "We are approaching a convergence of simulation, perception, and compute that makes truly smart cities increasingly feasible.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "causal_attribution",
+    "source_quote": "We are approaching a convergence of simulation, perception, and compute that makes truly smart cities increasingly feasi",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B262",
+    "belief": "The Netherlands currently underperforms on AI adoption relative to its research strength and must move from talking about AI to doing AI.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_batch_01"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "The Netherlands currently underperforms on AI adoption relative to its research strength and must move from talking abou",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B263",
+    "belief": "Many organisations struggle to move beyond isolated AI initiatives because they lack clarity on where to start.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_01"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "Many organisations struggle to move beyond isolated AI initiatives because they lack clarity on where to start.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B264",
+    "belief": "Building secure, full‑stack, production‑ready AI infrastructure is essential for enterprise adoption.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_01",
+      "linkedin_batch_09",
+      "linkedin_batch_06"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B265",
+    "belief": "The Netherlands’ main AI gap is implementation, not ideas, talent, or infrastructure, and low implementation capacity and slow structures are causing it to lose momentum and societal potential.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_01"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "The Netherlands’ main AI gap is implementation, not ideas, talent, or infrastructure.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B266",
+    "belief": "Europe is currently lagging behind the US and China in key dimensions of AI development and adoption.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_07"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "Europe is currently lagging behind the US and China in key dimensions of AI development and adoption.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B267",
+    "belief": "Knowledge sharing and storytelling about AI projects are essential to scaling learning across the Dutch AI ecosystem, including via newsletters and open content.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Knowledge sharing and storytelling about AI projects are essential to scaling learning across the Dutch AI ecosystem.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B268",
+    "belief": "Data diversity in training corpora is a critical but under‑specified factor for fairness and robustness in language models.",
+    "category": "domain_knowledge",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "Data diversity in training corpora is a critical but under‑specified factor for fairness and robustness in language mode",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B269",
+    "belief": "Legal ambiguity and overlapping regulations create friction for companies implementing the EU AI Act.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_07"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "Legal ambiguity and overlapping regulations create friction for companies implementing the EU AI Act.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B270",
+    "belief": "Human intelligence is characterized by selective attention to a small fraction of information, unlike current AI systems.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_07"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Human intelligence is characterized by selective attention to a small fraction of information, unlike current AI systems",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B271",
+    "belief": "Traditional threat analysis that treats risks in isolation is inadequate for today’s interconnected threat landscape; incorporating interconnectedness as a third dimension improves policymaking.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_08"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "problem_framing",
+    "source_quote": "Traditional threat analysis that treats risks in isolation is inadequate for today’s interconnected threat landscape.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B272",
+    "belief": "Scaling and embedding AI solutions, supported by clear strategies and strong governance, are required to achieve true impact beyond pilots.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_05"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Scaling and embedding AI solutions, supported by clear strategies and strong governance, are required to achieve true im",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B273",
+    "belief": "Building GenAI infrastructure and ecosystems is foundational for AI in higher education and for a responsible AI ecosystem there.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_06",
+      "linkedin_batch_05"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "prescriptive",
+    "source_quote": "Building GenAI infrastructure and ecosystems is foundational for AI in higher education.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B274",
+    "belief": "Participants in AI initiatives should be willing to share their results with others.",
+    "category": "values",
+    "sources": [
+      "linkedin_batch_10"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Participants in AI initiatives should be willing to share their results with others.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B275",
+    "belief": "A strong operational foundation is necessary to enable technical teams to focus on impact.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_08"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "A strong operational foundation is necessary to enable technical teams to focus on impact.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B276",
+    "belief": "Assessing data availability and achievable model performance is essential to judging AI feasibility in practice.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_10"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Assessing data availability and achievable model performance is essential to judging AI feasibility in practice.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B277",
+    "belief": "Execution space and mandates for practical AI experimentation are necessary to unlock AI opportunities.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_01",
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Execution space and mandates for practical AI experimentation are necessary to unlock AI opportunities.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B278",
+    "belief": "Responsible and scalable AI solutions require architectures that combine multi‑agent setups, retrieval, tool calling, and guardrails, delivered via model‑agnostic, privacy‑first architectures with strict governance guarantees.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_02"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "causal_attribution",
+    "source_quote": "Responsible and scalable AI solutions require architectures that combine multi-agent setups, retrieval, tool calling, an",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B279",
+    "belief": "Explainability features are an essential component of applied machine learning in safety‑critical domains like aviation and other sensitive sectors.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_03",
+      "blog",
+      "linkedin_batch_04",
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Explainability features are an essential component of applied machine learning in safety-critical domains like aviation.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B280",
+    "belief": "Validated domain content is necessary to ensure trustworthy AI guidance in sensitive areas like finance and education.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Validated domain content is necessary to ensure trustworthy AI guidance in sensitive areas like finance.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B281",
+    "belief": "Building secure conversational AI requires explicit guardrails that block malicious content using multiple technical approaches, and such guardrails must be explicitly engineered rather than assumed.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_05",
+      "blog",
+      "linkedin_batch_04"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Building secure conversational AI requires explicit guardrails that block malicious content using multiple technical app",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B282",
+    "belief": "Infrastructure built on governance and security is the foundation for scaling advanced AI and GenAI in finance and other sensitive domains.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_06",
+      "linkedin_batch_01"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B283",
+    "belief": "Public machine learning audits and internal AI management systems are important practices for embedding security, ethics, and future‑readiness in AI.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_07",
+      "linkedin_batch_08"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "prescriptive",
+    "source_quote": "Public machine learning audits and internal AI management systems are important practices for embedding security and eth",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B284",
+    "belief": "Experts in the Netherlands are actively working to make AI systems in security domains safer and more responsible.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_batch_07"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "causal_attribution",
+    "source_quote": "Experts in the Netherlands are actively working to make AI systems in security domains safer and more responsible.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B285",
+    "belief": "The EU AI Act must be translated from complex policy into practical tools for day‑to‑day AI work.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_08"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "The EU AI Act must be translated from complex policy into practical tools for day-to-day AI work.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B286",
+    "belief": "Evaluation and monitoring frameworks must be built alongside AI systems, not after, to prevent regressions and hidden failures, especially in safety‑critical contexts.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Evaluation and monitoring frameworks must be built alongside AI systems, not after, to prevent regressions and hidden fa",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B287",
+    "belief": "AI evaluation in safety‑critical contexts must combine quantitative metrics, qualitative feedback, and regulatory auditability.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "AI evaluation in safety‑critical contexts must combine quantitative metrics, qualitative feedback, and regulatory audita",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B288",
+    "belief": "Regulation should enable entrepreneurs and AI adoption rather than overburden them with compliance and uncertainty, and should be flexible, supportive, and collaborative with industry.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_04",
+      "linkedin_batch_07",
+      "linkedin_batch_09"
+    ],
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B289",
+    "belief": "Policy should actively enable AI adoption through talent, compute access, experimentation space, and by tracking and managing AI’s energy footprint with standardized tools and metrics.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_09"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Policy should actively enable AI adoption through talent, compute access, and experimentation space.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B290",
+    "belief": "Executives’ approaches to AI governance are critical enough to warrant systematic learning and sharing.",
+    "category": "stance",
+    "sources": [
+      "linkedin_batch_01"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "inference_type": "prescriptive",
+    "source_quote": "Executives’ approaches to AI governance are critical enough to warrant systematic learning and sharing.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B291",
+    "belief": "AI adoption in finance requires transparent systems to mitigate associated risks, with transparency, fairness, and explainability as non‑negotiable requirements.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_07",
+      "linkedin_batch_06"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "AI adoption in finance requires transparent systems to mitigate associated risks.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B292",
+    "belief": "Human oversight must remain central in high‑risk AI domains such as defense, security, and finance, where AI should support rather than replace human judgment.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "inference_type": "prescriptive",
+    "source_quote": "Human oversight must remain central in high‑risk AI domains such as defense and security.",
+    "extractor_method": "sensemaking"
+  },
+  {
+    "id": "SNS-B293",
+    "belief": "Deploying AI systems that lack human‑like constraints and instincts requires additional guardrails.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_batch_07"
+    ],
+    "extractor_method": "sensemaking"
+  }
+]
