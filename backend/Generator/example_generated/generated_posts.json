@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "post_idx": 1,
+      "angle": "Why AI pilots stall — and what to do about it",
+      "content": "Most organizations have run an AI pilot by now.\n\nFew have scaled one.\n\nING COO Risk Leon Dusée recently shared why — and the answer isn't what most people expect.\n\nIt's not the technology that's holding organizations back.\nIt's thinking about scaling and ownership too late.\n\nHere's what that looks like in practice:\n→ A team runs a successful pilot\n→ Nobody has decided who owns it long-term\n→ The business case isn't tied to a real operational decision\n→ The pilot quietly dies\n\nThe fix? Treat AI adoption as an organizational transformation challenge from day one — not a technology experiment you figure out later.\n\nThat means asking before the pilot even starts:\n• Who owns this when it works?\n• How does this change the process around it?\n• What does success actually look like at scale?\n\nAI is ready. The question is whether your organization is structured to receive it.\n\n#AI #DigitalTransformation #Leadership #AIAdoption"
+    },
+    {
+      "post_idx": 2,
+      "angle": "Focus beats breadth in AI adoption",
+      "content": "Experimenting with AI everywhere sounds innovative.\n\nIn reality, it's one of the fastest ways to get nowhere.\n\nThat's one of the key lessons Leon Dusée, COO Risk at ING, shared about scaling AI in large organizations.\n\nThe organizations making real progress aren't the ones running the most pilots.\nThey're the ones ruthlessly focused on a limited number of high-impact use cases.\n\nWhy does focus matter so much?\n\nBecause real AI impact often doesn't come from automating a single task.\nIt comes from redesigning entire processes around what AI makes possible.\n\nThat takes time, leadership attention, and organizational energy.\nYou can't spread that across 50 experiments.\n\nThe practical takeaway:\nPick fewer bets. Go deeper. Build something that actually changes how work gets done.\n\nThe organizations winning with AI aren't doing more.\nThey're doing less — much more deliberately.\n\n#AI #AIStrategy #Innovation #FutureOfWork #KickstartAI"
+    },
+    {
+      "post_idx": 3,
+      "angle": "AI success depends on people, not just technology",
+      "content": "We spend a lot of time talking about AI models.\nWe don't spend nearly enough time talking about the people working alongside them.\n\nING's Leon Dusée made this point clearly when discussing AI adoption at scale:\n\nThe biggest barrier to AI success isn't the algorithm.\nIt's whether employees and leaders have developed the critical thinking and adaptability to work effectively with AI.\n\nThis has real implications for how we invest in AI adoption:\n\n→ Technical implementation is not enough\n→ Training programs need to build judgment, not just tool familiarity\n→ Leaders need to model curiosity and adaptability themselves\n→ Organizations need to create psychological safety to experiment and learn\n\nAnd beyond productivity gains, there's a bigger opportunity here.\n\nIn the Netherlands, organizations across banking, healthcare, education, and aviation are starting to ask: how do we use AI not just to work faster — but to genuinely improve financial health, learning outcomes, and patient care?\n\nThat question requires people with both AI literacy and a sense of purpose.\n\nTechnology sets the ceiling. People determine how close you get to it.\n\n#AI #PeopleAndCulture #AIAdoption #Leadership #KickstartAI"
+    }
+  ],
+  "few_shot_examples": []
+}

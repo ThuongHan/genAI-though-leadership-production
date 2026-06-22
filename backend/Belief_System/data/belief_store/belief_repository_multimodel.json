@@ -1,0 +1,2381 @@
+[
+  {
+    "id": "MMD-B001",
+    "belief": "Meaningful progress in AI starts with individuals who apply AI in bold, practical ways.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B002",
+    "belief": "Accelerating AI adoption in the Netherlands is the central mission and purpose of KickstartAI and its community.",
+    "category": "mission",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B003",
+    "belief": "KickstartAI’s role is to bridge the gap between AI ideas, pilots, and discussion on the one hand, and concrete, scaled, real‑world AI applications and impact on the other.",
+    "category": "mission",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B004",
+    "belief": "KickstartAI’s mission includes using AI for good: creating real societal benefit, supporting social and environmental causes, and making the Netherlands smarter, fairer, and more human.",
+    "category": "mission",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B005",
+    "belief": "KickstartAI’s mission includes strengthening and contributing to the Dutch AI ecosystem by sharing knowledge, fostering talent, and building a large, active AI community.",
+    "category": "mission",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B006",
+    "belief": "KickstartAI’s mission includes helping businesses and public institutions harness AI’s full potential and make AI work in practice, including within government.",
+    "category": "mission",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B007",
+    "belief": "KickstartAI’s mission includes disseminating AI knowledge, insights, and ideas across the Dutch AI ecosystem and publicly sharing why AI strategies fail and how to improve them.",
+    "category": "mission",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B008",
+    "belief": "KickstartAI’s mission includes turning AI ideas into concrete solutions and real‑world impact, including helping organisations move from pilots to adopted solutions.",
+    "category": "mission",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B009",
+    "belief": "KickstartAI’s mission includes building and nurturing a distinct AI community in the Netherlands and helping shape the future of AI in the country.",
+    "category": "mission",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B010",
+    "belief": "KickstartAI’s mission includes helping businesses and government harness AI to drive economic growth, productivity, competitiveness, and technological independence for the Netherlands.",
+    "category": "mission",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B011",
+    "belief": "KickstartAI’s mission includes using AI as a force for good in domains such as healthcare, education, environment, food security, and public safety.",
+    "category": "mission",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B012",
+    "belief": "KickstartAI’s mission includes accelerating responsible AI adoption, ensuring AI is safe, ethical, trustworthy, and aligned with human rights and European values.",
+    "category": "mission",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B013",
+    "belief": "KickstartAI values using technology and AI for social good and societal benefit rather than only for profit or narrow efficiency gains.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B014",
+    "belief": "KickstartAI values AI that genuinely serves and helps end users, improving their lives, work, and wellbeing (e.g., patients, nurses, students, customers, citizens).",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B015",
+    "belief": "KickstartAI values investing in people’s skills, capabilities, and subject‑matter expertise as much as investing in AI technology.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B016",
+    "belief": "KickstartAI values collaboration, community, and cross‑organisational / cross‑sector cooperation as essential to advancing AI and its positive impact.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B017",
+    "belief": "KickstartAI values open knowledge sharing—of insights, lessons, and results—as essential for a healthy AI ecosystem and for accelerating adoption.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B018",
+    "belief": "KickstartAI values open‑source and open, sovereign language models to ensure broad, local, and European access to AI.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B019",
+    "belief": "KickstartAI values responsible and trustworthy AI that embeds ethics, safety, security, fairness, transparency, explainability, auditability, and accountability throughout the lifecycle.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B020",
+    "belief": "KickstartAI values privacy protection, including limiting data collection, on‑device storage where possible, redaction of personal data, and strong identity and access management.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B021",
+    "belief": "KickstartAI values transparency about how AI systems work, including prediction ranges, confidence levels, limitations, data sources, and how scores or answers are generated.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B022",
+    "belief": "KickstartAI values AI systems that are explainable and understandable to users, especially in regulated and high‑stakes environments like healthcare and finance.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B023",
+    "belief": "KickstartAI values fairness, bias reduction, and careful assessment of input data truthfulness and narratives, particularly in threat prediction and security contexts.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B024",
+    "belief": "KickstartAI values avoiding specific financial advice in consumer‑facing financial chatbots, focusing instead on informing and educating users for legal and ethical reasons.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B025",
+    "belief": "KickstartAI values matching AI systems’ tone, style, and communication to users to provide a consistent, positive, and empathetic user experience.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B026",
+    "belief": "KickstartAI values transparency, responsibility, and stepping outside one’s comfort zone as professional virtues in data science and AI work.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "belief_type": "secondary",
+    "confidence": "medium",
+    "agreement_count": 2,
+    "agreement_score": 0.667,
+    "source_excerpt": "why transparency, responsibility, and stepping outside your comfort zone are lessons that carry back into her professional work.",
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B027",
+    "belief": "KickstartAI values end‑to‑end thinking in data and AI projects, from problem to impact, rather than focusing only on models.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B028",
+    "belief": "KickstartAI values making AI part of a sustainable energy future and reducing AI systems’ own environmental impact.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B029",
+    "belief": "KickstartAI values AI and media literacy as important for how people find, consume, and trust news in the age of GenAI.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B030",
+    "belief": "KickstartAI values ethical reflection on authorship, disclosure, and business‑model sustainability when using generative AI in journalism and media.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B031",
+    "belief": "KickstartAI values humanitarian and environmental impact as important outcomes guiding AI activities.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B032",
+    "belief": "KickstartAI values building and nurturing AI communities and ecosystems as a core orientation of its work.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B033",
+    "belief": "KickstartAI values in‑person, screen‑free, face‑to‑face interaction and structured networking as important for meaningful conversation, learning, and collaboration.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B034",
+    "belief": "KickstartAI values highlighting, celebrating, and telling the stories of individuals and community members who shape the future of AI.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B035",
+    "belief": "KickstartAI values using AI to address urgent, high‑stakes societal challenges such as healthcare capacity, environmental crime, food security, and financial health.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B036",
+    "belief": "KickstartAI values AI that helps society thrive and strengthens both the economy and society when used well.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B037",
+    "belief": "KickstartAI values applying AI to environmental and wildlife protection and to tackling major environmental challenges.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B038",
+    "belief": "KickstartAI values education and knowledge development as foundations of the future economy and supports AI for education that is accurate, reliable, and accessible.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B039",
+    "belief": "KickstartAI values personalised, accessible learning that accommodates neurodiversity and special education needs, and sees AI tutors as augmenting rather than replacing teachers.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B040",
+    "belief": "KickstartAI values making learning accessible to all people regardless of background or location.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B041",
+    "belief": "KickstartAI values using AI to reduce administrative and manual burdens so professionals can focus on higher‑impact tasks.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B042",
+    "belief": "KickstartAI values building trust as essential for AI adoption, especially in healthcare and finance.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B043",
+    "belief": "KickstartAI values critical, evidence‑oriented examination of claims about AGI, superintelligence, and AI timelines rather than accepting hype or fear at face value.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B044",
+    "belief": "KickstartAI values open public discussion and diverse opinions about AI safety, regulation, and long‑term risks.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B045",
+    "belief": "KickstartAI values making AI projects succeed in terms of actual value and impact, not just technical deployment or benchmark performance.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B046",
+    "belief": "KickstartAI values being a tech‑centric non‑profit that assembles energetic, capable people from diverse backgrounds who are passionate about AI and technology.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B047",
+    "belief": "KickstartAI values being part of and contributing to broader ecosystems—Dutch and European—that advance AI responsibly and independently of dominant foreign tech platforms.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B048",
+    "belief": "KickstartAI values using AI to solve concrete real‑world challenges in businesses and social organisations, not just theoretical problems.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B049",
+    "belief": "KickstartAI values maximizing return on investment from AI research by ensuring methods move beyond the lab into impactful deployment.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B050",
+    "belief": "KickstartAI values making fine‑tuning and deployment of small language models accessible and fast, so developers without deep ML expertise can use them effectively.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B051",
+    "belief": "KickstartAI values driving measurable social impact through AI initiatives and challenges.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B052",
+    "belief": "KickstartAI values engaging audiences and communities through events, content, and dialogue, and invites feedback and participation.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B053",
+    "belief": "KickstartAI values supporting others so they can focus on what they do best, including operational support that frees technical teams to focus on impact.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B054",
+    "belief": "KickstartAI values curiosity and passion for technology and AI as core criteria for cultural fit in its team.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B055",
+    "belief": "KickstartAI values creating the right office environment and culture, including complementary hires, so AI talent can thrive.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "secondary",
+    "confidence": "high",
+    "agreement_count": 3,
+    "agreement_score": 1.0,
+    "source_excerpt": "creating the right office environment and culture, but also making sure we hire the right people who get along and complement each other.",
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B056",
+    "belief": "KickstartAI values celebrating and publicly recognising community members’ work, challenges, and lessons as a way to support AI progress.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B057",
+    "belief": "KickstartAI values community as a key driver for advancing AI and its positive impact, and sees building community as intrinsically worthwhile.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B058",
+    "belief": "KickstartAI values using AI to improve individuals’ financial health, literacy, and resilience.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B059",
+    "belief": "KickstartAI values applying data and AI skills to social challenges and encourages professionals to use their skills for real positive impact.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B060",
+    "belief": "KickstartAI values making AI‑powered automation and tools broadly accessible, including through open and low‑cost approaches.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B061",
+    "belief": "KickstartAI values reducing nurses’ workload and improving wound care and healthcare quality as desirable outcomes of AI projects.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B062",
+    "belief": "KickstartAI values long‑term thinking and investment certainty as necessary conditions to effectively stimulate innovation and build a future‑proof digital economy.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B063",
+    "belief": "KickstartAI values building an independent European tech and AI industry to reduce over‑reliance on American big tech and to achieve digital sovereignty.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B064",
+    "belief": "KickstartAI values applying AI to strengthen societal resilience and public‑good outcomes, for example via resilience‑by‑design approaches.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B065",
+    "belief": "KickstartAI values making AI part of a sustainable energy system and reducing unintended negative consequences of AI infrastructure efficiency pushes.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B066",
+    "belief": "KickstartAI values using AI to protect the planet, including climate, biodiversity, and environmental crime domains.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B067",
+    "belief": "KickstartAI values building trust, transparency, and safety into AI agents and conversational systems, including robust guardrails against malicious content and hallucinations.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B068",
+    "belief": "KickstartAI values coordinated, evidence‑based decision‑making in policy domains like food security, enabled by better access to information via AI and NLP.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B069",
+    "belief": "KickstartAI values recognising and learning from divergent expert interpretations of AI developments.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B070",
+    "belief": "KickstartAI values applying AI to cultural heritage problems, such as reading ancient scrolls, as a worthwhile endeavour.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B071",
+    "belief": "KickstartAI values making AI work smarter and more efficiently in organisations and systems.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B072",
+    "belief": "KickstartAI values using AI to make cities smarter and more inclusive by understanding how people move and improving urban mobility.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B073",
+    "belief": "KickstartAI values using AI to solve pressing societal challenges and improve people’s lives, and believes there is always a way to create real social impact.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B074",
+    "belief": "KickstartAI values being part of an ecosystem that advances AI and is proud of recognition such as national AI award nominations.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B075",
+    "belief": "KickstartAI values engaging with executives and public officials about AI governance, use, and responsible adoption.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B076",
+    "belief": "KickstartAI values AI as fundamentally a force for good rather than a blocker, while acknowledging its risks.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B077",
+    "belief": "KickstartAI values making AI adoption rapid but responsible so the Netherlands can remain competitive and seize opportunities.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B078",
+    "belief": "KickstartAI values using AI to safeguard the world, including in security, fraud detection, and national defense contexts.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B079",
+    "belief": "KickstartAI values cross‑sector expert collaboration to advance safe and responsible AI in security‑related applications.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B080",
+    "belief": "KickstartAI values AI that rewires learning in positive ways, enabling personalised, adaptive education and freeing classroom time for deeper engagement.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B081",
+    "belief": "KickstartAI values making AI adoption in the Netherlands a national priority, given its importance for labour productivity, earning capacity, and societal impact.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B082",
+    "belief": "KickstartAI values using AI to improve public safety in high‑stakes environments like train stations while addressing organisational and ethical challenges.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B083",
+    "belief": "KickstartAI values cross‑sector collaboration and networks as essential for unlocking AI’s full potential and shaping the future of AI in the Netherlands.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B084",
+    "belief": "KickstartAI values AI that is people‑centric and about human meaning when ethics and safety are a concern.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B085",
+    "belief": "KickstartAI values having a clear long‑term vision for AI systems that integrate qualitative meaning, even if technical answers are not yet known.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B086",
+    "belief": "KickstartAI values using AI to address financial vulnerability by providing anonymous, empathetic, scalable support.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B087",
+    "belief": "KickstartAI values protecting users’ personal identifiable information strongly enough to justify redaction and generalisation before model processing.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B088",
+    "belief": "KickstartAI values AI that helps society thrive for the benefit of all people and strengthens welfare states.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B089",
+    "belief": "KickstartAI values AI that is safe, ethical, and innovative, and sees these as compatible goals.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B090",
+    "belief": "KickstartAI values using AI to reduce teacher workload and help students take ownership of their learning.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B091",
+    "belief": "KickstartAI values educational tools that expose students to difficult ethical and social choices without prescribing what they should think, and that preserve face‑to‑face conversation.",
+    "category": "values",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B092",
+    "belief": "KickstartAI values AI projects that reduce nurses’ administrative burden and improve efficiency and speed of insights in healthcare.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B093",
+    "belief": "KickstartAI values AI that reduces administrative tasks for inspectors and other public professionals, freeing time for critical fieldwork.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B094",
+    "belief": "KickstartAI values AI that improves efficiency and quality of care in emergency departments and other healthcare settings.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B095",
+    "belief": "KickstartAI values AI that supports financial wellbeing and resilience for bank customers.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B096",
+    "belief": "KickstartAI values AI that supports environmental safety as a fundamental security issue, not just activism.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B097",
+    "belief": "KickstartAI values AI that supports resilience by design in national risk and economic systems.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B098",
+    "belief": "KickstartAI values AI that is evaluated not only by metrics and benchmarks but by its behaviour in daily use and the nature of its errors.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B099",
+    "belief": "KickstartAI values AI that is developed with transparency about training data composition, diversity, and quality to improve fairness and robustness.",
+    "category": "values",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B100",
+    "belief": "KickstartAI values AI that is governed by strong internal management systems embedding security, ethics, and future‑readiness.",
+    "category": "values",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B101",
+    "belief": "KickstartAI’s strategy is to focus on applied, real‑world AI projects with large organisations and public institutions, moving from pilots to implementation and scaling to create impact at national scale.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B102",
+    "belief": "KickstartAI’s strategy is to start AI initiatives from clearly defined, real‑world problems and operational needs, not from the desire to use a particular technology.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B103",
+    "belief": "KickstartAI’s strategy is to embed AI into the core of organisations’ processes, strategy, and people, rather than treating AI as standalone tools or side projects.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B104",
+    "belief": "KickstartAI’s strategy is to think about adoption, user trust, and scalability from day one, involving end users early and co‑developing solutions with them.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B105",
+    "belief": "KickstartAI’s strategy is to prioritise low‑hanging‑fruit AI use cases that deliver short‑term value as an entry point, while planning for long‑term transformation.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B106",
+    "belief": "KickstartAI’s strategy is to scale proven AI solutions rather than endlessly running isolated experiments.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B107",
+    "belief": "KickstartAI’s strategy is to use collaborative, time‑bounded challenges and hackathons with partner companies to develop AI solutions, validate data, and strengthen the ecosystem.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B108",
+    "belief": "KickstartAI’s strategy is to share distilled lessons, technical insights, and evaluation approaches from projects so others can replicate and accelerate AI adoption.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B109",
+    "belief": "KickstartAI’s strategy is to build and grow a large community of AI professionals and experts to connect, collaborate, and create impact together.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B110",
+    "belief": "KickstartAI’s strategy is to use strong public‑private and cross‑sector collaboration as a key lever for accelerating AI adoption and innovation.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B111",
+    "belief": "KickstartAI’s strategy is to focus on sectors where the Netherlands has the most to gain from AI, such as manufacturing, logistics, healthcare, finance, and energy.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B112",
+    "belief": "KickstartAI’s strategy is to build secure, full‑stack AI applications that can scale in enterprise environments, with attention to governance, security, and cloud‑first architectures.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B113",
+    "belief": "KickstartAI’s strategy is to combine operational reality with long‑term strategic vision when deploying AI.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B114",
+    "belief": "KickstartAI’s strategy is to move organisations from isolated AI experiments to scalable practices and from pilots to implementation and scaling in practice.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B115",
+    "belief": "KickstartAI’s strategy is to use central coordination of AI portfolios combined with bottom‑up idea generation to avoid duplication and enable scalable solutions.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B116",
+    "belief": "KickstartAI’s strategy is to invest in people, governance, and stakeholder engagement as much as in technology to ensure successful AI adoption.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B117",
+    "belief": "KickstartAI’s strategy is to start complex LLM projects by using the best available model on a subset of data to establish what is possible, then optimise for cost.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B118",
+    "belief": "KickstartAI’s strategy is to treat cost efficiency as an essential constraint shaping model and method choices, while avoiding premature optimisation that wastes time.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B119",
+    "belief": "KickstartAI’s strategy is to use generative AI to automate tedious analytical work so human experts can focus on complex, high‑value tasks.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B120",
+    "belief": "KickstartAI’s strategy is to combine traditional AI/ML with rule‑based systems to create more robust detection and guardrail capabilities (e.g., in fraud and conversational AI).",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B121",
+    "belief": "KickstartAI’s strategy is to embed transparency, explainability, security, fairness, and ethics into AI model development lifecycles from the start, not as afterthoughts.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B122",
+    "belief": "KickstartAI’s strategy is to ensure AI robustness through high‑quality, relevant data, rigorous testing, and continuous monitoring for model drift.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B123",
+    "belief": "KickstartAI’s strategy is to provide ongoing education for professionals about emerging AI and cybersecurity threats, tools, and best practices.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B124",
+    "belief": "KickstartAI’s strategy is to use LLMs to accelerate coding, testing, and iteration, especially for building interactive websites and software components.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B125",
+    "belief": "KickstartAI’s strategy is to evaluate and improve AI products using human‑curated test sets, measurable accuracy metrics, and holistic evaluation frameworks that combine LLM‑based and non‑LLM metrics.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B126",
+    "belief": "KickstartAI’s strategy is to focus AI founders and builders on niche domains they understand, integrating existing models rather than building general AI or custom LLMs from scratch.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B127",
+    "belief": "KickstartAI’s strategy is to use applied, real‑world AI projects in partnership with large companies as a flywheel for national AI innovation and adoption.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B128",
+    "belief": "KickstartAI’s strategy is to use collaborative ecosystems, meetups, and conferences to share knowledge, surface challenges, and turn ideas into action.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B129",
+    "belief": "KickstartAI’s strategy is to use multi‑agent architectures with specialised sub‑agents, routing agents, and final answer agents instead of monolithic prompts for reliable AI systems.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B130",
+    "belief": "KickstartAI’s strategy is to enforce structured outputs (e.g., JSON) and use tool calling (calculators, retrieval, etc.) rather than relying solely on prompt instructions.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B131",
+    "belief": "KickstartAI’s strategy is to ground chatbot answers in trusted external and internal content via retrieval‑augmented generation, rather than relying solely on model internal knowledge.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B132",
+    "belief": "KickstartAI’s strategy is to design financial‑health chatbots around personalization, conversational quality, safety mechanisms, and trusted information integration, not just model performance.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B133",
+    "belief": "KickstartAI’s strategy is to derive evaluation metrics from system requirements and stakeholder needs, including users and institutions like ING.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B134",
+    "belief": "KickstartAI’s strategy is to use synthetic conversations, LLM judges, and deterministic metrics together to evaluate generative AI chatbots.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B135",
+    "belief": "KickstartAI’s strategy is to provide non‑technical tools for reviewers (e.g., conversation editors) to efficiently improve simulated data and evaluation sets.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B136",
+    "belief": "KickstartAI’s strategy is to use multi‑agent architectures, retrieval, tool calling, and guardrails together to keep chatbot responses accurate and within scope.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B137",
+    "belief": "KickstartAI’s strategy is to use small and fine‑tuned language models (SLMs) for cost‑effective RAG systems that can match LLM performance in many cases.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B138",
+    "belief": "KickstartAI’s strategy is to reduce costs and development time without sacrificing performance by using compact models, good data, and efficient fine‑tuning.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B139",
+    "belief": "KickstartAI’s strategy is to use high‑quality data over complex models, emphasising that good data beats complex architectures.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B140",
+    "belief": "KickstartAI’s strategy is to assess feasibility before building full models, especially in data‑sparse or humanitarian contexts.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B141",
+    "belief": "KickstartAI’s strategy is to validate new data sources (e.g., weather data in aviation) and remove extreme outliers to improve model performance.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B142",
+    "belief": "KickstartAI’s strategy is to design AI solutions as concrete, actionable tools that directly support frontline staff while aligning with organisational strategic goals.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B143",
+    "belief": "KickstartAI’s strategy is to ask deep operational and organisational questions at the outset to ensure AI solutions are sustainable, valuable, and adopted.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B144",
+    "belief": "KickstartAI’s strategy is to involve end users early to create enthusiasm, early adopters, and ambassadors who sustain adoption.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B145",
+    "belief": "KickstartAI’s strategy is to think about adoption from day one and make progress visible to turn technical projects into lasting solutions.",
+    "category": "strategy",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B146",
+    "belief": "KickstartAI’s strategy is to build ecosystems and networks where people collaborate, share knowledge, and co‑create AI solutions across industries and sectors.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B147",
+    "belief": "KickstartAI’s strategy is to host meetups, conferences, and workshops as key mechanisms to build and sustain the AI community and share practical know‑how.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B148",
+    "belief": "KickstartAI’s strategy is to provide curated AI insights, technical blogs, podcasts, and online channels as educational resources for its community.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B149",
+    "belief": "KickstartAI’s strategy is to use cross‑company and cross‑sector collaboration between data/AI specialists and domain experts to produce the best AI solutions.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B150",
+    "belief": "KickstartAI’s strategy is to use strong governance, auditable systems, and relentless focus on customer value when building AI in regulated sectors like banking.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B151",
+    "belief": "KickstartAI’s strategy is to use central analytics teams and portfolio oversight while allowing ideas from the shop floor to ensure focus and avoid duplication.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B152",
+    "belief": "KickstartAI’s strategy is to empower entrepreneurial spirits and change‑makers within organisations to break existing frameworks and drive AI adoption.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B153",
+    "belief": "KickstartAI’s strategy is to identify and address non‑technical barriers—mindset, silos, misaligned incentives—as essential to successful AI strategies.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B154",
+    "belief": "KickstartAI’s strategy is to translate complex AI policy, such as the EU AI Act, into practical tools, internal management systems, and day‑to‑day practices.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B155",
+    "belief": "KickstartAI’s strategy is to use network analysis, LLMs, and centrality metrics to map interconnected national threats and identify high‑impact intervention points.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B156",
+    "belief": "KickstartAI’s strategy is to use AI‑based analysis of political proceedings and cluster maps to reveal country positions and potential areas for collaboration in Europe.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B157",
+    "belief": "KickstartAI’s strategy is to use AI and satellite imagery to fill data gaps in humanitarian and environmental contexts, such as water access and waste management.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B158",
+    "belief": "KickstartAI’s strategy is to use AI to support grid management, renewable integration, energy efficiency, and predictive control in increasingly complex energy systems.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B159",
+    "belief": "KickstartAI’s strategy is to educate users to prompt better as a lever to reduce AI‑related energy consumption.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B160",
+    "belief": "KickstartAI’s strategy is to use advanced computational methods such as multi‑agent systems, reinforcement learning, and mixed‑integer linear programming for logistics and energy‑efficiency challenges.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B161",
+    "belief": "KickstartAI’s strategy is to build end‑to‑end AI pipelines—from data anonymisation and preprocessing to deployment—for domains like computer vision in public safety.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B162",
+    "belief": "KickstartAI’s strategy is to keep up with fresh techniques for RAG and foundation models, and with hardware developments (e.g., NVIDIA) to inform its work.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B163",
+    "belief": "KickstartAI’s strategy is to use hands‑on, field‑informed workshops and labs to help professionals build conversational AI, multi‑agent systems, and guardrails.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B164",
+    "belief": "KickstartAI’s strategy is to use AI to map economic risks and resilience by analysing interdependencies between shocks and risks.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B165",
+    "belief": "KickstartAI’s strategy is to use AI to support food security by making policy‑relevant information easier to access and use for coordinated decisions.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B166",
+    "belief": "KickstartAI’s strategy is to use AI to support education through pilots in real schools, using methods like NLP, Bayesian knowledge tracing, and clustering.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B167",
+    "belief": "KickstartAI’s strategy is to use AI to support financial health via multi‑agent chatbots that aggregate trusted resources into a single conversational interface.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B168",
+    "belief": "KickstartAI’s strategy is to use AI to support hospital operations by forecasting patient inflow and integrating tools into existing IT and workflows.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B169",
+    "belief": "KickstartAI’s strategy is to use AI to support aviation efficiency by improving fuel‑related ML models and KPIs like cost‑to‑carry and contingency efficiency.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B170",
+    "belief": "KickstartAI’s strategy is to use AI to support environmental crime investigations and public safety through computer vision and detection systems.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B171",
+    "belief": "KickstartAI’s strategy is to use AI to support energy systems via forecasting and AI‑driven decision engines for real‑time asset management.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B172",
+    "belief": "KickstartAI’s strategy is to use AI to support journalism and media by exploring GenAI’s impact on workflows, business models, and trust.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B173",
+    "belief": "KickstartAI’s strategy is to use AI to support biodiversity research via multimodal models, large‑scale foundation models, and bio‑inspired computer vision.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B174",
+    "belief": "KickstartAI’s strategy is to use AI to support smart cities via predictive simulators, perception models, and compute‑efficient simulation methods.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B175",
+    "belief": "KickstartAI’s strategy is to use AI to support cultural heritage by combining ML, computer vision, and X‑ray tomography to read ancient texts.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B176",
+    "belief": "KickstartAI’s strategy is to use AI to support national AI leadership through advocacy for plans like the AI Delta Plan, investment in compute, talent, startups, and regulatory changes.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B177",
+    "belief": "KickstartAI’s strategy is to bridge cutting‑edge technology and business strategy in its projects and leadership advice.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B178",
+    "belief": "KickstartAI’s strategy is to help organisations implement AI effectively by understanding why AI efforts struggle and adjusting strategies beyond conventional KPIs.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B179",
+    "belief": "KickstartAI’s strategy is to use AI to map threat landscapes and resilience, treating interconnectedness as a crucial third dimension beyond probability and impact.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B180",
+    "belief": "KickstartAI’s strategy is to use AI to support energy transition by optimising supply‑demand balance, using ultra‑fast forecasting, and integrating renewables.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B181",
+    "belief": "KickstartAI’s strategy is to use AI to support education by building GenAI infrastructure and ecosystems for higher education.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B182",
+    "belief": "KickstartAI’s strategy is to use AI to support media by exploring new revenue models around real‑time information rather than training data alone.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B183",
+    "belief": "KickstartAI’s strategy is to use AI to support justice and public sector domains through dialogue, pilots, and knowledge sharing.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B184",
+    "belief": "KickstartAI’s strategy is to use AI to support wholesale banking and finance through KYC, fraud detection, and generative AI for transformation.",
+    "category": "strategy",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B185",
+    "belief": "KickstartAI’s strategy is to use AI to support food security by bridging the implementation gap between NLP research and deployment via academia‑societal collaborations.",
+    "category": "strategy",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B186",
+    "belief": "KickstartAI’s stance is that AI should always remain a means to an end, not a strategy or goal in itself.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B187",
+    "belief": "KickstartAI’s stance is that AI should be treated as a board‑level, organisation‑wide issue, not confined to specialist silos or treated as another IT upgrade.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B188",
+    "belief": "KickstartAI’s stance is that AI adoption is not optional for organisations or governments that want to remain competitive; action is needed now.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B189",
+    "belief": "KickstartAI’s stance is that AI is fundamentally a force for good that can drive real impact across industries and societal domains, though its power entails risks.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B190",
+    "belief": "KickstartAI’s stance is that AI should be used to solve concrete, real‑world challenges and create societal advantage, not just to chase small efficiency gains or hype.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B191",
+    "belief": "KickstartAI’s stance is that AI should be woven into organisational strategy, processes, and people to achieve tangible impact, not treated as a standalone tool.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B192",
+    "belief": "KickstartAI’s stance is that AI should be applied to urgent societal challenges such as healthcare capacity, labour shortages, climate change, and food security.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B193",
+    "belief": "KickstartAI’s stance is that AI should be used to connect and scale human insights rather than primarily generate synthetic content, especially in analytical contexts.",
+    "category": "stance",
+    "sources": [
+      "blog"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "agreement_count": 2,
+    "agreement_score": 0.667,
+    "source_excerpt": "a problem where AI served to connect human insights rather than generate synthetic ones.",
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B194",
+    "belief": "KickstartAI’s stance is that AI tools should be evaluated by their impact in daily use and error behaviour, not just by benchmark scores or incremental metric gains.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B195",
+    "belief": "KickstartAI’s stance is that benchmark‑driven AI research has important limits; over‑emphasis on benchmarks can create unhealthy research culture and mislead about true capabilities.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B196",
+    "belief": "KickstartAI’s stance is that labelling LLMs as “reasoning models” is misleading because they are largely inductive and offer limited true novelty.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B197",
+    "belief": "KickstartAI’s stance is that responsible AI requires intent, process, transparency, explainability, human oversight, and ethics from design through deployment.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "agreement_count": 3,
+    "agreement_score": 1.0,
+    "source_excerpt": "\"responsible AI is about intent, process, transparency, explainability, human oversight, and a commitment to ethics from design through deployment.\"",
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B198",
+    "belief": "KickstartAI’s stance is that AI governance must balance safety and fairness with avoiding over‑regulation that harms competitiveness and innovation, both in Europe and nationally.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "secondary",
+    "confidence": "medium",
+    "agreement_count": 2,
+    "agreement_score": 0.667,
+    "source_excerpt": "“safety and fairness are essential — but warns that over-regulation may hamper Europe’s competitiveness in the AI race. “We want to innovate, but we also",
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B199",
+    "belief": "KickstartAI’s stance is that innovation‑friendly AI regulation should be agile, fast, and focused on preventing actual harm rather than prescribing rigid processes.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B200",
+    "belief": "KickstartAI’s stance is that a tiered, risk‑based regulatory approach is appropriate because not all AI systems are equally harmful or beneficial.",
+    "category": "stance",
+    "sources": [
+      "blog"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B201",
+    "belief": "KickstartAI’s stance is that regulation of AI is inevitable and necessary given AI’s role as a major driver of societal change, but poorly calibrated regulation can disadvantage Europe and slow innovation.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B202",
+    "belief": "KickstartAI’s stance is that the EU AI Act is reshaping how AI is built, deployed, and overseen, and its complexity and ambiguity are important concerns for the tech sector.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B203",
+    "belief": "KickstartAI’s stance is that there is a real risk the EU AI Act may slow down AI innovation rather than accelerate it, so its real‑world impact must be scrutinised.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B204",
+    "belief": "KickstartAI’s stance is that regulation, innovation, and concrete action on AI must go hand‑in‑hand; regulation can enable responsible AI but may also unintentionally hinder beneficial advances.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B205",
+    "belief": "KickstartAI’s stance is that national AI policy should accelerate, not delay, AI use by providing clear rules, fewer grey areas, and more guidance for innovators.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "medium",
+    "agreement_count": 2,
+    "agreement_score": 0.667,
+    "source_excerpt": "“We need a national policy that doesn’t delay the use of AI, but accelerates it responsibly. Clear rules, fewer grey areas, and above all more",
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B206",
+    "belief": "KickstartAI’s stance is that the Netherlands must urgently move from talking about AI to doing AI, replacing endless discussions with concrete action and execution.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B207",
+    "belief": "KickstartAI’s stance is that the Netherlands should be treated as a scale‑up country for AI adoption and aim to be a frontrunner in AI and tech.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B208",
+    "belief": "KickstartAI’s stance is that relying too heavily on American big tech creates significant risks for Europe, and building independent European AI infrastructure and models is desirable.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "belief_type": "primary",
+    "confidence": "high",
+    "agreement_count": 3,
+    "agreement_score": 1.0,
+    "source_excerpt": "⚡ The risks of relying too heavily on American big tech",
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B209",
+    "belief": "KickstartAI’s stance is that AI should be used as a force for social good, including AI for the planet and AI for good initiatives.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B210",
+    "belief": "KickstartAI’s stance is that AI should be used to strengthen public safety and security, but misuse of AI by bad actors creates tangible, immediate threats that must be taken seriously.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B211",
+    "belief": "KickstartAI’s stance is that AI’s power entails significant risks, and deploying systems without human‑like constraints and instincts requires explicit guardrails and caution.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B212",
+    "belief": "KickstartAI’s stance is that speculative catastrophic AGI scenarios should be critically discussed and challenged rather than accepted at face value.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B213",
+    "belief": "KickstartAI’s stance is that AI should not be treated as just another IT upgrade; it requires rethinking how organisations work, operate, and measure success.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B214",
+    "belief": "KickstartAI’s stance is that traditional performance metrics like OKRs and KPIs are inadequate for realising AI’s potential and often fail to measure true AI success.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B215",
+    "belief": "KickstartAI’s stance is that AI strategies usually fail for non‑technical reasons—such as misaligned incentives, silos, and mindset—rather than because of the technology itself.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B216",
+    "belief": "KickstartAI’s stance is that AI should be focused on practical application and real‑world impact rather than abstract theory or hype.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B217",
+    "belief": "KickstartAI’s stance is that AI should be embedded into core processes and culture, and that meaningful AI adoption is a steep learning curve involving culture and governance.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B218",
+    "belief": "KickstartAI’s stance is that AI should be used to strengthen the economy and society, safeguard welfare states, and boost national earning capacity.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B219",
+    "belief": "KickstartAI’s stance is that AI should be used to address environmental challenges and protect the planet, including via AI x Planet initiatives.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B220",
+    "belief": "KickstartAI’s stance is that AI should be used to improve education through AI tutors, personalised learning, and hybrid human‑AI teaching models, while being cautious about didactic impacts.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B221",
+    "belief": "KickstartAI’s stance is that AI should be used to improve financial health support via generative chatbots that provide anonymous, empathetic, non‑advisory guidance.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B222",
+    "belief": "KickstartAI’s stance is that AI should be used to improve public safety in high‑stakes environments like train stations, but responsible deployment depends on trust and collaboration more than technology.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B223",
+    "belief": "KickstartAI’s stance is that AI should be used to manage increasingly complex energy systems and support the energy transition, but its own energy use must be managed responsibly.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B224",
+    "belief": "KickstartAI’s stance is that AI should be used to support journalism and media in ways that respect ethics, transparency, and sustainable business models.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B225",
+    "belief": "KickstartAI’s stance is that AI should be used to support biodiversity research and conservation, including via multimodal and bio‑inspired models.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B226",
+    "belief": "KickstartAI’s stance is that AI should be used to support cultural heritage, such as reading ancient scrolls, via advanced ML and imaging techniques.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B227",
+    "belief": "KickstartAI’s stance is that AI should be used to support resilience by design in national risk systems, treating interconnectedness as a key dimension.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B228",
+    "belief": "KickstartAI’s stance is that AI should be used to support smart cities by turning vision AI into practical tools for understanding movement and traffic.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B229",
+    "belief": "KickstartAI’s stance is that AI should be used to support wholesale banking and finance transformation, including generative AI as a catalyst rather than just a technology upgrade.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B230",
+    "belief": "KickstartAI’s stance is that AI should be used to support food security and that applying AI/NLP to social challenges like food security is a positive, worthwhile use of technology.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B231",
+    "belief": "KickstartAI’s stance is that AI should be used to support education in ways that reduce hallucinations and deliver accurate, reliable information via guardrailing and curated data.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B232",
+    "belief": "KickstartAI’s stance is that AI should be used to support security and safety, but safety and security are currently undervalued in AI deployment and must be prioritised.",
+    "category": "stance",
+    "sources": [
+      "blog",
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B233",
+    "belief": "KickstartAI’s stance is that AI should be used to support national AI leadership through plans like the AI Delta Plan, which are essential for European leadership.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B234",
+    "belief": "KickstartAI’s stance is that AI should be used to support energy systems via smarter forecasting and control, but the push for infrastructure efficiency may backfire if not managed carefully.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B235",
+    "belief": "KickstartAI’s stance is that AI should be used to support resilience and public good, and that cross‑sector collaboration is necessary to unlock its full potential.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B236",
+    "belief": "KickstartAI’s stance is that AI should be used to support national competitiveness and sovereignty; if the Netherlands hesitates, it risks falling behind.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B237",
+    "belief": "KickstartAI’s stance is that AI should be used to support justice and public sector innovation, and that government collapse or inaction is unacceptable given urgent challenges.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B238",
+    "belief": "KickstartAI’s stance is that AI should be used to support energy and logistics optimisation via advanced methods like MAS, RL, and MILP.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B239",
+    "belief": "KickstartAI’s stance is that AI should be used to support safe and privacy‑preserving futures, including via secure conversational AI and privacy‑first deployments.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B240",
+    "belief": "KickstartAI’s stance is that AI should be used to support small, targeted solutions rather than rigid one‑size‑fits‑all products.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B241",
+    "belief": "KickstartAI’s stance is that AI should be used to support agentic coding and no‑/low‑code development, which will change who can build software and has implications for the AI industry.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B242",
+    "belief": "KickstartAI’s stance is that AI should be used to support better threat assessment by including interconnectedness as a key dimension and using network analysis.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B243",
+    "belief": "KickstartAI’s stance is that AI should be used to support energy systems via smarter grids, but Europe’s unique grid challenges make AI solutions particularly urgent.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B244",
+    "belief": "KickstartAI’s stance is that AI should be used to support education via AI tutors and personalised learning, which can reshape education and provide benefits to students who don’t fit traditional systems.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B245",
+    "belief": "KickstartAI’s stance is that AI should be used to support financial crime fighting with transparency and responsible use.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B246",
+    "belief": "KickstartAI’s stance is that AI should be used to support national threat mapping and resilience, but must be accompanied by careful guardrails and governance.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B247",
+    "belief": "KickstartAI’s stance is that AI should be used to support energy forecasting and simulation, including synthetic worlds for safer driving AI.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B248",
+    "belief": "KickstartAI’s stance is that AI should be used to support journalism and media in ways that consider AI literacy, trust, and sustainable business models.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B249",
+    "belief": "KickstartAI’s stance is that AI should be used to support national AI adoption through practical, immediate steps rather than waiting for perfect policy or structures.",
+    "category": "stance",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  },
+  {
+    "id": "MMD-B250",
+    "belief": "KickstartAI’s domain knowledge is that AI is becoming a foundational, general‑purpose “system technology” comparable to electricity or the internet, underpinning economies and societies.",
+    "category": "domain_knowledge",
+    "sources": [
+      "linkedin_posts"
+    ],
+    "extractor_method": "multimodel"
+  }
+]

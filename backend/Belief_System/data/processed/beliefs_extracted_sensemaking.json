@@ -1,0 +1,3296 @@
+[
+  {
+    "belief": "Real‑world case studies of scaling custom AI applications are important learning tools for enterprises.",
+    "category": "knowledge_sharing",
+    "source_quote": "Real‑world case studies of scaling custom AI applications are important learning tools for enterprises.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "prescriptive",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Meaningful AI progress starts with individual practitioners applying AI in bold, practical ways.",
+    "category": "AI_adoption",
+    "source_quote": "Meaningful AI progress starts with individual practitioners applying AI in bold, practical ways.",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI must be taken out of the ivory tower and applied in practical contexts.",
+    "category": "AI_adoption",
+    "source_quote": "AI must be taken out of the ivory tower and applied in practical contexts.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Progress in AI adoption depends not only on technical capability but on deliberate organisational choices along the way.",
+    "category": "AI_adoption",
+    "source_quote": "Progress in AI adoption depends not only on technical capability but on deliberate organisational choices along the way.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Applying AI in practice to support adoption is a core source of organisational value and recognition for KickstartAI.",
+    "category": "AI_adoption",
+    "source_quote": "Applying AI in practice to support adoption is a core source of organisational value and recognition for KickstartAI.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Re-examining the assumptions and incentives that shaped today’s AI is necessary to guide future AI research and entrepreneurship.",
+    "category": "AI_adoption",
+    "source_quote": "Re-examining the assumptions and incentives that shaped today’s AI is necessary to guide future AI research and entrepre",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "problem_framing",
+    "confidence": "medium"
+  },
+  {
+    "belief": "The Netherlands risks losing its digital lead unless it moves from talking to concrete action on tech and AI.",
+    "category": "AI_adoption",
+    "source_quote": "The Netherlands risks losing its digital lead unless it moves from talking to concrete action on tech and AI.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Technical AI capability is currently outpacing its practical use in many organizations.",
+    "category": "AI_adoption",
+    "source_quote": "Technical AI capability is currently outpacing its practical use in many organizations.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI is qualitatively different from previous technologies and too big to be treated as a routine upgrade.",
+    "category": "AI_adoption",
+    "source_quote": "AI is qualitatively different from previous technologies and too big to be treated as a routine upgrade.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Real-world challenges are the appropriate starting point for AI initiatives, even without a finished plan.",
+    "category": "AI_adoption",
+    "source_quote": "Real-world challenges are the appropriate starting point for AI initiatives, even without a finished plan.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Organisations should shift focus from counting AI pilots to achieving real, measurable impact.",
+    "category": "AI_adoption",
+    "source_quote": "Organisations should shift focus from counting AI pilots to achieving real, measurable impact.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Organisations with real-world challenges and a desire to make a difference are suitable candidates for AI projects even without detailed solutions.",
+    "category": "AI_adoption",
+    "source_quote": "Organisations with real-world challenges and a desire to make a difference are suitable candidates for AI projects even ",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Leadership in AI will come from actors who take concrete action and responsibility, not just those who debate.",
+    "category": "AI_adoption",
+    "source_quote": "Leadership in AI will come from actors who take concrete action and responsibility, not just those who debate.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI is becoming an integral component of modern energy systems and grid resilience.",
+    "category": "AI_adoption",
+    "source_quote": "AI is becoming an integral component of modern energy systems and grid resilience.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI is a key driver of the energy transition across multiple operational domains.",
+    "category": "AI_adoption",
+    "source_quote": "AI is a key driver of the energy transition across multiple operational domains.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Prioritizing AI deployment in sectors like manufacturing and logistics will yield the greatest national benefit for the Netherlands.",
+    "category": "AI_adoption",
+    "source_quote": "Prioritizing AI deployment in sectors like manufacturing and logistics will yield the greatest national benefit for the ",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Managing Europe’s increasingly complex energy grid requires data and AI-driven solutions.",
+    "category": "AI_adoption",
+    "source_quote": "Managing Europe’s increasingly complex energy grid requires data and AI-driven solutions.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Relatively small generative models can produce realistic simulations that significantly improve AI testing and safety.",
+    "category": "AI_adoption",
+    "source_quote": "Relatively small generative models can produce realistic simulations that significantly improve AI testing and safety.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "The urgency and relevance of a problem are critical criteria for selecting AI projects.",
+    "category": "AI_adoption",
+    "source_quote": "The urgency and relevance of a problem are critical criteria for selecting AI projects.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_10",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Impact and scalability are essential goals for AI solutions rather than one-off, limited pilots.",
+    "category": "AI_adoption",
+    "source_quote": "Impact and scalability are essential goals for AI solutions rather than one-off, limited pilots.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_10",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Concrete business and social challenges are the appropriate focus for AI applications.",
+    "category": "AI_adoption",
+    "source_quote": "Concrete business and social challenges are the appropriate focus for AI applications.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_10",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Large companies are essential flywheels for scaling Dutch AI innovation and practical adoption.",
+    "category": "collaboration",
+    "source_quote": "Large companies are essential flywheels for scaling Dutch AI innovation and practical adoption.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "A healthy AI ecosystem requires diversity, cross-pollination, and long-term thinking among its participants.",
+    "category": "collaboration",
+    "source_quote": "A healthy AI ecosystem requires diversity, cross-pollination, and long-term thinking among its participants.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Bringing together people who build on each other’s knowledge and aim for positive social impact is foundational to KickstartAI’s identity.",
+    "category": "collaboration",
+    "source_quote": "Bringing together people who build on each other’s knowledge and aim for positive social impact is foundational to Kicks",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Stable fiscal arrangements for international talent are crucial for maintaining the Netherlands’ competitive position in the EU.",
+    "category": "collaboration",
+    "source_quote": "Stable fiscal arrangements for international talent are crucial for maintaining the Netherlands’ competitive position in",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Building a curated, expert AI community is strategically important for advancing AI in the Netherlands.",
+    "category": "collaboration",
+    "source_quote": "Building a curated, expert AI community is strategically important for advancing AI in the Netherlands.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "prescriptive",
+    "confidence": "medium"
+  },
+  {
+    "belief": "KickstartAI positions itself as a coalition focused on doing and implementation rather than just discussion.",
+    "category": "collaboration",
+    "source_quote": "KickstartAI positions itself as a coalition focused on doing and implementation rather than just discussion.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Community spaces for exchanging knowledge and ideas are essential to shaping the future of AI in the Netherlands.",
+    "category": "collaboration",
+    "source_quote": "Community spaces for exchanging knowledge and ideas are essential to shaping the future of AI in the Netherlands.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Being an AI pioneer and part of a collaborative ecosystem is a desirable identity for organisations.",
+    "category": "collaboration",
+    "source_quote": "Being an AI pioneer and part of a collaborative ecosystem is a desirable identity for organisations.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_10",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Meaningful AI progress starts with individuals applying AI in bold, practical ways.",
+    "category": "knowledge_sharing",
+    "source_quote": "Meaningful AI progress starts with individuals applying AI in bold, practical ways.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Open, transparent organisational cultures are important enablers for AI learning and experimentation.",
+    "category": "organisational_capability",
+    "source_quote": "Open, transparent organisational cultures are important enablers for AI learning and experimentation.",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "causal_attribution",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Hands‑on experimentation with AI tools is necessary for leaders and practitioners to understand the technology and steer it responsibly.",
+    "category": "organisational_capability",
+    "source_quote": "Hands‑on experimentation with AI tools is necessary for leaders and practitioners to understand the technology and steer",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI builders should think like investors when crafting their pitches.",
+    "category": "organisational_capability",
+    "source_quote": "AI builders should think like investors when crafting their pitches.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI professionals should prioritise understanding fundamentals over attachment to specific tools or techniques.",
+    "category": "organisational_capability",
+    "source_quote": "AI professionals should prioritise understanding fundamentals over attachment to specific tools or techniques.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Agentic coding and no-/low-code platforms are reshaping who can build software and thereby altering the AI industry.",
+    "category": "organisational_capability",
+    "source_quote": "Agentic coding and no-/low-code platforms are reshaping who can build software and thereby altering the AI industry.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Engineering LLMs for sovereign models and privacy-first deployments is a priority topic for the AI community.",
+    "category": "organisational_capability",
+    "source_quote": "Engineering LLMs for sovereign models and privacy-first deployments is a priority topic for the AI community.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "problem_framing",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Understanding how AI models are made and trained is a crucial foundation for anyone wanting to build with or on top of AI.",
+    "category": "organisational_capability",
+    "source_quote": "Understanding how AI models are made and trained is a crucial foundation for anyone wanting to build with or on top of A",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Edge intelligence and multi-agent systems are important frontiers for AI in challenging environments like space.",
+    "category": "organisational_capability",
+    "source_quote": "Edge intelligence and multi-agent systems are important frontiers for AI in challenging environments like space.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "causal_attribution",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Examining what models get wrong is more informative than focusing solely on performance numbers.",
+    "category": "organisational_capability",
+    "source_quote": "Examining what models get wrong is more informative than focusing solely on performance numbers.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Focusing on concrete problems, user needs, and scalable practices is more effective than technology-first or fragmented AI efforts.",
+    "category": "organisational_capability",
+    "source_quote": "Focusing on concrete problems, user needs, and scalable practices is more effective than technology-first or fragmented ",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Good data quality is more important than model complexity for achieving impact in AI-for-planet projects.",
+    "category": "organisational_capability",
+    "source_quote": "Good data quality is more important than model complexity for achieving impact in AI-for-planet projects.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "A future-proof Dutch tech ecosystem depends on getting talent, capital, and regulation right for entrepreneurs.",
+    "category": "organisational_capability",
+    "source_quote": "A future-proof Dutch tech ecosystem depends on getting talent, capital, and regulation right for entrepreneurs.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI implementation failures are typically caused by organisational and human barriers rather than technical limitations.",
+    "category": "organisational_capability",
+    "source_quote": "AI implementation failures are typically caused by organisational and human barriers rather than technical limitations.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "The main barriers to AI impact are organizational and cognitive, not technological.",
+    "category": "organisational_capability",
+    "source_quote": "The main barriers to AI impact are organizational and cognitive, not technological.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Smaller, efficient LLMs can be highly capable for specific semantic extraction tasks and should not be underestimated.",
+    "category": "organisational_capability",
+    "source_quote": "Smaller, efficient LLMs can be highly capable for specific semantic extraction tasks and should not be underestimated.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI represents a fundamental rethinking of work, not just automation or standard digital transformation.",
+    "category": "organisational_capability",
+    "source_quote": "AI represents a fundamental rethinking of work, not just automation or standard digital transformation.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Fine-tuned small language models can deliver powerful, fast, and cost-effective AI systems.",
+    "category": "organisational_capability",
+    "source_quote": "Fine-tuned small language models can deliver powerful, fast, and cost-effective AI systems.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Engineers play an increasingly central role in driving technology-enabled transformation in industries like food retail.",
+    "category": "organisational_capability",
+    "source_quote": "Engineers play an increasingly central role in driving technology-enabled transformation in industries like food retail.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "KickstartAI values and promotes career paths where curiosity leads people into AI to solve real-world challenges.",
+    "category": "organisational_capability",
+    "source_quote": "KickstartAI values and promotes career paths where curiosity leads people into AI to solve real-world challenges.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "causal_attribution",
+    "confidence": "medium"
+  },
+  {
+    "belief": "KickstartAI’s core identity is to turn bold AI ideas into solutions with real-world impact.",
+    "category": "organisational_capability",
+    "source_quote": "KickstartAI’s core identity is to turn bold AI ideas into solutions with real-world impact.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "problem_framing",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Ethical and safe AI begins with human intent and values, not just regulatory compliance.",
+    "category": "responsibility",
+    "source_quote": "Ethical and safe AI begins with human intent and values, not just regulatory compliance.",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI should serve people, processes, and society rather than being pursued for its own sake.",
+    "category": "responsibility",
+    "source_quote": "AI should serve people, processes, and society rather than being pursued for its own sake.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI is fundamentally a force for good when applied to real problems in care, patients, and professionals.",
+    "category": "responsibility",
+    "source_quote": "AI is fundamentally a force for good when applied to real problems in care, patients, and professionals.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI solutions for financial health should be empathetic, accessible, and educational.",
+    "category": "responsibility",
+    "source_quote": "AI solutions for financial health should be empathetic, accessible, and educational.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Europe’s open LLMs should be transparent, multilingual, and aligned with shared European values.",
+    "category": "responsibility",
+    "source_quote": "Europe’s open LLMs should be transparent, multilingual, and aligned with shared European values.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Responsible AI deployment in high‑stakes settings depends more on trust and collaboration than on technology itself.",
+    "category": "responsibility",
+    "source_quote": "Responsible AI deployment in high‑stakes settings depends more on trust and collaboration than on technology itself.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI should be developed and used as a tool for societal good, not just for commercial gain.",
+    "category": "societal_impact",
+    "source_quote": "AI should be developed and used as a tool for societal good, not just for commercial gain.",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "The EU’s current digital regulatory stack risks putting European AI companies at a competitive disadvantage versus US and Chinese firms.",
+    "category": "societal_impact",
+    "source_quote": "The EU’s current digital regulatory stack risks putting European AI companies at a competitive disadvantage versus US an",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI’s societal benefits in areas like healthcare, efficiency, and sustainability are substantial and must be weighed against its risks.",
+    "category": "societal_impact",
+    "source_quote": "AI’s societal benefits in areas like healthcare, efficiency, and sustainability are substantial and must be weighed agai",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Open‑source and transparent AI models are strategically important for European digital sovereignty and broad access.",
+    "category": "societal_impact",
+    "source_quote": "Open‑source and transparent AI models are strategically important for European digital sovereignty and broad access.",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI should be applied in ways that contribute to broader societal impact, not just business efficiency.",
+    "category": "societal_impact",
+    "source_quote": "AI should be applied in ways that contribute to broader societal impact, not just business efficiency.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI should genuinely serve end users, especially when projects have a broader societal purpose.",
+    "category": "societal_impact",
+    "source_quote": "AI should genuinely serve end users, especially when projects have a broader societal purpose.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI should be treated as a societal advantage rather than merely a technological upgrade.",
+    "category": "societal_impact",
+    "source_quote": "AI should be treated as a societal advantage rather than merely a technological upgrade.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Accelerating responsible AI adoption and creating real societal impact is a central goal of KickstartAI and its community.",
+    "category": "societal_impact",
+    "source_quote": "Accelerating responsible AI adoption and creating real societal impact is a central goal of KickstartAI and its communit",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Building sovereign, transparent, locally aligned foundation models demands substantial engineering effort but is strategically important.",
+    "category": "societal_impact",
+    "source_quote": "Building sovereign, transparent, locally aligned foundation models demands substantial engineering effort but is strateg",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI can meaningfully support education, including in underserved and low-connectivity contexts.",
+    "category": "societal_impact",
+    "source_quote": "AI can meaningfully support education, including in underserved and low-connectivity contexts.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Openly available satellite imagery is a promising data source for addressing humanitarian and environmental challenges.",
+    "category": "societal_impact",
+    "source_quote": "Openly available satellite imagery is a promising data source for addressing humanitarian and environmental challenges.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Multimodal AI is a key enabler for advancing biodiversity research.",
+    "category": "societal_impact",
+    "source_quote": "Multimodal AI is a key enabler for advancing biodiversity research.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "causal_attribution",
+    "confidence": "medium"
+  },
+  {
+    "belief": "AI should be used as a force for social good when accelerating its adoption.",
+    "category": "societal_impact",
+    "source_quote": "AI should be used as a force for social good when accelerating its adoption.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI can increase financial literacy and resilience at a societal level.",
+    "category": "societal_impact",
+    "source_quote": "AI can increase financial literacy and resilience at a societal level.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI and satellite imagery can meaningfully support humanitarian and environmental action by filling data gaps.",
+    "category": "societal_impact",
+    "source_quote": "AI and satellite imagery can meaningfully support humanitarian and environmental action by filling data gaps.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "GenAI is reshaping newsroom workflows and challenging the sustainability of media business models.",
+    "category": "societal_impact",
+    "source_quote": "GenAI is reshaping newsroom workflows and challenging the sustainability of media business models.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "There is always a way to achieve tangible social impact with AI, even in complex domains.",
+    "category": "societal_impact",
+    "source_quote": "There is always a way to achieve tangible social impact with AI, even in complex domains.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "causal_attribution",
+    "confidence": "medium"
+  },
+  {
+    "belief": "AI can be effectively applied to support law enforcement in complex areas like environmental crime.",
+    "category": "societal_impact",
+    "source_quote": "AI can be effectively applied to support law enforcement in complex areas like environmental crime.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI’s societal impact is a core criterion for selecting and celebrating projects.",
+    "category": "societal_impact",
+    "source_quote": "AI’s societal impact is a core criterion for selecting and celebrating projects.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI can help people understand complex medical information by translating it into plain language.",
+    "category": "societal_impact",
+    "source_quote": "AI can help people understand complex medical information by translating it into plain language.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Google’s AI Overviews pose a significant threat to news publishers’ traffic and business models.",
+    "category": "societal_impact",
+    "source_quote": "Google’s AI Overviews pose a significant threat to news publishers’ traffic and business models.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI can improve healthcare by enhancing wound care and reducing nurses’ administrative burden.",
+    "category": "societal_impact",
+    "source_quote": "AI can improve healthcare by enhancing wound care and reducing nurses’ administrative burden.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI can help safeguard the welfare state, boost the economy, and strengthen society in the Netherlands.",
+    "category": "societal_impact",
+    "source_quote": "AI can help safeguard the welfare state, boost the economy, and strengthen society in the Netherlands.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI tutors can support students who do not fit traditional school systems by enabling self-paced, question-driven learning.",
+    "category": "societal_impact",
+    "source_quote": "AI tutors can support students who do not fit traditional school systems by enabling self-paced, question-driven learnin",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI and data science are powerful tools for tackling major environmental challenges and protecting the planet.",
+    "category": "societal_impact",
+    "source_quote": "AI and data science are powerful tools for tackling major environmental challenges and protecting the planet.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Education and knowledge development are foundational to the future economy and thus central to digital strategy.",
+    "category": "societal_impact",
+    "source_quote": "Education and knowledge development are foundational to the future economy and thus central to digital strategy.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Reducing dependence on American big tech is important for Europe’s digital sovereignty.",
+    "category": "societal_impact",
+    "source_quote": "Reducing dependence on American big tech is important for Europe’s digital sovereignty.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Data-for-good volunteering can broaden data scientists’ perspectives and improve how they weigh impact, tools, and resources.",
+    "category": "societal_impact",
+    "source_quote": "Data-for-good volunteering can broaden data scientists’ perspectives and improve how they weigh impact, tools, and resou",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI should be applied across industry, social impact, and future‑oriented domains rather than being confined to a single sector.",
+    "category": "societal_impact",
+    "source_quote": "AI should be applied across industry, social impact, and future‑oriented domains rather than being confined to a single ",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "prescriptive",
+    "confidence": "medium"
+  },
+  {
+    "belief": "AI‑driven personalized learning experiences that adapt to each student are a desirable direction for education.",
+    "category": "societal_impact",
+    "source_quote": "AI‑driven personalized learning experiences that adapt to each student are a desirable direction for education.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "prescriptive",
+    "confidence": "medium"
+  },
+  {
+    "belief": "AI should be applied to urgent, high-stakes societal challenges rather than only incremental business problems.",
+    "category": "societal_impact",
+    "source_quote": "AI should be applied to urgent, high-stakes societal challenges rather than only incremental business problems.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "KickstartAI defines its mission as using AI for good and is motivated by this purpose.",
+    "category": "societal_impact",
+    "source_quote": "KickstartAI defines its mission as using AI for good and is motivated by this purpose.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "A positive and actionable narrative about AI is necessary to advance AI adoption in the Netherlands.",
+    "category": "societal_impact",
+    "source_quote": "A positive and actionable narrative about AI is necessary to advance AI adoption in the Netherlands.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI has a critical role to play in improving safety, security, and privacy.",
+    "category": "societal_impact",
+    "source_quote": "AI has a critical role to play in improving safety, security, and privacy.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Optimizing energy use in infrastructure projects like dike construction is an important AI application area.",
+    "category": "societal_impact",
+    "source_quote": "Optimizing energy use in infrastructure projects like dike construction is an important AI application area.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI must be integrated into a sustainable energy future rather than becoming an additional energy burden.",
+    "category": "societal_impact",
+    "source_quote": "AI must be integrated into a sustainable energy future rather than becoming an additional energy burden.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI should be used to address the world’s most pressing societal challenges and improve people’s lives.",
+    "category": "societal_impact",
+    "source_quote": "AI should be used to address the world’s most pressing societal challenges and improve people’s lives.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_10",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI initiatives should explicitly aim to create social impact, not just organisational efficiency.",
+    "category": "societal_impact",
+    "source_quote": "AI initiatives should explicitly aim to create social impact, not just organisational efficiency.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_10",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Real-world AI solutions should be designed to drive positive impact at national and international levels.",
+    "category": "societal_impact",
+    "source_quote": "Real-world AI solutions should be designed to drive positive impact at national and international levels.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_10",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI is a central driver of an emerging national movement in the Netherlands.",
+    "category": "societal_impact",
+    "source_quote": "AI is a central driver of an emerging national movement in the Netherlands.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_10",
+    "inference_type": "causal_attribution",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Scaling proven AI solutions is the critical next step for the Dutch AI ecosystem.",
+    "category": "AI_adoption",
+    "source_quote": "Scaling proven AI solutions is the critical next step for the Dutch AI ecosystem.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "A national shift from talk to action on AI is now required.",
+    "category": "AI_adoption",
+    "source_quote": "A national shift from talk to action on AI is now required.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Realising AI opportunities in the Netherlands now requires turning political words into concrete actions.",
+    "category": "AI_adoption",
+    "source_quote": "Realising AI opportunities in the Netherlands now requires turning political words into concrete actions.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Applying AI in the Netherlands requires concrete steps, room to experiment, and strong public‑private collaboration.",
+    "category": "AI_adoption",
+    "source_quote": "Applying AI in the Netherlands requires concrete steps, room to experiment, and strong public‑private collaboration.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "A large national AI transformation program is required to harness AI for both society and the economy.",
+    "category": "AI_adoption",
+    "source_quote": "A large national AI transformation program is required to harness AI for both society and the economy.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Embedding AI into the core of organisations, rather than treating it as side projects, is necessary to drive impact.",
+    "category": "AI_adoption",
+    "source_quote": "Embedding AI into the core of organisations, rather than treating it as side projects, is necessary to drive impact.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Government action to lower barriers is needed to accelerate AI transition in the wider ecosystem.",
+    "category": "AI_adoption",
+    "source_quote": "Government action to lower barriers is needed to accelerate AI transition in the wider ecosystem.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "A comprehensive national AI plan with investments in adoption, infrastructure, talent, startups, institutions, and regulation is essential for leadership.",
+    "category": "AI_adoption",
+    "source_quote": "A comprehensive national AI plan with investments in adoption, infrastructure, talent, startups, institutions, and regul",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Operational deployment and adoption, not just prototyping, are the ultimate goals of KickstartAI’s healthcare projects.",
+    "category": "AI_adoption",
+    "source_quote": "Operational deployment and adoption, not just prototyping, are the ultimate goals of KickstartAI’s healthcare projects.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Public investment should prioritize frontrunners in business and the tech ecosystem to accelerate AI adoption.",
+    "category": "AI_adoption",
+    "source_quote": "Public investment should prioritize frontrunners in business and the tech ecosystem to accelerate AI adoption.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "A coalition focused on concrete action is needed to drive AI adoption in the Netherlands.",
+    "category": "AI_adoption",
+    "source_quote": "A coalition focused on concrete action is needed to drive AI adoption in the Netherlands.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Building a pan-European AI infrastructure is a necessary step for Europe’s open AI ecosystem to compete globally.",
+    "category": "AI_adoption",
+    "source_quote": "Building a pan-European AI infrastructure is a necessary step for Europe’s open AI ecosystem to compete globally.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "prescriptive",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Organizations can approach AI challenges without a finished plan if they have real problems and ambition, with partners helping to explore and prototype solutions.",
+    "category": "AI_adoption",
+    "source_quote": "Organizations can approach AI challenges without a finished plan if they have real problems and ambition, with partners ",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Scaling the National AI Challenge to multiple use cases is a desirable way to expand AI impact.",
+    "category": "AI_adoption",
+    "source_quote": "Scaling the National AI Challenge to multiple use cases is a desirable way to expand AI impact.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_10",
+    "inference_type": "prescriptive",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Hands-on, mixed-team hackathons are an effective way to explore feasible AI and data solutions for social challenges.",
+    "category": "collaboration",
+    "source_quote": "Hands-on, mixed-team hackathons are an effective way to explore feasible AI and data solutions for social challenges.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Community meetups that mix technical talks and networking are important for the AI professional ecosystem.",
+    "category": "collaboration",
+    "source_quote": "Community meetups that mix technical talks and networking are important for the AI professional ecosystem.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "prescriptive",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Cross-community meetups between AI practitioners and environmental scientists are valuable for advancing AI-for-planet work.",
+    "category": "collaboration",
+    "source_quote": "Cross-community meetups between AI practitioners and environmental scientists are valuable for advancing AI-for-planet w",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "prescriptive",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Building a strong Dutch AI ecosystem depends on convening and connecting the entire AI community.",
+    "category": "collaboration",
+    "source_quote": "Building a strong Dutch AI ecosystem depends on convening and connecting the entire AI community.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Bringing together a large, driven group of AI engineers and data scientists accelerates practical AI building and learning.",
+    "category": "collaboration",
+    "source_quote": "Bringing together a large, driven group of AI engineers and data scientists accelerates practical AI building and learni",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Engaging stakeholders from the very beginning is essential for successful AI adoption and digital transformation.",
+    "category": "collaboration",
+    "source_quote": "Engaging stakeholders from the very beginning is essential for successful AI adoption and digital transformation.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "KickstartAI sees its role as turning promising AI ideas from partners into fully working solutions.",
+    "category": "collaboration",
+    "source_quote": "KickstartAI sees its role as turning promising AI ideas from partners into fully working solutions.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Providing end‑to‑end, custom‑built AI solutions is a core value proposition of KickstartAI.",
+    "category": "collaboration",
+    "source_quote": "Providing end‑to‑end, custom‑built AI solutions is a core value proposition of KickstartAI.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Building a large, connected AI expert community is a key mechanism for creating real AI impact.",
+    "category": "collaboration",
+    "source_quote": "Building a large, connected AI expert community is a key mechanism for creating real AI impact.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Building an ecosystem of corporates, public institutions, and purpose-driven organisations is necessary to shape the future of AI in the Netherlands.",
+    "category": "collaboration",
+    "source_quote": "Building an ecosystem of corporates, public institutions, and purpose-driven organisations is necessary to shape the fut",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Sharing project setup, lessons learned, and engaging in dialogue with public servants is an important way to advance AI use in government.",
+    "category": "knowledge_sharing",
+    "source_quote": "Sharing project setup, lessons learned, and engaging in dialogue with public servants is an important way to advance AI ",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "prescriptive",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Storytelling and content strategy are important levers for disseminating AI knowledge across an ecosystem.",
+    "category": "knowledge_sharing",
+    "source_quote": "Storytelling and content strategy are important levers for disseminating AI knowledge across an ecosystem.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "KickstartAI’s community is a key vehicle for turning AI ideas into impact through events, content, and shared channels.",
+    "category": "knowledge_sharing",
+    "source_quote": "KickstartAI’s community is a key vehicle for turning AI ideas into impact through events, content, and shared channels.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Celebrating and sharing community members’ AI work, challenges, and lessons helps shape the future of AI in the Netherlands.",
+    "category": "knowledge_sharing",
+    "source_quote": "Celebrating and sharing community members’ AI work, challenges, and lessons helps shape the future of AI in the Netherla",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI governance must be socio‑technical, addressing people, processes, and organisational structures as much as models and data.",
+    "category": "organisational_capability",
+    "source_quote": "AI governance must be socio‑technical, addressing people, processes, and organisational structures as much as models and",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Existing structures must be bypassed or reshaped to prioritise AI performance and scale.",
+    "category": "organisational_capability",
+    "source_quote": "Existing structures must be bypassed or reshaped to prioritise AI performance and scale.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Hands-on workshops and practical labs are necessary to translate AI ideas into real collaborations and results.",
+    "category": "organisational_capability",
+    "source_quote": "Hands-on workshops and practical labs are necessary to translate AI ideas into real collaborations and results.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "causal_attribution",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Hands-on experimentation with multi-agent systems is important for understanding and building complex AI applications.",
+    "category": "organisational_capability",
+    "source_quote": "Hands-on experimentation with multi-agent systems is important for understanding and building complex AI applications.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "prescriptive",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Organizations need structured support to identify AI use cases and turn them into products.",
+    "category": "organisational_capability",
+    "source_quote": "Organizations need structured support to identify AI use cases and turn them into products.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "prescriptive",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Step-by-step exploration, prototyping, and application are the right process for developing AI solutions.",
+    "category": "organisational_capability",
+    "source_quote": "Step-by-step exploration, prototyping, and application are the right process for developing AI solutions.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Fine-tuning SLMs and building RAG systems is a practical, hands-on route to effective AI deployment.",
+    "category": "organisational_capability",
+    "source_quote": "Fine-tuning SLMs and building RAG systems is a practical, hands-on route to effective AI deployment.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Building a coalition of practitioners and enabling policies is necessary to accelerate AI adoption.",
+    "category": "organisational_capability",
+    "source_quote": "Building a coalition of practitioners and enabling policies is necessary to accelerate AI adoption.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Developers without deep ML expertise should still be empowered to build effective AI systems.",
+    "category": "organisational_capability",
+    "source_quote": "Developers without deep ML expertise should still be empowered to build effective AI systems.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Scalable AI platforms should be architected with containerization to support growth in demand.",
+    "category": "organisational_capability",
+    "source_quote": "Scalable AI platforms should be architected with containerization to support growth in demand.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Access to technical expertise, project support, and networks is a key enabler of successful AI adoption.",
+    "category": "organisational_capability",
+    "source_quote": "Access to technical expertise, project support, and networks is a key enabler of successful AI adoption.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_10",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Successful AI adoption depends on aligning IT infrastructure, user interface, and practical usage processes.",
+    "category": "organisational_capability",
+    "source_quote": "Successful AI adoption depends on aligning IT infrastructure, user interface, and practical usage processes.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_10",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Co-organising national AI challenges and working with winners on concrete solutions is an effective way to drive socially beneficial AI innovation.",
+    "category": "societal_impact",
+    "source_quote": "Co-organising national AI challenges and working with winners on concrete solutions is an effective way to drive sociall",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI projects should be turned into impactful solutions rather than remaining as experiments or prototypes.",
+    "category": "AI_adoption",
+    "source_quote": "AI projects should be turned into impactful solutions rather than remaining as experiments or prototypes.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Targeted AI solutions are preferable to rigid one‑size‑fits‑all products when scaling AI.",
+    "category": "AI_adoption",
+    "source_quote": "Targeted AI solutions are preferable to rigid one‑size‑fits‑all products when scaling AI.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Focusing on real-world AI applications with diverse partners is central to KickstartAI’s mission and impact.",
+    "category": "AI_adoption",
+    "source_quote": "Focusing on real-world AI applications with diverse partners is central to KickstartAI’s mission and impact.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI solutions should be co‑created with end users so that their impact extends beyond model performance.",
+    "category": "AI_adoption",
+    "source_quote": "AI solutions should be co‑created with end users so that their impact extends beyond model performance.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Making AI work in government requires understanding what is really needed in practice, not just high-level ambition.",
+    "category": "AI_adoption",
+    "source_quote": "Making AI work in government requires understanding what is really needed in practice, not just high-level ambition.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "problem_framing",
+    "confidence": "medium"
+  },
+  {
+    "belief": "AI adoption in large organisations fails more often because of organisational and process issues than because of technology.",
+    "category": "organisational_capability",
+    "source_quote": "AI adoption in large organisations fails more often because of organisational and process issues than because of technol",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Successful AI implementation requires deep upfront work to understand real operational problems, workflows, and stakeholders before building models.",
+    "category": "organisational_capability",
+    "source_quote": "Successful AI implementation requires deep upfront work to understand real operational problems, workflows, and stakehol",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI projects should start from clearly defined business problems and user pain points rather than from technology opportunities.",
+    "category": "organisational_capability",
+    "source_quote": "AI projects should start from clearly defined business problems and user pain points rather than from technology opportu",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Investing in people is as important as investing in technology for AI implementation.",
+    "category": "organisational_capability",
+    "source_quote": "Investing in people is as important as investing in technology for AI implementation.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Scaling AI products requires attention to human psychology, workflows, and trust before technology.",
+    "category": "organisational_capability",
+    "source_quote": "Scaling AI products requires attention to human psychology, workflows, and trust before technology.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Meaningful AI adoption requires embedding AI into core processes and addressing culture and governance, not just deploying tools.",
+    "category": "organisational_capability",
+    "source_quote": "Meaningful AI adoption requires embedding AI into core processes and addressing culture and governance, not just deployi",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Strategic, cloud-based data and analytics platforms are foundational for next-generation AI in finance.",
+    "category": "organisational_capability",
+    "source_quote": "Strategic, cloud-based data and analytics platforms are foundational for next-generation AI in finance.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "causal_attribution",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Organizations must stop treating AI as an IT upgrade and instead rethink how they work and operate.",
+    "category": "organisational_capability",
+    "source_quote": "Organizations must stop treating AI as an IT upgrade and instead rethink how they work and operate.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Approaching AI as a technology rollout and relying on traditional metrics blocks organizations from turning potential into impact.",
+    "category": "organisational_capability",
+    "source_quote": "Approaching AI as a technology rollout and relying on traditional metrics blocks organizations from turning potential in",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Organizations should shift from traditional OKRs and KPIs toward people-focused approaches to drive AI adoption.",
+    "category": "organisational_capability",
+    "source_quote": "Organizations should shift from traditional OKRs and KPIs toward people-focused approaches to drive AI adoption.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Applied AI should be designed around real operational needs, user input, and existing workflows to achieve impact.",
+    "category": "organisational_capability",
+    "source_quote": "Applied AI should be designed around real operational needs, user input, and existing workflows to achieve impact.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI should be used to reduce administrative burden and improve quality of care for healthcare professionals.",
+    "category": "societal_impact",
+    "source_quote": "AI should be used to reduce administrative burden and improve quality of care for healthcare professionals.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI can and should strengthen law enforcement’s ability to hold environmental polluters accountable.",
+    "category": "societal_impact",
+    "source_quote": "AI can and should strengthen law enforcement’s ability to hold environmental polluters accountable.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI should be used to reduce manual work and free professionals for higher‑value tasks in public and healthcare services.",
+    "category": "societal_impact",
+    "source_quote": "AI should be used to reduce manual work and free professionals for higher‑value tasks in public and healthcare services.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI solutions only create value when they are embedded in users’ daily workflows and co-designed with them from the start.",
+    "category": "AI_adoption",
+    "source_quote": "AI solutions only create value when they are embedded in users’ daily workflows and co-designed with them from the start",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI projects should prioritise low‑hanging fruit and short‑term value to build trust and momentum before tackling harder problems.",
+    "category": "AI_adoption",
+    "source_quote": "AI projects should prioritise low‑hanging fruit and short‑term value to build trust and momentum before tackling harder ",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "The Netherlands must shift from AI discussion to concrete execution because urgency is already clear.",
+    "category": "AI_adoption",
+    "source_quote": "The Netherlands must shift from AI discussion to concrete execution because urgency is already clear.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Policy ambitions for AI must be translated into concrete implementation steps such as moving from pilots to scaled deployment.",
+    "category": "AI_adoption",
+    "source_quote": "Policy ambitions for AI must be translated into concrete implementation steps such as moving from pilots to scaled deplo",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Urgent and concrete investment in AI development and application is necessary for productivity growth and national competitiveness.",
+    "category": "AI_adoption",
+    "source_quote": "Urgent and concrete investment in AI development and application is necessary for productivity growth and national compe",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "The Netherlands is currently lagging in AI application, and large-scale responsible projects are needed to close this gap.",
+    "category": "AI_adoption",
+    "source_quote": "The Netherlands is currently lagging in AI application, and large-scale responsible projects are needed to close this ga",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Moving from talking about AI to doing AI through tangible actions is necessary for national progress.",
+    "category": "AI_adoption",
+    "source_quote": "Moving from talking about AI to doing AI through tangible actions is necessary for national progress.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "The urgency of AI adoption is real, and immediate action is required for national competitiveness, resilience, and technological independence.",
+    "category": "AI_adoption",
+    "source_quote": "The urgency of AI adoption is real, and immediate action is required for national competitiveness, resilience, and techn",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Anonymous, non-advisory AI tools can lower barriers for people seeking financial support.",
+    "category": "AI_adoption",
+    "source_quote": "Anonymous, non-advisory AI tools can lower barriers for people seeking financial support.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Searching across broader legal domains can uncover more provable offences than focusing narrowly on environmental law.",
+    "category": "AI_adoption",
+    "source_quote": "Searching across broader legal domains can uncover more provable offences than focusing narrowly on environmental law.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Investment, talent attraction, and AI adoption are key enablers of a strong digital future for the Netherlands.",
+    "category": "AI_adoption",
+    "source_quote": "Investment, talent attraction, and AI adoption are key enablers of a strong digital future for the Netherlands.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI has strong potential to add value in aviation by improving contingency fuel prediction.",
+    "category": "AI_adoption",
+    "source_quote": "AI has strong potential to add value in aviation by improving contingency fuel prediction.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Broader AI adoption in the public domain requires a foundation of trust and collaboration.",
+    "category": "AI_adoption",
+    "source_quote": "Broader AI adoption in the public domain requires a foundation of trust and collaboration.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "KickstartAI’s people-centric approach to AI projects leads to measurable operational improvements for partners.",
+    "category": "AI_adoption",
+    "source_quote": "KickstartAI’s people-centric approach to AI projects leads to measurable operational improvements for partners.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "causal_attribution",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Now is the moment for organizations to move from AI exploration to execution.",
+    "category": "AI_adoption",
+    "source_quote": "Now is the moment for organizations to move from AI exploration to execution.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "End-to-end AI solutions should deliver tangible organizational value such as time and cost savings.",
+    "category": "AI_adoption",
+    "source_quote": "End-to-end AI solutions should deliver tangible organizational value such as time and cost savings.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Organisations must actively implement AI in both business and government operations rather than just discussing it.",
+    "category": "AI_adoption",
+    "source_quote": "Organisations must actively implement AI in both business and government operations rather than just discussing it.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Accelerating real AI adoption and demonstrating tangible social impact are urgent priorities for the Netherlands.",
+    "category": "AI_adoption",
+    "source_quote": "Accelerating real AI adoption and demonstrating tangible social impact are urgent priorities for the Netherlands.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "True AI adoption in the Netherlands depends on practical, immediate implementation rather than abstract discussion.",
+    "category": "AI_adoption",
+    "source_quote": "True AI adoption in the Netherlands depends on practical, immediate implementation rather than abstract discussion.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Feasibility must be explicitly assessed before committing to AI projects.",
+    "category": "AI_adoption",
+    "source_quote": "Feasibility must be explicitly assessed before committing to AI projects.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_10",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Developing and implementing AI in healthcare requires first thoroughly understanding and defining the problem.",
+    "category": "AI_adoption",
+    "source_quote": "Developing and implementing AI in healthcare requires first thoroughly understanding and defining the problem.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_10",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI-driven insights must be integrated into day-to-day practice to create value in healthcare operations.",
+    "category": "AI_adoption",
+    "source_quote": "AI-driven insights must be integrated into day-to-day practice to create value in healthcare operations.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_10",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI adoption in the Netherlands requires building and nurturing a strong, connected AI community.",
+    "category": "collaboration",
+    "source_quote": "AI adoption in the Netherlands requires building and nurturing a strong, connected AI community.",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Cross‑organisational challenges and hackathons are an effective mechanism to accelerate AI learning and adoption.",
+    "category": "collaboration",
+    "source_quote": "Cross‑organisational challenges and hackathons are an effective mechanism to accelerate AI learning and adoption.",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Strong public‑private collaboration is needed to take bold AI action in the Netherlands.",
+    "category": "collaboration",
+    "source_quote": "Strong public‑private collaboration is needed to take bold AI action in the Netherlands.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI can help society thrive and strengthen both economy and society if embedded in collaborative ecosystems.",
+    "category": "collaboration",
+    "source_quote": "AI can help society thrive and strengthen both economy and society if embedded in collaborative ecosystems.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Cross‑organisation AI sprints and shared challenges accelerate AI adoption across the Netherlands.",
+    "category": "collaboration",
+    "source_quote": "Cross‑organisation AI sprints and shared challenges accelerate AI adoption across the Netherlands.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Collaboration between academia and societal partners is essential for AI methods to have real impact.",
+    "category": "collaboration",
+    "source_quote": "Collaboration between academia and societal partners is essential for AI methods to have real impact.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Cross-industry collaboration and knowledge sharing accelerate AI adoption in the Netherlands.",
+    "category": "collaboration",
+    "source_quote": "Cross-industry collaboration and knowledge sharing accelerate AI adoption in the Netherlands.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Accelerating the Dutch economy through AI requires shared learning and collective action across organisations.",
+    "category": "collaboration",
+    "source_quote": "Accelerating the Dutch economy through AI requires shared learning and collective action across organisations.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Sharing knowledge and building collectively with partners is essential to accelerate AI adoption.",
+    "category": "collaboration",
+    "source_quote": "Sharing knowledge and building collectively with partners is essential to accelerate AI adoption.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Creating space for practitioners (“doers”) and enabling them to share learnings is crucial for AI adoption.",
+    "category": "collaboration",
+    "source_quote": "Creating space for practitioners (“doers”) and enabling them to share learnings is crucial for AI adoption.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Collaboration among major Dutch companies and AI teams is a key mechanism to boost the national AI ecosystem.",
+    "category": "collaboration",
+    "source_quote": "Collaboration among major Dutch companies and AI teams is a key mechanism to boost the national AI ecosystem.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Community events that foster sharing, learning, and doing together are key to putting AI into action.",
+    "category": "collaboration",
+    "source_quote": "Community events that foster sharing, learning, and doing together are key to putting AI into action.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Curated gatherings of top AI practitioners under a focused theme are critical for those building with AI.",
+    "category": "collaboration",
+    "source_quote": "Curated gatherings of top AI practitioners under a focused theme are critical for those building with AI.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Open, community-focused AI conferences with free access for professionals are important to strengthen the national AI community.",
+    "category": "collaboration",
+    "source_quote": "Open, community-focused AI conferences with free access for professionals are important to strengthen the national AI co",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Bridging the gap between AI ideas and real-world impact requires community exchange and collaboration.",
+    "category": "collaboration",
+    "source_quote": "Bridging the gap between AI ideas and real-world impact requires community exchange and collaboration.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Developing AI solutions should be done collaboratively with experts rather than in isolation.",
+    "category": "collaboration",
+    "source_quote": "Developing AI solutions should be done collaboratively with experts rather than in isolation.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_10",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Unlocking the full potential of AI depends on bold ambition and cross-sector collaboration.",
+    "category": "collaboration",
+    "source_quote": "Unlocking the full potential of AI depends on bold ambition and cross-sector collaboration.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_10",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Accelerating AI adoption in the Netherlands requires joint efforts with national coalitions and partners.",
+    "category": "collaboration",
+    "source_quote": "Accelerating AI adoption in the Netherlands requires joint efforts with national coalitions and partners.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_10",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Applying AI in practice and sharing learnings to enable replication is KickstartAI’s core contribution.",
+    "category": "knowledge_sharing",
+    "source_quote": "Applying AI in practice and sharing learnings to enable replication is KickstartAI’s core contribution.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Organisations should not work through AI developments in isolation but share experiences to accelerate progress.",
+    "category": "knowledge_sharing",
+    "source_quote": "Organisations should not work through AI developments in isolation but share experiences to accelerate progress.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Creating a shared knowledge base from AI experiments helps all participants move faster.",
+    "category": "knowledge_sharing",
+    "source_quote": "Creating a shared knowledge base from AI experiments helps all participants move faster.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Accelerating AI adoption in the Netherlands requires growing a professional community and strengthening knowledge sharing through practical formats.",
+    "category": "knowledge_sharing",
+    "source_quote": "Accelerating AI adoption in the Netherlands requires growing a professional community and strengthening knowledge sharin",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Sharing what works openly with the community strengthens the Dutch AI ecosystem.",
+    "category": "knowledge_sharing",
+    "source_quote": "Sharing what works openly with the community strengthens the Dutch AI ecosystem.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Openly exchanging knowledge among partner companies strengthens the entire AI ecosystem.",
+    "category": "knowledge_sharing",
+    "source_quote": "Openly exchanging knowledge among partner companies strengthens the entire AI ecosystem.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Distilling and sharing lessons from AI projects helps others bridge the gap from pilots to adoption and unlock real value.",
+    "category": "knowledge_sharing",
+    "source_quote": "Distilling and sharing lessons from AI projects helps others bridge the gap from pilots to adoption and unlock real valu",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Successful AI adoption depends on early strategic focus, clear choices, and planning for organisational scale.",
+    "category": "organisational_capability",
+    "source_quote": "Successful AI adoption depends on early strategic focus, clear choices, and planning for organisational scale.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI startups should build with an international market in mind from day one.",
+    "category": "organisational_capability",
+    "source_quote": "AI startups should build with an international market in mind from day one.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Agentic AI that enables natural language interaction with data can close the gap between data and business better than dashboards alone.",
+    "category": "organisational_capability",
+    "source_quote": "Agentic AI that enables natural language interaction with data can close the gap between data and business better than d",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Assessing feasibility before full model development is a valuable way to explore AI for humanitarian impact.",
+    "category": "organisational_capability",
+    "source_quote": "Assessing feasibility before full model development is a valuable way to explore AI for humanitarian impact.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Organisations strengthen AI adoption by learning through doing and treating AI as organisational change, not just technology.",
+    "category": "organisational_capability",
+    "source_quote": "Organisations strengthen AI adoption by learning through doing and treating AI as organisational change, not just techno",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Responsible AI adoption, talent development, and ecosystem collaboration are core contributions KickstartAI must make to the national AI mission.",
+    "category": "organisational_capability",
+    "source_quote": "Responsible AI adoption, talent development, and ecosystem collaboration are core contributions KickstartAI must make to",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI tools must prioritize usability, not just accuracy, to create real-world impact.",
+    "category": "organisational_capability",
+    "source_quote": "AI tools must prioritize usability, not just accuracy, to create real-world impact.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI initiatives should be judged by measurable impact rather than by running pilots for their own sake.",
+    "category": "organisational_capability",
+    "source_quote": "AI initiatives should be judged by measurable impact rather than by running pilots for their own sake.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Political ambitions for AI and tech must be concretely embedded in the coalition agreement to matter.",
+    "category": "organisational_capability",
+    "source_quote": "Political ambitions for AI and tech must be concretely embedded in the coalition agreement to matter.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Innovation in the Dutch tech ecosystem requires long-term thinking, investment certainty, and stronger public–private collaboration.",
+    "category": "organisational_capability",
+    "source_quote": "Innovation in the Dutch tech ecosystem requires long-term thinking, investment certainty, and stronger public–private co",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Digital transformation success in the Netherlands depends more on people, governance, and collaboration than on technology alone.",
+    "category": "organisational_capability",
+    "source_quote": "Digital transformation success in the Netherlands depends more on people, governance, and collaboration than on technolo",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Focusing on people, not just algorithms, is essential for AI initiatives to succeed.",
+    "category": "organisational_capability",
+    "source_quote": "Focusing on people, not just algorithms, is essential for AI initiatives to succeed.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Effective AI leaders must bridge cutting-edge technology and business strategy and thrive in complexity.",
+    "category": "organisational_capability",
+    "source_quote": "Effective AI leaders must bridge cutting-edge technology and business strategy and thrive in complexity.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Unlocking AI impact depends on empowering people who are ready to reimagine what’s possible and act on it.",
+    "category": "organisational_capability",
+    "source_quote": "Unlocking AI impact depends on empowering people who are ready to reimagine what’s possible and act on it.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Companies need to change their current approach to AI strategy to succeed.",
+    "category": "organisational_capability",
+    "source_quote": "Companies need to change their current approach to AI strategy to succeed.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Retaining top ML and software engineering talent in the Netherlands is essential for accelerating AI adoption.",
+    "category": "organisational_capability",
+    "source_quote": "Retaining top ML and software engineering talent in the Netherlands is essential for accelerating AI adoption.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Empowering entrepreneurial change-makers inside organisations is key to unlocking AI’s value.",
+    "category": "organisational_capability",
+    "source_quote": "Empowering entrepreneurial change-makers inside organisations is key to unlocking AI’s value.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI delivers the most value in complex environments when combined with strong domain expertise.",
+    "category": "organisational_capability",
+    "source_quote": "AI delivers the most value in complex environments when combined with strong domain expertise.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Organisational support is a necessary condition for successful AI initiatives.",
+    "category": "organisational_capability",
+    "source_quote": "Organisational support is a necessary condition for successful AI initiatives.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_10",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Transparency, responsibility, and stepping outside one’s comfort zone in data work are transferable lessons that enhance professional practice.",
+    "category": "responsibility",
+    "source_quote": "Transparency, responsibility, and stepping outside one’s comfort zone in data work are transferable lessons that enhance",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI regulation, innovation, and concrete action must be pursued simultaneously to realize AI’s societal benefits.",
+    "category": "responsibility",
+    "source_quote": "AI regulation, innovation, and concrete action must be pursued simultaneously to realize AI’s societal benefits.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Responsible AI requires explicit attention to security, safety, and regulation in how systems are built and deployed.",
+    "category": "responsibility",
+    "source_quote": "Responsible AI requires explicit attention to security, safety, and regulation in how systems are built and deployed.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Educating users to prompt more efficiently is an important lever for reducing AI energy consumption.",
+    "category": "responsibility",
+    "source_quote": "Educating users to prompt more efficiently is an important lever for reducing AI energy consumption.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI systems should be designed to optimize energy use while minimizing their own environmental impact.",
+    "category": "responsibility",
+    "source_quote": "AI systems should be designed to optimize energy use while minimizing their own environmental impact.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI can and should be used to reduce healthcare workload while improving quality of care.",
+    "category": "societal_impact",
+    "source_quote": "AI can and should be used to reduce healthcare workload while improving quality of care.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Bridging the AI impact gap requires tackling today’s most complex challenges directly.",
+    "category": "societal_impact",
+    "source_quote": "Bridging the AI impact gap requires tackling today’s most complex challenges directly.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI can support complex environmental crime investigations by accelerating legal and case analysis.",
+    "category": "societal_impact",
+    "source_quote": "AI can support complex environmental crime investigations by accelerating legal and case analysis.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Using AI to analyse political discourse can reveal alignment patterns and potential coalitions for faster strategic initiatives.",
+    "category": "societal_impact",
+    "source_quote": "Using AI to analyse political discourse can reveal alignment patterns and potential coalitions for faster strategic init",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Understanding interdependencies and cascading shocks is essential for designing economic resilience, and AI can help map these relationships.",
+    "category": "societal_impact",
+    "source_quote": "Understanding interdependencies and cascading shocks is essential for designing economic resilience, and AI can help map",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Making policy-relevant information easier to access and use with NLP can enable more coordinated and evidence-based decisions.",
+    "category": "societal_impact",
+    "source_quote": "Making policy-relevant information easier to access and use with NLP can enable more coordinated and evidence-based deci",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "NLP can practically support global food security by enabling early warning, discourse analysis, and policy integration assessment.",
+    "category": "societal_impact",
+    "source_quote": "NLP can practically support global food security by enabling early warning, discourse analysis, and policy integration a",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI tools that reduce administrative burden and improve data quality can significantly enhance healthcare delivery.",
+    "category": "societal_impact",
+    "source_quote": "AI tools that reduce administrative burden and improve data quality can significantly enhance healthcare delivery.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Choosing growth over stagnation in tech requires deliberate policy and ecosystem choices now.",
+    "category": "societal_impact",
+    "source_quote": "Choosing growth over stagnation in tech requires deliberate policy and ecosystem choices now.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI tools that accelerate environmental crime investigations are desirable because they enable faster and more decisive action against major offenders.",
+    "category": "societal_impact",
+    "source_quote": "AI tools that accelerate environmental crime investigations are desirable because they enable faster and more decisive a",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI‑supported triage tools are desirable because they enable more objective and faster assessments while freeing nurses for other critical tasks.",
+    "category": "societal_impact",
+    "source_quote": "AI‑supported triage tools are desirable because they enable more objective and faster assessments while freeing nurses f",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Effective AI in healthcare requires deep collaboration, empathy, and on‑the‑ground learning with medical staff, not just technical development.",
+    "category": "societal_impact",
+    "source_quote": "Effective AI in healthcare requires deep collaboration, empathy, and on‑the‑ground learning with medical staff, not just",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Predictive AI dashboards that shift staff from reactive crisis management to proactive resource management are valuable in healthcare operations.",
+    "category": "societal_impact",
+    "source_quote": "Predictive AI dashboards that shift staff from reactive crisis management to proactive resource management are valuable ",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI-driven forecasting and decision engines can manage energy assets in real time at very high speed.",
+    "category": "societal_impact",
+    "source_quote": "AI-driven forecasting and decision engines can manage energy assets in real time at very high speed.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI projects should be designed to drive measurable social impact, not just technical success.",
+    "category": "societal_impact",
+    "source_quote": "AI projects should be designed to drive measurable social impact, not just technical success.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Waiting for political processes alone is insufficient; AI progress must be driven by societal and organisational action.",
+    "category": "societal_impact",
+    "source_quote": "Waiting for political processes alone is insufficient; AI progress must be driven by societal and organisational action.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Machine learning is increasingly essential for managing the complexity of Europe’s interconnected electricity grid.",
+    "category": "societal_impact",
+    "source_quote": "Machine learning is increasingly essential for managing the complexity of Europe’s interconnected electricity grid.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Non‑technical professionals are essential to shaping human‑centric AI and should be actively encouraged into the field.",
+    "category": "AI_adoption",
+    "source_quote": "Non‑technical professionals are essential to shaping human‑centric AI and should be actively encouraged into the field.",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Starting AI initiatives from the technology rather than the problem is a common and harmful trap.",
+    "category": "AI_adoption",
+    "source_quote": "Starting AI initiatives from the technology rather than the problem is a common and harmful trap.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI projects that begin with 'we want to do something with AI' and no clear problem tend to stall.",
+    "category": "AI_adoption",
+    "source_quote": "AI projects that begin with 'we want to do something with AI' and no clear problem tend to stall.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "The Netherlands must urgently scale up AI adoption in day-to-day operations to remain competitive and safeguard labour productivity and national earning capacity.",
+    "category": "AI_adoption",
+    "source_quote": "The Netherlands must urgently scale up AI adoption in day-to-day operations to remain competitive and safeguard labour p",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Becoming a digital frontrunner in the future economy requires organisations to actively take concrete steps in AI.",
+    "category": "AI_adoption",
+    "source_quote": "Becoming a digital frontrunner in the future economy requires organisations to actively take concrete steps in AI.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Gradual progress in AI is currently more realistic than the emergence of general agents.",
+    "category": "AI_adoption",
+    "source_quote": "Gradual progress in AI is currently more realistic than the emergence of general agents.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "causal_attribution",
+    "confidence": "medium"
+  },
+  {
+    "belief": "There is a substantial implementation gap between AI research and real-world deployment in food security applications.",
+    "category": "AI_adoption",
+    "source_quote": "There is a substantial implementation gap between AI research and real-world deployment in food security applications.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Without immediate and ambitious AI action, the Netherlands risks falling further behind with serious economic and sovereignty consequences.",
+    "category": "AI_adoption",
+    "source_quote": "Without immediate and ambitious AI action, the Netherlands risks falling further behind with serious economic and sovere",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "If the Netherlands hesitates on AI, it risks losing competitiveness and sovereignty.",
+    "category": "AI_adoption",
+    "source_quote": "If the Netherlands hesitates on AI, it risks losing competitiveness and sovereignty.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "The time for discussion-only approaches to AI in the Netherlands has passed; concrete action is now required.",
+    "category": "AI_adoption",
+    "source_quote": "The time for discussion-only approaches to AI in the Netherlands has passed; concrete action is now required.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Rapid and responsible AI adoption is now necessary for the Netherlands to remain competitive and seize opportunities.",
+    "category": "AI_adoption",
+    "source_quote": "Rapid and responsible AI adoption is now necessary for the Netherlands to remain competitive and seize opportunities.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI is an essential component of a future-proof Dutch economy and tech ecosystem.",
+    "category": "AI_adoption",
+    "source_quote": "AI is an essential component of a future-proof Dutch economy and tech ecosystem.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI tutors can positively reshape education by enabling personalization and flipped-classroom models.",
+    "category": "AI_adoption",
+    "source_quote": "AI tutors can positively reshape education by enabling personalization and flipped-classroom models.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "A hybrid future where human teachers are supported by AI tutors is a desirable direction for education.",
+    "category": "AI_adoption",
+    "source_quote": "A hybrid future where human teachers are supported by AI tutors is a desirable direction for education.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "causal_attribution",
+    "confidence": "medium"
+  },
+  {
+    "belief": "The main barrier to AI adoption in large organizations is alignment with processes, strategy, and people rather than technology itself.",
+    "category": "AI_adoption",
+    "source_quote": "The main barrier to AI adoption in large organizations is alignment with processes, strategy, and people rather than tec",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI is already changing everyday school practice, but important questions about its role remain open.",
+    "category": "AI_adoption",
+    "source_quote": "AI is already changing everyday school practice, but important questions about its role remain open.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Moving from traditional recommendation systems to conversational AI tutors can overcome performance ceilings in personalized learning.",
+    "category": "AI_adoption",
+    "source_quote": "Moving from traditional recommendation systems to conversational AI tutors can overcome performance ceilings in personal",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "The AI field is shifting from hype toward practical and responsible implementation.",
+    "category": "AI_adoption",
+    "source_quote": "The AI field is shifting from hype toward practical and responsible implementation.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI adoption is mandatory for competitiveness and cannot be treated as optional.",
+    "category": "AI_adoption",
+    "source_quote": "AI adoption is mandatory for competitiveness and cannot be treated as optional.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI’s economic potential in the Netherlands is being held back because AI is too complex for organisations to fully grasp.",
+    "category": "AI_adoption",
+    "source_quote": "AI’s economic potential in the Netherlands is being held back because AI is too complex for organisations to fully grasp",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Forcing AI into existing organisational frameworks hinders its effective adoption and impact.",
+    "category": "AI_adoption",
+    "source_quote": "Forcing AI into existing organisational frameworks hinders its effective adoption and impact.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Small, efficient models can achieve high performance and are strategically important for cost-effective AI deployment.",
+    "category": "AI_adoption",
+    "source_quote": "Small, efficient models can achieve high performance and are strategically important for cost-effective AI deployment.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Universal forecasting models like Large Time Series Models may change the traditional one-model-per-dataset approach but must be critically evaluated.",
+    "category": "AI_adoption",
+    "source_quote": "Universal forecasting models like Large Time Series Models may change the traditional one-model-per-dataset approach but",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "problem_framing",
+    "confidence": "medium"
+  },
+  {
+    "belief": "AI can improve efficiency, capacity management, and staffing in hospital emergency departments.",
+    "category": "AI_adoption",
+    "source_quote": "AI can improve efficiency, capacity management, and staffing in hospital emergency departments.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_10",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Incremental model releases can cumulatively saturate benchmarks, raising questions about how we measure AI progress.",
+    "category": "knowledge_sharing",
+    "source_quote": "Incremental model releases can cumulatively saturate benchmarks, raising questions about how we measure AI progress.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Understanding diverse expert views on AI is important for making sense of the field’s direction.",
+    "category": "knowledge_sharing",
+    "source_quote": "Understanding diverse expert views on AI is important for making sense of the field’s direction.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "causal_attribution",
+    "confidence": "medium"
+  },
+  {
+    "belief": "AI literacy is central to how people find, consume, and trust news in a GenAI era.",
+    "category": "knowledge_sharing",
+    "source_quote": "AI literacy is central to how people find, consume, and trust news in a GenAI era.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI evaluation must go beyond aggregate accuracy to examine the nature and quality of model errors.",
+    "category": "organisational_capability",
+    "source_quote": "AI evaluation must go beyond aggregate accuracy to examine the nature and quality of model errors.",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI literacy and continuous education are necessary for professionals working with AI, especially in safety and security domains.",
+    "category": "organisational_capability",
+    "source_quote": "AI literacy and continuous education are necessary for professionals working with AI, especially in safety and security ",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Benchmark-driven evaluation can narrow our understanding of AI progress and must be complemented by richer error-focused analysis.",
+    "category": "organisational_capability",
+    "source_quote": "Benchmark-driven evaluation can narrow our understanding of AI progress and must be complemented by richer error-focused",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Coding agents still require human input to drive originality in software creation.",
+    "category": "organisational_capability",
+    "source_quote": "Coding agents still require human input to drive originality in software creation.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "causal_attribution",
+    "confidence": "medium"
+  },
+  {
+    "belief": "LLMs can silently fail or collapse, so their behavior must be critically examined.",
+    "category": "organisational_capability",
+    "source_quote": "LLMs can silently fail or collapse, so their behavior must be critically examined.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "The main reasons AI strategies fail are non-technical and lie in how organisations approach AI.",
+    "category": "organisational_capability",
+    "source_quote": "The main reasons AI strategies fail are non-technical and lie in how organisations approach AI.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Traditional metrics like OKRs and KPIs are ineffective for realising AI’s organisational potential.",
+    "category": "organisational_capability",
+    "source_quote": "Traditional metrics like OKRs and KPIs are ineffective for realising AI’s organisational potential.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Responsible AI requires embedding ethics, transparency, explainability, and human oversight from design through deployment.",
+    "category": "responsibility",
+    "source_quote": "Responsible AI requires embedding ethics, transparency, explainability, and human oversight from design through deployme",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Guardrails and regulation for AI are necessary but must be balanced so they do not stifle innovation or Europe’s competitiveness.",
+    "category": "responsibility",
+    "source_quote": "Guardrails and regulation for AI are necessary but must be balanced so they do not stifle innovation or Europe’s competi",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Making AI agents safer is a prerequisite for running them in enterprise environments.",
+    "category": "responsibility",
+    "source_quote": "Making AI agents safer is a prerequisite for running them in enterprise environments.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Data composition and quality are as crucial as model size for language model progress and are currently under‑understood.",
+    "category": "responsibility",
+    "source_quote": "Data composition and quality are as crucial as model size for language model progress and are currently under‑understood",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Understanding how not to train LLMs, including legal and data risks, is as important as knowing how to train them.",
+    "category": "responsibility",
+    "source_quote": "Understanding how not to train LLMs, including legal and data risks, is as important as knowing how to train them.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "The AI Act is reshaping AI development practices and must inform how models are trained in 2025.",
+    "category": "responsibility",
+    "source_quote": "The AI Act is reshaping AI development practices and must inform how models are trained in 2025.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Balancing AI innovation with risk and regulation is a central concern in financial applications of AI.",
+    "category": "responsibility",
+    "source_quote": "Balancing AI innovation with risk and regulation is a central concern in financial applications of AI.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI for legal and regulatory compliance is already practically viable and important in financial markets.",
+    "category": "responsibility",
+    "source_quote": "AI for legal and regulatory compliance is already practically viable and important in financial markets.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Understanding the limits of LLM reasoning is crucial for anyone researching, building, or applying AI.",
+    "category": "responsibility",
+    "source_quote": "Understanding the limits of LLM reasoning is crucial for anyone researching, building, or applying AI.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "prescriptive",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Because AI is foundational, the EU AI Act must get the regulatory moment right to avoid harming critical systems.",
+    "category": "responsibility",
+    "source_quote": "Because AI is foundational, the EU AI Act must get the regulatory moment right to avoid harming critical systems.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI introduces legal and compliance risks in finance that must be actively managed.",
+    "category": "responsibility",
+    "source_quote": "AI introduces legal and compliance risks in finance that must be actively managed.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "There is a real risk that the EU AI Act could unintentionally slow down innovation.",
+    "category": "responsibility",
+    "source_quote": "There is a real risk that the EU AI Act could unintentionally slow down innovation.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Regulation, while necessary, can unintentionally hinder transformative AI advancements in public services and the economy.",
+    "category": "responsibility",
+    "source_quote": "Regulation, while necessary, can unintentionally hinder transformative AI advancements in public services and the econom",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI’s growing energy consumption is a problem that must be actively managed and reduced.",
+    "category": "responsibility",
+    "source_quote": "AI’s growing energy consumption is a problem that must be actively managed and reduced.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "The current push for efficiency in AI infrastructure may be counterproductive and needs rethinking.",
+    "category": "responsibility",
+    "source_quote": "The current push for efficiency in AI infrastructure may be counterproductive and needs rethinking.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "causal_attribution",
+    "confidence": "medium"
+  },
+  {
+    "belief": "AI is already a critical, largely invisible infrastructure underpinning modern society and must be treated as such in policy debates.",
+    "category": "societal_impact",
+    "source_quote": "AI is already a critical, largely invisible infrastructure underpinning modern society and must be treated as such in po",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI systems in education should augment, not replace, core human learning processes and must avoid inducing 'metacognitive laziness'.",
+    "category": "societal_impact",
+    "source_quote": "AI systems in education should augment, not replace, core human learning processes and must avoid inducing 'metacognitiv",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI should be framed and governed as a socio‑technical infrastructure whose misuse or absence has systemic societal consequences.",
+    "category": "societal_impact",
+    "source_quote": "AI should be framed and governed as a socio‑technical infrastructure whose misuse or absence has systemic societal conse",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Advances in AI and Earth observation data are materially changing how ground-level decisions are made.",
+    "category": "societal_impact",
+    "source_quote": "Advances in AI and Earth observation data are materially changing how ground-level decisions are made.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "problem_framing",
+    "confidence": "medium"
+  },
+  {
+    "belief": "A profound data divide undermines the ethical and practical potential of AI for global food security.",
+    "category": "societal_impact",
+    "source_quote": "A profound data divide undermines the ethical and practical potential of AI for global food security.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI is already foundational to critical economic and social systems, not a hypothetical future technology.",
+    "category": "societal_impact",
+    "source_quote": "AI is already foundational to critical economic and social systems, not a hypothetical future technology.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI systems currently lack key human cognitive traits such as intent, self-awareness, and autobiographical memory.",
+    "category": "societal_impact",
+    "source_quote": "AI systems currently lack key human cognitive traits such as intent, self-awareness, and autobiographical memory.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "We risk anthropomorphizing AI models simply because they use human language.",
+    "category": "societal_impact",
+    "source_quote": "We risk anthropomorphizing AI models simply because they use human language.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "problem_framing",
+    "confidence": "medium"
+  },
+  {
+    "belief": "AI plays a dual role as both a protective shield and a potential weapon, requiring responsible design.",
+    "category": "societal_impact",
+    "source_quote": "AI plays a dual role as both a protective shield and a potential weapon, requiring responsible design.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "There is significant uncertainty about whether AGI and superintelligence are inevitable or overhyped, requiring critical examination.",
+    "category": "societal_impact",
+    "source_quote": "There is significant uncertainty about whether AGI and superintelligence are inevitable or overhyped, requiring critical",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "problem_framing",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Some AI safety concerns about instrumental convergence and AI developing its own will may be overstated compared to more likely specialized tool scenarios.",
+    "category": "societal_impact",
+    "source_quote": "Some AI safety concerns about instrumental convergence and AI developing its own will may be overstated compared to more",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "causal_attribution",
+    "confidence": "medium"
+  },
+  {
+    "belief": "The Netherlands faces distinctive grid challenges that make AI-based energy solutions particularly urgent.",
+    "category": "societal_impact",
+    "source_quote": "The Netherlands faces distinctive grid challenges that make AI-based energy solutions particularly urgent.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "We are approaching a convergence of simulation, perception, and compute that makes truly smart cities increasingly feasible.",
+    "category": "societal_impact",
+    "source_quote": "We are approaching a convergence of simulation, perception, and compute that makes truly smart cities increasingly feasi",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "causal_attribution",
+    "confidence": "medium"
+  },
+  {
+    "belief": "AI can be used to improve both efficiency and quality of care in healthcare settings.",
+    "category": "societal_impact",
+    "source_quote": "AI can be used to improve both efficiency and quality of care in healthcare settings.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_10",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "The Netherlands currently underperforms on AI adoption relative to its research strength and must move from talking about AI to doing AI.",
+    "category": "AI_adoption",
+    "source_quote": "The Netherlands currently underperforms on AI adoption relative to its research strength and must move from talking abou",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Many organisations struggle to move beyond isolated AI initiatives because they lack clarity on where to start.",
+    "category": "AI_adoption",
+    "source_quote": "Many organisations struggle to move beyond isolated AI initiatives because they lack clarity on where to start.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Building secure, full‑stack AI applications is essential for enterprise adoption.",
+    "category": "AI_adoption",
+    "source_quote": "Building secure, full‑stack AI applications is essential for enterprise adoption.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "The Netherlands’ main AI gap is implementation, not ideas, talent, or infrastructure.",
+    "category": "AI_adoption",
+    "source_quote": "The Netherlands’ main AI gap is implementation, not ideas, talent, or infrastructure.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "The Netherlands is losing AI momentum due to low implementation capacity and slow structures.",
+    "category": "AI_adoption",
+    "source_quote": "The Netherlands is losing AI momentum due to low implementation capacity and slow structures.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "The main challenges in AI adoption stem from human and organisational factors rather than from the technology itself.",
+    "category": "AI_adoption",
+    "source_quote": "The main challenges in AI adoption stem from human and organisational factors rather than from the technology itself.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "There is a problematic gap between talking about AI and actually implementing it.",
+    "category": "AI_adoption",
+    "source_quote": "There is a problematic gap between talking about AI and actually implementing it.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Europe is currently lagging behind the US and China in key dimensions of AI development and adoption.",
+    "category": "AI_adoption",
+    "source_quote": "Europe is currently lagging behind the US and China in key dimensions of AI development and adoption.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI’s economic potential in the Netherlands is large, but adoption is lagging behind that potential.",
+    "category": "AI_adoption",
+    "source_quote": "AI’s economic potential in the Netherlands is large, but adoption is lagging behind that potential.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Divergent interpretations of recent AI developments among leading thinkers significantly shape expectations about AGI.",
+    "category": "knowledge_sharing",
+    "source_quote": "Divergent interpretations of recent AI developments among leading thinkers significantly shape expectations about AGI.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Mindset, organisational silos, and misaligned incentives are key barriers to successful AI projects.",
+    "category": "organisational_capability",
+    "source_quote": "Mindset, organisational silos, and misaligned incentives are key barriers to successful AI projects.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Many organizations struggle to convert AI potential into impact because of misaligned incentives and mindset.",
+    "category": "organisational_capability",
+    "source_quote": "Many organizations struggle to convert AI potential into impact because of misaligned incentives and mindset.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Data diversity in training corpora is a critical but under‑specified factor for fairness and robustness in language models.",
+    "category": "responsibility",
+    "source_quote": "Data diversity in training corpora is a critical but under‑specified factor for fairness and robustness in language mode",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Legal ambiguity and overlapping regulations create friction for companies implementing the EU AI Act.",
+    "category": "responsibility",
+    "source_quote": "Legal ambiguity and overlapping regulations create friction for companies implementing the EU AI Act.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "The Netherlands is not realising AI’s full societal potential because of these implementation barriers.",
+    "category": "societal_impact",
+    "source_quote": "The Netherlands is not realising AI’s full societal potential because of these implementation barriers.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Human intelligence is characterized by selective attention to a small fraction of information, unlike current AI systems.",
+    "category": "societal_impact",
+    "source_quote": "Human intelligence is characterized by selective attention to a small fraction of information, unlike current AI systems",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Traditional threat analysis that treats risks in isolation is inadequate for today’s interconnected threat landscape.",
+    "category": "societal_impact",
+    "source_quote": "Traditional threat analysis that treats risks in isolation is inadequate for today’s interconnected threat landscape.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "problem_framing",
+    "confidence": "high"
+  },
+  {
+    "belief": "Secure, scalable, production‑ready AI infrastructure is a prerequisite for enterprise AI applications.",
+    "category": "AI_adoption",
+    "source_quote": "Secure, scalable, production‑ready AI infrastructure is a prerequisite for enterprise AI applications.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Scaling and embedding AI solutions, supported by clear strategies and strong governance, are required to achieve true impact beyond pilots.",
+    "category": "AI_adoption",
+    "source_quote": "Scaling and embedding AI solutions, supported by clear strategies and strong governance, are required to achieve true im",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Building GenAI infrastructure and ecosystems is foundational for AI in higher education.",
+    "category": "AI_adoption",
+    "source_quote": "Building GenAI infrastructure and ecosystems is foundational for AI in higher education.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "prescriptive",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Curating and sharing AI insights, technical content, and news via a community newsletter is important for collective learning.",
+    "category": "knowledge_sharing",
+    "source_quote": "Curating and sharing AI insights, technical content, and news via a community newsletter is important for collective lea",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "prescriptive",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Participants in AI initiatives should be willing to share their results with others.",
+    "category": "knowledge_sharing",
+    "source_quote": "Participants in AI initiatives should be willing to share their results with others.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_10",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "A strong operational foundation is necessary to enable technical teams to focus on impact.",
+    "category": "organisational_capability",
+    "source_quote": "A strong operational foundation is necessary to enable technical teams to focus on impact.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Assessing data availability and achievable model performance is essential to judging AI feasibility in practice.",
+    "category": "organisational_capability",
+    "source_quote": "Assessing data availability and achievable model performance is essential to judging AI feasibility in practice.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_10",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Enterprises need foundational secure AI infrastructure to run AI applications safely at scale.",
+    "category": "responsibility",
+    "source_quote": "Enterprises need foundational secure AI infrastructure to run AI applications safely at scale.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Execution space and mandates for practical AI experimentation are necessary to unlock AI opportunities.",
+    "category": "responsibility",
+    "source_quote": "Execution space and mandates for practical AI experimentation are necessary to unlock AI opportunities.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Responsible and scalable AI solutions require architectures that combine multi-agent setups, retrieval, tool calling, and guardrails to ensure accuracy and scope control.",
+    "category": "responsibility",
+    "source_quote": "Responsible and scalable AI solutions require architectures that combine multi-agent setups, retrieval, tool calling, an",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "High-performance AI in sensitive contexts must be delivered through model-agnostic, privacy-first architectures with strict governance guarantees.",
+    "category": "responsibility",
+    "source_quote": "High-performance AI in sensitive contexts must be delivered through model-agnostic, privacy-first architectures with str",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_02",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Explainability features are an essential component of applied machine learning in safety-critical domains like aviation.",
+    "category": "responsibility",
+    "source_quote": "Explainability features are an essential component of applied machine learning in safety-critical domains like aviation.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_03",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Validated domain content is necessary to ensure trustworthy AI guidance in sensitive areas like finance.",
+    "category": "responsibility",
+    "source_quote": "Validated domain content is necessary to ensure trustworthy AI guidance in sensitive areas like finance.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Building secure conversational AI requires explicit guardrails that block malicious content using multiple technical approaches.",
+    "category": "responsibility",
+    "source_quote": "Building secure conversational AI requires explicit guardrails that block malicious content using multiple technical app",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Building a responsible AI ecosystem for higher education requires dedicated research and ecosystem-level coordination.",
+    "category": "responsibility",
+    "source_quote": "Building a responsible AI ecosystem for higher education requires dedicated research and ecosystem-level coordination.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_05",
+    "inference_type": "causal_attribution",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Infrastructure, built on governance and security, is the foundation for scaling advanced AI and GenAI in finance.",
+    "category": "responsibility",
+    "source_quote": "Infrastructure, built on governance and security, is the foundation for scaling advanced AI and GenAI in finance.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Public machine learning audits and internal AI management systems are important practices for embedding security and ethics in AI.",
+    "category": "responsibility",
+    "source_quote": "Public machine learning audits and internal AI management systems are important practices for embedding security and eth",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "prescriptive",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Experts in the Netherlands are actively working to make AI systems in security domains safer and more responsible.",
+    "category": "responsibility",
+    "source_quote": "Experts in the Netherlands are actively working to make AI systems in security domains safer and more responsible.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "causal_attribution",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Implementing internal AI management systems that embed security, ethics, and future-readiness is necessary for responsible AI practice.",
+    "category": "responsibility",
+    "source_quote": "Implementing internal AI management systems that embed security, ethics, and future-readiness is necessary for responsib",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Incorporating interconnectedness as a third dimension improves how policymakers understand and manage national threats.",
+    "category": "societal_impact",
+    "source_quote": "Incorporating interconnectedness as a third dimension improves how policymakers understand and manage national threats.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "Providing policymakers with concrete AI lessons and results will influence future policy agendas and agreements.",
+    "category": "societal_impact",
+    "source_quote": "Providing policymakers with concrete AI lessons and results will influence future policy agendas and agreements.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "The EU AI Act must be translated from complex policy into practical tools for day-to-day AI work.",
+    "category": "responsibility",
+    "source_quote": "The EU AI Act must be translated from complex policy into practical tools for day-to-day AI work.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_08",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Evaluation and monitoring frameworks must be built alongside AI systems, not after, to prevent regressions and hidden failures.",
+    "category": "organisational_capability",
+    "source_quote": "Evaluation and monitoring frameworks must be built alongside AI systems, not after, to prevent regressions and hidden fa",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI systems in sensitive domains must be explainable and transparent to earn user trust and support professional responsibility.",
+    "category": "responsibility",
+    "source_quote": "AI systems in sensitive domains must be explainable and transparent to earn user trust and support professional responsi",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Guardrails and safety policies must be explicitly engineered into generative AI systems rather than assumed from model behaviour.",
+    "category": "responsibility",
+    "source_quote": "Guardrails and safety policies must be explicitly engineered into generative AI systems rather than assumed from model b",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI evaluation in safety‑critical contexts must combine quantitative metrics, qualitative feedback, and regulatory auditability.",
+    "category": "responsibility",
+    "source_quote": "AI evaluation in safety‑critical contexts must combine quantitative metrics, qualitative feedback, and regulatory audita",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Explainability, hallucination safeguards, and trust-building are necessary components of healthcare AI systems.",
+    "category": "responsibility",
+    "source_quote": "Explainability, hallucination safeguards, and trust-building are necessary components of healthcare AI systems.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Regulation should enable entrepreneurs rather than overburden them with compliance and uncertainty.",
+    "category": "responsibility",
+    "source_quote": "Regulation should enable entrepreneurs rather than overburden them with compliance and uncertainty.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Guardrails and curated data are essential to ensure AI tutors teach accurate content and avoid harmful hallucinations.",
+    "category": "responsibility",
+    "source_quote": "Guardrails and curated data are essential to ensure AI tutors teach accurate content and avoid harmful hallucinations.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_04",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Policy should actively enable AI adoption through talent, compute access, and experimentation space.",
+    "category": "responsibility",
+    "source_quote": "Policy should actively enable AI adoption through talent, compute access, and experimentation space.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Alternative cloud and infrastructure models should prioritize effectiveness and sustainability over narrow efficiency metrics.",
+    "category": "responsibility",
+    "source_quote": "Alternative cloud and infrastructure models should prioritize effectiveness and sustainability over narrow efficiency me",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "causal_attribution",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Organizations should track and manage AI’s energy footprint using standardized tools and metrics.",
+    "category": "responsibility",
+    "source_quote": "Organizations should track and manage AI’s energy footprint using standardized tools and metrics.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_09",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Executives’ approaches to AI governance are critical enough to warrant systematic learning and sharing.",
+    "category": "responsibility",
+    "source_quote": "Executives’ approaches to AI governance are critical enough to warrant systematic learning and sharing.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "prescriptive",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Measuring data diversity is important for understanding language model behaviour and performance.",
+    "category": "responsibility",
+    "source_quote": "Measuring data diversity is important for understanding language model behaviour and performance.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_01",
+    "inference_type": "causal_attribution",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI adoption in finance requires transparent systems to mitigate associated risks.",
+    "category": "AI_adoption",
+    "source_quote": "AI adoption in finance requires transparent systems to mitigate associated risks.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Human oversight must remain central in high‑risk AI domains such as defense and security.",
+    "category": "responsibility",
+    "source_quote": "Human oversight must remain central in high‑risk AI domains such as defense and security.",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "AI in high‑stakes domains like finance and defense should be used as decision‑support, not as a replacement for human judgment.",
+    "category": "responsibility",
+    "source_quote": "AI in high‑stakes domains like finance and defense should be used as decision‑support, not as a replacement for human ju",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Transparency, fairness, and explainability are non‑negotiable requirements for AI models in regulated financial contexts.",
+    "category": "responsibility",
+    "source_quote": "Transparency, fairness, and explainability are non‑negotiable requirements for AI models in regulated financial contexts",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_06",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Regulation can and should play an enabling role in responsible AI development.",
+    "category": "responsibility",
+    "source_quote": "Regulation can and should play an enabling role in responsible AI development.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "prescriptive",
+    "confidence": "medium"
+  },
+  {
+    "belief": "Effective AI regulation depends on flexibility, support, and close collaboration between policymakers and industry.",
+    "category": "responsibility",
+    "source_quote": "Effective AI regulation depends on flexibility, support, and close collaboration between policymakers and industry.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Deploying AI systems that lack human-like constraints and instincts requires additional guardrails.",
+    "category": "responsibility",
+    "source_quote": "Deploying AI systems that lack human-like constraints and instincts requires additional guardrails.",
+    "belief_type": "primary",
+    "source_document": "linkedin_batch_07",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  },
+  {
+    "belief": "Knowledge sharing and storytelling about AI projects are essential to scaling learning across the Dutch AI ecosystem.",
+    "category": "knowledge_sharing",
+    "source_quote": "Knowledge sharing and storytelling about AI projects are essential to scaling learning across the Dutch AI ecosystem.",
+    "belief_type": "primary",
+    "source_document": "blog",
+    "inference_type": "prescriptive",
+    "confidence": "high"
+  }
+]
