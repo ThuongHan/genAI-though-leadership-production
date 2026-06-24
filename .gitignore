@@ -41,8 +41,9 @@ logs/
 *.log
 
 # ── Scanner data (large scraped article dumps) ──────────────────
-backend/Scanner/data/scans/
-backend/Scanner/data/filter/
+Backup Scan/
+Backup Filter/
+
 
 # ── Frontend (Svelte / Vite / Node) ─────────────────────────────
 frontend/node_modules/

@@ -405,7 +405,7 @@
         <h1>What's happening in AI today?</h1>
         <p class="muted">
           Find the most relevant AI news, understand it through KickstartAI's perspective,
-          and turn it into a LinkedIn post — all in a few clicks.
+          and turn it into a LinkedIn post -- all in a few clicks.
         </p>
         <div class="hero-actions">
           <button class="btn-primary btn-lg" on:click={startScan}>
@@ -416,7 +416,7 @@
           </button>
         </div>
         <p class="hero-hint">
-          <strong>Scan the Web</strong> fetches fresh articles and picks the top 5 most relevant ones (~5–10 min).
+          <strong>Scan the Web</strong> fetches fresh articles and picks the top 5 most relevant ones (~20–30 min).
           <br>
           <strong>Use Last Results</strong> skips the search and loads the most recent articles immediately.
         </p>
