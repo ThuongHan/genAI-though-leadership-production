@@ -64,16 +64,16 @@ Output: `data/filter/weighted_top5_<provider>_<model>_<strategy>_DD-MM-HHMM.json
 
 ### Options
 
-| Flag | Meaning | Default |
-|---|---|---|
-| `--strategy / -s` | `zero_shot` \| `few_shot` \| `cot` | `zero_shot` |
-| `--provider / -p` | `claude` \| `openai` | `claude` |
-| `--model` | override the model id | Haiku / gpt-4o-mini |
-| `--excerpt / -e` | which part of the text to score: `smart` \| `head` \| `middle` \| `end` | `smart` |
-| `--max-chars` | excerpt size (the cost lever) | 2000 |
-| `--top-n` | how many to return | 5 |
-| `<input.json>` | score a specific scan instead of the newest | newest in `data/scans/` |
-| `--output / -o` | custom output path | auto-named |
+| Flag              | Meaning                                                                 | Default                 |
+| ----------------- | ----------------------------------------------------------------------- | ----------------------- |
+| `--strategy / -s` | `zero_shot` \| `few_shot` \| `cot`                                      | `zero_shot`             |
+| `--provider / -p` | `claude` \| `openai`                                                    | `claude`                |
+| `--model`         | override the model id                                                   | Haiku / gpt-4o-mini     |
+| `--excerpt / -e`  | which part of the text to score: `smart` \| `head` \| `middle` \| `end` | `smart`                 |
+| `--max-chars`     | excerpt size (the cost lever)                                           | 2000                    |
+| `--top-n`         | how many to return                                                      | 5                       |
+| `<input.json>`    | score a specific scan instead of the newest                             | newest in `data/scans/` |
+| `--output / -o`   | custom output path                                                      | auto-named              |
 
 Examples:
 
@@ -87,37 +87,13 @@ Cost (Haiku, ~650 articles): ~$0.70–1.00 per run; ~6× cheaper on OpenAI.
 
 ---
 
-## 3. (Optional) Build the human-annotation evaluation set
-
-```bash
-python build_annotation_dataset.py
-```
-
-- Pools scans, LLM-grades each article 0–10, hybrid-selects 120 good + 30 bad,
-  adds AI summaries, writes a dated Excel + JSON.
-- Output: `data/annotation/annotation_db_v4_DD-MM-HHMM.{json,xlsx}`.
-
-Re-select **for free** (no re-scoring) from the cached pool:
-
-```bash
-python build_annotation_dataset.py --reuse-scores data/annotation/_scored_pool_DD-MM-HHMM.json
-```
-
-Re-render only the Excel/JSON after a schema change (no API):
-
-```bash
-python build_annotation_dataset.py --rebuild-from data/annotation/<some_db>.json
-```
-
----
-
 ## Where things go
 
-| What | Location |
-|---|---|
-| Scans | `data/scans/scanner_output_*.json` |
-| Filter top-5 | `data/filter/weighted_top5_*.json` |
-| Annotation set | `data/annotation/` |
+| What           | Location                           |
+| -------------- | ---------------------------------- |
+| Scans          | `data/scans/scanner_output_*.json` |
+| Filter top-5   | `data/filter/weighted_top5_*.json` |
+| Annotation set | `data/annotation/`                 |
 
 ## Good to know
 
