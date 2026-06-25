@@ -1,0 +1,2288 @@
+{
+  "task": "model-vs-human scoring — scored on the same fields the annotators saw",
+  "provider": "claude",
+  "model": "claude-haiku-4-5",
+  "resolved_model": "claude-haiku-4-5-20251001",
+  "strategy": "few_shot",
+  "input_fields": [
+    "title",
+    "source",
+    "url",
+    "summary(full)"
+  ],
+  "score_scale": "0-10",
+  "dimensions": [
+    "relevance",
+    "trustworthiness",
+    "specificity",
+    "audience_fit"
+  ],
+  "weights": {
+    "relevance": 0.35,
+    "audience_fit": 0.29,
+    "trustworthiness": 0.18,
+    "specificity": 0.18
+  },
+  "dataset": "data/annotation/dataset_kickstartAI_v7_final (2).xlsx",
+  "n_scored": 150,
+  "n_errors": 0,
+  "elapsed_seconds": 108.1,
+  "usage": {
+    "input_tokens": 329068,
+    "output_tokens": 14573,
+    "calls": 150
+  },
+  "estimated_cost_usd": 0.401933,
+  "scored": [
+    {
+      "annotation_id": 1,
+      "id": null,
+      "name": "Draft Commission guidelines on the classification of high-risk AI systems",
+      "source": "European Commission Digital Strategy",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/draft-commission-guidelines-classification-high-risk-ai-systems",
+      "tag": "policy_regulation",
+      "scores": {
+        "relevance": 10,
+        "trustworthiness": 10,
+        "specificity": 9,
+        "audience_fit": 10
+      },
+      "weighted": 9.82
+    },
+    {
+      "annotation_id": 2,
+      "id": null,
+      "name": "Ai-systemen overtreden massaal EU AI Act en AVG",
+      "source": "Computable",
+      "url": "https://www.computable.nl/2026/05/27/ai-systemen-overtreden-massaal-eu-ai-act-en-avg/",
+      "tag": "dutch_news",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 8,
+        "specificity": 9,
+        "audience_fit": 9
+      },
+      "weighted": 8.82
+    },
+    {
+      "annotation_id": 3,
+      "id": null,
+      "name": "Dutch Government just said no to an American firm buying the keys to their digital State",
+      "source": "Securityaffairs.com",
+      "url": "https://securityaffairs.com/192719/security/dutch-government-just-said-no-to-an-american-firm-buying-the-keys-to-their-digital-state.html",
+      "tag": "news",
+      "scores": {
+        "relevance": 10,
+        "trustworthiness": 8,
+        "specificity": 9,
+        "audience_fit": 10
+      },
+      "weighted": 9.46
+    },
+    {
+      "annotation_id": 4,
+      "id": null,
+      "name": "Kabinet gaat zorg-ict beschermen tegen ongewenste overnames",
+      "source": "Computable",
+      "url": "https://www.computable.nl/2026/05/22/kabinet-gaat-zorg-ict-beschermen-tegen-geopolitiek-ongewenste-overnames/",
+      "tag": "news",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 9,
+        "specificity": 8,
+        "audience_fit": 9
+      },
+      "weighted": 8.82
+    },
+    {
+      "annotation_id": 5,
+      "id": null,
+      "name": "Techbedrijven deelden namen Nederlandse ambtenaren met VS: 'Ontzettend zorgelijk'",
+      "source": "NOS Tech",
+      "url": "https://nos.nl/l/2615391",
+      "tag": "dutch_news",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 9,
+        "specificity": 8,
+        "audience_fit": 9
+      },
+      "weighted": 8.82
+    },
+    {
+      "annotation_id": 6,
+      "id": null,
+      "name": "De VS hebben ASML hard nodig in de bloedstollende AI-race met China – en werken aan een ingreep die voor iedereen beroerd kan uitpakken",
+      "source": "Www.nrc.nl",
+      "url": "https://www.nrc.nl/nieuws/2026/05/11/de-vs-hebben-asml-hard-nodig-in-de-bloedstollende-ai-race-met-china-en-werken-aan-een-ingreep-die-voor-iedereen-beroerd-kan-uitpakken-a4927504",
+      "tag": "news",
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 9,
+        "specificity": 8,
+        "audience_fit": 9
+      },
+      "weighted": 8.47
+    },
+    {
+      "annotation_id": 7,
+      "id": null,
+      "name": "Vakbonden zetten zich schrap voor AI-onderhandelingen met werkgevers",
+      "source": "Www.nrc.nl",
+      "url": "https://www.nrc.nl/nieuws/2026/05/11/vakbonden-zetten-zich-schrap-voor-ai-onderhandelingen-met-werkgevers-a4927547",
+      "tag": "news",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 8,
+        "specificity": 8,
+        "audience_fit": 9
+      },
+      "weighted": 8.64
+    },
+    {
+      "annotation_id": 8,
+      "id": null,
+      "name": "Nieuw e-zine: Digitale soevereiniteit in de praktijk",
+      "source": "Computable",
+      "url": "https://www.computable.nl/2026/05/21/nieuw-e-zine-digitale-soevereiniteit-in-de-praktijk/",
+      "tag": "news",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 8,
+        "specificity": 8,
+        "audience_fit": 9
+      },
+      "weighted": 8.64
+    },
+    {
+      "annotation_id": 9,
+      "id": null,
+      "name": "Three studies on technical solutions to mark and detect AI-generated content",
+      "source": "European Commission Digital Strategy",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/three-studies-technical-solutions-mark-and-detect-ai-generated-content",
+      "tag": "policy_regulation",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 10,
+        "specificity": 8,
+        "audience_fit": 8
+      },
+      "weighted": 8.71
+    },
+    {
+      "annotation_id": 10,
+      "id": null,
+      "name": "EU agrees to simplify AI rules to boost innovation and ban ‘nudification' apps to protect citizens",
+      "source": "European Commission Digital Strategy",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/eu-agrees-simplify-ai-rules-boost-innovation-and-ban-nudification-apps-protect-citizens",
+      "tag": "policy_regulation",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 10,
+        "specificity": 8,
+        "audience_fit": 9
+      },
+      "weighted": 9.0
+    },
+    {
+      "annotation_id": 11,
+      "id": null,
+      "name": "Copy, paste, govern: Microsoft ghostwrote EU policy that keeps data centers’ energy use secret",
+      "source": "Algorithm Watch",
+      "url": "https://algorithmwatch.org/en/copy-paste-govern-microsoft-ghostwrote-eu-policy/",
+      "tag": "policy_regulation",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 9,
+        "specificity": 9,
+        "audience_fit": 9
+      },
+      "weighted": 9.0
+    },
+    {
+      "annotation_id": 12,
+      "id": null,
+      "name": "Weerstand bieden tegen objectificatie",
+      "source": "Bits of Freedom",
+      "url": "https://www.bitsoffreedom.nl/2026/05/18/weerstand-bieden-tegen-objectificatie/",
+      "tag": "policy_regulation",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 9,
+        "specificity": 8,
+        "audience_fit": 6
+      },
+      "weighted": 7.25
+    },
+    {
+      "annotation_id": 13,
+      "id": null,
+      "name": "Mediahuis in alliantie tegen contentrovende AI’s",
+      "source": "Emerce.nl",
+      "url": "https://www.emerce.nl/nieuws/mediahuis-alliantie-tegen-contentrovende-ais",
+      "tag": "news",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 8,
+        "specificity": 8,
+        "audience_fit": 6
+      },
+      "weighted": 7.07
+    },
+    {
+      "annotation_id": 14,
+      "id": null,
+      "name": "De risico’s van AI bedreigen ook het financiële stelsel, waarschuwen Planbureau en toezichthouders",
+      "source": "Www.nrc.nl",
+      "url": "https://www.nrc.nl/nieuws/2026/05/26/de-risicos-van-ai-bedreigen-ook-het-financiele-stelsel-waarschuwen-planbureau-en-toezichthouders-a4928644",
+      "tag": "dutch_news",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 9,
+        "specificity": 7,
+        "audience_fit": 9
+      },
+      "weighted": 8.64
+    },
+    {
+      "annotation_id": 15,
+      "id": null,
+      "name": "Exclusive-EU cloud rules to curb Big Tech's access to strategic tenders, draft document shows",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/exclusive-eu-cloud-rules-curb-big-techs-access-strategic-tenders-draft-document-shows-6154276",
+      "tag": "news",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 9
+      },
+      "weighted": 8.46
+    },
+    {
+      "annotation_id": 16,
+      "id": null,
+      "name": "Qbuzz introduceert AI-assistent die reizigers in seconden helpt",
+      "source": "Emerce.nl",
+      "url": "https://www.emerce.nl/nieuws/qbuzz-introduceert-aiassistent-die-reizigers-seconden-helpt",
+      "tag": "news",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 8,
+        "specificity": 9,
+        "audience_fit": 9
+      },
+      "weighted": 8.82
+    },
+    {
+      "annotation_id": 17,
+      "id": null,
+      "name": "Commission fines Temu €200 million for breaching the Digital Services Act",
+      "source": "European Commission Digital Strategy",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-fines-temu-eu200-million-breaching-digital-services-act",
+      "tag": "policy_regulation",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 10,
+        "specificity": 8,
+        "audience_fit": 6
+      },
+      "weighted": 7.08
+    },
+    {
+      "annotation_id": 18,
+      "id": null,
+      "name": "Tandem’s AI Scribe is the first in Europe to reach EU MDR Class IIa | Tandem Health",
+      "source": "Tandemhealth.ai",
+      "url": "https://tandemhealth.ai/resources/news/tandem-s-ai-scribe-is-now-mdr-class-iia-certified",
+      "tag": "news",
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 6,
+        "specificity": 8,
+        "audience_fit": 9
+      },
+      "weighted": 7.93
+    },
+    {
+      "annotation_id": 19,
+      "id": null,
+      "name": "SoftBank steekt 75 miljard in Franse datacenters en Europese AI-rekenkracht",
+      "source": "Www.nrc.nl",
+      "url": "https://www.nrc.nl/nieuws/2026/05/31/softbank-steekt-75-miljard-in-franse-datacenters-en-europese-ai-rekenkracht-a4929017",
+      "tag": "dutch_news",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 9,
+        "specificity": 9,
+        "audience_fit": 9
+      },
+      "weighted": 9.0
+    },
+    {
+      "annotation_id": 20,
+      "id": null,
+      "name": "OpenSSF’s CRob: ‘The Runway Is Rapidly Running Out’ on EU CRA Readiness",
+      "source": "DevOps.com",
+      "url": "https://devops.com/openssfs-crob-the-runway-is-rapidly-running-out-on-eu-cra-readiness/",
+      "tag": "news",
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 9,
+        "specificity": 8,
+        "audience_fit": 9
+      },
+      "weighted": 8.47
+    },
+    {
+      "annotation_id": 21,
+      "id": null,
+      "name": "How Europe’s largest bank balances AI speed, sovereignty and model choice",
+      "source": "SiliconANGLE News",
+      "url": "https://siliconangle.com/2026/05/20/hybrid-ai-governance-now-critical-european-banking-ibmthink/",
+      "tag": "news",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 8,
+        "specificity": 9,
+        "audience_fit": 9
+      },
+      "weighted": 8.82
+    },
+    {
+      "annotation_id": 22,
+      "id": null,
+      "name": "Commission preliminarily finds Meta in breach of Digital Services Act for failing to prevent minors under 13 from using Instagram and Facebook",
+      "source": "European Commission Digital Strategy",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-meta-breach-digital-services-act-failing-prevent-minors-under-13",
+      "tag": "policy_regulation",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 10,
+        "specificity": 7,
+        "audience_fit": 5
+      },
+      "weighted": 6.61
+    },
+    {
+      "annotation_id": 23,
+      "id": null,
+      "name": "Nieuw Salesforce-onderzoek laat zien dat Nederlandse klantenservice organisaties AI agents steeds meer als vaste kracht inzetten",
+      "source": "Emerce.nl",
+      "url": "https://www.emerce.nl/wire/nieuw-salesforceonderzoek-zien-dat-nederlandse-klantenservice-organisaties-ai-agents-steeds-meer-vaste-kracht-inzetten",
+      "tag": "dutch_news",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 9
+      },
+      "weighted": 8.46
+    },
+    {
+      "annotation_id": 24,
+      "id": null,
+      "name": "Waarom het beschermen van digitale infrastructuur een politieke kwestie is",
+      "source": "Www.nrc.nl",
+      "url": "https://www.nrc.nl/nieuws/2026/05/29/waarom-het-beschermen-van-digitale-infrastructuur-een-politieke-kwestie-is-a4928948",
+      "tag": "dutch_news",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 8,
+        "specificity": 8,
+        "audience_fit": 9
+      },
+      "weighted": 8.64
+    },
+    {
+      "annotation_id": 25,
+      "id": null,
+      "name": "Onderzoek toont aan dat Amerikaanse bedrijven voorlopen op Europa bij de invoering van AI",
+      "source": "Businessam.be",
+      "url": "https://businessam.be/onderzoek-toont-aan-dat-amerikaanse-bedrijven-voor-lopen-op-europa-bij-de-invoering-van-ai/",
+      "tag": "dutch_news",
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 8,
+        "specificity": 9,
+        "audience_fit": 9
+      },
+      "weighted": 8.47
+    },
+    {
+      "annotation_id": 26,
+      "id": null,
+      "name": "When revealed data brings AI rollouts to a screeching halt - and how to manage it",
+      "source": "ZDNet",
+      "url": "https://www.zdnet.com/article/proceed-cautiously-with-ai-rollouts/",
+      "tag": "news",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 8,
+        "specificity": 9,
+        "audience_fit": 9
+      },
+      "weighted": 8.82
+    },
+    {
+      "annotation_id": 27,
+      "id": null,
+      "name": "Mike Milinkovich: Frontier AI and the next phase of software vulnerability defence",
+      "source": "Eclipse-foundation.blog",
+      "url": "https://eclipse-foundation.blog/2026/05/18/the-next-phase-of-software-vulnerability-defence/",
+      "tag": "news",
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 8,
+        "specificity": 7,
+        "audience_fit": 8
+      },
+      "weighted": 7.82
+    },
+    {
+      "annotation_id": 28,
+      "id": null,
+      "name": "Nieuwe master AI‑Translator leidt bruggenbouwers op",
+      "source": "Emerce.nl",
+      "url": "https://www.emerce.nl/wire/nieuwe-master-aitranslator-leidt-bruggenbouwers",
+      "tag": "news",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 8,
+        "specificity": 8,
+        "audience_fit": 9
+      },
+      "weighted": 8.64
+    },
+    {
+      "annotation_id": 29,
+      "id": null,
+      "name": "Vier vragen over rapport gevaren sociale media: 'We staan op een keerpunt'",
+      "source": "NOS Tech",
+      "url": "https://nos.nl/l/2615038",
+      "tag": "dutch_news",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 8,
+        "specificity": 7,
+        "audience_fit": 5
+      },
+      "weighted": 6.25
+    },
+    {
+      "annotation_id": 30,
+      "id": null,
+      "name": "Researchers find all big-name bots bomb EU compliance tests",
+      "source": "Theregister.com",
+      "url": "https://www.theregister.com/ai-ml/2026/05/27/researchers-find-all-big-name-bots-bomb-eu-compliance-tests/5247176",
+      "tag": "news",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 8,
+        "specificity": 8,
+        "audience_fit": 9
+      },
+      "weighted": 8.64
+    },
+    {
+      "annotation_id": 31,
+      "id": null,
+      "name": "Meer dan de helft van de Nederlandse bedrijven maakt zich zorgen over AI-gebruik van leveranciers",
+      "source": "Emerce.nl",
+      "url": "https://www.emerce.nl/wire/meer-helft-nederlandse-bedrijven-maakt-zich-zorgen-aigebruik-leveranciers",
+      "tag": "news",
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 9
+      },
+      "weighted": 8.11
+    },
+    {
+      "annotation_id": 32,
+      "id": null,
+      "name": "Exclusive-Meta tool to track employee mouse clicks on collision course with EU privacy rules",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/exclusive-meta-tool-track-employee-mouse-clicks-collision-course-eu-privacy-rules-6150431",
+      "tag": "news",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 7
+      },
+      "weighted": 7.18
+    },
+    {
+      "annotation_id": 33,
+      "id": null,
+      "name": "SAP Is Attempting to Become the Gatekeeper of Enterprise AI — CIOs Should Push Back",
+      "source": "Forrester.com",
+      "url": "https://www.forrester.com/blogs/sap-is-attempting-to-become-the-gatekeeper-of-enterprise-ai-cios-should-push-back/",
+      "tag": "news",
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 8,
+        "specificity": 9,
+        "audience_fit": 9
+      },
+      "weighted": 8.47
+    },
+    {
+      "annotation_id": 34,
+      "id": null,
+      "name": "Mistral defends military AI, expands data centres",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/business/2026/0528/1575749-mistral-defends-military-ai-expands-data-centres/",
+      "tag": "news",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 7
+      },
+      "weighted": 7.18
+    },
+    {
+      "annotation_id": 35,
+      "id": null,
+      "name": "Frontier AI models collapse under multi-turn AI attacks, Cisco finds",
+      "source": "Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2026/05/28/cisco-multi-turn-ai-attacks/",
+      "tag": "news",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 8,
+        "specificity": 9,
+        "audience_fit": 5
+      },
+      "weighted": 6.61
+    },
+    {
+      "annotation_id": 36,
+      "id": null,
+      "name": "GTIA: AI volwassenheid blijft achter bij massale adoptie",
+      "source": "Emerce.nl",
+      "url": "https://www.emerce.nl/wire/gtia-ai-volwassenheid-blijft-achter-massale-adoptie",
+      "tag": "news",
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 8
+      },
+      "weighted": 7.82
+    },
+    {
+      "annotation_id": 37,
+      "id": null,
+      "name": "Why Enterprise AI Infrastructure Is Becoming a DevOps Problem",
+      "source": "DevOps.com",
+      "url": "https://devops.com/why-enterprise-ai-infrastructure-is-becoming-a-devops-problem/",
+      "tag": "news",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 6,
+        "specificity": 7,
+        "audience_fit": 8
+      },
+      "weighted": 7.11
+    },
+    {
+      "annotation_id": 38,
+      "id": null,
+      "name": "How “existential risk” became the AI industry’s most successful strategy",
+      "source": "Algorithm Watch",
+      "url": "https://algorithmwatch.org/en/how-existential-risk-became-the-ai-industrys-most-successful-strategy/",
+      "tag": "policy_regulation",
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 7,
+        "specificity": 7,
+        "audience_fit": 8
+      },
+      "weighted": 7.64
+    },
+    {
+      "annotation_id": 39,
+      "id": null,
+      "name": "Don’t let Big Tech hide ecological cost of AI, environment agency chief tells EU",
+      "source": "Politico EU - Technology",
+      "url": "https://www.politico.eu/article/big-tech-ecological-cost-ai-environment-agency-chief-eu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "tag": "policy_regulation",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 8,
+        "specificity": 6,
+        "audience_fit": 7
+      },
+      "weighted": 7.0
+    },
+    {
+      "annotation_id": 40,
+      "id": null,
+      "name": "The Automation Layer Wants to Own Enterprise AI",
+      "source": "DevOps.com",
+      "url": "https://devops.com/the-automation-layer-wants-to-own-enterprise-ai/",
+      "tag": "news",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 6,
+        "specificity": 7,
+        "audience_fit": 8
+      },
+      "weighted": 7.11
+    },
+    {
+      "annotation_id": 41,
+      "id": null,
+      "name": "Europe’s top tech boss warns Brussels is driving AI companies away",
+      "source": "Politico EU - Technology",
+      "url": "https://www.politico.eu/article/top-tech-boss-christophe-fouquet-slams-eu-ai-track-record/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "tag": "policy_regulation",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 8,
+        "specificity": 5,
+        "audience_fit": 7
+      },
+      "weighted": 6.82
+    },
+    {
+      "annotation_id": 42,
+      "id": null,
+      "name": "Proprietary Problems: No Frontier Model Is Multi-Turn Immune",
+      "source": "Cisco.com",
+      "url": "https://blogs.cisco.com/ai/proprietary-problems",
+      "tag": "news",
+      "scores": {
+        "relevance": 4,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 3
+      },
+      "weighted": 4.97
+    },
+    {
+      "annotation_id": 43,
+      "id": null,
+      "name": "Defensiereus TNO werkt aan 10 eigen defensie-startups: ‘We moeten doen wat nodig is, in plaats van doen wat we kunnen’",
+      "source": "MTsprout",
+      "url": "https://mtsprout.nl/tech-innovatie/tno-defensie-veen",
+      "tag": "news",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 8,
+        "specificity": 8,
+        "audience_fit": 6
+      },
+      "weighted": 7.07
+    },
+    {
+      "annotation_id": 44,
+      "id": null,
+      "name": "Mistral AI's CEO says Europe has 2 years to stop becoming America's AI 'vassal state'",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5",
+      "tag": "news",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 6,
+        "specificity": 6,
+        "audience_fit": 7
+      },
+      "weighted": 6.64
+    },
+    {
+      "annotation_id": 45,
+      "id": null,
+      "name": "Nederlands AI-leiderschap in gevaar",
+      "source": "Emerce.nl",
+      "url": "https://www.emerce.nl/wire/nederlands-aileiderschap-gevaar",
+      "tag": "dutch_news",
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 6,
+        "specificity": 7,
+        "audience_fit": 9
+      },
+      "weighted": 7.75
+    },
+    {
+      "annotation_id": 46,
+      "id": null,
+      "name": "Terugblik op 2024: Samen kregen we veel voor elkaar",
+      "source": "NLAIC",
+      "url": "https://nlaic.com/toepassingsgebieden/terugblik-op-2024-samen-kregen-we-veel-voor-elkaar/",
+      "tag": "dutch_ecosystem",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 9,
+        "specificity": 8,
+        "audience_fit": 9
+      },
+      "weighted": 8.82
+    },
+    {
+      "annotation_id": 47,
+      "id": null,
+      "name": "The internet is being rebuilt for machines",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+      "tag": "news",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 7,
+        "specificity": 7,
+        "audience_fit": 6
+      },
+      "weighted": 6.36
+    },
+    {
+      "annotation_id": 48,
+      "id": null,
+      "name": "Niet de technologie, maar leiders maken het verschil bij omschakelen naar AI",
+      "source": "MTsprout",
+      "url": "https://mtsprout.nl/leiderschap/niet-de-technologie-maar-leiders-maken-het-verschil-bij-omschakelen-naar-ai",
+      "tag": "dutch_news",
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 7,
+        "specificity": 7,
+        "audience_fit": 9
+      },
+      "weighted": 7.93
+    },
+    {
+      "annotation_id": 49,
+      "id": null,
+      "name": "EU to back European alternatives to US dominated software and services in major push for ‘tech sovereignty’",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/pro/eu-to-back-european-alternatives-to-us-dominated-software-and-services-in-major-push-for-tech-sovereignty",
+      "tag": "news",
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 7,
+        "specificity": 7,
+        "audience_fit": 9
+      },
+      "weighted": 7.93
+    },
+    {
+      "annotation_id": 50,
+      "id": null,
+      "name": "Accountability is the Goal for AI, with EU Regulations Supporting Transparency",
+      "source": "InfoQ.com",
+      "url": "https://www.infoq.com/news/2026/05/accountability-AI-EU-regulations/",
+      "tag": "news",
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 8,
+        "specificity": 6,
+        "audience_fit": 9
+      },
+      "weighted": 7.93
+    },
+    {
+      "annotation_id": 51,
+      "id": null,
+      "name": "Monitoring Agentic Systems Before They're Reliable",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2606.02494v1",
+      "tag": "research_reports",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 5
+      },
+      "weighted": 6.25
+    },
+    {
+      "annotation_id": 52,
+      "id": null,
+      "name": "The Seamless Surveillance Machine: Europe’s Biometric Border Vision",
+      "source": "Algorithm Watch",
+      "url": "https://algorithmwatch.org/en/seamless-surveillance-machine-europes-biometric-border-vision/",
+      "tag": "policy_regulation",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 9,
+        "specificity": 8,
+        "audience_fit": 9
+      },
+      "weighted": 8.82
+    },
+    {
+      "annotation_id": 53,
+      "id": null,
+      "name": "When your biggest security risk has never signed a contract",
+      "source": "ComputerWeekly.com",
+      "url": "https://www.computerweekly.com/opinion/When-your-biggest-security-risk-has-never-signed-a-contract",
+      "tag": "news",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 8
+      },
+      "weighted": 7.47
+    },
+    {
+      "annotation_id": 54,
+      "id": null,
+      "name": "The murky mechanics of data centers’ green electricity",
+      "source": "Algorithm Watch",
+      "url": "https://algorithmwatch.org/en/the-murky-mechanics-of-data-centers-green-electricity/",
+      "tag": "policy_regulation",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 9,
+        "specificity": 9,
+        "audience_fit": 9
+      },
+      "weighted": 9.0
+    },
+    {
+      "annotation_id": 55,
+      "id": null,
+      "name": "Nederland moet de Europese Commissie herinneren aan wiens kant ze moet staan",
+      "source": "Bits of Freedom",
+      "url": "https://www.bitsoffreedom.nl/2026/04/09/nederland-moet-de-europese-commissie-herinneren-aan-wiens-kant-ze-moet-staan/",
+      "tag": "policy_regulation",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 8,
+        "specificity": 7,
+        "audience_fit": 7
+      },
+      "weighted": 7.18
+    },
+    {
+      "annotation_id": 56,
+      "id": null,
+      "name": "Baanbrekende en miljoenenbesparende zorginnovaties sneuvelen door starre regels rond financiering: ’Dit is niet uit te leggen’",
+      "source": "Telegraaf",
+      "url": "https://www.telegraaf.nl/financieel/baanbrekende-en-miljoenenbesparende-zorginnovaties-sneuvelen-door-starre-regels-rond-financiering-dit-is-niet-uit-te-leggen/154169055.html",
+      "tag": "dutch_news",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 5,
+        "specificity": 6,
+        "audience_fit": 8
+      },
+      "weighted": 6.75
+    },
+    {
+      "annotation_id": 57,
+      "id": null,
+      "name": "Microsoft’s Path to Adopting and Scaling AI Across its Sales Organization",
+      "source": "Harvard Business Review",
+      "url": "https://hbr.org/podcast/2026/05/microsofts-path-to-adopting-and-scaling-ai-across-its-sales-organization",
+      "tag": "research_reports",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 9,
+        "specificity": 8,
+        "audience_fit": 7
+      },
+      "weighted": 7.19
+    },
+    {
+      "annotation_id": 58,
+      "id": null,
+      "name": "Beyond the hype: A CIO's guide to LLM risk management",
+      "source": "Techtarget.com",
+      "url": "https://www.techtarget.com/searchcio/tip/Beyond-thehypeA-CIOs-guide-to-LLM-risk-management",
+      "tag": "news",
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 9
+      },
+      "weighted": 8.11
+    },
+    {
+      "annotation_id": 59,
+      "id": null,
+      "name": "3 manieren waarop de EU AI Act je organisatie beter maakt (als je het goed aanpakt)",
+      "source": "Frankwatching.com",
+      "url": "https://www.frankwatching.com/archive/2026/05/21/eu-ai-act-meer-dan-regelgeving/",
+      "tag": "news",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 6,
+        "specificity": 8,
+        "audience_fit": 9
+      },
+      "weighted": 8.28
+    },
+    {
+      "annotation_id": 60,
+      "id": null,
+      "name": "Wat betekent het als AI meebeslist over welk embryo geboren wordt? ‘Mensen willen te graag geloven dat het werkt’",
+      "source": "Www.nrc.nl",
+      "url": "https://www.nrc.nl/nieuws/2026/04/29/wat-betekent-het-als-ai-meebeslist-over-welk-embryo-geboren-wordt-mensen-willen-te-graag-geloven-dat-het-werkt-a4925936",
+      "tag": "news",
+      "scores": {
+        "relevance": 4,
+        "trustworthiness": 8,
+        "specificity": 7,
+        "audience_fit": 3
+      },
+      "weighted": 4.97
+    },
+    {
+      "annotation_id": 61,
+      "id": null,
+      "name": "Europe told to cool its datacenter boom before water and power run short",
+      "source": "Theregister.com",
+      "url": "https://www.theregister.com/on-prem/2026/05/28/europe-told-to-cool-its-datacenter-boom-before-water-and-power-run-short/5247994",
+      "tag": "news",
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 8
+      },
+      "weighted": 7.82
+    },
+    {
+      "annotation_id": 62,
+      "id": null,
+      "name": "Viewpoint: AI Insurance Is Not Cyber Insurance With Extra Steps",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/national/2026/05/20/870595.htm",
+      "tag": "news",
+      "scores": {
+        "relevance": 4,
+        "trustworthiness": 6,
+        "specificity": 6,
+        "audience_fit": 5
+      },
+      "weighted": 5.01
+    },
+    {
+      "annotation_id": 63,
+      "id": null,
+      "name": "How to Automate AI Model Documentation with the NVIDIA MCG Toolkit",
+      "source": "Nvidia.com",
+      "url": "https://developer.nvidia.com/blog/how-to-automate-ai-model-documentation-with-the-nvidia-mcg-toolkit/",
+      "tag": "news",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 6,
+        "specificity": 8,
+        "audience_fit": 5
+      },
+      "weighted": 6.07
+    },
+    {
+      "annotation_id": 64,
+      "id": null,
+      "name": "Bliksem-enquête cybersecurity: ondernemer heeft misplaatst gevoel van veiligheid",
+      "source": "MTsprout",
+      "url": "https://mtsprout.nl/partners/ondernemer-heeft-misplaatst-gevoel-van-veiligheid",
+      "tag": "dutch_news",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 6,
+        "specificity": 7,
+        "audience_fit": 5
+      },
+      "weighted": 5.89
+    },
+    {
+      "annotation_id": 65,
+      "id": null,
+      "name": "Green Packaging Firm Partners with Software Company for EU’s New Rules on Recyclables",
+      "source": "WWD",
+      "url": "http://wwd.com/sourcing-journal/industry-news/eco-friendly-packaging-eu-mandate-waste-1238975171/",
+      "tag": "news",
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 5,
+        "specificity": 6,
+        "audience_fit": 1
+      },
+      "weighted": 2.97
+    },
+    {
+      "annotation_id": 66,
+      "id": null,
+      "name": "Why does AI adoption follow a J-curve? #tech",
+      "source": "Alltoc.com",
+      "url": "https://alltoc.com/tech/why-does-ai-adoption-follow-a-j-curve",
+      "tag": "news",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 4,
+        "specificity": 5,
+        "audience_fit": 6
+      },
+      "weighted": 5.46
+    },
+    {
+      "annotation_id": 67,
+      "id": null,
+      "name": "Generatieve AI treft starters op arbeidsmarkt onevenredig hard",
+      "source": "Newsmonkey.be",
+      "url": "https://newsmonkey.be/generatieve-ai-treft-starters-op-arbeidsmarkt-onevenredig-hard/",
+      "tag": "dutch_news",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 8,
+        "specificity": 8,
+        "audience_fit": 7
+      },
+      "weighted": 7.36
+    },
+    {
+      "annotation_id": 68,
+      "id": null,
+      "name": "Data discovery gaps that catch enterprises off guard",
+      "source": "Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2026/06/01/avani-desai-schellman-data-discovery-gaps/",
+      "tag": "news",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 6,
+        "specificity": 7,
+        "audience_fit": 8
+      },
+      "weighted": 7.11
+    },
+    {
+      "annotation_id": 69,
+      "id": null,
+      "name": "Minister waarschuwt voor onzekerheid rond gestolen data ChipSoft",
+      "source": "Omny.fm",
+      "url": "https://omny.fm/shows/tech-update/minister-waarschuwt-voor-onzekerheid-rond-gestolen-data-chipsoft",
+      "tag": "news",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 8,
+        "specificity": 6,
+        "audience_fit": 7
+      },
+      "weighted": 7.0
+    },
+    {
+      "annotation_id": 70,
+      "id": null,
+      "name": "Red Hat AI and OpenShell: Driving security-enhanced agent execution for enterprise AI",
+      "source": "Redhat.com",
+      "url": "https://www.redhat.com/en/blog/red-hat-ai-and-openshell-driving-security-enhanced-agent-execution-for-enterprise-ai",
+      "tag": "news",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 8,
+        "specificity": 8,
+        "audience_fit": 7
+      },
+      "weighted": 7.36
+    },
+    {
+      "annotation_id": 71,
+      "id": null,
+      "name": "Health-care AI is here. We don’t know if it actually helps patients.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
+      "tag": "research_reports",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 9,
+        "specificity": 6,
+        "audience_fit": 8
+      },
+      "weighted": 7.47
+    },
+    {
+      "annotation_id": 72,
+      "id": null,
+      "name": "How the Factory of the Future Is Reshaping the Economics of Manufacturing Competitiveness",
+      "source": "BCG AI",
+      "url": "https://www.bcg.com/publications/2026/how-the-factory-of-the-future-reshapes-manufacturing",
+      "tag": "research_reports",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 8,
+        "specificity": 8,
+        "audience_fit": 7
+      },
+      "weighted": 7.36
+    },
+    {
+      "annotation_id": 73,
+      "id": null,
+      "name": "The EU Is Going Through a Trump-Fueled Breakup With Big Tech",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/the-eu-is-going-through-a-trump-fueled-breakup-with-big-tech/",
+      "tag": "news",
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 8,
+        "specificity": 8,
+        "audience_fit": 9
+      },
+      "weighted": 8.29
+    },
+    {
+      "annotation_id": 74,
+      "id": null,
+      "name": "Kort: Main Capital koopt Ferranti, Gr’en blijven kwetsbaar (en meer)",
+      "source": "Computable",
+      "url": "https://www.computable.nl/2026/05/28/kort-main-capital-koopt-ferranti-gren-blijven-kwetsbaar-en-meer/",
+      "tag": "dutch_news",
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 6,
+        "specificity": 6,
+        "audience_fit": 2
+      },
+      "weighted": 3.79
+    },
+    {
+      "annotation_id": 75,
+      "id": null,
+      "name": "Sapphire 2026: SAP executives admit route change on high road to business AI",
+      "source": "ComputerWeekly.com",
+      "url": "https://www.computerweekly.com/news/366643794/Sapphire-2026-SAP-executives-admit-route-change-on-high-road-to-business-AI",
+      "tag": "news",
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 8,
+        "specificity": 8,
+        "audience_fit": 9
+      },
+      "weighted": 8.29
+    },
+    {
+      "annotation_id": 76,
+      "id": null,
+      "name": "Brussels eyes slice of AI chip boom",
+      "source": "Politico EU - Technology",
+      "url": "https://www.politico.eu/article/brussels-eyes-slice-of-ai-chip-boom/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "tag": "policy_regulation",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 9,
+        "specificity": 7,
+        "audience_fit": 9
+      },
+      "weighted": 8.64
+    },
+    {
+      "annotation_id": 77,
+      "id": null,
+      "name": "Which market will dominate the semiconductor industry in the next decade?",
+      "source": "Lse.ac.uk",
+      "url": "https://blogs.lse.ac.uk/businessreview/2026/05/29/which-market-will-dominate-the-semiconductor-industry-in-the-next-decade/",
+      "tag": "news",
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 2
+      },
+      "weighted": 3.97
+    },
+    {
+      "annotation_id": 78,
+      "id": null,
+      "name": "Notes from the Mistral AI Now Summit in Paris",
+      "source": "Koenvangilst.nl",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "tag": "news",
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 9
+      },
+      "weighted": 8.11
+    },
+    {
+      "annotation_id": 79,
+      "id": null,
+      "name": "Begrijpelijke communicatie vraagt meer dan een B1-prompt",
+      "source": "Frankwatching.com",
+      "url": "https://www.frankwatching.com/archive/2026/05/26/begrijpelijke-communicatie-vraagt-meer-dan-een-b1-prompt/",
+      "tag": "dutch_news",
+      "scores": {
+        "relevance": 4,
+        "trustworthiness": 6,
+        "specificity": 6,
+        "audience_fit": 3
+      },
+      "weighted": 4.43
+    },
+    {
+      "annotation_id": 80,
+      "id": null,
+      "name": "4 ways Europe wants to wean off US tech",
+      "source": "Politico EU - Technology",
+      "url": "https://www.politico.eu/article/4-ways-europe-wants-to-wean-off-us-tech/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "tag": "policy_regulation",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 9,
+        "specificity": 7,
+        "audience_fit": 9
+      },
+      "weighted": 8.64
+    },
+    {
+      "annotation_id": 81,
+      "id": null,
+      "name": "Viewpoint: Insurers Cautiously Navigate the Next Step in AI Adoption",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/05/21/870833.htm",
+      "tag": "news",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 8,
+        "specificity": 8,
+        "audience_fit": 7
+      },
+      "weighted": 7.36
+    },
+    {
+      "annotation_id": 82,
+      "id": null,
+      "name": "Kort: Achmea schudt SAP-compliance op, Plat4mation koopt Deense Adeno (en meer)",
+      "source": "Computable",
+      "url": "https://www.computable.nl/2026/06/02/kort-achmea-schudt-sap-compliance-op-plat4mation-koopt-deense-adeno-en-meer/",
+      "tag": "dutch_news",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 7,
+        "specificity": 7,
+        "audience_fit": 6
+      },
+      "weighted": 6.36
+    },
+    {
+      "annotation_id": 83,
+      "id": null,
+      "name": "Engineering Smarter Operations",
+      "source": "Wired",
+      "url": "https://www.wired.com/sponsored/story/engineering-smarter-operations-workist/",
+      "tag": "news",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 4,
+        "specificity": 7,
+        "audience_fit": 6
+      },
+      "weighted": 5.82
+    },
+    {
+      "annotation_id": 84,
+      "id": null,
+      "name": "Why ‘human in the loop’ falls short – and what to do about it",
+      "source": "SiliconANGLE News",
+      "url": "https://siliconangle.com/2026/05/31/human-loop-falls-short/",
+      "tag": "news",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 6,
+        "specificity": 6,
+        "audience_fit": 8
+      },
+      "weighted": 6.93
+    },
+    {
+      "annotation_id": 85,
+      "id": null,
+      "name": "The AI agent governance gap: How CIOs can gain control",
+      "source": "Techtarget.com",
+      "url": "https://www.techtarget.com/searchcio/feature/the-ai-agent-governance-gap-how-cios-can-gain-control",
+      "tag": "news",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 8
+      },
+      "weighted": 7.11
+    },
+    {
+      "annotation_id": 86,
+      "id": null,
+      "name": "Deel lanceert Akai voor workflowautomatisering",
+      "source": "Emerce.nl",
+      "url": "https://www.emerce.nl/wire/deel-lanceert-akai-workflowautomatisering",
+      "tag": "news",
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 9
+      },
+      "weighted": 8.11
+    },
+    {
+      "annotation_id": 87,
+      "id": null,
+      "name": "AI Is Changing How We Write Infrastructure, But It’s Not Solving How We Control It",
+      "source": "DevOps.com",
+      "url": "https://devops.com/ai-is-changing-how-we-write-infrastructure-but-its-not-solving-how-we-control-it/",
+      "tag": "news",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 6
+      },
+      "weighted": 6.18
+    },
+    {
+      "annotation_id": 88,
+      "id": null,
+      "name": "EU organizations buckle under rising compliance pressure",
+      "source": "Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2026/06/01/antonija-vojnovic-span-cybersecurity-governance-challenges/",
+      "tag": "news",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 6,
+        "specificity": 6,
+        "audience_fit": 7
+      },
+      "weighted": 6.64
+    },
+    {
+      "annotation_id": 89,
+      "id": null,
+      "name": "How to Create an AI Acceptable Use Policy",
+      "source": "DevOps.com",
+      "url": "https://devops.com/how-to-create-an-ai-acceptable-use-policy/",
+      "tag": "news",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 5,
+        "specificity": 7,
+        "audience_fit": 6
+      },
+      "weighted": 6.0
+    },
+    {
+      "annotation_id": 90,
+      "id": null,
+      "name": "Is digital sovereignty illusory without open source and a trusted supply chain?",
+      "source": "Redhat.com",
+      "url": "https://www.redhat.com/en/blog/digital-sovereignty-illusory-without-open-source-and-trusted-supply-chain",
+      "tag": "news",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 6,
+        "specificity": 7,
+        "audience_fit": 7
+      },
+      "weighted": 6.82
+    },
+    {
+      "annotation_id": 91,
+      "id": null,
+      "name": "AI-swarms uitgelegd: hoe gebruik je ze & wat zijn de risico’s?",
+      "source": "Frankwatching.com",
+      "url": "https://www.frankwatching.com/archive/2026/04/28/ai-swarms-uitgelegd-hoe-gebruik-je-ze-wat-zijn-de-risicos/",
+      "tag": "news",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 5,
+        "specificity": 6,
+        "audience_fit": 6
+      },
+      "weighted": 5.82
+    },
+    {
+      "annotation_id": 92,
+      "id": null,
+      "name": "Cloud is volwassen, de advisering nog niet",
+      "source": "Computable",
+      "url": "https://www.computable.nl/2026/05/21/cloud-is-volwassen-de-advisering-nog-niet/",
+      "tag": "news",
+      "scores": {
+        "relevance": 4,
+        "trustworthiness": 6,
+        "specificity": 6,
+        "audience_fit": 4
+      },
+      "weighted": 4.72
+    },
+    {
+      "annotation_id": 93,
+      "id": null,
+      "name": "Position: Behavioural Assurance Cannot Verify the Safety Claims Governance Now Demands",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2605.15164v1",
+      "tag": "research_reports",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 8,
+        "specificity": 8,
+        "audience_fit": 5
+      },
+      "weighted": 6.43
+    },
+    {
+      "annotation_id": 94,
+      "id": null,
+      "name": "De nieuwe Wet op de inlichtingen- en veiligheidsdiensten",
+      "source": "Bits of Freedom",
+      "url": "https://www.bitsoffreedom.nl/podcast/de-nieuwe-wet-op-de-inlichtingen-en-veiligheidsdiensten/",
+      "tag": "policy_regulation",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 8,
+        "specificity": 5,
+        "audience_fit": 6
+      },
+      "weighted": 6.18
+    },
+    {
+      "annotation_id": 95,
+      "id": null,
+      "name": "How AI Is Paying Off in the Tech Function",
+      "source": "BCG AI",
+      "url": "https://www.bcg.com/publications/2026/how-ai-is-paying-off-in-the-tech-function",
+      "tag": "research_reports",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 8,
+        "specificity": 7,
+        "audience_fit": 6
+      },
+      "weighted": 6.54
+    },
+    {
+      "annotation_id": 96,
+      "id": null,
+      "name": "Kort: Nvidia stijgt als een komeet, Gartner ziet ai-uitgaven verder oplopen (en meer)",
+      "source": "Computable",
+      "url": "https://www.computable.nl/2026/05/21/kort-nvidia-stijgt-als-een-komeet-gartner-ziet-ai-uitgaven-verder-oplopen-en-meer/",
+      "tag": "news",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 6
+      },
+      "weighted": 6.18
+    },
+    {
+      "annotation_id": 97,
+      "id": null,
+      "name": "Brussels to Big Tech: Embrace sustainable AI or go away",
+      "source": "Politico EU - Technology",
+      "url": "https://www.politico.eu/article/brussels-to-big-tech-embrace-sustainable-artificial-intelligence-or-go-away/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "tag": "policy_regulation",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 8,
+        "specificity": 6,
+        "audience_fit": 7
+      },
+      "weighted": 7.0
+    },
+    {
+      "annotation_id": 98,
+      "id": null,
+      "name": "Europe's sovereign cloud spend set to triple as geopolitics bite",
+      "source": "The Register",
+      "url": "https://www.theregister.com/off-prem/2026/02/09/europe-set-to-treble-sovereign-cloud-investment/4798815",
+      "tag": "news",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 8,
+        "specificity": 9,
+        "audience_fit": 9
+      },
+      "weighted": 8.82
+    },
+    {
+      "annotation_id": 99,
+      "id": null,
+      "name": "Data readiness for agentic AI in financial services",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+      "tag": "news",
+      "scores": {
+        "relevance": 8,
+        "trustworthiness": 9,
+        "specificity": 7,
+        "audience_fit": 8
+      },
+      "weighted": 8.0
+    },
+    {
+      "annotation_id": 100,
+      "id": null,
+      "name": "Merge launches Agent Handler for Employees as an IT gatekeeper for workplace AI agents",
+      "source": "SiliconANGLE News",
+      "url": "https://siliconangle.com/2026/06/01/merge-launches-agent-handler-employees-gatekeeper-workplace-ai-agents/",
+      "tag": "news",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 5,
+        "specificity": 7,
+        "audience_fit": 6
+      },
+      "weighted": 6.0
+    },
+    {
+      "annotation_id": 101,
+      "id": null,
+      "name": "Germany urges Europe to take 'offensive' approach on AI regulation",
+      "source": "Daily Sabah",
+      "url": "https://www.dailysabah.com/business/tech/germany-urges-europe-to-take-offensive-approach-on-ai-regulation",
+      "tag": "news",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 4,
+        "specificity": 5,
+        "audience_fit": 5
+      },
+      "weighted": 5.17
+    },
+    {
+      "annotation_id": 102,
+      "id": null,
+      "name": "From pilots to platforms: The next chapter of AI in retail operations",
+      "source": "Retail Dive",
+      "url": "https://www.retaildive.com/spons/from-pilots-to-platforms-the-next-chapter-of-ai-in-retail-operations/820687/",
+      "tag": "news",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 4,
+        "specificity": 7,
+        "audience_fit": 6
+      },
+      "weighted": 5.82
+    },
+    {
+      "annotation_id": 103,
+      "id": null,
+      "name": "The AI Climate Hoax: Behind the Curtain of How Big Tech Greenwashes Impacts",
+      "source": "Algorithm Watch",
+      "url": "https://algorithmwatch.org/en/ai-climate-hoax/",
+      "tag": "policy_regulation",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 9,
+        "specificity": 8,
+        "audience_fit": 7
+      },
+      "weighted": 7.54
+    },
+    {
+      "annotation_id": 104,
+      "id": null,
+      "name": "Bedrijven gebruiken steeds vaker veilige internetstandaarden",
+      "source": "Computable",
+      "url": "https://www.computable.nl/2026/05/22/bedrijven-gebruiken-steeds-vaker-veilige-internetstandaarden/",
+      "tag": "news",
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 2
+      },
+      "weighted": 3.62
+    },
+    {
+      "annotation_id": 105,
+      "id": null,
+      "name": "Rethinking organizational design in the age of agentic AI",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "tag": "research_reports",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 9,
+        "specificity": 6,
+        "audience_fit": 8
+      },
+      "weighted": 7.47
+    },
+    {
+      "annotation_id": 106,
+      "id": null,
+      "name": "AI Cost Debt Is Real. Here’s How FinOps Helps CIOs Avoid It",
+      "source": "Starcio.com",
+      "url": "https://drive.starcio.com/2026/06/ai-cost-debt-how-finops-helps-cios/",
+      "tag": "news",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 5,
+        "specificity": 7,
+        "audience_fit": 6
+      },
+      "weighted": 6.0
+    },
+    {
+      "annotation_id": 107,
+      "id": null,
+      "name": "'AI adoption has become a game of chance': Employees are being left to navigate AI tools on their own as businesses fail to implement proper training",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/pro/ai-adoption-has-become-a-game-of-chance-employees-are-being-left-to-navigate-ai-tools-on-their-own-as-businesses-fail-to-implement-proper-training",
+      "tag": "news",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 5,
+        "specificity": 7,
+        "audience_fit": 7
+      },
+      "weighted": 6.29
+    },
+    {
+      "annotation_id": 108,
+      "id": null,
+      "name": "Why enterprise AI stalls and what executives must do differently",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/pro/why-enterprise-ai-stalls-and-what-executives-must-do-differently",
+      "tag": "news",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 5,
+        "specificity": 6,
+        "audience_fit": 8
+      },
+      "weighted": 6.75
+    },
+    {
+      "annotation_id": 109,
+      "id": null,
+      "name": "Infosecurity Europe: OWASP Forms New Agentic Research Council",
+      "source": "Infosecurity Magazine",
+      "url": "https://www.infosecurity-magazine.com/news/owasp-new-agentic-research-council/",
+      "tag": "news",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 7,
+        "specificity": 7,
+        "audience_fit": 6
+      },
+      "weighted": 6.36
+    },
+    {
+      "annotation_id": 110,
+      "id": null,
+      "name": "Regulator fines online auction site Ticketveiling.nl €270,000 over hidden bidding bots",
+      "source": "NL Times",
+      "url": "https://nltimes.nl/2026/05/31/regulator-fines-online-auction-site-ticketveilingnl-eu270000-hidden-bidding-bots",
+      "tag": "dutch_news",
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 8,
+        "specificity": 8,
+        "audience_fit": 2
+      },
+      "weighted": 4.51
+    },
+    {
+      "annotation_id": 111,
+      "id": null,
+      "name": "Teaching AI models to say “I’m not sure”",
+      "source": "Mit.edu",
+      "url": "https://news.mit.edu/2026/teaching-ai-models-to-say-im-not-sure-0422",
+      "tag": "research_reports",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 10,
+        "specificity": 8,
+        "audience_fit": 6
+      },
+      "weighted": 7.08
+    },
+    {
+      "annotation_id": 112,
+      "id": null,
+      "name": "Data centre energy rules will boost green power says Amazon chief",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/business/2026/05/27/data-centre-energy-rules-will-boost-green-power-says-amazon-chief/",
+      "tag": "news",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 6
+      },
+      "weighted": 6.89
+    },
+    {
+      "annotation_id": 113,
+      "id": null,
+      "name": "Duizenden AI-boeken te koop zonder waarschuwing: \"Mensen staan er niet bij stil dat het om AI gaat\"",
+      "source": "Www.vrt.be",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/05/15/duizenden-ai-boeken-te-koop-zonder-waarschuwing-mensen-staan-e/",
+      "tag": "news",
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 7,
+        "specificity": 6,
+        "audience_fit": 2
+      },
+      "weighted": 3.97
+    },
+    {
+      "annotation_id": 114,
+      "id": null,
+      "name": "Implementing advanced AI technologies in finance",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+      "tag": "research_reports",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 9,
+        "specificity": 6,
+        "audience_fit": 8
+      },
+      "weighted": 7.47
+    },
+    {
+      "annotation_id": 115,
+      "id": null,
+      "name": "Presentation: Building Evals for AI Adoption: From Principles to Practice",
+      "source": "InfoQ.com",
+      "url": "https://www.infoq.com/presentations/eval-ai-adoption/",
+      "tag": "news",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 8,
+        "specificity": 9,
+        "audience_fit": 9
+      },
+      "weighted": 8.82
+    },
+    {
+      "annotation_id": 116,
+      "id": null,
+      "name": "Dell pushes AI personalization, but data hurdles remain",
+      "source": "Techtarget.com",
+      "url": "https://www.techtarget.com/searchcustomerexperience/news/366643343/dell-pushes-ai-personalization-but-data-hurdles-remain",
+      "tag": "news",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 7,
+        "specificity": 7,
+        "audience_fit": 6
+      },
+      "weighted": 6.36
+    },
+    {
+      "annotation_id": 117,
+      "id": null,
+      "name": "AI agents shouldn’t run your supply chain",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/pro/ai-agents-shouldnt-run-your-supply-chain",
+      "tag": "news",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 5,
+        "specificity": 6,
+        "audience_fit": 7
+      },
+      "weighted": 6.11
+    },
+    {
+      "annotation_id": 118,
+      "id": null,
+      "name": "Thales 2026 Bad Bot-rapport: AI-gestuurde botaanvallen zijn in één jaar meer dan 12 keer toegenomen.",
+      "source": "Emerce.nl",
+      "url": "https://www.emerce.nl/wire/thales-2026-bad-botrapport-aigestuurde-botaanvallen-n-jaar-meer-12-keer-toegenomen",
+      "tag": "news",
+      "scores": {
+        "relevance": 7,
+        "trustworthiness": 7,
+        "specificity": 8,
+        "audience_fit": 7
+      },
+      "weighted": 7.18
+    },
+    {
+      "annotation_id": 119,
+      "id": null,
+      "name": "CVE-Bench: testing LLM agents on real-world vulnerability patches",
+      "source": "Github.io",
+      "url": "https://giovannigatti.github.io/cve-bench/",
+      "tag": "news",
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 7,
+        "specificity": 9,
+        "audience_fit": 2
+      },
+      "weighted": 4.51
+    },
+    {
+      "annotation_id": 120,
+      "id": null,
+      "name": "Anthropic invites EU to access Mythos hacking tech",
+      "source": "Politico EU - Technology",
+      "url": "https://www.politico.eu/article/anthropic-invites-eu-to-access-mythos-hacking-tech/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "tag": "policy_regulation",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 7,
+        "specificity": 5,
+        "audience_fit": 5
+      },
+      "weighted": 5.71
+    },
+    {
+      "annotation_id": 121,
+      "id": null,
+      "name": "Legal Tech Startup Automates 70% of Contract Review Workload Using AI.cc Multi-Model API Infrastructure",
+      "source": "Associated Press",
+      "url": "https://apnews.com/press-release/ein-presswire-newsmatics/legal-tech-startup-automates-70-of-contract-review-workload-using-ai-cc-multi-model-api-infrastructure-dcd8923130b0f8f6126cf3b950ded9f4",
+      "tag": "news",
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 2,
+        "specificity": 6,
+        "audience_fit": 1
+      },
+      "weighted": 2.43
+    },
+    {
+      "annotation_id": 122,
+      "id": null,
+      "name": "Samsung presenteert AI-visie voor ‘Connected Care’ op ‘VivaTech’ 2026",
+      "source": "Emerce.nl",
+      "url": "https://www.emerce.nl/wire/samsung-presenteert-aivisie-connected-care-vivatech-2026",
+      "tag": "dutch_news",
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 5,
+        "specificity": 6,
+        "audience_fit": 2
+      },
+      "weighted": 3.26
+    },
+    {
+      "annotation_id": 123,
+      "id": null,
+      "name": "A Major Company Just Accidentally Spent $500 Million On AI And It’s Become The Internet’s Newest Meme Fuel",
+      "source": "Boredpanda.com",
+      "url": "https://www.boredpanda.com/major-company-spent-500-million-on-ai-in-one-month/",
+      "tag": "news",
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 1,
+        "specificity": 4,
+        "audience_fit": 2
+      },
+      "weighted": 2.53
+    },
+    {
+      "annotation_id": 124,
+      "id": null,
+      "name": "Microsoft is named a Leader in the 2026 Gartner® Magic Quadrant™ for Endpoint Protection",
+      "source": "Microsoft.com",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/05/29/microsoft-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-endpoint-protection/",
+      "tag": "news",
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 2,
+        "specificity": 5,
+        "audience_fit": 1
+      },
+      "weighted": 2.25
+    },
+    {
+      "annotation_id": 125,
+      "id": null,
+      "name": "Vanaf morgen: Emerce E-Commerce Live! en Digital Marketing Live! 2026",
+      "source": "Emerce.nl",
+      "url": "https://www.emerce.nl/nieuws/morgen-emerce-ecommerce-live-digital-marketing-live-2026",
+      "tag": "dutch_news",
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 5,
+        "specificity": 6,
+        "audience_fit": 1
+      },
+      "weighted": 2.97
+    },
+    {
+      "annotation_id": 126,
+      "id": null,
+      "name": "In 2030 maakt AI ruimte voor de spelende mens",
+      "source": "Www.nrc.nl",
+      "url": "https://www.nrc.nl/nieuws/2026/04/24/in-2030-maakt-ai-ruimte-voor-de-spelende-mens-a4922246",
+      "tag": "news",
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 5,
+        "specificity": 2,
+        "audience_fit": 1
+      },
+      "weighted": 2.25
+    },
+    {
+      "annotation_id": 127,
+      "id": null,
+      "name": "AI website builders, hosting en beveiliging: waar moet je écht op letten?",
+      "source": "Businessam.be",
+      "url": "https://businessam.be/ai-website-builders-hosting-en-beveiliging-waar-moet-je-echt-op-letten/",
+      "tag": "news",
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 4,
+        "specificity": 5,
+        "audience_fit": 1
+      },
+      "weighted": 2.61
+    },
+    {
+      "annotation_id": 128,
+      "id": null,
+      "name": "Netherlands moves GPT-NL from lab to live: first pilots under way",
+      "source": "ComputerWeekly.com",
+      "url": "https://www.computerweekly.com/news/366642524/Netherlands-moves-GPT-NL-from-lab-to-live-first-pilots-under-way",
+      "tag": "dutch_news",
+      "scores": {
+        "relevance": 9,
+        "trustworthiness": 8,
+        "specificity": 8,
+        "audience_fit": 9
+      },
+      "weighted": 8.64
+    },
+    {
+      "annotation_id": 129,
+      "id": null,
+      "name": "Hoe je opschaalt zonder je ziel te verliezen, volgens de baas van Fairphone",
+      "source": "MTsprout",
+      "url": "https://mtsprout.nl/columnisten-experts/impactbedrijf-schalen-zonder-je-ziel-te-verkopen-raymond-van-eck-fairphone",
+      "tag": "dutch_news",
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 5,
+        "specificity": 6,
+        "audience_fit": 1
+      },
+      "weighted": 2.97
+    },
+    {
+      "annotation_id": 130,
+      "id": null,
+      "name": "Google I/O 2026: What Google's AI Past Tells Us About Its Future",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/services-and-software/google-i-o-2026-ai-releases-over-the-past-year/",
+      "tag": "news",
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 3,
+        "specificity": 5,
+        "audience_fit": 1
+      },
+      "weighted": 2.43
+    },
+    {
+      "annotation_id": 131,
+      "id": null,
+      "name": "Why Amazon is Regretting Its Strict AI Adoption Mandate",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/amazon-vp-regrets-ai-strategy/",
+      "tag": "news",
+      "scores": {
+        "relevance": 6,
+        "trustworthiness": 3,
+        "specificity": 6,
+        "audience_fit": 7
+      },
+      "weighted": 5.75
+    },
+    {
+      "annotation_id": 132,
+      "id": null,
+      "name": "Is AI really ‘writing’? From a priestess to philosophers, ancient authors would have said ‘no’",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/is-ai-really-writing-from-a-priestess-to-philosophers-ancient-authors-would-have-said-no-280133",
+      "tag": "news",
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 5,
+        "audience_fit": 0
+      },
+      "weighted": 2.33
+    },
+    {
+      "annotation_id": 133,
+      "id": null,
+      "name": "How did Pope Leo’s AI encyclical frame risks? #world",
+      "source": "Alltoc.com",
+      "url": "https://alltoc.com/world/how-did-pope-leos-ai-encyclical-frame-risks",
+      "tag": "news",
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 2,
+        "specificity": 4,
+        "audience_fit": 1
+      },
+      "weighted": 2.07
+    },
+    {
+      "annotation_id": 134,
+      "id": null,
+      "name": "MAX Power Targets Next-Generation AI Infrastructure Powered by Natural Hydrogen Following Lawson Discovery",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/max-power-targets-next-generation-ai-infrastructure-powered-by-natural-hydrogen-following-lawson-discovery",
+      "tag": "news",
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 2,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "weighted": 1.79
+    },
+    {
+      "annotation_id": 135,
+      "id": null,
+      "name": "The new beauty standard: Looking like your AI avatar",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/opinion/columns/ai-dysmorphia-plastic-surgery-trends-ai-beauty-standards-cosmetic-surgery-ai-avatars-instagram-11779844266583.html",
+      "tag": "news",
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 5,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "weighted": 2.33
+    },
+    {
+      "annotation_id": 136,
+      "id": null,
+      "name": "GHO Capital and CBC Group to Create World's Largest Dedicated Healthcare Investment Firm",
+      "source": "Antaranews.com",
+      "url": "https://en.antaranews.com/news/416512/gho-capital-and-cbc-group-to-create-worlds-largest-dedicated-healthcare-investment-firm",
+      "tag": "news",
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 2,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "weighted": 1.79
+    },
+    {
+      "annotation_id": 137,
+      "id": null,
+      "name": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "tag": "news",
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 5,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "weighted": 2.33
+    },
+    {
+      "annotation_id": 138,
+      "id": null,
+      "name": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+      "tag": "news",
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 3,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "weighted": 1.97
+    },
+    {
+      "annotation_id": 139,
+      "id": null,
+      "name": "eBay Publishes 2025 Impact Report",
+      "source": "Ebayinc.com",
+      "url": "https://www.ebayinc.com/stories/news/ebay-publishes-2025-impact-report/",
+      "tag": "news",
+      "scores": {
+        "relevance": 3,
+        "trustworthiness": 4,
+        "specificity": 6,
+        "audience_fit": 2
+      },
+      "weighted": 3.43
+    },
+    {
+      "annotation_id": 140,
+      "id": null,
+      "name": "Pope Leo condemns use of AI warfare and the 'spiral of annihilation' it brings",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/world/pope-leo-condemns-use-of-ai-warfare-and-the-spiral-of-annihilation-it-brings",
+      "tag": "news",
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 4,
+        "audience_fit": 1
+      },
+      "weighted": 2.79
+    },
+    {
+      "annotation_id": 141,
+      "id": null,
+      "name": "BI Debate: Should I make a digital clone of myself using AI? Or is that a terrible idea?",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/bi-debate-should-i-make-a-digital-replica-of-myself-2026-5",
+      "tag": "news",
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 5,
+        "specificity": 6,
+        "audience_fit": 1
+      },
+      "weighted": 2.62
+    },
+    {
+      "annotation_id": 142,
+      "id": null,
+      "name": "Anduril And Shield AI Are Selling More Than Weapons — They're Riding a New Age of Geopolitical Tension",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/anduril-shield-ai-selling-more-223031966.html",
+      "tag": "news",
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 4,
+        "specificity": 6,
+        "audience_fit": 1
+      },
+      "weighted": 2.79
+    },
+    {
+      "annotation_id": 143,
+      "id": null,
+      "name": "GCHQ Annual Lecture 2026 - as delivered",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/intell/library/news/2026/intell-260527-gchq01.htm",
+      "tag": "news",
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 5,
+        "specificity": 3,
+        "audience_fit": 1
+      },
+      "weighted": 2.43
+    },
+    {
+      "annotation_id": 144,
+      "id": null,
+      "name": "ATxSummit 2026 Opens with Shared Regional Ambition to Harness AI for Public Good",
+      "source": "Antaranews.com",
+      "url": "https://en.antaranews.com/news/416480/atxsummit-2026-opens-with-shared-regional-ambition-to-harness-ai-for-public-good",
+      "tag": "news",
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 5,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "weighted": 2.33
+    },
+    {
+      "annotation_id": 145,
+      "id": null,
+      "name": "Is SpaceX & Tesla 100-Gigawatt/Year US Solar System Production Plan Realistic?",
+      "source": "CleanTechnica",
+      "url": "https://cleantechnica.com/2026/05/30/is-spacex-tesla-100-gigawatt-year-us-solar-system-production-plan-realistic/",
+      "tag": "news",
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 6,
+        "specificity": 7,
+        "audience_fit": 0
+      },
+      "weighted": 2.69
+    },
+    {
+      "annotation_id": 146,
+      "id": null,
+      "name": "Alexa+ can now create AI podcasts about the news in case you wanted that for some reason — so it’s perfect timing that Spotify is actually verifying podcasts that are definitely from humans",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/audio/audio-streaming/alexa-can-now-create-ai-podcasts-about-the-news-in-case-you-wanted-that-for-some-reason-so-its-perfect-timing-that-spotify-is-actually-verifying-podcasts-that-are-definitely-from-humans",
+      "tag": "news",
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 6,
+        "specificity": 5,
+        "audience_fit": 1
+      },
+      "weighted": 2.97
+    },
+    {
+      "annotation_id": 147,
+      "id": null,
+      "name": "5 Critical Takeaways From Earnings Season: Warnermount, AI and More | Analysis",
+      "source": "TheWrap",
+      "url": "https://www.thewrap.com/industry-news/business/entertainment-tech-first-quarter-earnings-recap-takeaways/",
+      "tag": "news",
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 5,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "weighted": 2.33
+    },
+    {
+      "annotation_id": 148,
+      "id": null,
+      "name": "⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
+      "source": "Internet",
+      "url": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html",
+      "tag": "news",
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 5,
+        "specificity": 6,
+        "audience_fit": 1
+      },
+      "weighted": 2.97
+    },
+    {
+      "annotation_id": 149,
+      "id": null,
+      "name": "Daily Search Forum Recap: May 26, 2026",
+      "source": "Seroundtable.com",
+      "url": "https://www.seroundtable.com/recap-05-26-2026-41384.html",
+      "tag": "news",
+      "scores": {
+        "relevance": 2,
+        "trustworthiness": 4,
+        "specificity": 5,
+        "audience_fit": 1
+      },
+      "weighted": 2.61
+    },
+    {
+      "annotation_id": 150,
+      "id": null,
+      "name": "From Marketing to Transactions: Fynix AI Shop Aims to Reshape Merchant Operations Across Southeast Asia - ASEAN Gazette",
+      "source": "Aseangazette.com",
+      "url": "https://www.aseangazette.com/tmt-newswire/media-outreach/2026/05/29/from-marketing-to-transactions-fynix-ai-shop-aims-to-reshape-merchant-operations-across-southeast-asia/107179/",
+      "tag": "news",
+      "scores": {
+        "relevance": 1,
+        "trustworthiness": 3,
+        "specificity": 6,
+        "audience_fit": 0
+      },
+      "weighted": 1.97
+    }
+  ]
+}
