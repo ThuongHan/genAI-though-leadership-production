@@ -1,0 +1,7 @@
+config,n,spearman_macro,qwk_macro,mae_macro,spearman_weighted,mae_weighted
+claude/claude-haiku-4-5/cot,150,0.7466,0.7315,1.065,0.768,0.8335
+claude/claude-haiku-4-5/few_shot,150,0.7141,0.6856,1.2433,0.7315,1.2162
+claude/claude-haiku-4-5/zero_shot,150,0.7521,0.7569,0.975,0.762,0.9209
+claude/claude-sonnet-4-6/cot,150,0.7895,0.6123,1.5717,0.7873,1.5546
+claude/claude-sonnet-4-6/few_shot,150,0.7828,0.7472,1.11,0.7867,1.0849
+claude/claude-sonnet-4-6/zero_shot,150,0.7958,0.7271,1.0983,0.7977,1.0596
