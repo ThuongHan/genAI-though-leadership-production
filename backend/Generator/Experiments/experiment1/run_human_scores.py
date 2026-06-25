@@ -1,18 +1,17 @@
 """
 Experiment 1 — human-annotation baseline tables.
+backend/Generator/Experiments/data/UvA Expert Voice - Output annotation.xlsx contains the Excel file
+that has 60 samples produced by each configuration across 15 topics from the backend/Generator/data/Interpreter_output/40_blog_posts.json.
+The posts are also rated by the company members across dimensions and all configurations were generated via Claude-Sonnet-4.6.
 
-Reads the 60 annotated posts from the Excel file and computes the same
-summary statistics as experiment_2/run.py, but using human expert scores
-instead of LLM judge scores.
+Post order in the Excel (rows 0-59):
+  rows  0-14  -> ZS-Pre
+  rows 15-29  -> FS-Pre
+  rows 30-44  -> ZS-Post
+  rows 45-59  -> FS-Post
 
-Post order in the Excel (rows 0–59):
-  rows  0–14  → ZS-Pre
-  rows 15–29  → FS-Pre
-  rows 30–44  → ZS-Post
-  rows 45–59  → FS-Post
-
-Table 1 (6 × 4) — mean human dimension score per condition
-Table 2 (3 × 4) — proportion of posts flagged for each violation type per condition
+Table 1 (6 x 4) — mean human dimension score per condition
+Table 2 (3 x 4) — proportion of posts flagged for each violation type per condition
 """
 
 from pathlib import Path
@@ -123,4 +122,4 @@ def main() -> None:
 if __name__ == "__main__":
     main()
 
-# python3 -m backend.Generator.Experiments.experiment1.run_human_scores
+# python3 -m backend.Generator.Experiments.experiment1.run_human_scores 

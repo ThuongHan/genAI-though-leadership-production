@@ -1,0 +1,1 @@
+sample_61.xlsx is the dataset that was created by running the Generator (Claude-Sonnet-4-6) across 4 configurations. Each configuration produced 15 posts so that there are 60 samples in the dataset. Additionally, the UvA Expert Voice - Output annotation.xlsx is the same dataset but after the company have rated the posts across dimensions.

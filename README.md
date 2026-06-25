@@ -28,6 +28,8 @@ The **Belief System** is a pre-built knowledge base of KickstartAI's organisatio
 
 ## Project structure
 
+1. The thesis experiments for the Generator are in the backend/Generator/Experiments.
+
 ```
 pipeline/
 ├── backend/
@@ -164,23 +166,30 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 The interface walks you through the pipeline in five steps:
 
 ### Step 1 — Scan
+
 Click **Start fresh scan** to collect the latest AI news (5–10 min) or **Use cached articles** if a scan ran in the last 24 hours. The scanner hits RSS feeds, NewsAPI, arXiv, and scraped sources, then the weighted filter scores and ranks the top 5.
 
 ### Step 2 — Select an article
+
 Browse the top-5 ranked articles. Each card shows the source, publish date, and relevance score. Click one to proceed.
 
 ### Step 3 — Interpret
+
 The Interpreter runs BM25 + hybrid RAG over the belief repository to find the most relevant KickstartAI beliefs, then sends the article + beliefs to an LLM for structured reasoning:
+
 - What happened
 - Why it matters (globally and in the Netherlands)
 - Why it matters for KickstartAI specifically
 - Key stance and supporting arguments
 
 ### Step 4 — Generate posts
+
 Three LinkedIn post drafts are generated using few-shot examples retrieved by semantic similarity. You can select which post to work with.
 
 ### Step 5 — Refine and publish
+
 Two refinement paths:
+
 - **Human feedback** — type what to change and get a revised draft
 - **Auto-refine** — a judge LLM scores the post on six dimensions (tone, style, coherence, structure, specificity, historical similarity) and refines it automatically
 
@@ -232,6 +241,7 @@ posts = gen.generate(interpreter_output, k_posts=3)
 ```
 
 Available models:
+
 - Claude: `claude-haiku-4-5-20251001`, `claude-sonnet-4-6`, `claude-opus-4-8`
 - GPT: `gpt-4o`, `gpt-4.1`, `gpt-5`, `gpt-5.1`
 
@@ -261,14 +271,14 @@ Outputs land in `data/processed/` and `data/belief_store/`.
 
 The FastAPI backend exposes these endpoints (all under `http://localhost:8000`):
 
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| `GET` | `/api/articles/cached` | Return top-5 articles from the most recent filter run |
-| `POST` | `/api/scan` | SSE stream: run scanner + filter, return articles. `?force=true` skips 24h cache |
-| `POST` | `/api/interpret` | Run Interpreter on a selected article; returns structured interpretation |
-| `POST` | `/api/generate` | Generate LinkedIn post drafts from interpretation output |
-| `POST` | `/api/refine/feedback` | Refine a post using human-provided feedback text |
-| `POST` | `/api/refine/auto` | Auto-refine using judge LLM scoring loop |
+| Method | Endpoint               | Description                                                                      |
+| ------ | ---------------------- | -------------------------------------------------------------------------------- |
+| `GET`  | `/api/articles/cached` | Return top-5 articles from the most recent filter run                            |
+| `POST` | `/api/scan`            | SSE stream: run scanner + filter, return articles. `?force=true` skips 24h cache |
+| `POST` | `/api/interpret`       | Run Interpreter on a selected article; returns structured interpretation         |
+| `POST` | `/api/generate`        | Generate LinkedIn post drafts from interpretation output                         |
+| `POST` | `/api/refine/feedback` | Refine a post using human-provided feedback text                                 |
+| `POST` | `/api/refine/auto`     | Auto-refine using judge LLM scoring loop                                         |
 
 Scan and interpret endpoints return **Server-Sent Events** (SSE) so the UI can stream live log output.
 
@@ -276,23 +286,23 @@ Scan and interpret endpoints return **Server-Sent Events** (SSE) so the UI can s
 
 ## Configuration
 
-| File | What to edit |
-|------|-------------|
-| `backend/secrets/.env` | API keys |
-| `backend/Scanner/main_scanner/settings.py` | News sources, AI keywords, scoring weights, request timing |
-| `backend/Generator/post_generator.py` | Default LLM model |
-| `backend/Generator/config/post-reformulated-prompt.md` | LinkedIn post generation prompt |
-| `backend/Interpreter/Interpreter.py` | RAG strategy, retriever type, reasoning mode |
+| File                                                   | What to edit                                               |
+| ------------------------------------------------------ | ---------------------------------------------------------- |
+| `backend/secrets/.env`                                 | API keys                                                   |
+| `backend/Scanner/main_scanner/settings.py`             | News sources, AI keywords, scoring weights, request timing |
+| `backend/Generator/post_generator.py`                  | Default LLM model                                          |
+| `backend/Generator/config/post-reformulated-prompt.md` | LinkedIn post generation prompt                            |
+| `backend/Interpreter/Interpreter.py`                   | RAG strategy, retriever type, reasoning mode               |
 
 ---
 
 ## Tech stack
 
-| Layer | Technology |
-|-------|-----------|
-| Frontend | Svelte 5, Vite |
-| Backend | FastAPI, Python 3.10+ |
-| LLMs | Anthropic Claude, OpenAI GPT (via LangChain + direct SDK) |
-| Embeddings | OpenAI `text-embedding-*` |
-| News sources | NewsAPI, RSS, arXiv API, Trafilatura scraper |
-| RAG | BM25 + cosine similarity hybrid |
+| Layer        | Technology                                                |
+| ------------ | --------------------------------------------------------- |
+| Frontend     | Svelte 5, Vite                                            |
+| Backend      | FastAPI, Python 3.10+                                     |
+| LLMs         | Anthropic Claude, OpenAI GPT (via LangChain + direct SDK) |
+| Embeddings   | OpenAI `text-embedding-*`                                 |
+| News sources | NewsAPI, RSS, arXiv API, Trafilatura scraper              |
+| RAG          | BM25 + cosine similarity hybrid                           |

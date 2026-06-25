@@ -44,11 +44,11 @@
   ]
 
   const DIMENSION_GUIDE = {
-    tone_of_voice:          'Does it sound like an authentic human expert, not a robot?',
-    language_and_style:     'Is the writing clear, direct, and suited to LinkedIn?',
+    tone_of_voice:          "Does it match KickstartAI's tone of voice?",
+    language_and_style:     "Does it match KickstartAI's language and style conventions?",
     coherence_readability:  'Does it flow from one idea to the next without confusion?',
     discourse_structure:    'Are there any violations present? contrastive structure/from...to.../This/That...?',
-    specificity:            'Does it include concrete facts, examples, or numbers?',
+    specificity:            'Does it include concrete facts, names, examples, or numbers?',
     historical_similarity:  'Does it match the style of successful KickstartAI posts?',
   }
 

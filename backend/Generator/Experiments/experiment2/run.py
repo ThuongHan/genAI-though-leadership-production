@@ -8,15 +8,12 @@ The annotated posts are loaded from the annotation Excel file.
 Both judges evaluate every post. Their scores are compared against
 the human annotations to produce:
 
-  Table 2 — Exact and adjacent (±1) agreement proportions per dimension
+  Table 2 — Exact and adjacent (-+1) agreement proportions per dimension
              (rows = 6 dimensions, cols = exact J1, exact J2, adj J1, adj J2)
 
-Output in experiment/experiment_1/results/:
+Output in backend/Generator/Experiments/experiment2/results/:
   raw_evaluations.json    — full judge JSON for all posts
   table2_agreement.xlsx
-
-Run from repo root:
-  python3 -m backend.Generator.Experiments.experiment2.run
 """
 
 import json
