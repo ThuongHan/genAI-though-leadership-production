@@ -1,19 +1,19 @@
 """
 Experiment 3 — FS-Post regeneration comparison.
 
-Reads the 15 FS-Post posts from sample_61.xlsx (rows 45–59) and runs each
+Reads the 15 FS-Post posts from data/UvA Expert Voice - Output annotation.xlsx (rows 45-59) and runs each
 through the dual-judge refinement loop from regeneration/refine.py:
 
   1. Evaluate current post with both judges (Opus + GPT-5.5).
-  2. If every dimension scores ≥ 4 from every judge → stop early.
+  2. If every dimension scores >= 4 from every judge -> stop early.
   3. Otherwise collect feedback from failing dimensions and regenerate.
   4. Repeat up to MAX_ITER times; keep the version with highest avg score.
 
-Output → experiment/experiment_3/results/regeneration_comparison.xlsx
+Output -> backend/Generator/Experiment/experiment3/results/regeneration_comparison.xlsx
   Columns: Topic | FS-Post (Original) | FS-Post (Regenerated)
 
-Run from repo root:
-  python3 -m experiment.experiment_3.run
+After that the company will rate the post-reformulated post. The results 
+of that are in backend/Generator/Experiments/experiment3/results/UvA Expert Voice _ Data Annotation (Mateusz) - Sheet1.csv
 """
 
 from pathlib import Path
