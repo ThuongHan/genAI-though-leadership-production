@@ -56,10 +56,14 @@ pipeline/
 │   │   ├── judge/              # GPT-5.5 / Claude Opus scoring judges
 │   │   ├── regeneration/       # Feedback-based refinement
 │   │   ├── schemas/
-│   │   └── utils/
-│   │       ├── llm/            # Claude + GPT wrappers & registry
-│   │       ├── embedder.py     # OpenAI embeddings for few-shot retrieval
-│   │       └── few_shot.py
+│   │   ├── utils/
+│   │   │   ├── llm/            # Claude + GPT wrappers & registry
+│   │   │   ├── embedder.py     # OpenAI embeddings for few-shot retrieval
+│   │   │   └── few_shot.py
+│   │   └── Experiments/        # Thesis experiments (human scores, inter-rater agreement, cost analysis)
+│   │       ├── experiment1/    # Human-annotation baseline tables
+│   │       ├── experiment2/    # LLM-judge vs. human inter-rater agreement (Table 2: exact & adjacent)
+│   │       └── experiment3/    # FS-Post regeneration comparison + computational cost analysis
 │   │
 │   └── Belief_System/          # KickstartAI belief extraction & repository
 │       ├── extractors/         # LLM, Sensemaking, MultiModel extractors

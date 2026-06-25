@@ -1,7 +1,9 @@
-from Generator.utils.few_shot import FewShotPost
-from Generator.utils.embedder import Embedder
+from pathlib import Path
+
+from backend.Generator.utils.few_shot import FewShotPost
+from backend.Generator.utils.embedder import Embedder
 from langchain_core.output_parsers import PydanticOutputParser
-from Generator.schemas.generator_schema import GeneratedPosts
+from backend.Generator.schemas.generator_schema import GeneratedPosts
 
 
 class PromptBuilder:
@@ -69,7 +71,7 @@ if __name__ == "__main__":
     # System components
     fs = FewShotPost()
     embedder = Embedder()
-    builder = PromptBuilder("Generator/config/zeroshot-prompt.md")
+    builder = PromptBuilder(str(Path(__file__).resolve().parent / "config" / "zeroshot-prompt.md"))
 
     # 1. Example interpreter output (matches interpreter JSON schema)
     interpreter_output = {

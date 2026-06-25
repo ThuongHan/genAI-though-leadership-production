@@ -1,7 +1,7 @@
 from langchain_anthropic import ChatAnthropic
 from dotenv import load_dotenv
 import os
-from Generator.utils.llm.base import BaseLLM
+from backend.Generator.utils.llm.base import BaseLLM
 from pydantic import SecretStr
 
 # cluade models: ["claude-sonnet-4-6", "claude-sonnet-4-6", "claude-opus-4-8"]

@@ -70,3 +70,8 @@ ehthumbs.db
 # ── Misc ────────────────────────────────────────────────────────
 *.bak
 *.tmp
+
+# Kickstart Data
+backend/Generator/data/
+
+

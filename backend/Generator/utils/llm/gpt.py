@@ -2,7 +2,7 @@ from langchain_openai import ChatOpenAI
 from pydantic import SecretStr
 import os
 from dotenv import load_dotenv
-from Generator.utils.llm.base import BaseLLM
+from backend.Generator.utils.llm.base import BaseLLM
 
 # gpt models: ["gpt-5.1", "gpt-5", "gpt-4.1", "gpt-4o"]
 

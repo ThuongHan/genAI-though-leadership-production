@@ -9,7 +9,7 @@ from langchain_openai import OpenAIEmbeddings
 # so that we can later extract post that are semantically similar
 # to the topic - which is the output from the interpreter
 
-load_dotenv("secrets/.env")
+load_dotenv("backend/secrets/.env")
 
 # "text-embedding-3-large" returns a 3072 dimensional embedding
 class Embedder:

@@ -1,17 +1,20 @@
 import json
+from pathlib import Path
 from typing import Any
 
 import numpy as np
 import pandas as pd
 
-from Generator.utils.embedder import Embedder
+from backend.Generator.utils.embedder import Embedder
+
+_DEFAULT_DATA = str(Path(__file__).resolve().parent.parent / "data" / "LinkedIn_processed_data.json")
 
 # Few-shot retrieval system for LinkedIn posts.
 # Combines rule-based filtering (length + tags)
 # and semantic search (embedding similarity).
 
 class FewShotPost:
-    def __init__(self, file_path="Generator/data/LinkedIn_processed_data.json") -> None:
+    def __init__(self, file_path=_DEFAULT_DATA) -> None:
         self.df: pd.DataFrame = pd.DataFrame()
         self.unique_tags: set[str] = set()
         self.load_posts(file_path)
