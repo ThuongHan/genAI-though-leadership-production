@@ -1,0 +1,546 @@
+Posts,Regeneration,Tone of voice,Language and style,coherence and readability,Discourse structure,Specificity,Historical Similarity,
+"🚆 How do you make AI part of daily operations, not just a slide in a strategy deck?
+
+At NS, director of data, innovation and AI, Daan Debie, shared how AI now supports real decisions on trains and stations. Think crowdedness predictions and bike-availability estimates that help passengers move smoothly through the network.
+
+His key message: real impact comes when AI, people, and processes grow together.
+
+🔑 NS focuses on:
+• Strong governance that sets clear responsibilities and guardrails.
+• Comprehensive training so staff understand, trust, and improve AI systems.
+• User involvement from day one, so solutions fit operational reality.
+
+That approach turns pilots into live systems that support safety, reliability, and a better passenger experience.
+
+At KickstartAI, we see NS as a powerful example of how Dutch organizations can scale AI responsibly, in line with European values and the EU AI Act.
+
+European leadership in AI will come from this kind of practical, grounded progress in operations.
+
+👉 Which operational decision in your organization would benefit most from AI support?
+
+#AI #PublicTransport #ResponsibleAI #DataGovernance #KickstartAI","🚆 How do you make AI part of daily operations across an entire railway network?
+ 
+ At NS, director of data, innovation and AI, Daan Debie, shared how AI now supports real decisions on trains and stations. Think crowdedness predictions and bike-availability estimates that help passengers move smoothly through the network.
+ 
+ His key message: real impact comes when AI, people, and processes grow together.
+ 
+ 🔑 NS focuses on:
+ • Strong governance that sets clear responsibilities and guardrails.
+ • Comprehensive training so staff understand, trust, and improve AI systems.
+ • User involvement from day one, so solutions fit operational reality.
+ 
+ That approach brings pilots to life as running systems that support safety, reliability, and a better passenger experience.
+ 
+ At KickstartAI, we see NS as a powerful example of how Dutch organizations can scale AI responsibly, in line with European values and the EU AI Act.
+ 
+ European leadership in AI will come from this kind of practical, grounded progress in operations.
+ 
+ 👉 Which operational decision in your organization would benefit most from AI support?
+ 
+ #AI #PublicTransport #ResponsibleAI #DataGovernance #KickstartAI",4,3,4,5,4,4,
+"Coding agents can write code fast. The real challenge is keeping quality high and staying in control of what lands in your repo. 🧪📂
+
+Our latest KickstartAI article explores how to work with coding agents in a way that fits professional engineering standards.
+
+Key ideas:
+
+🔹 Stay in the driver’s seat
+Treat the agent as a powerful assistant, not an autonomous developer. Review, refactor, and make architectural decisions yourself.
+
+🔹 Let tests guide the agent
+Well-designed tests give the agent a clear target and give your team a safety net for future changes.
+
+🔹 Watch out for “silent collapse”
+Agents can confidently produce code that compiles but behaves incorrectly. Regular checks and small, testable steps reduce that risk.
+
+🔹 Plan for long-term maintainability
+Structure prompts, tools, and workflows so that another engineer can understand and extend the AI-generated code.
+
+By combining coding agents with disciplined engineering practices, Dutch organizations can scale AI responsibly and build systems that last.
+
+Curious how to put this into practice in your team? 👇
+https://kickstart.ai/news/agentic-engineering-best-practices-coding-agents-avoid-slop-increase-productivity
+
+#ResponsibleAI #AICoding #NLTech #KickstartAI","What happens when you let coding agents loose on your repo and expect production-quality results? ⚙️📂
+ 
+ Our ML Engineer Cascha van Wanrooij tested exactly that and shares his hands-on lessons in our latest KickstartAI article. Coding agents write code fast, so the real work lies in keeping quality high and staying in control of what lands in your codebase.
+ 
+ Cascha's key takeaways:
+ 
+ 🔹 Stay in the driver's seat
+ Treat the agent as a powerful assistant and keep the architectural decisions, reviews, and refactoring in human hands.
+ 
+ 🔹 Let tests guide the agent
+ Well-designed tests give the agent a clear target and give your team a safety net for future changes.
+ 
+ 🔹 Watch out for ""silent collapse""
+ Agents can confidently produce code that compiles yet behaves incorrectly. Small, testable steps and regular checks keep that risk low.
+ 
+ 🔹 Plan for long-term maintainability
+ Structure your prompts, tools, and workflows so the next engineer can understand and extend the AI-generated code with ease.
+ 
+ By pairing coding agents with disciplined engineering practices, Dutch organizations can scale AI responsibly and build systems that last. We see this collaboration between human judgment and AI speed as the way forward for our whole ecosystem.
+ 
+ Curious how Cascha puts this into practice? Read the full piece below 👇
+ https://kickstart.ai/news/agentic-engineering-best-practices-coding-agents-avoid-slop-increase-productivity
+ 
+ #ResponsibleAI #AICoding #NLTech #KickstartAI",4,5,4,5,3,4,
+"Coding agents change how code is written, but the most important change happens in how developers work. 👩‍💻👨‍💻
+
+In our latest piece, we look at what happens when agents take over more of the typing, and developers step into a new role:
+
+🔹 Developers spend more time reviewing, testing, and shaping requirements.
+🔹 Communication skills become as important as language syntax knowledge.
+🔹 Teams invest in better documentation, so agents and humans share context.
+🔹 Product leaders focus on designing workflows where agents add value, not noise.
+
+For the Netherlands, this evolution supports a more resilient AI workforce, where people and agents complement each other. Developers move closer to product decisions, and organizations gain capacity to experiment responsibly with AI.
+
+At KickstartAI, we collaborate with companies to prepare teams for this shift and to share lessons across the community.
+
+Ready to see how your development role might look in an agent-powered team? 🔍
+
+Read the practical guide: https://kickstart.ai/news/agentic-engineering-non-technical-guide-working-with-coding-agents
+
+#Developers #AIAgents #FutureOfWork #AIinNL #KickstartAI","Coding agents change how code gets written, and the bigger shift shows up in how developers spend their days. 👩‍💻👨‍💻
+ 
+ In our latest piece, ML Engineer Cascha van Wanrooij explores what happens when agents handle more of the typing and developers step into a new role:
+ 
+ 🔹 Developers spend more time reviewing, testing, and shaping requirements.
+ 🔹 Communication skills become as valuable as command of language syntax.
+ 🔹 Teams invest in clearer documentation, so agents and humans share context.
+ 🔹 Product leaders design workflows where agents add genuine value.
+ 
+ Cascha tested these ideas by guiding agents through real engineering tasks, reviewing their output closely and keeping human judgment at the center of every design decision.
+ 
+ For the Netherlands, an agent-powered workflow supports a more resilient AI workforce, where people and agents complement each other. Developers move closer to product decisions, and organizations gain capacity to experiment responsibly with AI.
+ 
+ At KickstartAI, we collaborate with companies to prepare teams for this transition and to share lessons across the community. 🤝
+ 
+ Curious how your development role might look in an agent-powered team? 🔍
+ 
+ 📖 Read the practical guide: https://kickstart.ai/news/agentic-engineering-non-technical-guide-working-with-coding-agents
+ 
+ #Developers #AIAgents #FutureOfWork #AIinNL #KickstartAI",4,5,4,5,3,4,
+"KLM is moving AI out of the lab and into daily operations. ✈️
+
+In a recent talk, CIO Aart Slagt shared how the airline now focuses on deploying AI where it truly matters: planning, optimization, and better service for passengers.
+
+KLM already runs AI models that help predict catering needs and optimize contingency fuel. The impact is clear: smarter operations, less waste, and more reliable service.
+
+Aart emphasized one key principle: an AI model only creates value when people understand it and trust it. That means clear explanations, strong involvement of end users, and space for feedback.
+
+KLM also built “Talia,” a secure environment where employees can work with AI tools safely and confidently. That kind of trusted sandbox helps large organizations explore, learn, and scale responsibly.
+
+At KickstartAI, we see this as a blueprint for the Dutch ecosystem: focus on concrete use cases, invest in user trust, and build secure AI environments that enable innovation.
+
+Responsible deployment at this scale does not happen in isolation. It grows from collaboration between corporate teams, domain experts, and the wider AI community.
+
+🚀 Want to help shape the next wave of applied AI in the Netherlands?
+Join the conversation, share your AI deployment stories, and let’s learn together.
+
+#AIadoption #aviation #datascience #digitaltransformation #KickstartAI","KLM brings AI directly into daily operations. ✈️
+ 
+ In a recent talk, CIO Aart Slagt shared how the airline deploys AI where it truly matters: planning, optimization, and better service for passengers.
+ 
+ KLM already runs AI models that help predict catering needs and optimize contingency fuel. The results speak for themselves: smarter operations, less waste, and more reliable service.
+ 
+ Aart emphasized one key principle: an AI model creates value when people understand it and trust it. Trust grows through clear explanations, strong involvement of end users, and space for feedback.
+ 
+ KLM also built ""Talia,"" a secure environment where employees work with AI tools safely and confidently. A trusted sandbox like this helps large organizations explore, learn, and scale responsibly.
+ 
+ At KickstartAI, we see KLM's approach as a blueprint for the Dutch ecosystem: focus on concrete use cases, invest in user trust, and build secure AI environments that enable innovation.
+ 
+ Responsible deployment at this scale grows from collaboration between corporate teams, domain experts, and the wider AI community.
+ 
+ 🚀 Want to help shape the next wave of applied AI in the Netherlands?
+ Join the conversation, share your AI deployment stories, and let's learn together.
+ 
+ #AIadoption #Aviation #DataScience #DigitalTransformation #KickstartAI",4,5,4,5,5,4,
+"GenAI in financial services is moving fast, and many teams feel the pressure to experiment while staying within regulatory boundaries. At KickstartAI, we see that responsible innovation is very achievable with the right collaboration model. 🤝
+
+In our joint work with ING on a financial health assistant, three elements proved crucial:
+
+💡 Shared responsibility
+Product owners, legal, risk, and engineers co-own design choices around explainability, data use, and tone of voice.
+
+📏 Built-in guardrails
+Technical safeguards, evaluation pipelines, and clear escalation paths help keep responses accurate, scoped, and fair.
+
+📚 Learning mindset
+Teams treat GenAI as an evolving capability, updating prompts, training data, and policies as new patterns and regulations emerge.
+
+By combining these elements, organizations can create AI services that improve financial health, strengthen trust, and fit the EU AI Act context.
+
+At KickstartAI, we aim to turn such collaborations into reusable patterns for the Dutch ecosystem.
+
+🔗 Read the full story and lessons here:
+https://kickstart.ai/news/why-managing-genai-projects-requires-playbook-tweak
+
+#ResponsibleAI #GenAI #FinancialServices #EUAIAct #KickstartAI","How do you manage a GenAI project when legal, risk, and engineering all shape the outcome? 🤝
+ 
+ In a new blog, KickstartAI shares lessons from our work with ING on a financial health assistant, where the usual project playbook needed a few meaningful tweaks.
+ 
+ The team found that three habits made responsible delivery practical:
+ 
+ 💡 Shared ownership
+ Product owners, legal, risk, and engineers co-decided on explainability, data use, and tone of voice, so no single team carried design choices alone.
+ 
+ 📏 Built-in guardrails
+ Technical safeguards, evaluation pipelines, and clear escalation paths kept responses accurate, scoped, and fair throughout development.
+ 
+ 📚 Learning mindset
+ The team treated GenAI as an evolving capability, updating prompts, training data, and policies as new patterns and EU AI Act requirements emerged.
+ 
+ These habits helped the group build an assistant that supports financial health while keeping trust at the center. They also gave us reusable patterns that other Dutch organizations can apply to their own GenAI projects.
+ 
+ We are grateful to ING and everyone who contributed their expertise. Each collaboration like this moves the Dutch AI ecosystem forward together. 🚀
+ 
+ 👇 Read the full story and lessons here:
+ https://kickstart.ai/news/why-managing-genai-projects-requires-playbook-tweak
+ 
+ #ResponsibleAI #GenAI #FinancialServices #EUAIAct #KickstartAI",4,5,4,,5,3,4
+"Many AI pilots look promising on day one. The real challenge starts on Day Two.
+
+Leon Dusée from ING calls out a familiar failure point: teams build a great proof of concept, but no one plans how to run, monitor, and maintain it at scale.
+
+At KickstartAI, we see this Day Two problem across sectors in the Dutch ecosystem.
+
+Successful AI products answer questions like:
+
+⚙️ ""Who owns this model once it goes live?""
+📊 ""How will we monitor performance and data drift over time?""
+🔐 ""How do we stay compliant with the EU AI Act as we iterate?""
+🤝 ""How do business, data, and IT teams collaborate around this solution?""
+
+Organizations that design for Day Two from the start move faster, reduce risk, and unlock AI impact that lasts.
+
+KickstartAI partners with companies to turn pilots into production-ready solutions that are maintainable, compliant, and aligned with real-world processes. Shared expertise across industries helps everyone avoid reinventing the wheel.
+
+AI adoption in the Netherlands accelerates when fewer pilots stall and more solutions reach everyday use.
+
+Ready to tackle your Day Two challenges together? 🚀
+
+#MLOps #AiinProduction #Aiadoption #Netherlands #KickstartAI","Many AI pilots impress everyone on day one. The hard work begins on day two.
+ 
+ Leon Dusée from ING points to a familiar pattern: teams build a strong proof of concept, then discover that running, monitoring, and maintaining it at scale takes a plan of its own.
+ 
+ At KickstartAI, we see this day two question come up across the Dutch ecosystem. Successful AI products answer it head-on:
+ 
+ ⚙️ ""Who owns this model once it goes live?""
+ 📊 ""How will we monitor performance and data drift over time?""
+ 🔐 ""How do we stay compliant with the EU AI Act as we iterate?""
+ 🤝 ""How do business, data, and IT teams collaborate around this solution?""
+ 
+ Organizations that design for day two from the start move faster, lower their risk, and unlock AI impact that lasts.
+ 
+ KickstartAI partners with companies to turn pilots into production-ready solutions that stay maintainable, compliant, and aligned with everyday processes. Shared expertise across industries helps everyone build on proven foundations.
+ 
+ AI adoption in the Netherlands accelerates as more solutions reach daily use and deliver real value. Together, we can help more pilots make the leap into production.
+ 
+ Ready to tackle your day two questions with us? 🚀
+ 
+ #MLOps #AIinProduction #AIadoption #Netherlands #KickstartAI",4,5,4,5,4,4,
+"Environmental crime affects nature, neighborhoods, and trust in institutions. Investigators face huge volumes of legislation, case law, and documents for every case. 
+
+Together with the Dutch National Police, KickstartAI is co-developing an AI assistant that helps investigators quickly navigate relevant laws, historic cases, and patterns in earlier investigations. The goal is simple: give experts better information, faster.
+
+👮‍♂️ Police investigators stay in control.
+🤖 AI surfaces connections and similar cases in seconds.
+⚖️ Human judgment, transparency, and explainability guide every decision.
+
+Senior innovation advisor Amir Niknam shared how his team approaches AI in this high-stakes context: use AI as a practical tool, keep humans in the lead, and design for legal robustness from day one.
+
+At KickstartAI, we believe that responsible AI can strengthen the rule of law and help protect the environment. By bringing public-sector experts and AI practitioners together, the Netherlands can turn complex challenges into concrete, working solutions.
+
+Curious how AI is already supporting environmental crime investigations and what lessons apply to your organization too? 👇
+Read the full story:
+https://kickstart.ai/news/inside-police-ai-approach-environmental-crime
+
+#AI #PublicSector #EnvironmentalCrime #ResponsibleAI #Netherlands","Environmental crime affects nature, neighborhoods, and trust in institutions. Investigators face huge volumes of legislation, case law, and documents for every case. 
+ 
+ Together with the Dutch National Police, KickstartAI is co-developing an AI assistant that helps investigators quickly navigate relevant laws, historic cases, and patterns in earlier investigations. The goal is simple: give experts better information, faster.
+ 
+ 👮‍♂️ Police investigators stay in control.
+ 🤖 AI surfaces connections and similar cases in seconds.
+ ⚖️ Human judgment, transparency, and explainability guide every decision.
+ 
+ Senior innovation advisor Amir Niknam shared how his team approaches AI in this high-stakes context: use AI as a practical tool, keep humans in the lead, and design for legal robustness from day one.
+ 
+ At KickstartAI, we believe that responsible AI can strengthen the rule of law and help protect the environment. By bringing public-sector experts and AI practitioners together, the Netherlands can turn complex challenges into concrete, working solutions.
+ 
+ Curious how AI is already supporting environmental crime investigations and what lessons apply to your organization too? 👇
+ Read the full story:
+ https://kickstart.ai/news/inside-police-ai-approach-environmental-crime
+ 
+ #AI #PublicSector #EnvironmentalCrime #ResponsibleAI #Netherlands",4,4,4,5,4,4,
+"Reliable AI in practice starts with rigorous work in research labs and universities.
+
+🧪 The DataDivers project, led by Associate Professor Dong Nguyen, focuses on one key question: how can we measure diversity in language model datasets in a systematic way? The project looks at stylistic and semantic diversity and studies how these factors affect model performance and behavior.
+
+That kind of clarity is very useful for organizations that want to deploy AI responsibly. When teams understand which types of language, topics, and styles a dataset covers, they can better judge where a model will perform well, and where it might miss important perspectives.
+
+For Dutch organizations working under new European rules, this creates a practical bridge between regulation, ethics, and engineering.
+
+KickstartAI supports this type of research because it turns abstract principles into tools that data scientists and product teams can actually use.
+
+If you work with language data and want AI that serves a diverse society, you will want to follow this work closely 👇
+
+#AI #NLP #Fairness #DataQuality #Netherlands","Reliable AI in practice starts with rigorous work in research labs and universities.
+ 
+ 🧪 In our latest article, we spoke with Associate Professor Dong Nguyen about DataDivers, a research project tackling one key question: how can we measure diversity in language model datasets in a systematic way? The project examines stylistic and semantic diversity and studies how these factors shape model performance and behavior.
+ 
+ A clear picture of dataset diversity gives organizations a real advantage when they deploy AI responsibly. Teams who understand which types of language, topics, and styles a dataset covers can judge with confidence where a model will perform well and which perspectives it still needs.
+ 
+ For Dutch organizations working under new European rules, DataDivers builds a practical bridge between regulation, ethics, and engineering.
+ 
+ KickstartAI supports this kind of research because it turns abstract principles into tools that data scientists and product teams can actually use.
+ 
+ If you work with language data and want AI that serves a diverse society, you will want to follow this work closely.
+ 
+ Read the full article below 👇
+ https://lnkd.in/e9CD-i8j
+ 
+ #AI #NLP #DataQuality #Fairness #Netherlands",3,5,5,5,4,4,
+"🤝 Solving financial vulnerability at scale asks for more than a single model. It asks for a community.
+
+In the ING x KickstartAI challenge, experts from multiple companies came together for a focused two-week sprint. Data scientists, engineers, designers, and financial-health specialists sat side by side to build a GenAI chatbot prototype for financial education.
+
+That setup created value beyond the prototype itself:
+
+💡 Shared understanding of how AI can support people who experience financial stress.
+🧪 Tested patterns for multi-agent GenAI systems that other teams can adopt.
+📖 Practical lessons on working with sensitive topics, privacy, and EU regulation.
+
+KickstartAI exists to unlock exactly this kind of collective progress. When Dutch organizations pool knowledge, data, and talent, the ecosystem moves faster, and AI solutions reach citizens sooner.
+
+We are proud of the collaboration with ING and the many contributors who brought their expertise to the table. The next step is scaling these learnings into products, services, and new challenges.
+
+If you want to co-create high-impact AI use cases for the Netherlands, our door is open. 🚪
+
+#AIadoption #GenAI #financialhealth #DutchInnovation #ecosystem","🤝 Solving financial vulnerability at scale asks for more than a single model. It asks for a community.
+ 
+ In the ING x KickstartAI challenge, experts from multiple companies came together for a focused two-week sprint. Data scientists, engineers, designers, and financial-health specialists sat side by side to build a GenAI chatbot prototype for financial education.
+ 
+ That setup created value beyond the prototype itself:
+ 
+ 💡 Shared understanding of how AI can support people who experience financial stress.
+ 🧪 Tested patterns for multi-agent GenAI systems that other teams can adopt.
+ 📖 Practical lessons on working with sensitive topics, privacy, and EU regulation.
+ 
+ KickstartAI exists to unlock exactly this kind of collective progress. When Dutch organizations pool knowledge, data, and talent, the ecosystem moves faster, and AI solutions reach citizens sooner.
+ 
+ We are proud of the collaboration with ING and the many contributors who brought their expertise to the table. The next step is scaling these learnings into products, services, and new challenges.
+ 
+ If you want to co-create high-impact AI use cases for the Netherlands, our door is open. 🚪
+ 
+ #AIadoption #GenAI #financialhealth #DutchInnovation #ecosystem",4,4,4,4,4,4,
+"Agentic AI is quietly changing how teams interact with data. Instead of waiting for custom dashboards or ad‑hoc analyses, people can start asking real business questions in natural language. 💬📊
+
+In our latest Community Spotlight, Stan Dumont, data scientist at Lynxx, shares how agentic AI helps close the gap between data outputs and decisions.
+
+He explores:
+🔸 Why dashboards reach their limit once follow‑up questions keep coming.
+🔸 How agents can sit on top of real data architectures, not side projects.
+🔸 How to think about trust, transparency, and safety when answers are generated by AI.
+🔸 Why the real value shows up in daily use, not only in quarterly metrics.
+
+At KickstartAI, we see agentic AI as a powerful way to democratize data in Dutch organizations, so more people can act on insights instead of waiting for them.
+
+Curious how this plays out in practice and what tools actually work in production? 👇
+Read the full story with Stan here:
+https://kickstart.ai/news/how-agentic-ai-bridge-data-business-gap
+
+#AI #AgenticAI #DataScience #DataAnalytics #KickstartAI","Agentic AI is quietly changing how teams work with data. People can now ask real business questions in plain language and get answers in seconds. 💬📊
+ 
+ In our latest Community Spotlight, data scientist Stan Dumont at Lynxx shares how agentic AI connects raw data outputs to everyday decisions.
+ 
+ He explores:
+ 🔸 The moment dashboards reach their limit as follow-up questions pile up.
+ 🔸 Practical ways to build agents directly into production data architectures.
+ 🔸 Concrete approaches to trust, transparency, and safety when AI generates the answers.
+ 🔸 Why daily use reveals the true value of these systems.
+ 
+ Stan also walks through the tools that hold up in real production environments, along with the design choices that keep teams confident in what the system tells them. 🛠️
+ 
+ At KickstartAI, we see agentic AI as a powerful way to democratize data across Dutch organizations. When more colleagues can explore insights on their own, decisions become faster, smarter, and more grounded in evidence. Progress like this grows through the experiments and lessons our community shares with one another.
+ 
+ Curious how agentic AI performs once it meets messy, real-world data? 👇
+ Read the full conversation with Stan here:
+ https://kickstart.ai/news/how-agentic-ai-bridge-data-business-gap
+ 
+ #AI #AgenticAI #DataScience #DataAnalytics #KickstartAI",4,3,4,5,4,4,
+"🌍 Space data is turning into public infrastructure, and AI is making it usable for everyone.
+
+Open satellite programs and affordable commercial imagery now provide continuous coverage of our cities, coasts, and countryside. AI takes those pixels and turns them into indicators that policymakers and entrepreneurs can use every day.
+
+In the Dutch context, that means local governments and startups can:
+
+• Explore scenarios for housing development without waiting for new field surveys.
+• Track water quality and flood risk more frequently and consistently.
+• Build new services that quantify environmental impact for citizens and clients.
+
+Public access to satellite data gives many players the same shared starting point. AI models built on top create a common language for evaluating options and measuring results.
+
+KickstartAI supports this evolution by bringing together experts, public partners, and innovators to test AI solutions on real Dutch challenges. Collaborative experimentation shortens the path from raw data to tools that professionals can trust in daily decisions.
+
+🚀 When space data and AI become part of the standard toolkit, the whole ecosystem benefits.
+
+#AI #EarthObservation #GovTech #OpenData #Innovation","🌍 How is AI turning satellite data into a tool that Dutch policymakers and entrepreneurs can use every day?
+ 
+ Open satellite programs and affordable commercial imagery now provide continuous coverage of our cities, coasts, and countryside. AI takes those pixels and turns them into indicators that professionals can act on with confidence.
+ 
+ In our latest article, we explore how Earth observation is unfolding in practice across the Netherlands, with concrete use cases such as:
+ 
+ • Exploring housing development scenarios without waiting for new field surveys.
+ • Tracking water quality and flood risk more frequently and consistently.
+ • Building services that quantify environmental impact for citizens and clients.
+ 
+ We spoke with Parya Pasha Zadeh, Program Manager at NL Space Campus, and Thijs Oosterhuis, Solutions Architect for Geo and Remote Sensing at Provincie Zuid-Holland, about how these developments shape regional policy and emerging commercial work.
+ 
+ Public access to satellite data gives many players the same shared starting point. AI models built on top create a common language for evaluating options and measuring results.
+ 
+ KickstartAI supports this evolution by bringing together experts, public partners, and innovators to test AI solutions on real Dutch challenges. Collaborative experimentation shortens the path from raw data to trusted tools.
+ 
+ 👇 Read the full article below:
+ https://lnkd.in/esPQitmu
+ 
+ #AI #EarthObservation #GovTech #OpenData #Innovation",4,4,4,5,4,4,
+"📚 An AI teacher in your pocket can change who gets to learn.
+
+By deploying conversational AI teachers across multiple education levels, Otermans Institute reaches learners in refugee camps, rural areas, and underserved communities worldwide. The new offline capability extends that reach even further.
+
+For the Dutch ecosystem, projects like this highlight a clear opportunity. AI can support pupils who lack extra tutoring, adults who need reskilling, and newcomers who want to build language and job skills.
+
+At KickstartAI, we believe real progress comes from collaboration. Technologists, educators, NGOs, and public institutions each hold part of the puzzle. Together, we can adapt similar AI teaching concepts to Dutch context, languages, and curricula.
+
+🇳🇱 We invite Dutch partners who experiment with AI in education to connect, share lessons, and co-create pilots that serve learners who benefit most.
+
+👉 Tag an organization that should join this conversation or reach out to explore a joint initiative.
+
+#AI #EducationInnovation #AIinEducation #AIecosystem #Netherlands","📚 In what ways can AI reach learners who sit outside traditional classrooms?
+ 
+ In our latest Community Spotlight, Dr Pauldy Otermans and Dev Aditya, founders of Otermans Institute, share how their work grew into building conversational AI teachers deployed across multiple education levels.
+ 
+ They reflect on launching their first AI teacher in 2021, early deployments in refugee camps, expansion through partnerships with governments and institutions, and recent engineering work that enables on-device, offline operation in low-connectivity environments.
+ 
+ For the Dutch ecosystem, their story highlights a clear opportunity. AI teachers can support pupils who lack extra tutoring, adults who need reskilling, and newcomers who want to build language and job skills.
+ 
+ At KickstartAI, we believe real progress comes from collaboration. Technologists, educators, NGOs, and public institutions each hold part of the puzzle. Together, we can adapt similar AI teaching concepts to Dutch languages, curricula, and communities.
+ 
+ 👇 Read their full story below:
+ https://lnkd.in/eG7x-zbV
+ 
+ 🇳🇱 Dutch partners experimenting with AI in education, we would love to connect, share lessons, and co-create pilots that serve learners who benefit most.
+ 
+ #AI #AIinEducation #EducationInnovation #Netherlands",4,5,4,5,4,4,
+"How do you turn a complex aviation question into a concrete AI solution? You bring the ecosystem together. ✈️🤝
+
+In project Daidalos, KickstartAI teamed up with KLM and 12 data scientists from several Dutch organizations to explore one clear challenge:
+
+👉 How can machine learning improve contingency fuel planning for each flight?
+
+Over an intensive period, the team:
+• Tested multiple models, with LightGBM performing especially well after smart data refinement.
+• Discovered that detailed weather data contributed less than expected to prediction quality.
+• Built explainability tools so pilots and dispatchers can understand, question, and trust the model.
+
+The result is a promising approach that supports safer, more efficient fuel decisions, while opening the door to lower emissions and costs.
+
+Next up, KLM will validate the solution with business stakeholders and explore how it can fit daily operations.
+
+At KickstartAI, we believe the strongest AI solutions in the Netherlands come from shared challenges, shared data, and shared learning.
+
+Want to join future challenges or explore a collaboration? Our inbox is open. 👇
+
+#AI #Aviation #Sustainability #DataScience #Netherlands","How do you turn a complex aviation question into a concrete AI solution? You bring the ecosystem together. ✈️🤝
+ 
+ In project Daidalos, KickstartAI teamed up with KLM and 12 data scientists from several Dutch organizations to explore one clear challenge:
+ 
+ 👉 How can machine learning improve contingency fuel planning for each flight?
+ 
+ Over an intensive period, the team:
+ • Tested multiple models, with LightGBM performing especially well after smart data refinement.
+ • Discovered that detailed weather data contributed less than expected to prediction quality.
+ • Built explainability tools so pilots and dispatchers can understand, question, and trust the model.
+ 
+ The result is a promising approach that supports safer, more efficient fuel decisions, while opening the door to lower emissions and costs.
+ 
+ Next up, KLM will validate the solution with business stakeholders and explore how it can fit daily operations.
+ 
+ At KickstartAI, we believe the strongest AI solutions in the Netherlands come from shared challenges, shared data, and shared learning.
+ 
+ Want to join future challenges or explore a collaboration? Our inbox is open. 👇
+ 
+ #AI #Aviation #Sustainability #DataScience #Netherlands",4,5,4,5,5,4,
+"🇳🇱 The Netherlands has everything it needs to lead in AI: top universities, strong companies, and a collaborative mindset.
+
+With Erick Webbe stepping in as CEO of KickstartAI, we see a clear opportunity to turn that potential into practice.
+
+Erick advocates for a national approach that accelerates AI adoption in a responsible way. Not through abstract strategies, but through applied projects that show concrete value in logistics, finance, retail, mobility, and beyond.
+
+At KickstartAI, we will keep focusing on:
+
+• Building AI solutions together with our partners that solve real problems.
+• Sharing what works so others can learn, reuse, and improve.
+• Supporting a policy environment that rewards responsible experimentation and open collaboration.
+
+AI already helps organizations reduce waste, predict demand, and improve services for millions of people. The next step is to make these kinds of solutions the norm across the Dutch ecosystem.
+
+🤝 We invite companies, policymakers, and researchers to join us in shaping that next step together.
+
+#KickstartAI #AINetherlands #PublicPrivatePartnerships #ResponsibleAI #AIForSociety","🇳🇱 The Netherlands has the ingredients to lead in AI, and the past four years have shown us how to put them to work.
+ 
+ Since 2019, KickstartAI and our founding partners Ahold Delhaize, NS, ING, Philips, and KLM have built AI into the core of real operations. We have helped predict passenger flows on the railways, reduce food waste in stores, and speed up medical workflows in hospitals. Each project taught us that lasting adoption depends on people, processes, and governance working together.
+ 
+ With Erick Webbe stepping in as CEO, we see a clear moment to scale that experience nationally. Erick champions a practical approach that turns AI ambition into applied projects across logistics, finance, retail, mobility, and healthcare.
+ 
+ In the year ahead, KickstartAI will keep focusing on:
+ 
+ • Building AI solutions with our partners that solve concrete problems in daily operations.
+ • Sharing what works openly, so other organizations can learn, reuse, and improve.
+ • Supporting a policy environment that rewards responsible experimentation and collaboration.
+ 
+ The recent roundtable at the Ministry of Economic Affairs confirmed a shared goal: treat the Netherlands as a scale-up country for AI adoption. The focus now must shift to implementation in day-to-day work.
+ 
+ 🤝 We invite companies, policymakers, and researchers to build this next step with us. Together, we can make responsible AI the norm across the Dutch ecosystem.
+ 
+ #KickstartAI #AINetherlands #PublicPrivatePartnerships #ResponsibleAI #AIForSociety",4,4,4,5,5,4,
+"🌱 Multimodal AI for biodiversity is moving from concept to concrete impact.
+
+In our latest article, we explore two complementary initiatives: BioAnalyst at TNO and the TATTOOs project at LIACS. Together, they show how combining data sources and new vision techniques leads to richer biodiversity insights.
+
+BioAnalyst brings climate, species, and environmental data into one forecasting model. TATTOOs uses bio-inspired computer vision to recognize individual animals without physical tracking.
+
+For policymakers, researchers, and practitioners, these tools open doors to:
+
+📊 More accurate biodiversity indicators to guide conservation strategy.
+📡 More scalable monitoring approaches that work across regions.
+🤝 Stronger collaboration across institutes, supported by shared models and open research.
+
+KickstartAI champions projects like these because they match our mission: accelerate AI adoption in the Netherlands, and help organizations apply AI responsibly for societal good.
+
+We see huge potential when Dutch research institutes, public organizations, and companies join forces around open, practical AI solutions.
+
+🔗 Read the full story and discover how you can contribute to the next wave of AI for biodiversity.
+
+#AI #AIForGood #Biodiversity #Netherlands #MultimodalAI","🌱 How can multimodal AI deepen our understanding of biodiversity?
+ 
+ In our latest article, we explore two initiatives at Dutch research institutes: BioAnalyst at TNO and the TATTOOs project at LIACS.
+ 
+ We speak with AI Research Scientist Thanasis Trantas at TNO and Assistant Professor Rita Pucci at LIACS about how these models work, the challenges behind them, and what they mean for biodiversity research.
+ 
+ BioAnalyst unites climate, species, and environmental data into one forecasting model. TATTOOs uses bio-inspired computer vision to recognize individual animals by the unique patterns on their skin.
+ 
+ Together, these projects show what becomes possible when researchers combine data sources with new vision techniques:
+ 
+ 📊 More accurate biodiversity indicators that guide conservation strategy.
+ 📡 Scalable monitoring that works across regions.
+ 🤝 Shared models and open research that strengthen collaboration between institutes.
+ 
+ We see real momentum when Dutch research institutes, public organizations, and companies work side by side on practical, responsible AI. That spirit sits at the heart of our mission to accelerate AI adoption in the Netherlands and apply AI for societal good.
+ 
+ 👇 Read the full article below:
+ 🔗 [link]
+ 
+ #AI #MultimodalAI #Biodiversity",4,4,4,5,4,4,

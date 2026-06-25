@@ -17,17 +17,19 @@ Run from repo root:
 """
 
 import json
+from pathlib import Path
 
-from Generator.utils.embedder import Embedder
-from Generator.utils.few_shot import FewShotPost
-from Generator.utils.llm.claude import ClaudeLLM
-from Generator.utils.llm.gpt import GPTLLM
-from Generator.judge.runner import _build_prompt as build_eval_prompt, _extract_json as extract_json
+from backend.Generator.utils.embedder import Embedder
+from backend.Generator.utils.few_shot import FewShotPost
+from backend.Generator.utils.llm.claude import ClaudeLLM
+from backend.Generator.utils.llm.gpt import GPTLLM
+from backend.Generator.judge.runner import _build_prompt as build_eval_prompt, _extract_json as extract_json
 
 # --- Config ---
-POSTS_PATH     = "Generator/example_generated/generated_posts.json"
-GEN_CONFIG     = "Generator/config/post-reformulated-prompt.md"
-REGEN_TEMPLATE = "Generator/regeneration/thesis-regeneration.md"
+_GEN = Path(__file__).resolve().parent.parent  # backend/Generator/
+POSTS_PATH     = str(_GEN / "example_generated" / "generated_posts.json")
+GEN_CONFIG     = str(_GEN / "config" / "post-reformulated-prompt.md")
+REGEN_TEMPLATE = str(_GEN / "regeneration" / "thesis-regeneration.md")
 MAX_ITER       = 3
 K_FEW_SHOT     = 1   # few-shot examples for regeneration
 K_HISTORICAL   = 1   # historical refs for judge evaluation

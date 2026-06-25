@@ -14,10 +14,10 @@ import json
 import re
 from pathlib import Path
 
-from Generator.utils.embedder import Embedder
-from Generator.utils.few_shot import FewShotPost
+from backend.Generator.utils.embedder import Embedder
+from backend.Generator.utils.few_shot import FewShotPost
 
-TEMPLATE_PATH = "Generator/config/eval-prompt.md"
+TEMPLATE_PATH = str(Path(__file__).resolve().parent.parent / "config" / "eval-prompt.md")
 RESULTS_DIR   = Path("judge/results")
 DIMENSIONS    = [
     "tone_of_voice",

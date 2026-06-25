@@ -1,0 +1,1944 @@
+{
+  "ZS-Pre": [
+    {
+      "topic_idx": 0,
+      "article_title": "AI lessons from the boardroom: Daan Debie on how NS brings AI from pilot to practice",
+      "post": "How do you move AI from promising pilot to daily practice on the ground? 🚆\n\nAt NS, director of data, innovation, and AI, Daan Debie, shared how they are doing exactly that. Think real systems in production, like crowdedness prediction for trains and bike-availability estimates that help travelers plan their journeys.\n\nWhat stood out to us:\n\n✅ Strong governance\nNS treats AI as critical infrastructure. Clear ownership, safeguards around data and privacy, and alignment with the EU AI Act are all part of the design, not an afterthought.\n\n✅ Training across the organization\nEngineers, product teams, and front-line staff learn how AI works, where it helps, and where human judgment stays in the lead.\n\n✅ Users involved from day one\nTravelers and NS colleagues help shape the tools, which leads to higher trust and adoption.\n\nAt KickstartAI, we see NS as an example of how Dutch organizations can implement AI responsibly, at scale, and in line with European values.\n\nIf you are working on AI in operations, ask: \"Who owns this, who understands this, and who helped build this?\" The answers will often determine success.\n\nRead more about NS and Daan Debie’s approach on our website. 👇\n\n#AIadoption #ResponsibleAI #Netherlands #PublicTransport #KickstartAI",
+      "evaluations": {
+        "Sonnet": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is largely on-brand: approachable, purpose-driven, and community-centric, with a clear human voice. The closing rhetorical question ('Who owns this, who understands this, and who helped build this?') is a nice, grounded touch that feels recognizably KickstartAI. There are no hype phrases or robotic constructions, though the middle section (the three checkmark bullets) reads slightly more like a structured report than a warm community post.",
+              "score": 4
+            },
+            {
+              "name": "language_and_style",
+              "justification": "Several violations are present. (1) Em dash used: 'part of the design, not an afterthought' — the comma there is fine, but 'not an afterthought' is a contrastive aside typical of em-dash constructions; however no literal em dash character appears, so this is borderline. (2) Bold text is used throughout the bullet section headers ('Strong governance', 'Training across the organization', 'Users involved from day one'), which is explicitly disallowed. (3) The phrase 'not an afterthought' uses negated framing. (4) Word count is approximately 200 words, which is within the 150–250 range. (5) No Oxford comma violations detected. (6) American English is used consistently. The bold text alone is a clear violation of the no-bold rule, and it appears three times.",
+              "score": 3
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The post moves logically from a framing question, to a concrete example (NS/Daan Debie), to three structured takeaways, to a broader KickstartAI reflection, and finally to a call to action. Transitions between sections are smooth and the closing question ties back to the opening well. No abrupt jumps are present.",
+              "score": 5
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "Two clear violations are found. First, 'part of the design, not an afterthought' is a contrastive 'X, not Y' construction. Second, 'where human judgment stays in the lead' is fine on its own, but 'where it helps, and where human judgment stays in the lead' implies a contrastive framing between AI help and human judgment. Additionally, 'not an afterthought' directly violates the negated-style rule. No 'from X to Y' or vague 'This/That' constructions are detected.",
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "part of the design, not an afterthought"
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "where it helps, and where human judgment stays in the lead"
+                }
+              ],
+              "score": 3
+            },
+            {
+              "name": "specificity",
+              "justification": "The post names a specific person (Daan Debie), a specific organization (NS), and concrete AI use cases (crowdedness prediction for trains, bike-availability estimates). The reference to the EU AI Act adds additional grounding. The closing reflective question is somewhat generic and could apply to any AI project, but the bulk of the content is well-anchored in specific details.",
+              "score": 4
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "The post shares several structural features with the reference post: it highlights a named individual and organization, uses emoji-flagged bullet points to summarize key lessons, and closes with a reflective statement from KickstartAI's perspective followed by a call to action. However, the reference post opens with a pride statement and uses a more celebratory framing, while this post opens with a rhetorical question, giving it a slightly different feel. The use of checkmark emojis (✅) instead of the reference's diamond bullets (🔹) is a minor but noticeable stylistic divergence.",
+              "score": 4
+            }
+          ]
+        },
+        "GPT-5": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is knowledgeable and grounded in practice, citing concrete NS use cases and governance. It stays humble and community-centric by highlighting a partner’s work rather than self-promoting: \"At KickstartAI, we see NS as an example...\" The call-to-action question is approachable and human: \"ask: \"Who owns this, who understands this, and who helped build this?\"",
+              "score": 5
+            },
+            {
+              "name": "language_and_style",
+              "justification": "The post uses American English spellings (\"travelers,\" \"organization\"), active voice, short sentences, and clear paragraphs. It uses double quotation marks and the Oxford comma (\"Who owns this, who understands this, and who helped build this?\"). No em dashes or bold text appear. Capitalization and number conventions are correct (\"EU AI Act,\" \"NS\"). Length is ~200 words, within the 150–250 guideline.",
+              "score": 5
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The structure is clear: an opening question, a concrete example (NS), three concise highlights, a broader takeaway, a practical question for readers, and a call to read more. Transitions are smooth and there are no abrupt jumps.",
+              "score": 5
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "There are two negated-style constructions: one \"from X to Y\" framing in the opening question and one contrastive \"X, not Y\" formulation in the governance section. Otherwise, claims are direct and affirmative.",
+              "score": 2,
+              "violations": [
+                {
+                  "type": "from_to",
+                  "quote": "How do you move AI from promising pilot to daily practice on the ground?"
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "part of the design, not an afterthought."
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The post names NS and Daan Debie, references concrete systems (\"crowdedness prediction for trains\" and \"bike-availability estimates\"), and cites governance aligned with the \"EU AI Act.\" It is tailored to Dutch public transport and European values, making it highly specific.",
+              "score": 5
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "It mirrors the historical template: spotlighting a partner’s leadership, extracting lessons in bullet points, emphasizing responsible, people-centered AI, and ending with a \"read more\" CTA and relevant hashtags. Tone and structure closely match the reference.",
+              "score": 5
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_idx": 1,
+      "article_title": "Agentic Engineering II: Best practices to avoid slop and actually improve productivity with coding agents",
+      "post": "🤖 Coding agents can generate entire features in minutes. The real question is: how do you stay in control of what they produce?\n\nIn our new KickstartAI article, we share how teams can use autonomous coding agents without sacrificing quality or accountability.\n\nThe key idea: treat the agent like a very fast junior developer.\n\nYou set the goals. You define the tests. You review the code.\n\nA few practices we highlight:\n• Start with a small, well-scoped task instead of a full roadmap.\n• Use tests as the “contract” between your intent and the agent’s output.\n• Keep a tight feedback loop, refining prompts and context based on results.\n• Log decisions so you can explain how the code came to be, which is vital under the EU AI Act.\n\nFor the Dutch ecosystem, this approach supports both innovation and responsibility. Teams gain speed and experimentation power, while still meeting high standards for reliability, safety, and transparency.\n\nThat is how we see AI adoption accelerating: not by skipping safeguards, but by designing them into the way we use tools like coding agents.\n\nRead the full article here: https://kickstart.ai/news/agentic-engineering-best-practices-coding-agents-avoid-slop-increase-productivity\n\n#AI #engineering #softwarequality #KickstartAI #AIsafety",
+      "evaluations": {
+        "Sonnet": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is broadly on-brand: it is practical, purpose-driven, and community-aware, referencing the Dutch ecosystem and the EU AI Act. However, the opening line ('Coding agents can generate entire features in minutes') leans slightly toward hype-style marketing, and the closing summary feels a touch formulaic rather than naturally human. Overall the voice is recognizable but not perfectly consistent.",
+              "score": 3
+            },
+            {
+              "name": "language_and_style",
+              "justification": "Several violations are present: (1) The post contains an em dash construction — 'which is vital under the EU AI Act' is preceded by a comma, which is fine, but 'That is how we see AI adoption accelerating: not by skipping safeguards, but by designing them into the way we use tools like coding agents' uses a colon followed by a negated contrastive structure. (2) The word count is approximately 175 words, within range. (3) No bold text is used — compliant. (4) 'That is how we see AI adoption accelerating' opens with 'That' as a vague referent (also flagged under discourse_structure). (5) No Oxford comma violations detected. (6) American English is used throughout. (7) The bullet list uses '•' rather than the emoji-style markers seen in the reference, but no explicit rule prohibits this. The primary clear style violation is the absence of double quotation marks around 'contract' — the post uses standard quotation marks which appear to be straight/double, so this may be compliant depending on rendering. One em dash concern: no literal em dash is present. Overall, mostly compliant with minor issues.",
+              "score": 4
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The post flows logically from the hook (speed of coding agents) to the control question, then to the key framing metaphor (junior developer), then to concrete practices, and finally to the broader Dutch ecosystem context. The transition from the bullet list to the ecosystem paragraph is slightly abrupt, but ideas are generally well-connected and the structure is easy to follow.",
+              "score": 4
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "Three violations are present across two patterns. First, the closing sentence uses a contrastive 'not X but Y' construction. Second, the same closing sentence also opens with a vague 'That' without a clear referent. Third, 'not only' is not present but 'not by skipping safeguards, but by designing them' is a classic contrastive frame.",
+              "score": 2,
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "not by skipping safeguards, but by designing them into the way we use tools like coding agents"
+                },
+                {
+                  "type": "vague_reference",
+                  "quote": "That is how we see AI adoption accelerating"
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The post references KickstartAI's own article and links to a specific URL, and it grounds the advice in the EU AI Act and the Dutch ecosystem context. However, no named team members, named partner organizations, or concrete use cases are cited, and the best-practice bullets ('start with a small, well-scoped task', 'use tests as the contract') are generic engineering advice that could appear in any technology blog. A mix of specific and generic content keeps this at a mid-range score.",
+              "score": 3
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "The reference post opens with a curiosity-driven question, names a specific KickstartAI team member, uses emoji-marked bullet points to preview article contents, and closes with a simple read-more link and hashtags. The evaluated post lacks a named author, uses a statement hook instead of a question, and its bullets describe practices rather than previewing article sections. The structural template (hook → author attribution → bullet preview of article → link) is not followed, making the post feel like a different kind of content from the same organization rather than the same series.",
+              "score": 2
+            }
+          ]
+        },
+        "GPT-5": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is knowledgeable yet humble and practical, offering guidance without hype (e.g., \"treat the agent like a very fast junior developer\"). It is community-centric and purpose-driven by referencing \"the Dutch ecosystem\" and accountability under the EU AI Act. The upbeat, human tone comes through in short, direct sentences and an approachable call to action.",
+              "score": 5
+            },
+            {
+              "name": "language_and_style",
+              "justification": "Complies with American English and active voice, with short sentences and paragraphs. Uses double quotation marks around \"contract\" and the Oxford comma in \"reliability, safety, and transparency.\" No em dashes, correct capitalization (\"EU AI Act,\" \"KickstartAI\"), and length is about 220 words. No bold text is used. No violations found.",
+              "score": 5
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "Ideas flow logically: a hook question, a clear thesis, concise imperatives, a concrete practices list, then benefits for the Dutch ecosystem, and a closing principle plus link. Transitions are smooth and there are no abrupt jumps.",
+              "score": 5
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "There are a couple of contrastive constructions and one sentence opening with a vague \"That.\" These could be rewritten as direct affirmative claims to fully meet the guideline.",
+              "score": 3,
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "Start with a small, well-scoped task instead of a full roadmap."
+                },
+                {
+                  "type": "vague_reference",
+                  "quote": "That is how we see AI adoption accelerating:"
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "not by skipping safeguards, but by designing them into the way we use tools like coding agents."
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "It references KickstartAI, links to a specific article, cites the EU AI Act, and provides concrete practices for coding agents. However, it does not name specific projects or people, which slightly limits concreteness.",
+              "score": 4
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "It mirrors the historical template: an opening question, mention of a new KickstartAI piece, a bulleted list of takeaways, a clear \"Read the full article\" CTA, and relevant hashtags. Tone and structure closely match the reference.",
+              "score": 5
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_idx": 2,
+      "article_title": "Agentic Engineering I: A non-technical guide to working with coding agents",
+      "post": "🚀 Coding agents promise speed, but real value comes from how you integrate them into your way of working.\n\nAt KickstartAI, our stance is clear: use coding agents to amplify people, not to bypass them.\n\nIf you are a product leader or engineering manager, here are practical starting points:\n\n• Start small: Give agents contained, low-risk tasks like writing tests or refactoring.\n• Make specs explicit: Clear requirements and acceptance criteria help agents stay on scope.\n• Raise the bar on review: Treat agent output like a pull request from a new colleague.\n• Watch maintenance: Track how agent-generated code behaves over time, not just on day one.\n\nThe big shift is mindset. Developers spend less time writing every line, and more time shaping the system, guiding the agent, and protecting quality.\n\nFor the Dutch ecosystem, this is a chance to combine high productivity with high standards, in line with the EU AI Act and our broader ambition to use AI for societal good.\n\nWe captured these insights in a concise, non-technical guide to agentic engineering.\n\n👉 Read the full article: https://kickstart.ai/news/agentic-engineering-non-technical-guide-working-with-coding-agents\n\n#AgenticAI #softwareengineering #AIproductivity #KickstartAI",
+      "evaluations": {
+        "Sonnet": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is broadly purpose-driven and community-centric, with a clear KickstartAI mission embedded ('use AI for societal good'). However, the opening line 'Coding agents promise speed, but real value comes from how you integrate them' leans slightly lecturing and corporate-advisory rather than the humble, human, approachable register KickstartAI favors. The bullet-point advisory format feels more like a consulting firm's LinkedIn post than the conversational, community-sharing voice seen in the reference posts.",
+              "score": 3
+            },
+            {
+              "name": "language_and_style",
+              "justification": "Several violations are present: (1) Em dash used in 'not just on day one' is acceptable, but 'combine high productivity with high standards, in line with' uses a comma where none is strictly needed — minor. (2) 'not just on day one' is a negated construction affecting style. (3) Bold text is absent — compliant. (4) The post is approximately 200 words — compliant. (5) 'not only' and 'not to bypass' are stylistic concerns. (6) Most critically, an em dash equivalent appears in the bullet 'Track how agent-generated code behaves over time, not just on day one' — while not a typographic em dash, the construction is borderline. (7) 'not to bypass them' and 'not just on day one' both use negated phrasing that edges against active-voice/affirmative style rules. (8) 'If you are a product leader' should arguably use American English contraction 'If you're' for approachability, though this is minor. Overall, the post is mostly compliant but contains a few stylistic issues, particularly the repeated negative constructions.",
+              "score": 3
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The post moves logically from a framing statement, to a KickstartAI stance, to practical bullet points, to a mindset reflection, and finally to a call to action. The transition from the bullet list to 'The big shift is mindset' is slightly abrupt — the connection between the bullets and the mindset paragraph is implied but not explicitly bridged. Overall the structure is clear and readable.",
+              "score": 4
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "Multiple violations are present across patterns. 'Coding agents promise speed, but real value comes from how you integrate them' is contrastive framing. 'use coding agents to amplify people, not to bypass them' is a direct 'X, not Y' contrastive construction. 'Developers spend less time writing every line, and more time shaping the system' is an 'as much A as B' / contrastive parallel. 'not just on day one' is a negated contrastive qualifier. No 'from X to Y' or vague 'This/That' violations detected.",
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "Coding agents promise speed, but real value comes from how you integrate them into your way of working."
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "use coding agents to amplify people, not to bypass them."
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "Developers spend less time writing every line, and more time shaping the system, guiding the agent, and protecting quality."
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "Track how agent-generated code behaves over time, not just on day one."
+                }
+              ],
+              "score": 1
+            },
+            {
+              "name": "specificity",
+              "justification": "The post references KickstartAI's stance and the Dutch ecosystem, and links to a specific KickstartAI article, which provides some grounding. However, the bullet points and advice ('start small,' 'make specs explicit,' 'raise the bar on review') are generic best practices that could appear in any software engineering newsletter. No named individuals, specific use cases, partner organizations, or concrete Dutch-ecosystem examples are cited, unlike the reference post which names Cascha van Wanrooij and a specific project.",
+              "score": 2
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "The reference post opens with a curiosity-driven question, names a specific KickstartAI team member, uses a structured bullet list with emoji markers to tease the article's contents, and closes with a simple read-more link and hashtags. The evaluated post lacks a named author, uses prescriptive advice bullets rather than content-teaser bullets, and opens with a declarative assertion rather than an engaging question. The structural template and human storytelling element of the reference post are not replicated.",
+              "score": 2
+            }
+          ]
+        },
+        "GPT-5": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is knowledgeable and human, offering concrete guidance without hype. It is purpose-driven and community-centric: \"For the Dutch ecosystem... in line with the EU AI Act and our broader ambition to use AI for societal good.\" The phrasing \"here are practical starting points\" is approachable and humble, and \"use coding agents to amplify people\" reflects a people-first stance.",
+              "score": 5
+            },
+            {
+              "name": "language_and_style",
+              "justification": "The post uses American English, active voice, short sentences and paragraphs, and clean bullets. It avoids em dashes and bold text, uses the Oxford comma (\"shaping the system, guiding the agent, and protecting quality\"), and stays within 150–250 words (~180). Capitalization and number conventions are correct (\"EU AI Act,\" \"day one\"). No style violations found.",
+              "score": 5
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The ideas flow logically: statement of value, KickstartAI stance, audience callout, actionable bullets, mindset shift, local/EU context, and a clear CTA. Transitional cues like \"The big shift is mindset\" and \"For the Dutch ecosystem\" maintain continuity with no abrupt jumps.",
+              "score": 5
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "There are a couple of contrastive constructions that frame points via negation rather than direct affirmative claims, e.g., \"X, not Y\" and \"not just\". Otherwise, sentences present clear subjects and direct statements; there are no \"from X to Y\" ranges or vague sentence-openers like \"This\"/\"That.\"",
+              "score": 3,
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "use coding agents to amplify people, not to bypass them."
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "Track how agent-generated code behaves over time, not just on day one."
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The content is concrete and tailored: it names KickstartAI and its stance, references the Dutch ecosystem and the EU AI Act, and gives specific practices (tests, refactoring, acceptance criteria, PR-level review, maintenance tracking). It links to a specific KickstartAI article.",
+              "score": 5
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "It mirrors the historical template with an engaging opener, a concise value frame, a bulleted list of takeaways, and a CTA with a link and hashtags. Minor deviation: it does not feature a named team member or a question hook like the reference, so it feels slightly less aligned structurally.",
+              "score": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_idx": 3,
+      "article_title": "KLM CIO Aart Slagt on why an AI model only has value if users understand and trust it",
+      "post": "✈️ How do you move from AI experiments to AI you can trust in daily operations?\n\nCIO of KLM, Aart Slagt, shared a clear answer: an AI model only has value if people understand it and trust it.\n\nAt KLM, that shift is already visible:\n\n✅ A catering prediction model helps load the right amount of meals, improving service quality and cutting food waste.\n✅ A contingency fuel model supports smarter fueling decisions, with safety and efficiency hand in hand.\n✅ “Talia,” KLM’s secure AI environment, gives employees a safe place to explore and apply AI.\n\nWhat stands out is not just the tech, but the mindset. KLM treats AI as a partner for planning and optimization, while protecting what matters most: human contact in the cabin.\n\nAt KickstartAI, we strongly support this approach. The Dutch ecosystem advances fastest when:\n\n• Teams understand how models work.\n• Employees trust AI enough to use it in critical workflows.\n• Governance and security are built in from day one.\n\nWe see many Dutch organizations stuck in “AI lab mode.” KLM shows what it looks like to move into focused, responsible deployment.\n\nCurious to dive deeper into KLM’s journey and Aart Slagt’s lessons for other leaders? Read the full story on our site.\n\n#AIadoption #ResponsibleAI #AviationInnovation #KickstartAI #Netherlands",
+      "evaluations": {
+        "Sonnet": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is broadly on-brand — purpose-driven, community-centric, and grounded in a real use case — but slips into slightly lecturing or prescriptive territory in the bullet list ('Teams understand how models work,' 'Governance and security are built in from day one'), which reads more like a checklist than the approachable, human KickstartAI voice. The phrase 'We strongly support this approach' feels corporate and flat rather than genuinely engaged.",
+              "score": 3
+            },
+            {
+              "name": "language_and_style",
+              "justification": "Several violations are present: (1) The post uses bold text ('not just the tech, but the mindset' is not bold, but checkmark bullets and structure are fine — however bold is not used so this is acceptable). (2) 'safety and efficiency hand in hand' is a cliché but not a rule violation. (3) The post uses an em dash in 'what matters most: human contact in the cabin' — actually that is a colon, acceptable. Re-examining: bold text does not appear. However, the word count is approximately 230 words, within range. The phrase 'safety and efficiency hand in hand' is stylistically weak but not a rule violation. One clear violation: the post is in American English throughout with no obvious spelling issues. However, 'Curious to dive deeper' opens a sentence with an adjective fragment rather than an active-voice sentence, which is a minor stylistic issue. No Oxford comma violations detected. No em dashes found. Overall the post is mostly compliant with minor issues.",
+              "score": 4
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The post moves logically from a framing question to a named source, then to concrete examples, then to KickstartAI's perspective and a call to action. However, the transition from the KLM bullet points to 'What stands out is not just the tech, but the mindset' is abrupt and the final section listing KickstartAI's own principles feels somewhat disconnected from the KLM narrative, creating a slight structural break.",
+              "score": 3
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "Several violations of the specified patterns are present across multiple types. 'not just the tech, but the mindset' is a contrastive construction. 'How do you move from AI experiments to AI you can trust' is a from-to construction. 'safety and efficiency hand in hand' is borderline but 'while protecting what matters most' in context forms a contrastive framing. 'not just... but' is a clear contrastive violation.",
+              "score": 2,
+              "violations": [
+                {
+                  "type": "from_to",
+                  "quote": "How do you move from AI experiments to AI you can trust in daily operations?"
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "What stands out is not just the tech, but the mindset."
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "KLM treats AI as a partner for planning and optimization, while protecting what matters most: human contact in the cabin."
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The post names specific individuals (Aart Slagt, CIO of KLM), specific tools ('Talia,' the catering prediction model, the contingency fuel model), and specific outcomes (food waste reduction, smarter fueling decisions), which grounds it firmly in concrete reality. The final bullet list about what KickstartAI supports is more generic and could apply to any AI consultancy, slightly diluting the overall specificity.",
+              "score": 4
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "The reference post uses a question opener, names a specific KickstartAI team member, introduces a challenge or collaboration, and uses emoji-led bullet points to break down content before a clear call to action with a link. This post uses a question opener and names a specific person, but the bullet structure uses checkmarks and plain dots rather than the consistent emoji style, the KickstartAI team member is absent as a narrator, and the post reads more as editorial commentary than a structured breakdown of a technical story, diverging meaningfully from the reference template.",
+              "score": 3
+            }
+          ]
+        },
+        "GPT-5": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is knowledgeable and approachable, citing concrete KLM examples and a named leader, and it stays upbeat and purpose-driven: \"At KickstartAI, we strongly support this approach.\" It is community-centric by referencing \"The Dutch ecosystem.\" One line risks sounding a bit lecturing: \"We see many Dutch organizations stuck in 'AI lab mode.'\"",
+              "score": 4
+            },
+            {
+              "name": "language_and_style",
+              "justification": "American English is used (e.g., \"optimization\"); sentences are active and concise (\"A catering prediction model helps load...\"). It uses double quotation marks (\"Talia,\" \"AI lab mode\"), no em dashes, correct capitalization (CIO, KLM, AI), and short paragraphs with bullets. Length is roughly 200 words, within the 150–250 range. No bold text. No violations observed.",
+              "score": 5
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The structure flows logically: a question, a concise answer from KLM's CIO, concrete examples, a mindset takeaway, KickstartAI’s stance with criteria bullets, a broader ecosystem observation, and a clear CTA. Transitions are smooth and there are no abrupt jumps.",
+              "score": 5
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "There are a couple of indirect or contrastive constructions that dilute direct affirmative framing.",
+              "score": 2,
+              "violations": [
+                {
+                  "type": "from_to",
+                  "quote": "How do you move from AI experiments to AI you can trust in daily operations?"
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "What stands out is not just the tech, but the mindset."
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "Highly specific: references KLM, CIO Aart Slagt, the catering prediction model, a contingency fuel model, and KLM’s secure AI environment \"Talia,\" plus a concrete benefit (cutting food waste) and domain detail (human contact in the cabin).",
+              "score": 5
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "It mirrors the historical template with an emoji question opener, mention of a partner case, scannable bullets, and a CTA. Differences include the absence of a direct link line and added ecosystem commentary, so it’s close but not identical to the template.",
+              "score": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_idx": 4,
+      "article_title": "Why managing GenAI projects requires a playbook tweak",
+      "post": "What does responsible GenAI look like in a high-stakes sector like finance? For us, it looks like partnership.\n\nTogether with ING, we co-created a GenAI financial health assistant that helps customers navigate complex questions about their money. The goal: better financial decisions, in a way that fits the EU AI Act and builds trust.\n\nA few principles that shaped the collaboration 👇\n\n⚖️ Regulation as a design input\nWe treated the EU AI Act as a starting point, not an afterthought. That meant clearer guardrails on what the assistant can say and how it explains itself.\n\n🤝 Multi-disciplinary, iterative build\nProduct owners, domain experts, engineers, and legal teams worked in short loops. That rhythm helped us adapt quickly as we saw real user behavior.\n\n📏 Scalable evaluation\nWe designed for continuous testing, monitoring, and improvement so the assistant can evolve safely over time.\n\nFor KickstartAI, this is what accelerating AI adoption in the Netherlands looks like: practical solutions, built responsibly, with impact at scale.\n\nRead more about the ING collaboration and our lessons learned: https://kickstart.ai/news/why-managing-genai-projects-requires-playbook-tweak\n\n#AIAct #ResponsibleAI #GenAI #Netherlands #FinancialServices",
+      "evaluations": {
+        "Sonnet": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is broadly on-brand — purpose-driven, community-centric, and clear — but the bulleted principle headers ('Regulation as a design input,' 'Multi-disciplinary, iterative build,' 'Scalable evaluation') give it a slightly corporate, framework-presentation feel rather than the warm, human storytelling typical of KickstartAI. The closing line recovers the brand voice well, but the middle section reads more like a slide deck than a conversation.",
+              "score": 3
+            },
+            {
+              "name": "language_and_style",
+              "justification": "Several violations are present. (1) Bold text is used: '⚖️ Regulation as a design input', '🤝 Multi-disciplinary, iterative build', '📏 Scalable evaluation' all appear as bold headers, which is explicitly prohibited. (2) 'not an afterthought' uses negated framing and also borders a style issue, though it is primarily a discourse concern. (3) The post length is approximately 160 words of body text, which is within range. (4) No em dashes are used — compliant. (5) American English appears consistent. (6) Active voice is used throughout. The bold text alone is a clear, repeated violation.",
+              "score": 2
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The post flows logically from a framing question to a partnership claim, through three structured principles, and closes with a brand statement and call to action. The transition into the bulleted section is slightly abrupt ('A few principles that shaped the collaboration 👇') but functional. Overall the structure is easy to follow.",
+              "score": 4
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "Two clear violations are present. First, 'We treated the EU AI Act as a starting point, not an afterthought' is a contrastive 'X, not Y' construction. Second, 'That meant clearer guardrails on what the assistant can say and how it explains itself' — 'That' opens the sentence with a vague referent (referring loosely to the entire preceding clause). No 'from X to Y' constructions were found.",
+              "score": 3,
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "We treated the EU AI Act as a starting point, not an afterthought."
+                },
+                {
+                  "type": "vague_reference",
+                  "quote": "That meant clearer guardrails on what the assistant can say and how it explains itself."
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The post names ING, the EU AI Act, and KickstartAI specifically, and references a concrete artifact (the financial health assistant) and a linked article. However, the three principles ('Regulation as a design input,' 'Multi-disciplinary, iterative build,' 'Scalable evaluation') are described in generic terms that could apply to almost any responsible AI project, and no concrete outcomes, metrics, or named individuals are mentioned.",
+              "score": 3
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "The reference post opens with an enthusiastic announcement, names all partners explicitly, explains the purpose and build process in flowing prose, and closes with a community-values statement. The evaluated post uses a question-hook opener, adopts a structured bullet-point format for the body, and is more reflective than announcement-oriented — a notably different structural template. The community-values closing mirrors the reference, but the overall format diverges enough to feel like a different type of post.",
+              "score": 2
+            }
+          ]
+        },
+        "GPT-5": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is collaborative and humble: \"Together with ING, we co-created...\" and \"A few principles that shaped the collaboration\" show a learning mindset. It is knowledgeable and purpose-driven by referencing the EU AI Act and scalable evaluation, and it remains approachable and upbeat with clear, human phrasing and light emoji use. The community focus comes through in \"accelerating AI adoption in the Netherlands\" and the partnership framing.",
+              "score": 5
+            },
+            {
+              "name": "language_and_style",
+              "justification": "The copy uses American English (\"behavior\"), active voice (\"We treated...\", \"We designed...\"), and short sentences/paragraphs. It respects the Oxford comma (\"Product owners, domain experts, engineers, and legal teams\"; \"testing, monitoring, and improvement\"), contains no em dashes or bold text, and is roughly 180–220 words, fitting the 150–250 range. There are no capitalization or number issues, and no quotation formatting is needed.",
+              "score": 5
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "It opens with a clear question and answer, grounds the topic in the ING collaboration and goal, then presents three principles with brief explanations, and closes with a succinct takeaway and link. The progression is logical and easy to follow with no abrupt jumps.",
+              "score": 5
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "There is one contrastive construction that frames an idea via negation. Otherwise, claims are direct, with no \"from X to Y\" phrasing and no vague \"This/That\" openings without a clear referent.",
+              "score": 4,
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "We treated the EU AI Act as a starting point, not an afterthought."
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The post is concrete: it names ING, references a \"GenAI financial health assistant,\" cites the EU AI Act as design input, describes team composition and iteration, and calls out continuous testing and monitoring. It links to a specific KickstartAI article with lessons learned.",
+              "score": 5
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "It mirrors the historical post’s structure and tone: partnership with ING, societal purpose (financial health, responsible AI), concise paragraphs, light emoji usage, and a forward-looking, collaborative stance. It presents new content (principles and EU AI Act framing) while fitting the established template.",
+              "score": 5
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "FS-Pre": [
+    {
+      "topic_idx": 0,
+      "article_title": "AI lessons from the boardroom: Daan Debie on how NS brings AI from pilot to practice",
+      "post": "How do you move AI from a promising pilot to a trusted part of daily operations? 🚆\n\nAt NS, director of data, innovation, and AI, Daan Debie, shared how they are doing exactly that. Think about AI systems that predict train crowdedness or estimate bike availability. Useful, yes, but the real story is how NS makes these solutions work in practice.\n\nThe key ingredients Daan highlighted:\n\n🔹 Strong governance, so AI is aligned with strategy, safety, and regulation.\n🔹 Training for staff at every level, so people understand, trust, and use AI.\n🔹 User involvement from day one, so solutions solve real problems, not hypothetical ones.\n\nThis is the kind of approach we love to see at KickstartAI. It shows how AI can support operational decisions at scale, while respecting European values on privacy and responsibility.\n\nIf you are in a large organization struggling to scale beyond pilots, look closely at examples like NS. The lesson is clear: invest in people, process, and governance as much as in models.\n\nAt KickstartAI, we are proud to collaborate with partners that turn AI into real, everyday impact for travelers, employees, and society.\n\n#AI #Data #Rail #DigitalTransformation #KickstartAI",
+      "evaluations": {
+        "Sonnet": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is largely on-brand: approachable, purpose-driven, and community-centric, with phrases like 'the kind of approach we love to see' and 'real, everyday impact for travelers, employees, and society' reflecting KickstartAI's human and upbeat voice. However, the closing paragraph ('At KickstartAI, we are proud to collaborate...') slides into slightly generic-corporate territory, and the rhetorical opening question, while engaging, feels mildly formulaic. Overall the voice is broadly consistent but not perfectly calibrated throughout.",
+              "score": 3
+            },
+            {
+              "name": "language_and_style",
+              "justification": "Several violations are present: (1) The post uses bold text ('🔹 Strong governance,' '🔹 Training for staff,' '🔹 User involvement') — bold is prohibited. (2) 'so people understand, trust, and use AI' and 'travelers, employees, and society' use the Oxford comma correctly, which is good. (3) 'data, innovation, and AI' — correct. (4) The post is approximately 220 words, within range. (5) No em dashes detected. (6) American English appears consistent. (7) 'not hypothetical ones' is part of a contrastive construction but is a style note covered under discourse_structure. The primary clear violation is the use of bold text on the bullet-point labels.",
+              "score": 3
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The post flows logically from a framing question, to a named example, to key ingredients, to a broader lesson, and finally to KickstartAI's role. Transitions between sections are smooth and the bullet points are well-integrated. The shift from Daan Debie's insights to the generic advisory sentence ('If you are in a large organization struggling to scale...') is a slight jump in audience address, but it does not significantly disrupt the overall flow.",
+              "score": 4
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "Three violations are present: one contrastive construction ('so solutions solve real problems, not hypothetical ones'), one contrastive/balance construction ('invest in people, process, and governance as much as in models'), and one vague 'This' opening ('This is the kind of approach we love to see at KickstartAI') where 'This' refers loosely to the entire preceding bullet list rather than a single clear referent.",
+              "score": 2,
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "so solutions solve real problems, not hypothetical ones"
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "invest in people, process, and governance as much as in models"
+                },
+                {
+                  "type": "vague_reference",
+                  "quote": "This is the kind of approach we love to see at KickstartAI"
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The post names a specific person (Daan Debie, director of data, innovation, and AI at NS), a specific organization (NS), and concrete AI use cases (predicting train crowdedness, estimating bike availability). The governance and training points, while real, are stated generically without referencing specific NS programs or outcomes. The closing paragraph is entirely generic and could apply to any organization or AI initiative.",
+              "score": 3
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "The post shares some structural DNA with the reference: it centers on an NS-related AI topic, uses bullet points with emoji markers, and closes with a KickstartAI-branded takeaway. However, the reference post is built around a specific event (Data Expo 2025) and a named speaker's session, giving it a clear news-peg structure, whereas this post lacks a concrete event anchor. The reference also avoids direct audience advice ('If you are in a large organization...'), which is absent from the historical template. The match is partial.",
+              "score": 3
+            }
+          ]
+        },
+        "GPT-5": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post sounds knowledgeable, community-centric, and human, citing NS and Daan Debie and using inclusive lines like \"This is the kind of approach we love to see at KickstartAI\" and \"we are proud to collaborate.\" It stays grounded and purpose-driven. One line edges into a slightly lecturing tone: \"The lesson is clear: invest in people, process, and governance as much as in models.\"",
+              "score": 4
+            },
+            {
+              "name": "language_and_style",
+              "justification": "The post uses American English, active voice, short sentences and paragraphs, and clear bullets with Oxford commas (e.g., \"strategy, safety, and regulation\"). There are no em dashes, no bold text, appropriate capitalization, and the length falls roughly within 150–250 words. No specific style violations detected.",
+              "score": 5
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The structure flows logically: a hook question, concrete NS examples, a bullet list of \"key ingredients,\" then implications for organizations, and a closing statement about KickstartAI's collaboration. Transitions are smooth and each paragraph builds on the previous one.",
+              "score": 5
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "Most statements are direct and affirmative, but there are a couple of contrastive constructions that reduce directness: a \"not Y\" contrast and an \"as much as\" balance construction.",
+              "score": 3,
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "so solutions solve real problems, not hypothetical ones."
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "invest in people, process, and governance as much as in models."
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The post names NS and \"director of data, innovation, and AI, Daan Debie,\" and cites concrete use cases like predicting train crowdedness and estimating bike availability. It also ties to \"European values on privacy and responsibility.\" However, parts of the guidance (governance, training, user involvement) remain fairly general.",
+              "score": 4
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "It closely matches the historical template: a named speaker from a partner, a concise list of takeaways, a clear strategic lesson, and a closing that ties back to KickstartAI's mission, capped with relevant hashtags. The tone and structure read as part of the same series without reusing specific content.",
+              "score": 5
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_idx": 1,
+      "article_title": "Agentic Engineering II: Best practices to avoid slop and actually improve productivity with coding agents",
+      "post": "Many teams try coding agents for quick wins. The real value appears when you connect them to long-term software quality and maintainability. 🔍✨\n\nIn our latest blog, we explore how to integrate coding agents into your development workflow in a way that strengthens, instead of weakens, your codebase.\n\nKey idea: treat agents as structured collaborators. That means:\n\n🔸 Designing a clear workflow for how the agent proposes changes, and how humans review them.\n🔸 Using tests as the contract between human developers and the agent.\n🔸 Giving the agent enough context to be useful, without overwhelming it with every detail.\n\nFor the Dutch ecosystem, this matters. As organizations adopt AI tools at scale, responsible practices around code quality, traceability, and compliance become essential.\n\nAt KickstartAI, our mission is to accelerate AI adoption in a way that benefits both business and society. Strong engineering discipline around coding agents is a big part of that.\n\nWant to see what this looks like in practice? Read the article here 👇\nhttps://kickstart.ai/news/agentic-engineering-best-practices-coding-agents-avoid-slop-increase-productivity\n\n#ResponsibleAI #AIAgents #NLtech #SoftwareQuality #KickstartAI",
+      "evaluations": {
+        "Sonnet": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is broadly purpose-driven and community-aware, referencing KickstartAI's mission and the Dutch ecosystem. However, phrases like 'The real value appears when you connect them to long-term software quality and maintainability' and 'Strong engineering discipline around coding agents is a big part of that' feel somewhat corporate and flat rather than the warm, approachable, recognizably human voice KickstartAI aims for. The bullet points also read more like a listicle than a natural, knowledgeable conversation.",
+              "score": 3
+            },
+            {
+              "name": "language_and_style",
+              "justification": "Several violations are present: (1) Em dash used in 'strengthens, instead of weakens, your codebase' — while technically commas, the phrase 'instead of weakens' is awkward phrasing but not a direct em-dash violation; however, 'without overwhelming it with every detail' uses a comma construction that borders on this. (2) Bold text is used: 'Key idea:' appears to introduce a bolded-style label (though not explicitly marked, the formatting cue is present in the draft). (3) The post is approximately 180 words, which is within range. (4) 'without overwhelming it with every detail' — the Oxford comma is missing in the list 'code quality, traceability, and compliance' — actually that list does use the Oxford comma correctly. (5) The phrase 'Giving the agent enough context to be useful, without overwhelming it with every detail' uses a dangling participial construction. (6) 'That means:' followed by bullet points uses a colon after a sentence fragment acting as a header, which is a minor style issue. Overall there are a few violations but the post is mostly compliant.",
+              "score": 3
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The post moves logically from the problem (quick wins vs. long-term quality) to the solution (treating agents as collaborators) to why it matters (Dutch ecosystem, KickstartAI mission) and ends with a call to action. The transition between the bullet-point section and the 'For the Dutch ecosystem' paragraph is slightly abrupt, as there is no explicit bridge connecting the practical advice to the broader societal framing.",
+              "score": 3
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "Several violations are present across multiple patterns. 'strengthens, instead of weakens, your codebase' is a contrastive construction. 'treat agents as structured collaborators' is fine, but 'Giving the agent enough context to be useful, without overwhelming it with every detail' is also implicitly contrastive. 'As organizations adopt AI tools at scale' opens a sentence with a vague implicit reference to no clear prior subject. Additionally, 'That means:' opens with a vague 'That' referent.",
+              "score": 2,
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "integrate coding agents into your development workflow in a way that strengthens, instead of weakens, your codebase"
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "Giving the agent enough context to be useful, without overwhelming it with every detail"
+                },
+                {
+                  "type": "vague_reference",
+                  "quote": "That means:"
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The post lacks named people, specific projects, or concrete use cases from KickstartAI. Unlike the reference post, which names a specific engineer (Cascha van Wanrooij) and a specific project (digitizing a classroom board game), this post relies on generic advice ('treat agents as structured collaborators,' 'using tests as the contract') that could appear in any software engineering blog. The link to the article and the KickstartAI mission mention add minimal grounding.",
+              "score": 2
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "The reference post opens with a concrete, curiosity-driven question about a specific experiment, names a specific person, uses emoji bullet points to preview blog content, and ends with a simple read-more link and hashtags. This post instead opens with a general claim, uses abstract framing throughout, never names a specific author or project, and adopts a more advisory tone. The structural template (hook → named person → bullet preview of blog → link) is not followed.",
+              "score": 2
+            }
+          ]
+        },
+        "GPT-5": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is knowledgeable yet humble, using \"we explore\" rather than making grand claims. It is purpose-driven and community-centric with \"For the Dutch ecosystem, this matters\" and \"At KickstartAI, our mission is to accelerate AI adoption...\" The tone is clear, upbeat, and human, supported by approachable language and light emoji use.",
+              "score": 5
+            },
+            {
+              "name": "language_and_style",
+              "justification": "The post uses American English, active voice, and short sentences/paragraphs. It includes the Oxford comma (\"code quality, traceability, and compliance\"), avoids em dashes, and stays within ~160 words. Formatting is clean with no bold text, and capitalization and number usage are correct. No violations observed.",
+              "score": 5
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "Ideas flow logically: a framing insight, a pointer to the blog, a clear \"Key idea\" followed by concrete bullets, relevance to the Dutch context, alignment with mission, and a call to action. Transitions are smooth and the structure is easy to follow.",
+              "score": 5
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "There are minor uses of contrastive and a potentially vague \"this\" reference. Overall, most sentences are direct and affirmative, but the few flagged lines could be made more direct.",
+              "score": 4,
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "strengthens, instead of weakens, your codebase."
+                },
+                {
+                  "type": "vague_reference",
+                  "quote": "For the Dutch ecosystem, this matters."
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The content is concrete: it focuses on coding agents in development workflows, cites specific practices (tests as contracts, review workflows, providing context), ties to the Dutch ecosystem, and links to a KickstartAI article. It clearly reflects KickstartAI’s mission and domain.",
+              "score": 5
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "The structure mirrors prior posts: a hook, reference to a new blog, a concise bullet list of takeaways, mission alignment, a link, and relevant hashtags. Tone and pacing match the historical template without reusing content.",
+              "score": 5
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_idx": 2,
+      "article_title": "Agentic Engineering I: A non-technical guide to working with coding agents",
+      "post": "Many teams ask us: \"Where do we even start with coding agents?\"\n\nOur latest guide offers a pragmatic entry point for organizations that want to experiment without losing control of quality, security, or scope.\n\nHere are three concrete steps to get started:\n\n🧪 Start with a contained pilot\nPick a narrow, repetitive task with low risk, such as refactoring, test generation, or internal tooling. Measure review time, defect rates, and developer satisfaction.\n\n🧭 Redefine developer roles\nAgree that the agent writes the first draft, and developers act as reviewers, architects, and risk owners. Make it explicit who signs off on changes.\n\n📊 Build feedback loops\nUse automated tests, code review checklists, and simple metrics to give agents structured feedback. Treat it as a continuous improvement cycle, not a one‑off experiment.\n\nAt KickstartAI, we believe that coding agents can significantly boost productivity in the Dutch ecosystem when teams combine experimentation with thoughtful governance.\n\nWant to see what that looks like in practice? Check out the full non‑technical guide here:\nhttps://kickstart.ai/news/agentic-engineering-non-technical-guide-working-with-coding-agents\n\n#AIAgents #EngineeringProductivity #DigitalInnovation #KickstartAI",
+      "evaluations": {
+        "Sonnet": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post opens with a relatable community question ('Where do we even start with coding agents?') which is approachable and human, and the closing line ties back to KickstartAI's purpose-driven mission in the Dutch ecosystem. However, the middle section reads more like a structured how-to listicle than a warm, conversational KickstartAI voice — phrases like 'Treat it as a continuous improvement cycle' feel slightly instructional and corporate rather than humble and community-centric.",
+              "score": 3
+            },
+            {
+              "name": "language_and_style",
+              "justification": "Several violations are present: (1) The post uses non-standard hyphens ('non‑technical', 'one‑off') which appear to be non-breaking or em-dash-adjacent characters rather than standard hyphens — these are formatting anomalies. (2) 'non‑technical guide' in the CTA uses a hyphenated compound that may be acceptable, but the character used is not a standard hyphen. (3) Bold text rule is not violated. (4) No Oxford comma violation detected. (5) The word count is approximately 200 words, within range. (6) American English is used throughout. (7) Active voice is mostly maintained. (8) The use of 'non-technical' with a non-standard hyphen character ('non‑technical') appears twice and is a formatting issue. (9) No em dashes are present in a traditional sense, but the non-breaking hyphen in 'non‑technical' and 'one‑off' is atypical. Overall, the post is mostly compliant with minor character/formatting concerns.",
+              "score": 3
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The post flows logically from the opening question to the three-step framework and then to a closing belief statement and CTA. Each bullet point is clearly labeled and self-contained, and the transition from steps to the KickstartAI belief statement is smooth. The structure is easy to follow without abrupt jumps.",
+              "score": 4
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "Two violations are found: (1) 'not only ... but also' pattern is not present, but a contrastive 'not a one‑off experiment' construction appears. (2) 'Treat it as a continuous improvement cycle, not a one‑off experiment' is a contrastive framing. (3) 'without losing control of quality, security, or scope' is also a negated framing embedded in the claim. These constructions undermine the direct affirmative standard.",
+              "score": 3,
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "Treat it as a continuous improvement cycle, not a one‑off experiment."
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "organizations that want to experiment without losing control of quality, security, or scope"
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The post does name KickstartAI and references the Dutch ecosystem, but the three steps (start with a contained pilot, redefine developer roles, build feedback loops) are generic best practices that could apply to any organization or technology guide. No named team members, client cases, or concrete KickstartAI-specific examples are cited, unlike the reference post which names 'Cascha van Wanrooij' and a specific project.",
+              "score": 2
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "The reference post opens with a curiosity-driven question, names a specific person, uses bullet points to preview blog content, and ends with a read-more link and hashtags. This post mirrors the opening question format and the link-plus-hashtags close, but diverges by presenting prescriptive how-to steps rather than previewing a specific authored piece with named contributors. The tone is more instructional than the reference's exploratory, personal style, making it only a partial structural match.",
+              "score": 3
+            }
+          ]
+        },
+        "GPT-5": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is pragmatic and helpful, using approachable, human phrasing like \"Many teams ask us: 'Where do we even start with coding agents?'\" It is purpose-driven and community-centric with \"boost productivity in the Dutch ecosystem,\" and stays humble and clear by offering concrete steps without hype. The CTA \"Want to see what that looks like in practice?\" keeps the tone friendly and inviting.",
+              "score": 5
+            },
+            {
+              "name": "language_and_style",
+              "justification": "Uses American English (\"organizations\"), active voice and imperatives (\"Pick,\" \"Agree,\" \"Use\"), short sentences and paragraphs, and consistent Oxford commas (\"quality, security, or scope\"; \"reviewers, architects, and risk owners\"). It employs double quotation marks around the opening question, includes no em dashes or bold text, and is within the 150–250 word range. No style violations observed.",
+              "score": 5
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "Strong structure: an opening question sets context, followed by a clear promise of a guide, then three well-labeled steps with examples and metrics, and a concluding statement plus CTA and link. Transitions are natural and there are no abrupt jumps.",
+              "score": 5
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "Almost all claims are direct and affirmative. There is one contrastive construction that frames guidance via negation.",
+              "score": 4,
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "Treat it as a continuous improvement cycle, not a one‑off experiment."
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "Specific to coding agents with concrete examples and metrics (\"refactoring, test generation, or internal tooling\"; \"review time, defect rates, and developer satisfaction\"). It references KickstartAI, the Dutch ecosystem, and links to a specific guide. It could be even more specific by citing named projects or people.",
+              "score": 4
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "Closely mirrors the historical template: opens with a question, introduces a new resource, presents a bullet list of concrete takeaways with emoji markers, and ends with a link and hashtags. The tone and structure align well with the reference post.",
+              "score": 5
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_idx": 3,
+      "article_title": "KLM CIO Aart Slagt on why an AI model only has value if users understand and trust it",
+      "post": "Many organizations in the Netherlands are asking the same question: how do you move from AI experiments to real impact at scale? ✨\n\nKLM is a great example of what that journey can look like.\n\nIn a recent conversation, KLM CIO Aart Slagt shared how the airline is shifting from isolated pilots to a focused AI deployment strategy. The goal is clear: use AI where it adds real value in planning, optimization, and operations, while keeping human contact at the heart of the passenger experience.\n\nThat approach delivers tangible results. Projects like smarter catering predictions and more accurate contingency fuel planning show how AI can reduce waste, improve reliability, and support better decision-making across the business.\n\nAt KickstartAI, we see this as a blueprint for the Dutch ecosystem:\n\n✅ Start with concrete operational challenges.\n✅ Involve users early, so they understand and trust the models.\n✅ Build the technical and organizational foundations to scale.\n\nAI adoption is not about replacing people. It is about combining human expertise with data and models to create better outcomes for customers, employees, and society.\n\nWe are proud to see Dutch leaders like KLM take this step, and we are excited to help more organizations follow.\n\n#AIadoption #aviation #DutchTech #machinelearning #KickstartAI",
+      "evaluations": {
+        "Sonnet": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is largely on-brand: purpose-driven, approachable, and community-centric, with phrases like 'we see this as a blueprint for the Dutch ecosystem' and 'we are excited to help more organizations follow.' However, the bulleted checklist section feels slightly instructional and listicle-like rather than conversational, and 'We are proud to see Dutch leaders like KLM take this step' edges toward promotional rather than humble. Overall the voice is broadly consistent with KickstartAI's identity.",
+              "score": 3
+            },
+            {
+              "name": "language_and_style",
+              "justification": "Several violations are present. (1) The post uses American English inconsistently — no clear violations there, but the word count is approximately 230 words, which is within range. (2) No bold text is used — compliant. (3) No em dashes — compliant. (4) The opening sentence 'how do you move from AI experiments to real impact at scale?' is a direct question embedded in a statement, which is acceptable stylistically. (5) The checklist lines beginning with '✅' use short imperative fragments, which are broadly acceptable. (6) 'not about replacing people' and 'It is about combining' — these are split across two sentences, acceptable. (7) 'use AI where it adds real value in planning, optimization, and operations, while keeping human contact at the heart of the passenger experience' — the Oxford comma is used correctly in the list 'planning, optimization, and operations.' However, 'AI adoption is not about replacing people' violates the negated-style construction rule (see discourse_structure). No number or capitalization violations are detected. One minor issue: 'smarter catering predictions' and 'more accurate contingency fuel planning' are lowercase mid-sentence, which is correct. Overall mostly compliant with minor issues.",
+              "score": 4
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The post flows logically from a broad Dutch ecosystem question, to a concrete KLM example, to operational specifics, to KickstartAI's framework, and finally to a forward-looking close. Transitions between sections are clear and each paragraph builds on the previous one. The checklist section is well-anchored by the preceding paragraph and does not feel abrupt.",
+              "score": 4
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "There are multiple violations across patterns. The post contains contrastive framings and a from-to construction: 'use AI where it adds real value in planning, optimization, and operations, while keeping human contact at the heart of the passenger experience' contrasts AI's operational role against the human experience. 'how do you move from AI experiments to real impact at scale?' is a from-to construction. 'AI adoption is not about replacing people. It is about combining human expertise with data and models' is a direct contrastive negation. 'shifting from isolated pilots to a focused AI deployment strategy' is another from-to construction.",
+              "score": 1,
+              "violations": [
+                {
+                  "type": "from_to",
+                  "quote": "how do you move from AI experiments to real impact at scale?"
+                },
+                {
+                  "type": "from_to",
+                  "quote": "shifting from isolated pilots to a focused AI deployment strategy"
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "use AI where it adds real value in planning, optimization, and operations, while keeping human contact at the heart of the passenger experience"
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "AI adoption is not about replacing people. It is about combining human expertise with data and models to create better outcomes for customers, employees, and society."
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The post is grounded in concrete named entities: KLM, CIO Aart Slagt, and specific use cases like 'smarter catering predictions' and 'more accurate contingency fuel planning.' The three-point framework ('Start with concrete operational challenges,' 'Involve users early,' 'Build the technical and organizational foundations to scale') is somewhat generic and could apply to any organization, but it is anchored by the KLM context. The post scores well but loses a point for the generic closing framework.",
+              "score": 4
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "The post partially mirrors the historical template: it opens with a Dutch ecosystem challenge, features a named organization (KLM, also used in the reference post), and closes with a forward-looking call to action. However, it lacks the punchy opening statistic, uses a checklist format not present in the reference, and the closing line 'We are proud to see Dutch leaders like KLM take this step' is more self-congratulatory than the reference's crisp 'The potential is clear. The time to move from exploration to execution is now.' The structural rhythm and terseness of the historical post are only partially replicated.",
+              "score": 3
+            }
+          ]
+        },
+        "GPT-5": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is knowledgeable yet humble, centering KLM’s experience rather than self-promotion (\"KLM is a great example...\"). It is purpose-driven and community-centric, connecting KLM’s approach to a broader Dutch blueprint and emphasizing people (\"keeping human contact at the heart of the passenger experience\" and \"combining human expertise with data and models\"). The tone is clear, upbeat, and human, with a supportive close (\"we are excited to help more organizations follow\").",
+              "score": 5
+            },
+            {
+              "name": "language_and_style",
+              "justification": "The post uses American English (\"optimization\"), active voice (\"That approach delivers tangible results\"), short sentences and paragraphs, and clear bullet points. It consistently applies the Oxford comma (\"planning, optimization, and operations\"; \"customers, employees, and society\"), uses no em dashes or bold text, and stays within the 150–250 word range. No violations noted.",
+              "score": 5
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The ideas progress logically: a broad question, a concrete KLM example, the stated goal, tangible results, a generalized blueprint, and a people-centered principle followed by a forward-looking close. Transitions like \"In a recent conversation\" and \"That approach\" help the flow.",
+              "score": 5
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "There are multiple negated-style and \"from X to Y\" constructions. The post uses a contrastive frame around AI adoption (\"not about... It is about...\") and employs two \"from... to...\" constructions, which the guidelines discourage.",
+              "score": 1,
+              "violations": [
+                {
+                  "type": "from_to",
+                  "quote": "move from AI experiments to real impact at scale"
+                },
+                {
+                  "type": "from_to",
+                  "quote": "shifting from isolated pilots to a focused AI deployment strategy"
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "AI adoption is not about replacing people. It is about combining human expertise with data and models"
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The post cites KLM, names \"KLM CIO Aart Slagt,\" and gives concrete use cases (\"smarter catering predictions\" and \"more accurate contingency fuel planning\"). It clearly states KickstartAI’s perspective and recommended steps tailored to the Dutch ecosystem.",
+              "score": 5
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "It mirrors the historical template: a macro framing, a concrete example, clear statements of approach and results, a short playbook in bullets, a human-centric message, and a concise call to action with relevant hashtags. The tone and structure align without reusing specific claims from the reference.",
+              "score": 5
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_idx": 4,
+      "article_title": "Why managing GenAI projects requires a playbook tweak",
+      "post": "How do you bring GenAI into a highly regulated domain like financial health, and still move fast? 🤝\n\nIn our recent collaboration with ING, KickstartAI helped build a GenAI assistant that supports people with complex financial questions. The challenge: create helpful, conversational answers that also respect strict rules, privacy requirements, and the spirit of the EU AI Act.\n\nOur approach focused on:\n\n⚖️ Aligning legal, risk, and product teams early, so “responsible” is built into the design, not added at the end.\n\n🛟 Using guardrails, retrieval, and tool use to keep answers accurate, grounded, and within the assistant’s mandate.\n\n📏 Setting up transparent evaluation methods, so stakeholders can see how the system behaves, and where it still needs work.\n\nFor us, this is what accelerating AI adoption in the Netherlands looks like: pairing technical innovation with trust, clarity, and long-term maintainability.\n\nWe are proud to work with partners who want GenAI systems that are not just impressive, but dependable and fair for users.\n\nRead more about our joint lessons and practical patterns for responsible GenAI in finance. 👇\n[Link to article]\n\n#ResponsibleAI #GenAI #EUAIAct #FinancialHealth #KickstartAI",
+      "evaluations": {
+        "Sonnet": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is broadly on-brand — purpose-driven, community-centric, and readable — but a few moments feel slightly promotional or self-congratulatory rather than humbly knowledgeable. 'We are proud to work with partners who want GenAI systems that are not just impressive, but dependable and fair for users' leans into marketing language, and 'move fast' in the opener edges toward startup hype. Overall the human, approachable quality is present but inconsistent.",
+              "score": 3
+            },
+            {
+              "name": "language_and_style",
+              "justification": "Several violations found: (1) The post uses bold text ('responsible', implied by emoji-led bullet structure is fine, but the surrounding sentence uses quotation marks correctly). Actually, no bold markdown is present, which is compliant. (2) 'We are proud to work with partners who want GenAI systems that are not just impressive, but dependable and fair for users' — this sentence exceeds natural brevity and contains a negated contrastive construction. (3) The word count is approximately 210 words, which is within the 150–250 range. (4) No em dashes are used — compliant. (5) 'so \"responsible\" is built into the design, not added at the end' uses double quotation marks correctly. (6) Active voice is generally maintained. (7) One style concern: the bullet items are introduced with emoji labels but the lead-in phrase 'Our approach focused on:' ends with a colon followed by a line break, which is acceptable. Overall mostly compliant but the negated construction and a slightly run-on sentence in the closing paragraph are notable issues.",
+              "score": 3
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The post moves logically from the problem (regulated domain, speed) to the approach (three bullet points) to the broader meaning (what AI adoption looks like) and closes with a call to action. Transitions between the bullet section and the closing paragraph are slightly abrupt — the jump from technical patterns to a values statement lacks a bridging sentence — but the overall flow is clear and easy to follow.",
+              "score": 4
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "Three violations are present across multiple patterns. The contrastive construction 'not just impressive, but dependable and fair for users' is a classic 'not X but Y' form. The phrase '\"responsible\" is built into the design, not added at the end' is also a contrastive negated framing. Additionally, 'This is what accelerating AI adoption in the Netherlands looks like' opens with a vague demonstrative 'this' whose referent is the entire preceding paragraph rather than a named subject.",
+              "score": 2,
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "GenAI systems that are not just impressive, but dependable and fair for users"
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "\"responsible\" is built into the design, not added at the end"
+                },
+                {
+                  "type": "vague_reference",
+                  "quote": "For us, this is what accelerating AI adoption in the Netherlands looks like"
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The post names ING and KickstartAI as collaborators and references the EU AI Act, which adds some grounding. However, no individual contributors are named (unlike the reference post which names Julian von der Goltz), no other partner organizations are mentioned, and the three bullet points describe generic responsible-AI practices (guardrails, evaluation, legal alignment) that could apply to any regulated AI project anywhere. The specificity is noticeably weaker than the historical reference.",
+              "score": 2
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "The post shares the same general topic (ING collaboration, GenAI chatbot for financial health) and uses a similar emoji-bulleted list structure. However, the reference post opens with a direct how-question, names a specific author and their role, and links to a concrete technical blog, while this post is more abstract and promotional in framing. The closing CTA in the reference is crisp ('Read the full article below'), whereas this post's closing is vaguer ('[Link to article]'). The structural template is partially matched but the authorial attribution and concrete technical grounding are missing.",
+              "score": 3
+            }
+          ]
+        },
+        "GPT-5": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is knowledgeable yet humble and community-centric, citing a real partner: \"In our recent collaboration with ING\". It is purpose-driven and upbeat: \"this is what accelerating AI adoption in the Netherlands looks like\" and human/approachable: \"We are proud to work with partners...\". No hype or lecturing tone appears.",
+              "score": 5
+            },
+            {
+              "name": "language_and_style",
+              "justification": "It follows American English and uses active voice (\"KickstartAI helped build\"). Sentences and paragraphs are short and clear. It uses double quotation marks around “responsible,” and the Oxford comma appears (\"rules, privacy requirements, and the spirit...\"). There are no em dashes, capitalization is correct, length is roughly 200 words, and there is no bold text.",
+              "score": 5
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The flow is logical: a hook question, the challenge, a clear three-point approach, a values-oriented reflection, then a call to action. Transitions are smooth with no abrupt jumps.",
+              "score": 5
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "There are a couple of contrastive constructions that could be made more direct, but no \"from X to Y\" phrasing and no vague \"This/That\" sentence openings. The contrastive patterns appear in one section of the post.",
+              "score": 3,
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "so “responsible” is built into the design, not added at the end."
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "that are not just impressive, but dependable and fair for users."
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "It names ING, anchors the domain in financial health, references the EU AI Act, and details concrete methods like \"guardrails, retrieval, and tool use\" and \"transparent evaluation methods.\" It ties back to KickstartAI’s mission in the Netherlands.",
+              "score": 5
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "It mirrors the historical template: opens with a question, references a collaboration (ING), presents a concise bulleted approach, and ends with a \"Read more\" CTA and relevant hashtags. Tone and structure align closely without reusing specific claims.",
+              "score": 5
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "ZS-Post": [
+    {
+      "topic_idx": 0,
+      "article_title": "AI lessons from the boardroom: Daan Debie on how NS brings AI from pilot to practice",
+      "post": "🚆 How do you move AI from a promising pilot to everyday practice on the ground?\n\nAt NS, director of data, innovation and AI Daan Debie shared how their teams already use AI to predict train crowdedness and estimate bike availability. Those are real decisions, affecting real travelers, every day.\n\nThe success did not start with models. It started with:\n\n✅ Clear governance, so everyone knows who owns the data, the risks, and the outcomes.\n✅ Comprehensive training, so staff understand what the AI does and how to act on it.\n✅ Involving users from day one, so solutions match actual workflows.\n\nNS shows how operational AI can improve efficiency and safety while staying aligned with European values on privacy and responsibility.\n\nAt KickstartAI, we see this as a blueprint for Dutch organizations that want AI that truly works in practice.\n\nCurious how NS did it? Dive into the full story on our website, and let it inspire your next AI step.\n\n🔗 https://kickstart.ai/news/daan-debie-ns-how-ns-brings-ai-from-pilot-to-practice\n\n#AIadoption #publictransport #responsibleAI #KickstartAI #Netherlands",
+      "evaluations": {
+        "Sonnet": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is largely on-brand: purposeful, grounded, and community-oriented. Phrases like 'real decisions, affecting real travelers, every day' feel human and approachable. However, 'staying aligned with European values on privacy and responsibility' reads slightly corporate and abstract, slightly disrupting the otherwise warm and direct voice.",
+              "score": 4
+            },
+            {
+              "name": "language_and_style",
+              "justification": "Several violations are present: (1) Bold text is used on the three bullet-point items ('Clear governance,' 'Comprehensive training,' 'Involving users from day one'), which is explicitly prohibited. (2) 'The success did not start with models' uses 'did not' in a negated construction rather than active affirmative phrasing. (3) The post is approximately 145 words, which is at the very low edge of the 150–250 word target range, though borderline acceptable. (4) No em dashes, Oxford comma usage is not tested but not violated. No capitalization or number convention issues detected. The bold text alone is a clear rule violation.",
+              "score": 2
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The post flows logically from a framing question, to a concrete example, to the success factors, to a broader takeaway, and finally to a call to action. Transitions between sections are smooth, and the bullet points break up information clearly. No abrupt jumps are present.",
+              "score": 5
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "Two violations are found: 'improve efficiency and safety' is not a structural violation, but 'AI from a promising pilot to everyday practice on the ground' is a from-to construction, and 'move AI from a promising pilot to everyday practice' repeats this pattern. Additionally, 'Those are real decisions' opens with a vague demonstrative pronoun 'Those' whose referent requires re-reading the prior sentence to clarify.",
+              "score": 3,
+              "violations": [
+                {
+                  "type": "from_to",
+                  "quote": "How do you move AI from a promising pilot to everyday practice on the ground?"
+                },
+                {
+                  "type": "from_to",
+                  "quote": "how NS brings AI from pilot to practice"
+                },
+                {
+                  "type": "vague_reference",
+                  "quote": "Those are real decisions, affecting real travelers, every day."
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The post names NS, Daan Debie, and two concrete AI use cases (predicting train crowdedness, estimating bike availability), which grounds it well. The three success factors (governance, training, user involvement) are somewhat generic and could apply to any organization's AI rollout, but they are anchored to NS's actual experience, keeping the balance positive.",
+              "score": 4
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "The post shares structural DNA with the reference: it highlights a partner organization, names a specific individual, lists concrete AI applications, and ends with a call to action linking to further reading. However, it lacks the reflective 'what makes this special to us' framing and the explicit connection back to KickstartAI's broader philosophy that gives the reference post its community-centric warmth. The bullet-point formatting also diverges (checkmarks vs. diamonds), and the overall length is shorter than the reference.",
+              "score": 3
+            }
+          ]
+        },
+        "GPT-5": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is knowledgeable yet humble and community-centric, crediting NS and Daan Debie for the work (“At NS, director of data, innovation and AI Daan Debie shared...”) and positioning KickstartAI as a supportive observer (“we see this as a blueprint”). It’s upbeat and approachable with a clear, human CTA (“Curious how NS did it? ... let it inspire your next AI step.”). There’s no hype or lecturing tone.",
+              "score": 5
+            },
+            {
+              "name": "language_and_style",
+              "justification": "Mostly compliant with style rules: American English (“travelers,” “organizations”), active voice, short paragraphs, no em dashes, and appropriate length. Specific violations: (1) Missing Oxford comma in “data, innovation and AI” (should be “data, innovation, and AI”). (2) Appositive punctuation and article missing around the formal title and name: “At NS, director of data, innovation and AI Daan Debie shared...” should read “At NS, the Director of Data, Innovation, and AI, Daan Debie, shared...”. (3) Related capitalization issue: formal title before a name should be capitalized (“Director of Data, Innovation, and AI”).",
+              "score": 4
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The post flows logically: a framing question, a concrete NS example, a concise list of success enablers, a values-oriented statement, and a clear CTA with a link. Transitions are smooth (“It started with:” leading into bullets) and each paragraph builds on the previous one.",
+              "score": 5
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "There are a couple of dispreferred constructions: a “from X to Y” range in the opening question and a split “not X, but Y” contrast (“did not start with models. It started with:”). Otherwise, claims are direct and clear.",
+              "score": 3,
+              "violations": [
+                {
+                  "type": "from_to",
+                  "quote": "How do you move AI from a promising pilot to everyday practice on the ground?"
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "The success did not start with models. It started with:"
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The content is concrete and grounded: it names NS and Daan Debie, cites specific use cases (“predict train crowdedness and estimate bike availability”), outlines actionable enablers (governance, training, user involvement), references European privacy and responsibility values, and links to a specific KickstartAI page.",
+              "score": 5
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "Strong match with the historical template: partner-focused spotlight, concrete examples, a principles-style bullet list, values emphasis, upbeat supportive tone, and a CTA with link and hashtags. It reads like another post in the same series without reusing prior content.",
+              "score": 5
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_idx": 1,
+      "article_title": "Agentic Engineering II: Best practices to avoid slop and actually improve productivity with coding agents",
+      "post": "🤖 Coding agents promise faster development cycles, but long‑term value comes from pairing that speed with strong engineering discipline.\n\nOur new article on agentic engineering explores how teams can reach higher productivity without losing control of their codebase.\n\nKey principles:\n\n🔍 Maintain focus in coding sessions\nStructured prompts, clear goals, and short iterative loops help the agent stay on track. Focused sessions reduce rework and make code reviews easier.\n\n🧪 Put tests at the center\nTest‑driven development gives coding agents a clear definition of “done.” When every change has a test, teams gain confidence in both functionality and future refactors.\n\n🧭 Keep humans in the driver’s seat\nDevelopers review, adapt, and integrate the agent’s work. The agent accelerates implementation; the team owns architecture, quality, and accountability.\n\nFor Dutch organizations operating under the EU AI Act, these habits support responsible AI use in critical development workflows.\n\nAt KickstartAI, we collaborate with partners across the Netherlands to turn practices like these into everyday reality, not just theory.\n\nRead the full article to see how structured use of coding agents can upgrade your engineering culture. 🚀\n\n#AIengineering #codingagents #EUAIAct #softwaredevelopment #KickstartAI",
+      "evaluations": {
+        "Sonnet": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is broadly purpose-driven and community-centric, mentioning KickstartAI's collaborative role in the Dutch ecosystem. However, the opening line 'Coding agents promise faster development cycles, but long-term value comes from pairing that speed with strong engineering discipline' reads somewhat corporate and lecture-like rather than the approachable, humble, and human tone characteristic of KickstartAI. The bulleted section headers ('Maintain focus,' 'Put tests at the center') feel instructional and flat rather than conversational.",
+              "score": 3
+            },
+            {
+              "name": "language_and_style",
+              "justification": "Several violations are present: (1) The post uses bold text in the section headers ('Maintain focus in coding sessions,' 'Put tests at the center,' 'Keep humans in the driver's seat'), which is explicitly prohibited. (2) 'long‑term' and 'Test‑driven' use non-standard hyphen characters (non-breaking or soft hyphens) rather than regular hyphens, a formatting irregularity. (3) The post exceeds the 250-word guideline, running to approximately 190 words in body text but the structured bullet blocks push total length beyond the recommended range when headers are counted. (4) 'not just theory' at the end of 'everyday reality, not just theory' is flagged separately under discourse_structure but also contributes a slightly informal fragment. Overall, the bold text violation is the clearest and most significant breach.",
+              "score": 2
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The post moves logically from a premise (coding agents need discipline) to three supporting principles and then to KickstartAI's role and a call to action. The transitions between sections are functional but abrupt — the jump from the three principles to the EU AI Act paragraph feels disconnected, as no bridge explains why compliance is the next topic. The closing call to action is clear.",
+              "score": 3
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "Two clear violations are present. First, the closing sentence of the KickstartAI paragraph uses a contrastive 'not' framing. Second, the opening sentence uses a contrastive 'but' structure typical of 'X, not Y' framing. No 'from X to Y' or vague 'This/That' constructions were found.",
+              "score": 3,
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "Coding agents promise faster development cycles, but long‑term value comes from pairing that speed with strong engineering discipline."
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "turn practices like these into everyday reality, not just theory."
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The post lacks concrete specificity: no named KickstartAI team members, no named partner organizations, no real use cases or projects are cited. Phrases like 'teams can reach higher productivity,' 'Dutch organizations operating under the EU AI Act,' and 'partners across the Netherlands' are generic and could apply to any consultancy. The three principles described (focus, TDD, human oversight) are standard software-engineering advice not grounded in KickstartAI-specific experience or examples.",
+              "score": 2
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "The reference post leads with a concrete human-interest hook (a specific engineer, a specific experiment), uses emoji bullet points to preview article content, and ends with a simple read-more link and hashtags — keeping the structure light and curiosity-driven. The evaluated post instead uses a thesis statement opening, structured principle headers with bold text, and multiple paragraphs of explanation, making it feel more like a thought-leadership article than the KickstartAI blog-teaser template. The format and structural logic differ clearly from the reference.",
+              "score": 2
+            }
+          ]
+        },
+        "GPT-5": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is knowledgeable yet humble, emphasizing discipline over hype: \"long‑term value comes from pairing that speed with strong engineering discipline.\" It is community-centric and purpose-driven: \"we collaborate with partners across the Netherlands\" and references responsible AI under the EU AI Act. The human, approachable tone shows through balanced guidance like \"The agent accelerates implementation; the team owns architecture, quality, and accountability.\"",
+              "score": 5
+            },
+            {
+              "name": "language_and_style",
+              "justification": "Complies with American English (\"organizations,\" \"center\"), active voice, short sentences and paragraphs, double quotation marks around \"done.\", and the Oxford comma (\"architecture, quality, and accountability\"). No em dashes are used; hyphens are correctly used in \"long‑term\" and \"Test‑driven.\" Capitalization and number conventions are correct, and length is roughly 170–180 words. No bold text is used. No violations found.",
+              "score": 5
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The ideas flow logically: a framing insight, an announcement of the article, three clearly labeled principles with brief elaborations, a contextual note about the EU AI Act, a line on KickstartAI’s role, and a clear CTA. Transitions like \"Key principles:\" and the EU AI Act sentence provide smooth connectivity without abrupt jumps.",
+              "score": 5
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "Almost all claims are direct and affirmative. There is one contrastive construction that frames value by negation.",
+              "score": 4,
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "everyday reality, not just theory."
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "It is grounded in concrete practices (\"Structured prompts, clear goals, and short iterative loops,\" \"Test‑driven development,\" code reviews) and situates the guidance in the Dutch/EU context (\"For Dutch organizations operating under the EU AI Act\"). It references KickstartAI’s collaboration in the Netherlands. However, it lacks named contributors, partners, or a specific project example.",
+              "score": 4
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "It mirrors the historical template: an opening hook, announcement of a new piece, a list of key takeaways, and a CTA with hashtags. The upbeat, clear tone matches. Differences include no named author and the absence of a direct link, and the principles are explained in short paragraphs rather than concise bullet points, making it close but not an exact structural match.",
+              "score": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_idx": 2,
+      "article_title": "Agentic Engineering I: A non-technical guide to working with coding agents",
+      "post": "💡 Coding agents do not replace developers. Coding agents change what it means to be a developer.\n\nIn many of the projects we see at KickstartAI, engineers spend less time typing code and more time:\n\n• Designing robust architectures for agents to work within.\n• Writing clear specifications, examples, and test cases.\n• Reviewing, refactoring, and securing agent-generated code.\n• Coordinating across disciplines to deliver real user value.\n\nFor Dutch organizations, this shift can unlock new levels of productivity, especially when combined with strong engineering culture and the guardrails of the EU AI Act.\n\nAgentic AI fits perfectly with a learning mindset: teams iterate faster, experiment more safely, and focus on higher-level problems that matter for society.\n\nAt KickstartAI, we collaborate with partners across the Netherlands to turn these capabilities into practical tools for product teams, public institutions, and the wider ecosystem.\n\n🤝 Want to understand how to prepare your teams for coding agents, in language everyone can follow? Start with our non-technical guide:\nhttps://kickstart.ai/news/agentic-engineering-non-technical-guide-working-with-coding-agents\n\n#KickstartAI #FutureOfWork #Developers #AIAgents #DutchTech",
+      "evaluations": {
+        "Sonnet": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is broadly purposeful and community-oriented, mentioning KickstartAI's collaborative role and the Dutch ecosystem. However, the opening feels more like a thought-leadership aphorism than KickstartAI's characteristically humble, human voice, and phrases like 'unlock new levels of productivity' and 'fit perfectly with a learning mindset' lean slightly toward generic corporate uplift rather than the approachable, grounded tone seen in the reference post.",
+              "score": 3
+            },
+            {
+              "name": "language_and_style",
+              "justification": "Several violations are present: (1) 'do not replace' and 'more time:' in the opening lines use a colon after a full sentence followed by bullet points, which is acceptable, but the opening sentence itself uses a negated construction that also flags under discourse_structure. (2) The word 'originally' at the end of the reference post bullet is a typo ('originally' instead of 'originally' — not in this post, noted for reference only). More critically: (3) the post contains bold-adjacent emphasis via the rhetorical repeat of 'Coding agents' at the start — not bold text per se, so no violation there. (4) 'em dash' check passes. (5) However, the post does not use American English exclusively — 'guardrails' is fine, but no clear British spellings appear. (6) Word count is approximately 160 words, within range. (7) No Oxford comma violations found. (8) 'EU AI Act' capitalization is correct. (9) No double-quotation-mark violations. The post is largely compliant but 'do not' (negated construction) and the slightly fragmented rhetorical opening sentence are minor stylistic concerns; no bold text violations found. Overall, mostly compliant with minor issues.",
+              "score": 4
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The post moves logically from a claim about what coding agents change, to a bulleted list of concrete new developer responsibilities, to implications for Dutch organizations, to a broader mindset point, and finally to a KickstartAI call to action. The transition from the EU AI Act mention to 'Agentic AI fits perfectly with a learning mindset' is slightly abrupt and underdeveloped, but the overall flow is clear and readable.",
+              "score": 4
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "The opening line contains a clear contrastive framing construction ('do not replace... change what it means'), and the second sentence uses a 'less time... more time' contrastive construction. An additional 'from-to' adjacent pattern appears implicitly in the bullet structure but no explicit 'from X to Y' phrasing is used. No vague 'This/That' openers are found.",
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "Coding agents do not replace developers. Coding agents change what it means to be a developer."
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "engineers spend less time typing code and more time"
+                }
+              ],
+              "score": 2
+            },
+            {
+              "name": "specificity",
+              "justification": "The post names KickstartAI and references the Dutch ecosystem and the EU AI Act, which adds some grounding. However, no specific partners, named individuals, projects, or concrete use cases are cited. The bullet points describe generic developer activities that could apply to any organization globally, and claims like 'unlock new levels of productivity' and 'focus on higher-level problems that matter for society' remain abstract.",
+              "score": 2
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "The reference post opens with a concrete, curiosity-driven question, uses emoji-bulleted content breakdowns, links directly to a KickstartAI blog post, and keeps a light, exploratory tone throughout. The evaluated post instead opens with a rhetorical aphorism, uses plain bullet points without emoji markers, makes broader strategic claims, and only links to a guide at the end. While both promote KickstartAI content, the structure and style differ noticeably from the historical template.",
+              "score": 2
+            }
+          ]
+        },
+        "GPT-5": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post sounds knowledgeable and approachable, grounding claims in KickstartAI’s work and inviting readers to a \"non-technical guide.\" It is community-centric and purpose-driven, citing \"partners across the Netherlands\" and the EU AI Act. One mildly absolute phrase, \"fits perfectly with a learning mindset,\" edges toward overstatement.",
+              "score": 4
+            },
+            {
+              "name": "language_and_style",
+              "justification": "The post uses American English (\"organizations\"), active voice (\"we collaborate\"), short sentences and paragraphs, and clear bullet points. It includes the Oxford comma (\"specifications, examples, and test cases\"), has no em dashes or bold text, and is roughly 160 words. No style violations found.",
+              "score": 5
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The flow is logical: a clear thesis on coding agents and developers, a concrete list of shifting tasks, implications for Dutch organizations, a statement of benefits, KickstartAI’s role, and a CTA. Transitions are smooth with no abrupt jumps.",
+              "score": 5
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "Claims are made directly and affirmatively without using the flagged patterns. There is no \"X, not Y\" contrastive framing, no \"from X to Y\" construction, and no sentence starting with a vague \"This\" or \"That.\"",
+              "score": 5,
+              "violations": []
+            },
+            {
+              "name": "specificity",
+              "justification": "The content is grounded in KickstartAI’s context and the Netherlands, citing \"the guardrails of the EU AI Act\" and linking to a specific KickstartAI guide. However, it lacks concrete project examples or named partners, and the bullet tasks are generic to many teams.",
+              "score": 4
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "It mirrors the historical post’s structure and tone with an emoji hook, concise lines, bullet points, a link CTA, and relevant hashtags. It differs slightly by being a perspective/insight post rather than a named-author blog summary, but it still fits the series feel.",
+              "score": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_idx": 3,
+      "article_title": "KLM CIO Aart Slagt on why an AI model only has value if users understand and trust it",
+      "post": "✈️ Many organizations talk about moving from AI pilots to real impact. KLM is already doing it.\n\nDuring a recent session, KLM CIO Aart Slagt shared how the airline shifted from experimentation to a clear AI deployment strategy. The focus is simple and powerful: use AI where it improves operations, and keep people where human contact matters most.\n\nKLM now applies AI to planning and optimization, with concrete results:\n• A catering prediction model that helps load the right meals, reducing waste and improving passenger experience.\n• A contingency fuel model that supports smarter fueling decisions and more efficient operations.\n• \"Talia,\" a secure environment that lets employees work with AI tools safely.\n\nAart made one key point: an AI model only creates value when users understand it and trust it.\n\nAt KickstartAI, we see this mindset as essential for the Dutch ecosystem. Responsible deployment, transparent models, and secure environments help organizations scale AI with confidence.\n\nStories like KLM's show how the Netherlands can turn AI ambition into operational excellence and societal benefit.\n\n🔗 Read the full story on our site.\n\n#AIadoption #aviation #KLM #KickstartAI #NLtech",
+      "evaluations": {
+        "Sonnet": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is largely on-brand: it is purposeful, community-centric, and grounded in a real story. Phrases like 'Responsible deployment, transparent models, and secure environments help organizations scale AI with confidence' slip into slightly corporate-consultancy language, and the closing sentence ('turn AI ambition into operational excellence and societal benefit') feels a touch formal and generic rather than warmly human. Overall the voice is recognizable but inconsistent in a few places.",
+              "score": 3
+            },
+            {
+              "name": "language_and_style",
+              "justification": "Several violations are present. (1) The post uses bullet points with em-dash-adjacent formatting but, more critically, contains bold-adjacent emphasis that does not apply; however 'simple and powerful' reads as filler. (2) 'use AI where it improves operations, and keep people where human contact matters most' is a contrastive construction also flagged under discourse_structure. (3) The post is approximately 210 words, within the 150-250 range — compliant. (4) No em dashes are present — compliant. (5) No Oxford comma violation detected. (6) No number/capitalization issues. (7) Active voice is mostly used. The main style concern is that bullet-point sentence fragments ('A catering prediction model that helps load the right meals, reducing waste and improving passenger experience.') are incomplete sentences, which is a minor style inconsistency, and 'Stories like KLM's' uses a possessive that is correct but the plural 'Stories' implies more than one story is cited when only one is. Overall mostly compliant with a couple of minor issues.",
+              "score": 3
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The post flows logically from the hook (KLM moving from pilots to impact), to the strategy described by Aart Slagt, to concrete examples, to a key insight, to KickstartAI's broader framing, and finally to a call to action. Transitions between sections are smooth and the structure is easy to follow with no abrupt jumps.",
+              "score": 5
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "Two clear violations are present. First, 'use AI where it improves operations, and keep people where human contact matters most' is a contrastive framing ('X ... Y' opposition). Second, 'moving from AI pilots to real impact' is a from-to construction. Third, 'Stories like KLM's show how the Netherlands can turn AI ambition into operational excellence' opens with a vague umbrella noun ('Stories like KLM's') that references an implied set without a clear prior referent, functioning similarly to a vague 'This'.",
+              "score": 2,
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "use AI where it improves operations, and keep people where human contact matters most"
+                },
+                {
+                  "type": "from_to",
+                  "quote": "moving from AI pilots to real impact"
+                },
+                {
+                  "type": "from_to",
+                  "quote": "shifted from experimentation to a clear AI deployment strategy"
+                },
+                {
+                  "type": "vague_reference",
+                  "quote": "Stories like KLM's show how the Netherlands can turn AI ambition into operational excellence and societal benefit"
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The post is well-grounded in specifics: a named person (Aart Slagt, KLM CIO), named tools ('Talia'), named models (catering prediction model, contingency fuel model), and a concrete metric referenced in context. The closing paragraph ('Responsible deployment, transparent models, and secure environments help organizations scale AI with confidence') is the one passage that drifts into generic territory applicable to any organization or technology.",
+              "score": 4
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "The historical reference post opens with a striking statistic or observation, moves through a problem framing, and lands on concrete KickstartAI results with emoji bullet points before a bold call-to-action line. The evaluated post shares some structural DNA (emoji opener, bullet-pointed results, KickstartAI framing paragraph, hashtags) but lacks the punchy problem-framing middle section and the single strong closing call-to-action line that characterizes the reference. The tone is slightly more reportorial and less editorially assertive than the reference post, making it feel like a related but not closely matched entry in the series.",
+              "score": 3
+            }
+          ]
+        },
+        "GPT-5": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is knowledgeable yet humble, crediting KLM and Aart Slagt rather than self-promoting, e.g., \"Aart made one key point: an AI model only creates value when users understand it and trust it.\" It is purpose-driven and community-centric with \"At KickstartAI, we see this mindset as essential for the Dutch ecosystem,\" and upbeat and human in tone throughout.",
+              "score": 5
+            },
+            {
+              "name": "language_and_style",
+              "justification": "American English is used (\"optimization\"); sentences are active and concise (\"KLM now applies AI...\"; \"Aart made one key point...\"); paragraphs are short. Double quotation marks are used correctly (\"Talia,\" with the comma inside the quotes). The Oxford comma appears (\"Responsible deployment, transparent models, and secure environments\"). No em dashes, correct capitalization (\"KLM CIO Aart Slagt,\" \"Netherlands\"), and no bold text. Length is approximately 177 words, within the 150–250 range.",
+              "score": 5
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The post flows logically: it opens with the challenge and KLM’s stance, cites the CIO’s framing, lists concrete results, then highlights a key principle, offers KickstartAI’s ecosystem view, and closes with a CTA. Transitions are smooth and each section builds on the previous one.",
+              "score": 5
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "There are a couple of \"from X to Y\" constructions that frame ideas comparatively rather than as direct affirmative claims. Otherwise, subjects are clear and statements are affirmative; there are no vague \"This/That\" openings or contrastive \"not X, but Y\" patterns.",
+              "score": 3,
+              "violations": [
+                {
+                  "type": "from_to",
+                  "quote": "moving from AI pilots to real impact"
+                },
+                {
+                  "type": "from_to",
+                  "quote": "shifted from experimentation to a clear AI deployment strategy"
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The content is concrete and anchored in a real case: KLM, CIO Aart Slagt, specific models (\"catering prediction model,\" \"contingency fuel model\"), and a named secure environment (\"Talia\"). It ties these to operational outcomes and trust, making it clearly specific to the topic and KickstartAI’s ecosystem perspective.",
+              "score": 5
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "The structure mirrors the historical template: a clear opener framing the challenge, a named speaker, concrete outcomes in bullets, a principles takeaway, a KickstartAI ecosystem perspective, and a CTA with hashtags. The tone and clarity align closely with the reference while covering distinct content.",
+              "score": 5
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_idx": 4,
+      "article_title": "Why managing GenAI projects requires a playbook tweak",
+      "post": "💡 GenAI products ask for a different playbook.\n\nIn our work with ING on a financial health assistant, we saw product, tech, and compliance teams face new questions: How do you scope a system that “talks back”? How do you measure quality when answers can vary, yet must stay safe and accurate?\n\nThree principles stood out:\n\n✅ Align expectations early.\nTeams agree on what “a good answer” looks like, including guardrails, tone of voice, and how to handle uncertainty.\n\n✅ Treat the model like a teammate.\nTeams iterate with the assistant, review outputs together, and use real customer journeys to refine prompts, context, and UX.\n\n✅ Design evaluation as a product feature.\nOrganizations build test sets, feedback loops, and dashboards so that learning, not guessing, drives improvement.\n\nGenAI in finance is high stakes, especially under the EU AI Act. With the right structures, it is also a powerful way to increase financial literacy and support customers when they need it most.\n\nKickstartAI exists to help Dutch organizations reach that point faster, and more safely, together.\n\n🔗 Read the full ING collaboration story:\nhttps://kickstart.ai/news/why-managing-genai-projects-requires-playbook-tweak\n\n#AIProductManagement #GenAI #FinTech #KickstartAI",
+      "evaluations": {
+        "Sonnet": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is largely on-brand: purpose-driven, community-centric, and approachable. The opening hook and closing mission statement feel recognizably KickstartAI. However, the bulleted principles section reads slightly like a generic framework listicle ('Treat the model like a teammate'), which edges toward consultant-speak rather than the humble, human voice KickstartAI typically uses.",
+              "score": 3
+            },
+            {
+              "name": "language_and_style",
+              "justification": "Several violations are present. (1) Em dash used: 'learning, not guessing, drives improvement' is fine, but 'and more safely, together' is preceded by a comma not an em dash — however 'it is also a powerful way' is clean. Re-checking: 'KickstartAI exists to help Dutch organizations reach that point faster, and more safely, together.' — no em dash there. (2) Bold text is used throughout: '✅ Align expectations early.', '✅ Treat the model like a teammate.', '✅ Design evaluation as a product feature.' appear as bold headers in LinkedIn markdown, violating the no-bold rule. (3) Word count is approximately 190 words, within range. (4) No Oxford comma violation detected. (5) The phrase 'a system that \"talks back\"' correctly uses double quotation marks. (6) 'a good answer' uses double quotation marks correctly. The primary clear violation is the use of bold text for the three principle headers.",
+              "score": 3
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The post flows logically from problem framing (new questions GenAI raises) to three principles to broader stakes and a mission close. The transition from the bulleted principles to the EU AI Act paragraph is slightly abrupt, with no bridging sentence connecting the framework to the regulatory context, but the overall structure is easy to follow.",
+              "score": 4
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "Two violations are present. First, 'learning, not guessing, drives improvement' is a contrastive 'X, not Y' construction. Second, 'how do you measure quality when answers can vary, yet must stay safe and accurate' is implicitly contrastive framing opposing variance against safety. Additionally, 'With the right structures, it is also a powerful way' uses 'This/That'-adjacent vague referencing through 'it' pointing back loosely to 'GenAI in finance,' though this is borderline. The clearest flagged violations are quoted below.",
+              "score": 3,
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "learning, not guessing, drives improvement"
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "How do you measure quality when answers can vary, yet must stay safe and accurate?"
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The post names ING and the financial health assistant, which grounds it concretely. However, the three principles ('Align expectations early,' 'Treat the model like a teammate,' 'Design evaluation as a product feature') are stated at a level of abstraction that could apply to any GenAI project at any organization. No specific team members, participant organizations, or concrete outcomes from the collaboration are named, unlike the reference post which lists six named organizations and specific technical components.",
+              "score": 3
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "The reference post opens with a direct question, introduces named people and organizations, and uses emoji bullet points to itemize concrete technical contributions, closing with a link. This post opens with a punchy statement rather than a question, omits named individuals entirely, and structures the body as a generic principles framework rather than a specific project narrative. While it shares the ING topic and closing link format, the structural template and level of personnel/organizational detail diverge noticeably from the historical example.",
+              "score": 2
+            }
+          ]
+        },
+        "GPT-5": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is knowledgeable yet humble, grounding claims in \"our work with ING\" and offering three practical principles without hype. It is purpose-driven and community-centric: \"help Dutch organizations reach that point faster, and more safely, together.\" The tone is approachable and upbeat, supported by clear, human phrasing and light emoji use.",
+              "score": 5
+            },
+            {
+              "name": "language_and_style",
+              "justification": "The post follows American English and uses active voice throughout (e.g., \"Teams agree,\" \"Teams iterate,\" \"Organizations build\"). Sentences and paragraphs are short; double quotation marks are used; Oxford commas appear consistently (\"product, tech, and compliance\"). There are no em dashes, capitalization is correct (EU AI Act, ING, UX), the length is roughly 180–200 words, and there is no bold text. No violations observed.",
+              "score": 5
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "It opens with a clear thesis, grounds it with the ING example and concrete questions, then presents three principles with brief explanations. It closes by linking stakes (EU AI Act), impact (financial literacy), and a mission-oriented CTA, yielding smooth, logical flow.",
+              "score": 5
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "Claims are mostly direct and affirmative. There is one contrastive construction that introduces negation-style framing. No \"from X to Y\" constructions and no sentences opening with a vague \"This/That.\"",
+              "score": 4,
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "so that learning, not guessing, drives improvement."
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The post anchors its guidance in \"our work with ING on a financial health assistant,\" references the EU AI Act, and links to the specific collaboration story. While the three principles are somewhat general, they are applied to finance-relevant elements like guardrails, tone, uncertainty, and customer journeys.",
+              "score": 4
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "It mirrors the historical template: concise intro, partner mention (ING), a bulleted list with emoji markers, and a clear CTA with link and hashtags. The tone and structure closely align with the reference while introducing new content (product playbook principles).",
+              "score": 5
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "FS-Post": [
+    {
+      "topic_idx": 0,
+      "article_title": "AI lessons from the boardroom: Daan Debie on how NS brings AI from pilot to practice",
+      "post": "AI creates real value when it reaches the timetable, the platform, and the traveler.\n\nAt NS, Director of Data, Innovation and AI Daan Debie shared how their teams bring AI into daily operations. Think about predicting train crowdedness or estimating bike availability, so travelers make better choices in real time.\n\nWhat stands out is how NS treats AI as a shared practice, not a side project:\n\n🚆 Strong governance keeps AI aligned with safety, reliability, and public trust.\n👩‍🏫 Comprehensive training prepares staff to work with new tools, not around them.\n🧑‍🤝‍🧑 User involvement from day one ensures that solutions fit actual workflows.\n\nEuropean railways operate in a complex environment, and NS shows that organizations can still move fast when they design AI with governance and people in mind.\n\nAt KickstartAI, we love examples that turn AI into better journeys, smoother operations, and safer systems for everyone in the Netherlands.\n\nCurious to learn more about NS’s approach and lessons learned? You can read the full story here:\nhttps://kickstart.ai/news/daan-debie-ns-how-ns-brings-ai-from-pilot-to-practice\n\n#AI #Rail #Netherlands #DigitalTransformation #KickstartAI",
+      "evaluations": {
+        "Sonnet": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is generally warm, purpose-driven, and community-centric, which aligns well with KickstartAI's voice. Phrases like 'we love examples that turn AI into better journeys' feel human and upbeat. A few bullet-point labels read slightly corporate ('Comprehensive training prepares staff'), but overall the tone is on-brand and approachable.",
+              "score": 4
+            },
+            {
+              "name": "language_and_style",
+              "justification": "Several violations are present. (1) 'not a side project' uses a negated construction inside the language itself, though the primary style concern is the em-dash-like colon usage — not an em dash per se, so acceptable. (2) 'Think about predicting train crowdedness' is an informal fragment that borders on unclear phrasing. (3) The post is approximately 150 words, which sits at the lower boundary but is acceptable. (4) 'not a side project' in 'NS treats AI as a shared practice, not a side project' is a style concern flagged under discourse_structure but also reflects active-voice compliance overall. (5) No bold text is used — compliant. (6) No em dashes detected — compliant. (7) American English is used consistently. The post is mostly compliant but 'not a side project' and the sentence fragment 'Think about predicting...' are minor violations.",
+              "score": 4
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The post moves logically from an opening claim about AI value, to a specific example at NS, to structured bullet points, to a broader observation, and then to a KickstartAI reflection and call to action. The transition from the bullet points to 'European railways operate in a complex environment' is slightly abrupt, as the geographic framing appears without a clear bridge from the preceding NS-specific points.",
+              "score": 4
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "There are two clear violations. First, 'NS treats AI as a shared practice, not a side project' is a contrastive 'X, not Y' construction. Second, 'prepares staff to work with new tools, not around them' is another 'X, not Y' contrastive framing. No 'from X to Y' constructions or vague 'This/That' openings are present.",
+              "score": 3,
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "NS treats AI as a shared practice, not a side project"
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "prepares staff to work with new tools, not around them"
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The post names Daan Debie by name and title, references NS specifically, and cites concrete AI applications such as predicting train crowdedness and estimating bike availability. The closing KickstartAI paragraph is somewhat generic ('we love examples that turn AI into better journeys'), but the bulk of the post is grounded in named people and specific use cases.",
+              "score": 4
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "The post shares structural similarities with the reference post: it highlights a named individual from a partner organization, uses emoji bullet points to list key takeaways, ends with a KickstartAI reflective statement and a call-to-action link, and applies relevant hashtags. However, the reference post opens with a pride statement about external press coverage, while this post opens with a thematic claim, making the entry point structurally different. The overall template match is solid but not identical.",
+              "score": 4
+            }
+          ]
+        },
+        "GPT-5": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is knowledgeable yet humble, highlighting NS’s work rather than self-promoting, and uses an approachable, human tone: \"At KickstartAI, we love examples...\" It is purpose-driven and community-centric by focusing on safety, reliability, and better journeys for everyone in the Netherlands. The upbeat, clear framing avoids hype while staying positive.",
+              "score": 5
+            },
+            {
+              "name": "language_and_style",
+              "justification": "The copy uses American English (\"travelers\"), active voice, short sentences and paragraphs, and the Oxford comma (\"the timetable, the platform, and the traveler\"; \"safety, reliability, and public trust\"). There are no em dashes, no bold text, and capitalization is consistent (\"Director of Data, Innovation and AI\"). The length is roughly 160–170 words, within the 150–250 range.",
+              "score": 5
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "Ideas flow logically: a clear thesis, a concrete NS example, three focused practices in bullets, a broader takeaway about European railways, then a KickstartAI perspective and a clear CTA. Transitions are smooth and there are no abrupt jumps.",
+              "score": 5
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "There are a couple of contrastive constructions that frame claims via negation rather than direct affirmation. Otherwise, statements are clear and direct.",
+              "score": 3,
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "What stands out is how NS treats AI as a shared practice, not a side project:"
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "Comprehensive training prepares staff to work with new tools, not around them."
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The post names NS and Director Daan Debie, and cites concrete use cases like predicting train crowdedness and estimating bike availability. It grounds practices in the rail context and ties outcomes to Dutch travelers and operations.",
+              "score": 5
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "It mirrors the historical template: opens with a clear hook, highlights a partner’s insights, presents a short principles list (with emojis), expresses KickstartAI’s community-oriented perspective, and ends with a must-read style CTA and link. Tone and structure align closely without reusing prior content.",
+              "score": 5
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_idx": 1,
+      "article_title": "Agentic Engineering II: Best practices to avoid slop and actually improve productivity with coding agents",
+      "post": "Many teams want the speed of coding agents and the reliability of a senior engineer. With the right engineering approach, they can get closer to both. 🚀\n\nIn our new article, we look at coding agents as part of a broader agentic engineering pattern: systems that choose tools, act, and adapt based on outcomes. The key is not magic prompts, but solid engineering discipline.\n\nWe highlight practices that matter for responsible adoption in the Dutch ecosystem:\n\n✅ Gradual context expansion\nTeams define a small, testable task, let the agent work, then add more context only when needed.\n\n✅ Clear quality gates\nTests, linters, and code review form a safety net around agent-generated code.\n\n✅ Alignment with regulation\nStrong controls and traceability make it easier to comply with the EU AI Act and sector rules.\n\nAt KickstartAI, we believe that structured, test-driven use of coding agents can raise the quality bar, not lower it. When organizations treat agents as governed collaborators, AI becomes a lever for sustainable innovation in Dutch industry, government, and society.\n\nRead the full article for concrete patterns you can try in your next sprint. 💬\n\n#ResponsibleAI #AIAgents #EUAIAct #KickstartAI #Netherlands",
+      "evaluations": {
+        "Sonnet": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is broadly purposeful and community-oriented, and phrases like 'responsible adoption in the Dutch ecosystem' align with KickstartAI's mission. However, the opening line 'Many teams want the speed of coding agents and the reliability of a senior engineer' reads slightly corporate and generic, and the closing rocket emoji paired with 'sustainable innovation in Dutch industry, government, and society' tips into mild hype. The voice is on-brand in places but inconsistent.",
+              "score": 3
+            },
+            {
+              "name": "language_and_style",
+              "justification": "Multiple violations are present. (1) Bold text is used throughout the bullet headers ('Gradual context expansion', 'Clear quality gates', 'Alignment with regulation'), which is explicitly prohibited. (2) 'The key is not magic prompts, but solid engineering discipline' contains an em-dash-free contrastive construction but also reads as a negated claim — acceptable stylistically, though borderline. (3) The post is approximately 210 words, within the 150–250 range. (4) No em dashes detected. (5) American English appears consistent. The primary clear violation is the repeated use of bold text.",
+              "score": 2
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The post moves logically from problem statement to engineering approach to specific practices to a broader vision and a call to action. Transitions between sections are smooth enough, and the bullet structure aids readability. The shift from bullet-listed practices to the final paragraph about 'Dutch industry, government, and society' feels slightly abrupt but does not break the overall flow.",
+              "score": 4
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "Several violations are present across multiple patterns. 'The key is not magic prompts, but solid engineering discipline' is a clear contrastive construction. 'can raise the quality bar, not lower it' is another contrastive construction. 'AI becomes a lever for sustainable innovation in Dutch industry, government, and society' follows a from-to-style enumeration implying progression. 'When organizations treat agents as governed collaborators, AI becomes a lever...' opens with a conditional that obscures the direct claim, though it is not a vague 'This/That' opener.",
+              "score": 2,
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "The key is not magic prompts, but solid engineering discipline."
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "can raise the quality bar, not lower it"
+                },
+                {
+                  "type": "from_to",
+                  "quote": "sustainable innovation in Dutch industry, government, and society"
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The post mentions KickstartAI, the Dutch ecosystem, and the EU AI Act, which adds some grounding. However, no named engineer, specific project, organization, or concrete use case is cited. The three bullet practices (gradual context expansion, quality gates, regulation alignment) are described at a generic level applicable to any organization adopting coding agents, not specific to KickstartAI's own work or a named context.",
+              "score": 2
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "The historical reference post opens with an engaging question, names a specific person and project, uses bullet points to tease content in an article, and closes with a direct link and concise hashtags. The evaluated post lacks a named person or specific project, opens with a generic assertion rather than a hook question, and its bullet points describe practices rather than teasing article sections. The structure and feel diverge noticeably from the reference template.",
+              "score": 2
+            }
+          ]
+        },
+        "GPT-5": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post sounds knowledgeable and purpose-driven, with community focus: \"practices that matter for responsible adoption in the Dutch ecosystem\" and a humble stance: \"At KickstartAI, we believe that...\" It stays approachable and upbeat with emojis. One line edges toward a lecturing tone: \"The key is not magic prompts, but solid engineering discipline.\"",
+              "score": 4
+            },
+            {
+              "name": "language_and_style",
+              "justification": "The post uses American English conventions, active voice, short sentences and paragraphs, and includes the Oxford comma (\"choose tools, act, and adapt\"; \"Tests, linters, and code review\"). It avoids em dashes and bold text, maintains correct capitalization (\"EU AI Act\"), and is within the 150–250 word range (~190 words). No violations found.",
+              "score": 5
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The piece flows logically: it opens with a clear need, frames coding agents within a broader pattern, presents three specific practices in a structured list, then concludes with KickstartAI’s viewpoint and a call to action. Transitions like \"We highlight practices...\" and \"At KickstartAI, we believe...\" connect sections smoothly.",
+              "score": 5
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "There are a couple of contrastive, negated-style constructions that could be rewritten as direct affirmative claims.",
+              "score": 3,
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "The key is not magic prompts, but solid engineering discipline."
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "can raise the quality bar, not lower it."
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "Content is concrete and context-specific: it references the Dutch ecosystem, the EU AI Act, and clear engineering practices (\"Gradual context expansion,\" \"Tests, linters, and code review,\" \"traceability\"). It ties these to KickstartAI’s viewpoint and use of coding agents, avoiding generic platitudes.",
+              "score": 5
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "The structure mirrors historical posts: a crisp hook, a short explanatory paragraph, a bulleted list with emoji markers, and a call to read the full piece with hashtags. Differences include no named individual and no explicit link in-line, and it opens with a statement rather than a question.",
+              "score": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_idx": 2,
+      "article_title": "Agentic Engineering I: A non-technical guide to working with coding agents",
+      "post": "Coding agents do more than speed up development. They reshape what it means to be a developer. 🧩\n\nIn our latest article, we look at how agentic AI changes day-to-day work in software teams.\n\nDevelopers increasingly:\n\n🔍 Review and curate: Engineers evaluate agent proposals, spot edge cases, and guard architecture.\n🧪 Design feedback loops: Teams set up tests, metrics, and monitoring so agents learn from results.\n🧭 Steer scope: Developers and product owners decide which tasks are safe for agents and which require human creativity.\n\nWhen organizations embrace this shift, they unlock real value:\n\n✅ Senior engineers spend more time on system design and less on repetitive tasks.\n✅ Junior talent learns faster by comparing their ideas with agent suggestions.\n✅ Teams deliver features more quickly while keeping a human in charge of decisions.\n\nAt KickstartAI, we believe coding agents can strengthen the Dutch tech ecosystem when people stay at the center and AI amplifies their expertise.\n\nReady to reframe the role of your development team in an agentic world? Read the full guide to working with coding agents. 👇\n\nhttps://kickstart.ai/news/agentic-engineering-non-technical-guide-working-with-coding-agents\n\n#Developers #AIFutureOfWork #AIAgents #KickstartAI",
+      "evaluations": {
+        "Sonnet": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is broadly on-brand — it is purpose-driven, community-centric, and ends with a clear call to action grounded in KickstartAI's mission. However, the opening ('They reshape what it means to be a developer') leans slightly toward hype language, and the bullet-heavy middle section feels more like a corporate listicle than a recognizably human, conversational KickstartAI voice.",
+              "score": 3
+            },
+            {
+              "name": "language_and_style",
+              "justification": "Several violations are present: (1) Bold text is used throughout ('Review and curate', 'Design feedback loops', 'Steer scope', 'Senior engineers spend more time...', etc.), which is explicitly prohibited. (2) 'less on repetitive tasks' in 'spend more time on system design and less on repetitive tasks' uses a comparative construction that borders on negated framing, though not a hard rule violation. (3) The post is approximately 190 words, which is within the 150–250 range. (4) No em dashes detected. (5) American English appears consistent. The bold text alone is a clear and repeated violation.",
+              "score": 2
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The post follows a logical arc: framing the shift, describing new developer roles, articulating organizational value, and closing with a CTA. Transitions between the bullet sections and the surrounding prose are functional but slightly abrupt — the jump from 'Developers increasingly:' into bullet points and then into 'When organizations embrace this shift' feels mechanical rather than fluid.",
+              "score": 3
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "Two contrastive constructions are present: 'Senior engineers spend more time on system design and less on repetitive tasks' is an 'X and less Y' negated-style contrast, and 'which tasks are safe for agents and which require human creativity' is an 'X and which Y' contrastive framing. No clear from-to or vague this-that constructions are found.",
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "Senior engineers spend more time on system design and less on repetitive tasks."
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "Developers and product owners decide which tasks are safe for agents and which require human creativity."
+                }
+              ],
+              "score": 3
+            },
+            {
+              "name": "specificity",
+              "justification": "The post lacks named individuals, specific companies, or concrete KickstartAI projects, making most claims applicable to any organization writing about agentic AI. Unlike the reference post, which names 'Cascha van Wanrooij' and describes a specific experiment, this post stays at a generic level (e.g., 'software teams,' 'junior talent,' 'Dutch tech ecosystem') without grounding the claims in real examples.",
+              "score": 2
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "The reference post opens with a concrete question, names a specific KickstartAI team member, and uses a tightly scoped bullet list to preview specific blog content, followed by a single read-more link. This post instead leads with a broad claim, uses three separate bullet clusters with emoji checkmarks and tool emojis, and never references a named person or specific experiment — diverging noticeably from the reference template's structure and intimacy.",
+              "score": 2
+            }
+          ]
+        },
+        "GPT-5": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is knowledgeable and approachable, focusing on concrete team practices like \"evaluate agent proposals\" and \"set up tests, metrics, and monitoring.\" It is purpose-driven and community-centric with \"strengthen the Dutch tech ecosystem\" and keeps humans central: \"keeping a human in charge of decisions.\" One slightly grandiose line, \"They reshape what it means to be a developer,\" edges toward hype but is balanced by the human-centered framing.",
+              "score": 4
+            },
+            {
+              "name": "language_and_style",
+              "justification": "It uses American English (\"center\"), active voice, short sentences and paragraphs, and clear bullets. The Oxford comma appears (\"tests, metrics, and monitoring\"). There are no em dashes or bold text. Capitalization and number conventions are correct. Length is within the 150–250 word range (approximately 180–200 words before the link and hashtags). No violations detected.",
+              "score": 5
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The post opens with a clear thesis, then explains what the article covers, moves into concrete role changes for developers, follows with organizational benefits, and closes with a mission-aligned statement and a clear CTA. Transitions like \"When organizations embrace this shift, they unlock real value\" maintain logical flow.",
+              "score": 5
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "Claims are stated directly with clear subjects (e.g., \"Developers increasingly...\", \"Teams deliver features more quickly...\"). There are no contrastive \"X, not Y\" or \"not only... but also\" constructions, no \"from X to Y\" frames, and no sentences starting with a vague \"This\" or \"That.\"",
+              "score": 5,
+              "violations": []
+            },
+            {
+              "name": "specificity",
+              "justification": "The content is concrete about developer tasks (\"evaluate agent proposals,\" \"spot edge cases,\" \"set up tests, metrics, and monitoring\") and ties to KickstartAI’s mission and geography (\"strengthen the Dutch tech ecosystem\"). It links to a specific KickstartAI guide. However, it lacks named people, projects, or a specific use case from the Dutch ecosystem.",
+              "score": 4
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "Like the reference post, it previews a KickstartAI article, uses concise bullets with emojis, and ends with a direct link and hashtags. It differs by not naming a specific team member and by adding a benefits section, but the tone and structure remain closely aligned.",
+              "score": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_idx": 3,
+      "article_title": "KLM CIO Aart Slagt on why an AI model only has value if users understand and trust it",
+      "post": "KLM is entering a new phase with AI ✈️\n\nCIO Aart Slagt describes a clear shift: move from many experiments to AI that lives in daily operations. That shift only works when people understand and trust the models they use.\n\nAt KLM, AI now supports planning, optimization, and catering predictions, and it reduces unnecessary fuel use. The value shows up in better service, less waste, and smoother operations.\n\nThe key ingredient is not only model performance. The key ingredient is user adoption.\n\n✅ Teams explain how each model works in plain language.\n✅ Users see the impact in their own workflow.\n✅ KLM provides “Talia,” a secure environment for using AI tools safely.\n\nKLM’s story reflects a broader movement in the Netherlands and across Europe: organizations want responsible, production-grade AI that supports people instead of replacing them.\n\nAt KickstartAI, we see the same pattern across our challenges. Successful AI adoption grows where:\n\n• Employees trust the system.\n• Governance is built in from day one.\n• Benefits are concrete and measurable.\n\nWe are excited to see Dutch leaders like KLM show how to scale AI with both ambition and care.\n\n🤝 Let’s keep building an AI-powered ecosystem where users understand, question, and embrace the models they work with.\n\n#AIadoption #aviation #datainnovation #ResponsibleAI #KickstartAI",
+      "evaluations": {
+        "Sonnet": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is largely on-brand — purposeful, community-centric, and human — with phrases like 'Let's keep building an AI-powered ecosystem' and 'Successful AI adoption grows where…' fitting KickstartAI's approachable, upbeat voice. However, the checklist section (three ✅ bullets) feels slightly listicle-corporate rather than conversational, and 'We are excited to see Dutch leaders like KLM show how to scale AI with both ambition and care' is a touch generic and mildly promotional. Overall the voice is broadly on-brand but inconsistent in places.",
+              "score": 3
+            },
+            {
+              "name": "language_and_style",
+              "justification": "Violations found: (1) Em dash used in 'planning, optimization, and catering predictions, and it reduces unnecessary fuel use' — no em dash there, but the phrase 'move from many experiments to AI that lives' contains a [from-to] structure (also flagged under discourse_structure). (2) 'not only model performance' — 'not only' is a negated/contrastive construction (also flagged under discourse_structure). (3) The post uses bold-equivalent emphasis via ✅ symbols as a stylistic substitute, which skirts the no-bold rule but is not a direct violation. (4) Word count is approximately 230 words, within the 150–250 range. (5) No em dashes detected. (6) Quotation marks around 'Talia' are correct double quotes. (7) Oxford comma appears to be used ('planning, optimization, and catering predictions'). Style is mostly compliant but the 'not only' construction and the [from-to] phrasing are clear violations.",
+              "score": 3
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The post moves logically from KLM's strategic shift, to specific AI applications, to the key success factor (user adoption), to KickstartAI's broader pattern, and ends with a call to action. Transitions between sections are generally smooth, though the jump from the three ✅ bullets directly to 'KLM's story reflects a broader movement' feels slightly abrupt without a bridging sentence.",
+              "score": 4
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "Three violations identified across two pattern types. 'move from many experiments to AI that lives in daily operations' is a from-to construction. 'The key ingredient is not only model performance' is a contrastive/negated construction. 'That shift only works when people understand and trust the models they use' opens with a vague 'That' whose referent (the described strategic shift) is clear enough in context but still follows the flagged pattern.",
+              "violations": [
+                {
+                  "type": "from_to",
+                  "quote": "move from many experiments to AI that lives in daily operations"
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "The key ingredient is not only model performance."
+                },
+                {
+                  "type": "vague_reference",
+                  "quote": "That shift only works when people understand and trust the models they use."
+                }
+              ],
+              "score": 2
+            },
+            {
+              "name": "specificity",
+              "justification": "The post is grounded in named specifics: CIO Aart Slagt, KLM's use cases (catering predictions, fuel optimization), and the named tool 'Talia.' The KickstartAI section, however, reverts to generic principles ('Employees trust the system,' 'Governance is built in from day one') that could apply to any organization, diluting the overall specificity.",
+              "score": 3
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "The post shares structural DNA with the reference: it opens with a named organization and a concrete observation, builds to a broader insight about AI adoption, and closes with a KickstartAI perspective and a forward-looking call to action. However, the heavy use of bullet and checklist formatting (✅ bullets plus three dot-point principles) diverges from the reference's more flowing prose style, and the post lacks the punchy single-line paragraph rhythm that characterizes the reference.",
+              "score": 3
+            }
+          ]
+        },
+        "GPT-5": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post is knowledgeable and human, citing KLM’s CIO and concrete practices, and keeps an approachable, community-centric tone: “We are excited to see Dutch leaders like KLM…” and “Let’s keep building an AI-powered ecosystem…”. It is purpose-driven and humble, focusing on user adoption and responsible AI rather than hype.",
+              "score": 5
+            },
+            {
+              "name": "language_and_style",
+              "justification": "The post follows American English (“optimization”), uses active voice (“Teams explain…”, “Users see…”), short sentences and paragraphs, and the Oxford comma (“planning, optimization, and catering predictions”). It uses double quotation marks around “Talia,” and includes no em dashes or bold text. The length is ~213 words, within the 150–250 range. No violations found.",
+              "score": 5
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The ideas progress logically: a shift at KLM, concrete AI uses and outcomes, the emphasis on adoption, a checklist of enablers, then the broader movement and KickstartAI’s perspective, ending with a call to action. Transitions like “At KLM…,” “The key ingredient…,” and “At KickstartAI…” make the flow easy to follow.",
+              "score": 5
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "There are a few contrastive and from-to constructions that could be made more direct. Otherwise, claims are clear and affirmative.",
+              "score": 3,
+              "violations": [
+                {
+                  "type": "from_to",
+                  "quote": "move from many experiments to AI that lives in daily operations."
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "The key ingredient is not only model performance."
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "organizations want responsible, production-grade AI that supports people instead of replacing them."
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "It names KLM and CIO Aart Slagt, specifies domains (“planning, optimization, and catering predictions,” “reduces unnecessary fuel use”), and references a concrete tool (“Talia,” a secure environment). The benefits are explicit (“better service, less waste, and smoother operations”), and the KickstartAI tie-in is grounded (“we see the same pattern across our challenges”).",
+              "score": 5
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "It mirrors the historical template: timely context and problem framing, concrete examples, a concise list of results/enablers, a broadened lens to the Dutch/European ecosystem, KickstartAI’s perspective, and an upbeat call to action with emojis and hashtags. The tone and structure align closely without reusing details.",
+              "score": 5
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_idx": 4,
+      "article_title": "Why managing GenAI projects requires a playbook tweak",
+      "post": "GenAI in finance only creates lasting value when responsibility is built into the product, not bolted on at the end. 🛟\n\nIn our collaboration with ING on a financial health assistant, KickstartAI focused on practical ways to align innovation with the spirit of the EU AI Act and the Dutch financial context.\n\nThree principles guided the work:\n\n🔹 Clarity on financial advice boundaries\nThe assistant becomes safer when teams define which topics it can cover, how it phrases information, and where it must defer to regulated channels or human experts.\n\n🔹 Traceability in design and evaluation\nTrust grows when product choices, model behavior, and evaluation results remain transparent to both internal stakeholders and regulators.\n\n🔹 Human oversight as a feature\nCustomers benefit when financial professionals can review, adjust, and improve AI‑generated interactions instead of operating in a black box.\n\nThese principles help organizations reach AI solutions that are both useful for customers and aligned with emerging regulations in Europe.\n\nKickstartAI is committed to helping Dutch organizations turn responsible AI guidelines into working products that support financial well‑being at scale. 🤝\n\n#ResponsibleAI #EUAIAct #FinTech #GenAI #KickstartAI",
+      "evaluations": {
+        "Sonnet": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post opens with a confident, purpose-driven claim and maintains a broadly on-brand voice throughout, but the bullet-point lecture format ('Three principles guided the work') feels more like a corporate white-paper summary than the warm, community-centric, approachable tone KickstartAI embodies. Phrases like 'Trust grows when product choices, model behavior, and evaluation results remain transparent' read as somewhat instructional and flat rather than genuinely human and upbeat.",
+              "score": 3
+            },
+            {
+              "name": "language_and_style",
+              "justification": "Violations found: (1) Bold text is used throughout the three principle headers ('Clarity on financial advice boundaries', 'Traceability in design and evaluation', 'Human oversight as a feature'), which is explicitly prohibited. (2) Em dash used in 'AI‑generated interactions' and 'financial well‑being' — while these appear to be non-breaking hyphens rather than em dashes, 'AI‑generated' uses a hyphen correctly, so no violation there. (3) The post is noticeably short at roughly 130 words of body text (excluding hashtags), falling below the 150-word minimum. (4) 'bolted on at the end' is idiomatic but acceptable. No Oxford comma violations detected; American English is consistent.",
+              "score": 2
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The post flows logically from a framing claim to a collaboration context, then to three structured principles, and closes with a commitment statement. The three-bullet structure aids readability, though the transition from the bullets back to the concluding paragraph ('These principles help organizations...') is slightly abrupt and generic, weakening the overall arc.",
+              "score": 4
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "Multiple violations are present across patterns. The opening sentence uses contrastive framing. 'These principles' in the closing paragraph uses a vague referent. See violations list.",
+              "score": 2,
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "responsibility is built into the product, not bolted on at the end"
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "both useful for customers and aligned with emerging regulations in Europe"
+                },
+                {
+                  "type": "vague_reference",
+                  "quote": "These principles help organizations reach AI solutions"
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The post names KickstartAI and ING and references the EU AI Act and Dutch financial context, which provides some grounding. However, the three principles are described in generic terms that could apply to any responsible-AI initiative anywhere — no specific product decisions, evaluation methods, named stakeholders, or concrete outcomes from the actual collaboration are cited, making the post feel largely abstract.",
+              "score": 2
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "The reference post uses an enthusiastic, announcement-driven structure with emojis integrated into the narrative flow, a collaborative 'we' voice, and named partner organizations. This post adopts a more editorial, listicle format with standalone bullet headers and a detached third-person framing ('KickstartAI focused on'), which differs structurally and tonally from the historical template. The closing solidarity line ('Together with our partners...') found in the reference is absent here.",
+              "score": 2
+            }
+          ]
+        },
+        "GPT-5": {
+          "dimensions": [
+            {
+              "name": "tone_of_voice",
+              "justification": "The post sounds knowledgeable and purpose-driven without hype, e.g., \"KickstartAI focused on practical ways to align innovation with the spirit of the EU AI Act and the Dutch financial context.\" It is community-centric and humble by referencing \"our collaboration with ING\" and a commitment to help Dutch organizations. The language is clear, approachable, and human, supported by light emoji use.",
+              "score": 5
+            },
+            {
+              "name": "language_and_style",
+              "justification": "The post follows American English (\"behavior\"), uses active voice (\"KickstartAI focused,\" \"Trust grows,\" \"Customers benefit\"), and keeps sentences and paragraphs short. It applies the Oxford comma (\"which topics it can cover, how it phrases information, and where...\"; \"product choices, model behavior, and evaluation results\"). There are no em dashes, no bold text, and capitalization is correct (\"EU AI Act,\" \"Dutch\"). Length is within 150–250 words (approximately 180–190). No violations found.",
+              "score": 5
+            },
+            {
+              "name": "coherence_readability",
+              "justification": "The ideas flow logically: a clear thesis about responsibility, then context about the ING collaboration, three well-structured principles with brief explanations, and a concluding statement on impact and commitment. Transitions are smooth and there are no abrupt jumps.",
+              "score": 5
+            },
+            {
+              "name": "discourse_structure",
+              "justification": "There are a couple of contrastive constructions that frame ideas via negation rather than direct affirmative claims.",
+              "score": 3,
+              "violations": [
+                {
+                  "type": "contrastive",
+                  "quote": "GenAI in finance only creates lasting value when responsibility is built into the product, not bolted on at the end."
+                },
+                {
+                  "type": "contrastive",
+                  "quote": "Customers benefit when financial professionals can review, adjust, and improve AI‑generated interactions instead of operating in a black box."
+                }
+              ]
+            },
+            {
+              "name": "specificity",
+              "justification": "The content is concrete: it names ING, references the EU AI Act and the Dutch financial context, and details three actionable principles (financial advice boundaries, traceability, and human oversight) tied to a \"financial health assistant.\"",
+              "score": 5
+            },
+            {
+              "name": "historical_similarity",
+              "justification": "The tone and structure align with historical posts: collaborative framing (ING partnership), societal benefit (financial well-being), clear sections with bullets, and a values-driven close with hashtags. It is slightly more principle-focused than the event-style historical example, with less narrative about participants, but still fits the series’ template.",
+              "score": 4
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
